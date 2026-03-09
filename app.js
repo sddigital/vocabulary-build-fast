@@ -54,10 +54,6 @@ const progressBar = document.getElementById("progressBar");
 const backBtn = document.getElementById("backBtn");
 
 /* ===============================
-   FETCH WITH CACHE
-================================ */
-
-/* ===============================
    LANDING PAGE
 ================================ */
 
@@ -220,7 +216,7 @@ function loadQuestion() {
   feedbackBox.innerHTML = "";
 
   progressBar.style.width =
-    (currentIndex / TOTAL_QUESTIONS) * 100 + "%";
+    (currentIndex / vocabularyData.length) * 100 + "%";
 
   renderHints(word);
 
@@ -262,6 +258,7 @@ function renderHints(word) {
 
     span.addEventListener("click", () => {
       answerInput.value = option;
+      answerInput.focus();
     });
 
     hintsBox.appendChild(span);
