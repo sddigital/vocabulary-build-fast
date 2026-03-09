@@ -1,0 +1,428 @@
+
+
+/* ===============================
+   GLOBAL RESET
+================================ */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: linear-gradient(160deg, #e8f0fe 0%, #f0f9ff 50%, #f8faff 100%);
+  color: #1f2937;
+  min-height: 100vh;
+}
+
+.appContainer {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px 16px 40px;
+}
+
+/* ===============================
+   LANDING PAGE
+================================ */
+
+#landingPage {
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 60%, #0ea5e9 100%);
+  border-radius: 24px;
+  padding: 52px 28px 44px;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+  box-shadow: 0 20px 50px rgba(37, 99, 235, 0.35);
+}
+
+.landing-logo {
+  font-size: 56px;
+  margin-bottom: 14px;
+  display: block;
+}
+
+.landing-title {
+  font-size: 32px;
+  font-weight: 800;
+  margin: 0 0 12px;
+  color: white;
+  letter-spacing: -0.5px;
+}
+
+.landing-tagline {
+  font-size: 15px;
+  opacity: 0.85;
+  margin: 0 auto 32px;
+  line-height: 1.7;
+  max-width: 380px;
+}
+
+.landing-features {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 36px;
+}
+
+.feature-item {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 30px;
+  padding: 8px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+#startBtn {
+  background: white;
+  color: #1e3a8a;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 15px 44px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.18);
+}
+
+#startBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.22);
+  background: #f0f7ff;
+}
+
+#startBtn:active {
+  transform: scale(0.97);
+}
+
+/* ===============================
+   CARD STYLE
+================================ */
+
+#controlPanel,
+#practiceSection {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 22px 20px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.07);
+  margin-bottom: 20px;
+}
+
+/* ===============================
+   CONTROLS
+================================ */
+
+.controlsRow {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 4px;
+}
+
+.controlItem label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #374151;
+}
+
+select {
+  width: 100%;
+  padding: 11px 14px;
+  border-radius: 10px;
+  border: 1.5px solid #e5e7eb;
+  font-size: 14px;
+  color: #1f2937;
+  background: #f9fafb;
+  margin-top: 4px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+select:focus {
+  border-color: #2563eb;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #f0f0f0;
+  margin: 16px 0;
+}
+
+/* ===============================
+   MODE BUTTONS
+================================ */
+
+.modeRow {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 4px 0;
+}
+
+/* ===============================
+   CATEGORY BUTTONS
+================================ */
+
+#categories {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.categoryBtn {
+  padding: 13px 10px;
+  border-radius: 12px;
+  border: 1.5px solid #dbeafe;
+  background: #f8faff;
+  font-size: 13px;
+  font-weight: 500;
+  color: #1e40af;
+  cursor: pointer;
+  transition: all 0.18s ease;
+  text-align: center;
+}
+
+.categoryBtn:hover {
+  background: #dbeafe;
+  border-color: #93c5fd;
+  color: #1e3a8a;
+}
+
+.categoryBtn:active {
+  background: #bfdbfe;
+  transform: scale(0.97);
+}
+
+.categoryBtn.selected {
+  background: #2563eb;
+  color: #ffffff;
+  border-color: #2563eb;
+}
+
+/* ===============================
+   BUTTONS (general)
+================================ */
+
+button {
+  padding: 13px 16px;
+  border-radius: 12px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+#backBtn {
+  background: #6b7280;
+}
+
+#backBtn:hover {
+  background: #4b5563;
+}
+
+/* ===============================
+   TOP BAR
+================================ */
+
+.topBar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+#modeTitle {
+  font-weight: 700;
+  font-size: 16px;
+  color: #111827;
+  letter-spacing: 0.3px;
+}
+
+.statsBar {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.statsBar span {
+  background: #f1f5f9;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #374151;
+}
+
+/* ===============================
+   PROGRESS BAR
+================================ */
+
+.progressContainer {
+  height: 7px;
+  background: #e5e7eb;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+#progressBar {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #2563eb, #06b6d4);
+  border-radius: 10px;
+  transition: width 0.4s ease;
+}
+
+/* ===============================
+   QUESTION CARD
+================================ */
+
+.questionCard {
+  background: #f8faff;
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid #e8f0fe;
+}
+
+#sentence {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 18px;
+  line-height: 1.65;
+  color: #111827;
+}
+
+/* ===============================
+   HINT OPTIONS
+================================ */
+
+#hints {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+#hints span {
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: #e0f2fe;
+  border: 1px solid #bae6fd;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  color: #0c4a6e;
+}
+
+#hints span:hover {
+  background: #bae6fd;
+  border-color: #7dd3fc;
+}
+
+/* ===============================
+   INPUT
+================================ */
+
+#answerInput {
+  width: 100%;
+  padding: 14px;
+  border-radius: 12px;
+  border: 1.5px solid #d1d5db;
+  font-size: 16px;
+  margin-bottom: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+  background: white;
+}
+
+#answerInput:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+/* ===============================
+   FEEDBACK
+================================ */
+
+#feedback {
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: 12px;
+  background: #f3f4f6;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #374151;
+}
+
+#feedback button {
+  margin-top: 16px;
+}
+
+/* ===============================
+   BOTTOM BUTTONS
+================================ */
+
+.bottomButtons {
+  margin-top: 16px;
+}
+
+/* ===============================
+   RESPONSIVE (tablet+)
+================================ */
+
+@media (min-width: 600px) {
+
+  .controlsRow {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .modeRow {
+    flex-direction: row;
+  }
+
+  #categories {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .topBar {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #hints {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  #hints span {
+    flex: 1 1 45%;
+  }
+
+  .landing-title {
+    font-size: 38px;
+  }
+
+}
