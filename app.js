@@ -274,12 +274,10 @@ function renderHints(word) {
 
 submitBtn.addEventListener("click", () => checkAnswer(false));
 
-document.addEventListener("keydown", function (e) {
-  if (e.key === "Enter") {
-    if (practiceSection.style.display === "block" && !submitBtn.disabled) {
-      e.preventDefault();
-      submitBtn.click();
-    }
+answerInput.addEventListener("keydown", function (e) {
+  if (e.key === "Enter" && !submitBtn.disabled) {
+    e.preventDefault();
+    submitBtn.click();
   }
 });
 
