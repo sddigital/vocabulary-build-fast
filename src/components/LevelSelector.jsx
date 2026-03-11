@@ -87,8 +87,8 @@ const slideVariants = {
 
 // ─── Component ───────────────────────────────────────────────────────────────
 
-export default function LevelSelector({ progress, onSelect, onResetLevel }) {
-  const [activeIdx, setActiveIdx] = useState(0)
+export default function LevelSelector({ progress, initialLevel = 'beginners', onSelect, onResetLevel }) {
+  const [activeIdx, setActiveIdx] = useState(() => Math.max(LEVELS.findIndex(l => l.id === initialLevel), 0))
   const [direction, setDirection] = useState(0)
 
   function goTo(idx) {

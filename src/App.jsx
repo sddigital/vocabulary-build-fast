@@ -62,6 +62,7 @@ export default function App() {
         {view === 'levels' && (
           <LevelSelector
             progress={progress}
+            initialLevel={selectedLevel}
             onSelect={handleLevelSelect}
             onResetLevel={resetLevel}
           />
