@@ -1,8 +1,6 @@
-import { useState, useEffect, useRef, useMemo } from 'react'
+import { useState, useRef, useMemo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import beginners from '../data/beginners.json'
-import intermediate from '../data/intermediate.json'
-import advanced from '../data/advanced.json'
+import { useVocabPage } from '../hooks/useVocabPage'
 
 // ─────────────────────────────────────────────────────────────
 // Spaced Repetition — SM-2
@@ -61,11 +59,6 @@ function tts(text, lang = 'en-IN') {
   u.lang = lang; u.rate = 0.85
   window.speechSynthesis.speak(u)
 }
-
-// ─────────────────────────────────────────────────────────────
-// Data
-// ─────────────────────────────────────────────────────────────
-const DATA = { beginners, intermediate, advanced }
 
 export const FORMAT_META = {
   word_hindi:       { label: 'Word ↔ Hindi',      icon: '🔁', level: 'beginners',    color: 'blue',   batch: true },
@@ -643,13 +636,18 @@ const SESSION_SIZE = 10  // words per session
 export default function QuizEngine({ config, onBack, onSessionEnd }) {
   const { level, format, examFilter } = config
   const meta = FORMAT_META[format]
-  const allWords = DATA[level]?.words ?? []
-  const filteredWords = examFilter
-    ? allWords.filter(w => w.exam_category === examFilter)
-    : allWords
-  const wordPool = filteredWords.length >= 5 ? filteredWords : allWords
 
-  const sessionWords = useMemo(() => sortBySR(wordPool, level).slice(0, SESSION_SIZE), [level, examFilter]) // eslint-disable-line
+  // Fetch only the words for this level (+ optional exam filter). Max 100 in state.
+  const { words: allWords, loading, error } = useVocabPage(level, {
+    examFilter: examFilter ?? null,
+  })
+
+  const wordPool = allWords.length >= 5 ? allWords : allWords
+
+  const sessionWords = useMemo(
+    () => sortBySR(wordPool, level).slice(0, SESSION_SIZE),
+    [wordPool, level],   // re-run only when the fetched pool changes
+  )
 
   const isBatch = BATCH_FORMATS.has(format)
   const totalSteps = isBatch ? Math.ceil(sessionWords.length / 5) : sessionWords.length
@@ -699,6 +697,25 @@ export default function QuizEngine({ config, onBack, onSessionEnd }) {
     } else {
       setStep(next)
     }
+  }
+
+  if (loading) {
+    return (
+      <div className="bg-white rounded-2xl shadow p-10 text-center text-gray-500">
+        Loading vocabulary…
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="bg-white rounded-2xl shadow p-10 text-center text-red-500">
+        {error}
+        <button onClick={onBack} className="mt-4 block mx-auto bg-blue-600 text-white px-6 py-2 rounded-xl">
+          Back
+        </button>
+      </div>
+    )
   }
 
   if (done) {

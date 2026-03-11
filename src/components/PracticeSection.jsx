@@ -1,37 +1,39 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useSpeech } from '../hooks/useSpeech'
+import { useVocabPage } from '../hooks/useVocabPage'
 import SpeakButton from './SpeakButton'
 import WordPanel from './WordPanel'
-import beginners from '../data/beginners.json'
-import intermediate from '../data/intermediate.json'
-import advanced from '../data/advanced.json'
 
 const TOTAL_QUESTIONS = 10
 const QUESTION_TIME = 15
 const MASTERY_REQUIRED = 8
 
-// Maps the difficulty filter value used in ControlPanel → speech level
-const SPEECH_LEVEL = {
-  easy: 'beginners',
+// ControlPanel sends level as 'easy'|'medium'|'hard'|'mixed'
+// Maps to the public/data/ folder names used by the hook
+const LEVEL_FOLDER = {
+  easy:   'beginners',
   medium: 'intermediate',
-  hard: 'advanced',
-  mixed: 'intermediate',
+  hard:   'advanced',
+  mixed:  'intermediate',   // mixed uses intermediate pool; filter is skipped
+}
+
+// Maps the difficulty filter value → speech level name
+const SPEECH_LEVEL = {
+  easy:   'beginners',
+  medium: 'intermediate',
+  hard:   'advanced',
+  mixed:  'intermediate',
 }
 
 function shuffleArray(arr) {
   return [...arr].sort(() => Math.random() - 0.5)
 }
 
-// Pass 1: normalise all fields
-const ALL_WORDS_RAW = [
-  ...beginners.words,
-  ...intermediate.words,
-  ...advanced.words,
-].map(w => {
+/** Normalise a raw word object into the shape PracticeSection needs */
+function normalise(w, pool) {
   const wx = /** @type {any} */ (w)
   const correctWord = wx.correct_word ?? wx.word ?? ''
-  // Use a pre-made blank sentence if available; otherwise punch a blank into example_sentence
   let sentence = wx.sentence ?? wx.fill_blank
   if (!sentence && wx.example_sentence && correctWord) {
     sentence = wx.example_sentence.replace(
@@ -39,23 +41,22 @@ const ALL_WORDS_RAW = [
       '______'
     )
   }
-  return {
+  const base = {
     ...w,
     sentence:     sentence ?? '',
     correct_word: correctWord,
     hint_words:   wx.hint_words ?? '',
     meaning_hi:   wx.meaning_hi ?? wx.hindi ?? '',
   }
-})
-
-// Pass 2: for words without hint_words (e.g. beginners), auto-generate
-// 3 distractors from the same difficulty level so MCQ always has 4 options.
-const ALL_WORDS = ALL_WORDS_RAW.map((w, _, arr) => {
-  if (w.hint_words) return w
-  const pool = arr.filter(x => x.difficulty === w.difficulty && x.correct_word !== w.correct_word)
-  const distractors = shuffleArray(pool).slice(0, 3).map(x => x.correct_word)
-  return { ...w, hint_words: distractors.join(', ') }
-})
+  // Auto-generate distractors for words without hint_words (e.g. beginners)
+  if (!base.hint_words && pool.length > 3) {
+    const distractors = shuffleArray(
+      pool.filter(x => x.correct_word !== correctWord)
+    ).slice(0, 3).map(x => x.correct_word)
+    base.hint_words = distractors.join(', ')
+  }
+  return base
+}
 
 // Bump this version whenever the word normalisation format changes,
 // so old localStorage caches are automatically discarded.
@@ -69,6 +70,18 @@ function getTodayKey(level) {
 export default function PracticeSection({ config, onBack, onSessionEnd }) {
   const { mode, category, level, shuffle, timer: timerOn } = config
 
+  const vocabLevel  = LEVEL_FOLDER[level] ?? 'intermediate'
+  const speechLevel = SPEECH_LEVEL[level] ?? 'intermediate'
+
+  // Fetch only the selected level's words. For category mode, load the topic file.
+  const {
+    words: rawPool,
+    loading: poolLoading,
+    error: poolError,
+  } = useVocabPage(vocabLevel, {
+    topic: mode === 'category' ? category : null,
+  })
+
   const [words, setWords] = useState([])
   const [index, setIndex] = useState(0)
   const [answer, setAnswer] = useState('')
@@ -78,13 +91,12 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
   const [correct, setCorrect] = useState(0)
   const [timeLeft, setTimeLeft] = useState(QUESTION_TIME)
   const [done, setDone] = useState(false)
-  const [loading, setLoading] = useState(true)
+  const [sessionReady, setSessionReady] = useState(false)
   const [error, setError] = useState(null)
 
   // Speech
   const { speak, stop, speaking } = useSpeech()
   const [activeLang, setActiveLang] = useState(null) // 'en' | 'hi' | null
-  const speechLevel = SPEECH_LEVEL[level] ?? 'intermediate'
 
   const timerRef = useRef(null)
   const inputRef = useRef(null)
@@ -95,21 +107,19 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
     setActiveLang(null)
   }, [index]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // ── Prepare words from local JSON ────────────────────────────
+  // ── Build session words once the pool is loaded ───────────────
   useEffect(() => {
+    if (poolLoading || poolError || rawPool.length === 0) return
+
     try {
-      let filtered = ALL_WORDS
+      // Normalise every word in the pool (generates distractors within the pool)
+      const normPool = rawPool.map(w => normalise(w, rawPool.map(x => ({
+        ...x,
+        correct_word: x.correct_word ?? x.word ?? '',
+      }))))
 
-      if (mode === 'category') {
-        filtered = filtered.filter(w => w.category === category)
-      }
-
-      if (level !== 'mixed') {
-        filtered = filtered.filter(w => w.difficulty === level)
-      }
-
-      // Only keep words that have a sentence to display
-      filtered = filtered.filter(w => w.sentence)
+      // Filter to words that have a fill-blank sentence
+      let filtered = normPool.filter(w => w.sentence)
 
       if (mode === 'daily') {
         const key = getTodayKey(level)
@@ -118,7 +128,6 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
         if (saved) {
           try {
             const parsed = JSON.parse(saved)
-            // Reject stale data: must be non-empty and have a difficulty field (local JSON format)
             if (Array.isArray(parsed) && parsed.length > 0 && parsed[0].difficulty) {
               savedWords = parsed
             } else {
@@ -139,12 +148,11 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
         const prepared = (shuffle ? shuffleArray(filtered) : filtered).slice(0, TOTAL_QUESTIONS)
         setWords(prepared)
       }
+      setSessionReady(true)
     } catch {
       setError('Failed to prepare vocabulary data.')
-    } finally {
-      setLoading(false)
     }
-  }, []) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [rawPool, poolLoading, poolError]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // ── Timer ────────────────────────────────────────────────────
   const handleTimeout = useCallback(() => checkAnswer(true), []) // eslint-disable-line react-hooks/exhaustive-deps
@@ -247,7 +255,7 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
     return shuffleArray(opts)
   }, [word]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  if (loading) {
+  if (poolLoading || !sessionReady) {
     return (
       <div className="bg-white rounded-2xl shadow p-10 text-center text-gray-500">
         Loading vocabulary…
@@ -255,10 +263,10 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
     )
   }
 
-  if (error) {
+  if (poolError || error) {
     return (
       <div className="bg-white rounded-2xl shadow p-10 text-center text-red-500">
-        {error}
+        {poolError || error}
       </div>
     )
   }
