@@ -439,14 +439,12 @@ function ClozeTest({ words, onBatchComplete }) {
   const [answers, setAnswers] = useState(Array(batch.length).fill(''))
   const [submitted, setSubmitted] = useState(false)
   const [results, setResults] = useState([])
+  const inputRefs = useRef([])
 
   const segments = useMemo(() => {
-    // Build one passage from sentences, replacing ______ (or the word itself) with [Bi]
     const full = batch.map((w, i) => {
       const sentence = w.sentence ?? `${w.word} means ${w.meaning_en}.`
-      // Prefer replacing existing blank placeholder
       if (sentence.includes('______')) return sentence.replace('______', `[B${i}]`)
-      // Fallback: replace the word in the sentence
       const target = w.correct_word ?? w.word
       return sentence.replace(new RegExp(`\\b${target.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i'), `[B${i}]`)
     }).join(' ')
@@ -459,67 +457,127 @@ function ClozeTest({ words, onBatchComplete }) {
     )
     setResults(res)
     setSubmitted(true)
-    setTimeout(() => onBatchComplete(res.filter(Boolean).length, batch.length), 1500)
   }
+
+  const score = results.filter(Boolean).length
 
   return (
     <div className="space-y-4">
+      {/* Header */}
+      <div className="flex items-center justify-between">
+        <span className="text-xs font-semibold text-amber-700 uppercase tracking-wider">
+          📄 Cloze Test — SSC Style
+        </span>
+        {submitted && (
+          <span className={`text-sm font-bold px-3 py-1 rounded-full ${
+            score === batch.length ? 'bg-green-100 text-green-700'
+            : score >= 3 ? 'bg-amber-100 text-amber-700'
+            : 'bg-red-100 text-red-700'
+          }`}>
+            {score}/{batch.length} correct
+          </span>
+        )}
+      </div>
+
+      {/* Passage with inline inputs */}
       <div className="bg-amber-50 border-2 border-amber-200 rounded-2xl p-5">
-        <p className="text-xs font-semibold text-amber-700 uppercase tracking-wide mb-3">
-          SSC-Style Cloze — Fill all 5 blanks
+        <p className="text-sm text-amber-600 mb-3 font-medium">
+          Fill in the blanks with the correct word:
         </p>
-        <p className="text-base text-gray-800 leading-8">
+        <p className="text-base text-gray-800 leading-9">
           {segments.map((seg, i) => {
             const m = seg.match(/\[B(\d+)\]/)
             if (m) {
               const idx = parseInt(m[1])
+              const correct = batch[idx].correct_word ?? batch[idx].word
               return (
-                <input
-                  key={i}
-                  value={answers[idx]}
-                  onChange={e => {
-                    const next = [...answers]; next[idx] = e.target.value; setAnswers(next)
-                  }}
-                  disabled={submitted}
-                  placeholder={`(${idx + 1})`}
-                  className={`inline-block border-b-2 mx-1 px-2 py-0.5 w-24 text-center text-sm font-semibold focus:outline-none transition-colors ${
-                    submitted
-                      ? results[idx] ? 'border-green-500 text-green-700 bg-green-50' : 'border-red-500 text-red-700 bg-red-50'
-                      : 'border-amber-500 focus:border-amber-700 bg-transparent'
-                  }`}
-                />
+                <span key={i} className="inline-flex items-center mx-1 align-middle">
+                  <span className="text-xs text-amber-600 font-bold mr-0.5">({idx + 1})</span>
+                  <input
+                    ref={el => inputRefs.current[idx] = el}
+                    value={submitted && !results[idx] ? correct : answers[idx]}
+                    onChange={e => {
+                      if (submitted) return
+                      const next = [...answers]; next[idx] = e.target.value; setAnswers(next)
+                    }}
+                    onKeyDown={e => {
+                      if (e.key === 'Tab') {
+                        e.preventDefault()
+                        const next = inputRefs.current[idx + 1]
+                        if (next) next.focus()
+                      }
+                    }}
+                    readOnly={submitted}
+                    placeholder="___"
+                    className={`border-b-2 px-2 py-0.5 w-28 text-center text-sm font-semibold focus:outline-none transition-all rounded-sm ${
+                      submitted
+                        ? results[idx]
+                          ? 'border-green-500 text-green-700 bg-green-50'
+                          : 'border-red-400 text-red-600 bg-red-50 line-through'
+                        : 'border-amber-400 focus:border-amber-600 bg-white hover:border-amber-500'
+                    }`}
+                  />
+                  {submitted && !results[idx] && (
+                    <span className="ml-1 text-xs font-semibold text-green-700 bg-green-100 px-1.5 py-0.5 rounded">
+                      {correct}
+                    </span>
+                  )}
+                </span>
               )
             }
             return <span key={i}>{seg}</span>
           })}
         </p>
       </div>
+
+      {/* Answer key after submission */}
+      {submitted && (
+        <motion.div
+          initial={{ opacity: 0, y: 6 }}
+          animate={{ opacity: 1, y: 0 }}
+          className="border rounded-2xl overflow-hidden"
+        >
+          <div className="bg-gray-50 border-b px-4 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wider">
+            Answer Key
+          </div>
+          <div className="divide-y">
+            {batch.map((w, i) => (
+              <div key={w.word} className={`flex items-start gap-3 px-4 py-3 ${results[i] ? 'bg-green-50' : 'bg-red-50'}`}>
+                <span className={`mt-0.5 text-base ${results[i] ? 'text-green-600' : 'text-red-500'}`}>
+                  {results[i] ? '✓' : '✗'}
+                </span>
+                <div className="flex-1 min-w-0">
+                  <p className="font-semibold text-sm text-gray-800">
+                    ({i + 1}) {w.correct_word ?? w.word}
+                    {w.meaning_hi && <span className="ml-2 font-normal text-gray-500">({w.meaning_hi})</span>}
+                  </p>
+                  {w.meaning_en && <p className="text-xs text-gray-500 mt-0.5">{w.meaning_en}</p>}
+                </div>
+                {!results[i] && (
+                  <span className="text-xs text-red-500 shrink-0">You: {answers[i] || '—'}</span>
+                )}
+              </div>
+            ))}
+          </div>
+        </motion.div>
+      )}
+
+      {/* Submit / Next button */}
       {!submitted ? (
         <button
           onClick={submit}
           disabled={answers.some(a => !a.trim())}
-          className="w-full bg-amber-600 hover:bg-amber-700 disabled:opacity-50 text-white font-semibold py-3 rounded-xl transition-colors"
+          className="w-full bg-amber-600 hover:bg-amber-700 disabled:opacity-40 disabled:cursor-not-allowed text-white font-semibold py-3 rounded-xl transition-colors"
         >
           Submit All Blanks
         </button>
       ) : (
-        <motion.p
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          className="text-center font-bold text-lg text-amber-700"
+        <button
+          onClick={() => onBatchComplete(score, batch.length)}
+          className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-xl transition-colors"
         >
-          {results.filter(Boolean).length}/{batch.length} correct!
-        </motion.p>
-      )}
-      {/* Word hints after submission */}
-      {submitted && (
-        <div className="grid grid-cols-1 gap-1.5 text-xs text-gray-600">
-          {batch.map((w, i) => (
-            <span key={w.word} className={results[i] ? 'text-green-700' : 'text-red-600'}>
-              ({i + 1}) {w.correct_word ?? w.word} — {w.meaning_en}
-            </span>
-          ))}
-        </div>
+          Next →
+        </button>
       )}
     </div>
   )
