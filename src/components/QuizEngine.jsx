@@ -435,8 +435,8 @@ function WordAnalogy({ word, allWords, onAnswer }) {
 // Format 10: ClozeTest — 5 blanks in one passage (batch)
 // ─────────────────────────────────────────────────────────────
 function ClozeTest({ words, onBatchComplete }) {
-  const batch = words.slice(0, 5)
-  const [answers, setAnswers] = useState(Array(batch.length).fill(''))
+  const batch = useMemo(() => words.slice(0, 5), [words])
+  const [answers, setAnswers] = useState(() => Array(Math.min(words.length, 5)).fill(''))
   const [submitted, setSubmitted] = useState(false)
   const [results, setResults] = useState([])
   const inputRefs = useRef([])
@@ -485,10 +485,13 @@ function ClozeTest({ words, onBatchComplete }) {
           Fill in the blanks with the correct word:
         </p>
         <p className="text-base text-gray-800 leading-9">
-          {segments.map((seg, i) => {
+          {segments.length <= 1 && !segments[0] ? (
+            <span className="text-gray-400 italic">Loading passage…</span>
+          ) : segments.map((seg, i) => {
             const m = seg.match(/\[B(\d+)\]/)
             if (m) {
               const idx = parseInt(m[1])
+              if (idx >= batch.length) return null
               const correct = batch[idx].correct_word ?? batch[idx].word
               return (
                 <span key={i} className="inline-flex items-center mx-1 align-middle">
