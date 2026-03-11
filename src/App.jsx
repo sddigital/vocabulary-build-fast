@@ -30,6 +30,12 @@ export default function App() {
   }
 
   function handleStartPractice(config) {
+    // Keep selectedLevel in sync so ControlPanel restores the right level on back
+    const levelKeyMap = { easy: 'beginners', medium: 'intermediate', hard: 'advanced' }
+    const normalized = levelKeyMap[config.level] ?? config.level
+    if (normalized && ['beginners', 'intermediate', 'advanced'].includes(normalized)) {
+      setSelectedLevel(normalized)
+    }
     setSessionConfig(config)
     if (config.mode === 'quiz') setView('quiz')
     else if (config.mode === 'conversation') setView('conversation')

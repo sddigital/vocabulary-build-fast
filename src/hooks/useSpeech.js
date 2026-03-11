@@ -2,9 +2,9 @@ import { useState, useEffect, useCallback } from 'react'
 
 // ─── Speech rate per level ────────────────────────────────────────────────────
 const RATES = {
-  beginners: 0.75,
-  intermediate: 1.0,
-  advanced: 1.25,
+  beginners: 0.60,
+  intermediate: 0.60,
+  advanced: 0.60,
 }
 
 // ─── ResponsiveVoice voice names ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ export function useSpeech() {
     if (!text) return
     stop()
 
-    const rate = RATES[level] ?? 1.0
+    const rate = RATES[level] ?? 0.60
     const langCode = lang === 'hi' ? 'hi-IN' : 'en-IN'
 
     // ── ResponsiveVoice fallback (called when native fails or is absent) ──
