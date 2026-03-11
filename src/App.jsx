@@ -73,6 +73,7 @@ export default function App() {
             defaultLevel={selectedLevel}
             onStartPractice={handleStartPractice}
             onBack={() => setView('levels')}
+            onLevelChange={setSelectedLevel}
           />
         )}
 

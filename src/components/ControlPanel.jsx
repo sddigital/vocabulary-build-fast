@@ -27,7 +27,7 @@ const ACCENT = {
   amber:   'bg-amber-50 border-amber-200 text-amber-800 hover:bg-amber-100',
 }
 
-export default function ControlPanel({ defaultLevel = 'beginners', onStartPractice, onBack }) {
+export default function ControlPanel({ defaultLevel = 'beginners', onStartPractice, onBack, onLevelChange }) {
   const [level, setLevel] = useState(LEVEL_MAP[defaultLevel] ?? 'easy')
   const [shuffle, setShuffle] = useState(true)
   const [timer, setTimer] = useState(true)
@@ -61,7 +61,11 @@ export default function ControlPanel({ defaultLevel = 'beginners', onStartPracti
           <label className="text-sm font-medium text-gray-600 block mb-1">Level</label>
           <select
             value={level}
-            onChange={e => setLevel(e.target.value)}
+            onChange={e => {
+              setLevel(e.target.value)
+              const jsonKey = { easy: 'beginners', medium: 'intermediate', hard: 'advanced' }[e.target.value]
+              if (jsonKey && onLevelChange) onLevelChange(jsonKey)
+            }}
             className="w-full border border-gray-200 rounded-xl px-3 py-2.5 text-sm bg-gray-50 focus:outline-none focus:border-blue-500"
           >
             <option value="easy">Beginner</option>
