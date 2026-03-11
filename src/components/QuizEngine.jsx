@@ -441,13 +441,15 @@ function ClozeTest({ words, onBatchComplete }) {
   const [results, setResults] = useState([])
 
   const segments = useMemo(() => {
-    // Build one passage from sentences, replacing correct_word with [BLANK_n]
+    // Build one passage from sentences, replacing ______ (or the word itself) with [Bi]
     const full = batch.map((w, i) => {
       const sentence = w.sentence ?? `${w.word} means ${w.meaning_en}.`
+      // Prefer replacing existing blank placeholder
+      if (sentence.includes('______')) return sentence.replace('______', `[B${i}]`)
+      // Fallback: replace the word in the sentence
       const target = w.correct_word ?? w.word
-      return sentence.replace(new RegExp(`\\b${target}\\b`, 'i'), `[B${i}]`)
+      return sentence.replace(new RegExp(`\\b${target.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i'), `[B${i}]`)
     }).join(' ')
-    // Split on [Bn] markers
     return full.split(/(\[B\d+\])/)
   }, [batch])
 
