@@ -1,0 +1,188 @@
+{
+  "level": "beginners",
+  "target": "Class 5-8 CBSE/State Board",
+  "word_count_target": 1500,
+  "quiz_formats": ["word_hindi", "audio_word"],
+  "words": [
+    {
+      "word": "apple",
+      "hindi": "सेब",
+      "meaning_en": "A round fruit with red, green, or yellow skin",
+      "example_sentence": "She ate an apple every morning.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "apple.jpg"
+    },
+    {
+      "word": "bridge",
+      "hindi": "पुल",
+      "meaning_en": "A structure built over a river or road to allow people to cross",
+      "example_sentence": "We walked across the old stone bridge.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "bridge.jpg"
+    },
+    {
+      "word": "candle",
+      "hindi": "मोमबत्ती",
+      "meaning_en": "A stick of wax with a wick that gives light when burned",
+      "example_sentence": "She lit a candle during the power cut.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "candle.jpg"
+    },
+    {
+      "word": "doctor",
+      "hindi": "डॉक्टर",
+      "meaning_en": "A person who treats sick people",
+      "example_sentence": "The doctor gave him medicine for fever.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "doctor.jpg"
+    },
+    {
+      "word": "envelope",
+      "hindi": "लिफाफा",
+      "meaning_en": "A flat paper container used to send letters",
+      "example_sentence": "He put the letter inside the envelope.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "envelope.jpg"
+    },
+    {
+      "word": "fountain",
+      "hindi": "फव्वारा",
+      "meaning_en": "A structure that shoots water into the air",
+      "example_sentence": "Children played near the fountain in the park.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "fountain.jpg"
+    },
+    {
+      "word": "garden",
+      "hindi": "बगीचा",
+      "meaning_en": "A piece of land where flowers, vegetables, or trees are grown",
+      "example_sentence": "Grandma waters her garden every evening.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "garden.jpg"
+    },
+    {
+      "word": "helmet",
+      "hindi": "हेलमेट",
+      "meaning_en": "A hard hat worn to protect the head",
+      "example_sentence": "Always wear a helmet while riding a bicycle.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "helmet.jpg"
+    },
+    {
+      "word": "invoice",
+      "hindi": "बिल / चालान",
+      "meaning_en": "A written list of goods sent or work done with prices",
+      "example_sentence": "The shopkeeper gave us an invoice for the purchase.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "invoice.jpg"
+    },
+    {
+      "word": "journal",
+      "hindi": "डायरी / पत्रिका",
+      "meaning_en": "A personal diary or a magazine published regularly",
+      "example_sentence": "She wrote her feelings in her journal every night.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "journal.jpg"
+    },
+    {
+      "word": "kettle",
+      "hindi": "केतली",
+      "meaning_en": "A container used to boil water",
+      "example_sentence": "Put the kettle on to make some tea.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "kettle.jpg"
+    },
+    {
+      "word": "ladder",
+      "hindi": "सीढ़ी",
+      "meaning_en": "A set of steps used to climb up or down",
+      "example_sentence": "The painter climbed the ladder to reach the ceiling.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "ladder.jpg"
+    },
+    {
+      "word": "market",
+      "hindi": "बाज़ार",
+      "meaning_en": "A place where things are bought and sold",
+      "example_sentence": "Mother goes to the market every Saturday.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "market.jpg"
+    },
+    {
+      "word": "notebook",
+      "hindi": "कॉपी / नोटबुक",
+      "meaning_en": "A book with blank pages used for writing notes",
+      "example_sentence": "He wrote today's lesson in his notebook.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "notebook.jpg"
+    },
+    {
+      "word": "orchestra",
+      "hindi": "वाद्य वृंद",
+      "meaning_en": "A large group of musicians who play together",
+      "example_sentence": "The orchestra played beautiful classical music.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "orchestra.jpg"
+    },
+    {
+      "word": "patient",
+      "hindi": "मरीज़ / धैर्यवान",
+      "meaning_en": "A person receiving medical treatment; also meaning calm and not hasty",
+      "example_sentence": "The patient waited quietly in the hospital.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "patient.jpg"
+    },
+    {
+      "word": "queue",
+      "hindi": "कतार / लाइन",
+      "meaning_en": "A line of people waiting for something",
+      "example_sentence": "We stood in a queue to buy movie tickets.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "queue.jpg"
+    },
+    {
+      "word": "receipt",
+      "hindi": "रसीद",
+      "meaning_en": "A written proof that money or goods have been received",
+      "example_sentence": "Always keep the receipt after shopping.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "receipt.jpg"
+    },
+    {
+      "word": "schedule",
+      "hindi": "समय-सारणी",
+      "meaning_en": "A plan showing times for activities or events",
+      "example_sentence": "The teacher wrote the exam schedule on the board.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "schedule.jpg"
+    },
+    {
+      "word": "telescope",
+      "hindi": "दूरबीन",
+      "meaning_en": "An instrument used to see objects far away, especially stars",
+      "example_sentence": "He saw the moon clearly through the telescope.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "telescope.jpg"
+    }
+  ]
+}

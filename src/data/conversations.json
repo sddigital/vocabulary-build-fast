@@ -1,0 +1,227 @@
+{
+  "beginners": [
+    {
+      "id": "shop",
+      "scenario": "At the Shop",
+      "icon": "🛒",
+      "speakers": { "A": "Customer", "B": "Shopkeeper" },
+      "lines": [
+        { "speaker": "A", "text": "Hello! How much is this apple?", "hindi": "नमस्ते! यह सेब कितने का है?" },
+        { "speaker": "B", "text": "It is ten rupees each.", "hindi": "यह दस रुपये प्रत्येक है।" },
+        { "speaker": "A", "text": "Can I get five apples, please?", "hindi": "क्या मुझे पाँच सेब मिल सकते हैं?" },
+        { "speaker": "B", "text": "Yes, that will be fifty rupees.", "hindi": "हाँ, यह पचास रुपये होंगे।" },
+        { "speaker": "A", "text": "Here is one hundred rupees.", "hindi": "यह लीजिए सौ रुपये।" },
+        { "speaker": "B", "text": "Thank you. Here is your change — fifty rupees.", "hindi": "धन्यवाद। यह लीजिए पचास रुपये वापस।" }
+      ]
+    },
+    {
+      "id": "directions",
+      "scenario": "Asking Directions",
+      "icon": "🗺️",
+      "speakers": { "A": "Traveller", "B": "Local" },
+      "lines": [
+        { "speaker": "A", "text": "Excuse me! Where is the bus stop?", "hindi": "माफ कीजिए! बस स्टॉप कहाँ है?" },
+        { "speaker": "B", "text": "Go straight, then turn left.", "hindi": "सीधे जाइए, फिर बाईं तरफ मुड़िए।" },
+        { "speaker": "A", "text": "Is it far from here?", "hindi": "क्या यह यहाँ से दूर है?" },
+        { "speaker": "B", "text": "No, it is only five minutes on foot.", "hindi": "नहीं, यह पैदल केवल पाँच मिनट है।" },
+        { "speaker": "A", "text": "Thank you so much!", "hindi": "बहुत-बहुत धन्यवाद!" },
+        { "speaker": "B", "text": "You are welcome. Have a safe journey.", "hindi": "स्वागत है। सुरक्षित यात्रा करें।" }
+      ]
+    },
+    {
+      "id": "food",
+      "scenario": "Ordering Food",
+      "icon": "🍽️",
+      "speakers": { "A": "Customer", "B": "Waiter" },
+      "lines": [
+        { "speaker": "B", "text": "Good evening! What would you like to order?", "hindi": "शुभ संध्या! आप क्या ऑर्डर करेंगे?" },
+        { "speaker": "A", "text": "I would like a plate of rice and dal.", "hindi": "मुझे चावल और दाल की एक थाली चाहिए।" },
+        { "speaker": "B", "text": "Would you like anything to drink?", "hindi": "क्या आप कुछ पीना चाहेंगे?" },
+        { "speaker": "A", "text": "Yes, one glass of water, please.", "hindi": "हाँ, एक गिलास पानी, कृपया।" },
+        { "speaker": "B", "text": "Your order will be ready in ten minutes.", "hindi": "आपका ऑर्डर दस मिनट में तैयार होगा।" },
+        { "speaker": "A", "text": "Thank you. Please bring the bill later.", "hindi": "धन्यवाद। कृपया बाद में बिल लाइए।" }
+      ]
+    },
+    {
+      "id": "doctor",
+      "scenario": "At the Doctor",
+      "icon": "🏥",
+      "speakers": { "A": "Patient", "B": "Doctor" },
+      "lines": [
+        { "speaker": "B", "text": "Good morning! What is the problem?", "hindi": "सुप्रभात! क्या समस्या है?" },
+        { "speaker": "A", "text": "I have a headache and fever since yesterday.", "hindi": "मुझे कल से सिरदर्द और बुखार है।" },
+        { "speaker": "B", "text": "Let me check your temperature.", "hindi": "मैं आपका तापमान चेक करता हूँ।" },
+        { "speaker": "A", "text": "Is it serious, doctor?", "hindi": "क्या यह गंभीर है, डॉक्टर?" },
+        { "speaker": "B", "text": "No, just a common cold. Take rest and drink water.", "hindi": "नहीं, बस सामान्य सर्दी है। आराम करें और पानी पिएं।" },
+        { "speaker": "A", "text": "Thank you, doctor. I will follow your advice.", "hindi": "धन्यवाद, डॉक्टर। मैं आपकी सलाह मानूँगा।" }
+      ]
+    },
+    {
+      "id": "school",
+      "scenario": "Making Friends",
+      "icon": "👋",
+      "speakers": { "A": "Student 1", "B": "Student 2" },
+      "lines": [
+        { "speaker": "A", "text": "Hi! My name is Ravi. What is your name?", "hindi": "नमस्ते! मेरा नाम रवि है। आपका नाम क्या है?" },
+        { "speaker": "B", "text": "Hello! I am Priya. Nice to meet you.", "hindi": "नमस्ते! मैं प्रिया हूँ। आपसे मिलकर अच्छा लगा।" },
+        { "speaker": "A", "text": "Which class are you in?", "hindi": "आप किस कक्षा में हैं?" },
+        { "speaker": "B", "text": "I am in Class Seven. And you?", "hindi": "मैं सातवीं कक्षा में हूँ। और आप?" },
+        { "speaker": "A", "text": "I am also in Class Seven! We are classmates.", "hindi": "मैं भी सातवीं कक्षा में हूँ! हम सहपाठी हैं।" },
+        { "speaker": "B", "text": "Great! Let us study together.", "hindi": "बहुत अच्छा! चलिए हम साथ पढ़ते हैं।" }
+      ]
+    }
+  ],
+  "intermediate": [
+    {
+      "id": "interview",
+      "scenario": "Job Interview",
+      "icon": "💼",
+      "speakers": { "A": "Interviewer", "B": "Candidate" },
+      "lines": [
+        { "speaker": "A", "text": "Good morning. Please take a seat.", "hindi": "सुप्रभात। कृपया बैठिए।" },
+        { "speaker": "B", "text": "Thank you. It is a pleasure to be here.", "hindi": "धन्यवाद। यहाँ आकर बहुत अच्छा लग रहा है।" },
+        { "speaker": "A", "text": "Tell me about yourself and your experience.", "hindi": "मुझे अपने बारे में और अपने अनुभव के बारे में बताइए।" },
+        { "speaker": "B", "text": "I have three years of experience in customer service and I am proficient in computers.", "hindi": "मुझे ग्राहक सेवा में तीन वर्षों का अनुभव है और मैं कंप्यूटर में दक्ष हूँ।" },
+        { "speaker": "A", "text": "What are your strengths and weaknesses?", "hindi": "आपकी शक्तियाँ और कमजोरियाँ क्या हैं?" },
+        { "speaker": "B", "text": "My strength is problem-solving. I am working on improving my time management.", "hindi": "मेरी शक्ति समस्या-समाधान है। मैं अपने समय प्रबंधन को सुधारने पर काम कर रहा हूँ।" },
+        { "speaker": "A", "text": "We will inform you about our decision within a week.", "hindi": "हम एक सप्ताह के भीतर अपने निर्णय के बारे में आपको सूचित करेंगे।" },
+        { "speaker": "B", "text": "Thank you for the opportunity. I look forward to hearing from you.", "hindi": "अवसर के लिए धन्यवाद। मैं आपसे सुनने की प्रतीक्षा करूँगा।" }
+      ]
+    },
+    {
+      "id": "bank",
+      "scenario": "At the Bank",
+      "icon": "🏦",
+      "speakers": { "A": "Customer", "B": "Bank Officer" },
+      "lines": [
+        { "speaker": "A", "text": "Good afternoon. I would like to open a savings account.", "hindi": "नमस्कार। मैं एक बचत खाता खोलना चाहता हूँ।" },
+        { "speaker": "B", "text": "Certainly. Please fill this application form.", "hindi": "बिल्कुल। कृपया यह आवेदन पत्र भरें।" },
+        { "speaker": "A", "text": "What documents do I need to submit?", "hindi": "मुझे कौन से दस्तावेज़ जमा करने होंगे?" },
+        { "speaker": "B", "text": "You need your Aadhaar card, PAN card, and two passport photos.", "hindi": "आपको आधार कार्ड, पैन कार्ड और दो पासपोर्ट फोटो चाहिए।" },
+        { "speaker": "A", "text": "Is there a minimum balance requirement?", "hindi": "क्या न्यूनतम शेष राशि की आवश्यकता है?" },
+        { "speaker": "B", "text": "Yes, you need to maintain a minimum balance of five hundred rupees.", "hindi": "हाँ, आपको पाँच सौ रुपये का न्यूनतम शेष बनाए रखना होगा।" },
+        { "speaker": "A", "text": "I have all the documents. How long will it take?", "hindi": "मेरे पास सभी दस्तावेज़ हैं। इसमें कितना समय लगेगा?" },
+        { "speaker": "B", "text": "Your account will be activated within two working days.", "hindi": "आपका खाता दो कार्यदिवसों में सक्रिय हो जाएगा।" }
+      ]
+    },
+    {
+      "id": "hotel",
+      "scenario": "Booking a Hotel",
+      "icon": "🏨",
+      "speakers": { "A": "Guest", "B": "Receptionist" },
+      "lines": [
+        { "speaker": "A", "text": "Hello! I have a reservation under the name Sharma.", "hindi": "नमस्ते! शर्मा नाम से मेरी बुकिंग है।" },
+        { "speaker": "B", "text": "Welcome, Mr Sharma. Let me confirm your booking.", "hindi": "स्वागत है, श्री शर्मा। मैं आपकी बुकिंग की पुष्टि करता हूँ।" },
+        { "speaker": "A", "text": "I booked a deluxe room for two nights.", "hindi": "मैंने दो रातों के लिए एक डीलक्स कमरा बुक किया है।" },
+        { "speaker": "B", "text": "Yes, I can see your booking. Your room is on the third floor.", "hindi": "हाँ, मैं आपकी बुकिंग देख रहा हूँ। आपका कमरा तीसरी मंजिल पर है।" },
+        { "speaker": "A", "text": "Does the room have Wi-Fi and air conditioning?", "hindi": "क्या कमरे में वाई-फाई और एयर कंडीशनिंग है?" },
+        { "speaker": "B", "text": "Yes, all our rooms have complimentary Wi-Fi and AC.", "hindi": "हाँ, हमारे सभी कमरों में मुफ्त वाई-फाई और एसी है।" },
+        { "speaker": "A", "text": "What time is checkout?", "hindi": "चेकआउट का समय क्या है?" },
+        { "speaker": "B", "text": "Checkout is at eleven in the morning. Here is your key.", "hindi": "चेकआउट सुबह ग्यारह बजे है। यह लीजिए आपकी चाबी।" }
+      ]
+    },
+    {
+      "id": "helpline",
+      "scenario": "Calling a Helpline",
+      "icon": "📞",
+      "speakers": { "A": "Customer", "B": "Support Agent" },
+      "lines": [
+        { "speaker": "B", "text": "Good morning! How may I assist you today?", "hindi": "सुप्रभात! मैं आज आपकी कैसे सहायता कर सकता हूँ?" },
+        { "speaker": "A", "text": "My internet connection has not been working since morning.", "hindi": "सुबह से मेरा इंटरनेट कनेक्शन काम नहीं कर रहा है।" },
+        { "speaker": "B", "text": "I apologise for the inconvenience. May I have your account number?", "hindi": "असुविधा के लिए क्षमा करें। क्या मुझे आपका खाता नंबर मिल सकता है?" },
+        { "speaker": "A", "text": "Yes, my account number is 1234567.", "hindi": "हाँ, मेरा खाता नंबर 1234567 है।" },
+        { "speaker": "B", "text": "Thank you. We have registered your complaint. Our team will resolve it within four hours.", "hindi": "धन्यवाद। हमने आपकी शिकायत दर्ज कर ली है। हमारी टीम इसे चार घंटों में हल करेगी।" },
+        { "speaker": "A", "text": "Will I receive a confirmation message?", "hindi": "क्या मुझे एक पुष्टि संदेश मिलेगा?" },
+        { "speaker": "B", "text": "Yes, you will receive an SMS with your complaint number shortly.", "hindi": "हाँ, आपको जल्द ही शिकायत नंबर के साथ एक एसएमएस मिलेगा।" }
+      ]
+    },
+    {
+      "id": "parent_teacher",
+      "scenario": "Parent–Teacher Meeting",
+      "icon": "🏫",
+      "speakers": { "A": "Parent", "B": "Teacher" },
+      "lines": [
+        { "speaker": "B", "text": "Good evening! Please sit down. I am glad you came.", "hindi": "शुभ संध्या! कृपया बैठिए। मुझे खुशी है कि आप आए।" },
+        { "speaker": "A", "text": "Thank you. How is my son Arjun performing in class?", "hindi": "धन्यवाद। मेरा बेटा अर्जुन कक्षा में कैसा प्रदर्शन कर रहा है?" },
+        { "speaker": "B", "text": "He is doing well in mathematics, but he needs to improve his English writing.", "hindi": "वह गणित में अच्छा कर रहा है, लेकिन उसे अपनी अंग्रेज़ी लेखन सुधारनी होगी।" },
+        { "speaker": "A", "text": "What can we do to help him at home?", "hindi": "उसकी घर पर मदद के लिए हम क्या कर सकते हैं?" },
+        { "speaker": "B", "text": "Encourage him to read English books daily for thirty minutes.", "hindi": "उसे रोज़ तीस मिनट अंग्रेज़ी किताबें पढ़ने के लिए प्रोत्साहित करें।" },
+        { "speaker": "A", "text": "We will definitely do that. Thank you for your guidance.", "hindi": "हम ज़रूर ऐसा करेंगे। आपके मार्गदर्शन के लिए धन्यवाद।" }
+      ]
+    }
+  ],
+  "advanced": [
+    {
+      "id": "negotiation",
+      "scenario": "Business Negotiation",
+      "icon": "📊",
+      "speakers": { "A": "Client", "B": "Vendor" },
+      "lines": [
+        { "speaker": "A", "text": "We appreciate your proposal, but the quoted price is beyond our budget.", "hindi": "हम आपके प्रस्ताव की सराहना करते हैं, लेकिन उद्धृत मूल्य हमारे बजट से अधिक है।" },
+        { "speaker": "B", "text": "I understand your concern. What budget range are you considering?", "hindi": "मैं आपकी चिंता समझता हूँ। आप किस बजट रेंज पर विचार कर रहे हैं?" },
+        { "speaker": "A", "text": "We can allocate approximately fifteen percent less than your quoted figure.", "hindi": "हम आपके उद्धृत आंकड़े से लगभग पंद्रह प्रतिशत कम आवंटित कर सकते हैं।" },
+        { "speaker": "B", "text": "That would significantly impact our margins. Could we perhaps negotiate the payment terms instead?", "hindi": "यह हमारे मार्जिन को काफी प्रभावित करेगा। क्या हम इसके बजाय भुगतान शर्तों पर बातचीत कर सकते हैं?" },
+        { "speaker": "A", "text": "We are open to a phased payment structure if the cost reduction is ten percent.", "hindi": "यदि लागत में दस प्रतिशत कमी हो तो हम चरणबद्ध भुगतान संरचना के लिए तैयार हैं।" },
+        { "speaker": "B", "text": "A ten percent reduction with quarterly payments is acceptable. Let us formalise this in writing.", "hindi": "त्रैमासिक भुगतान के साथ दस प्रतिशत की कमी स्वीकार्य है। इसे लिखित रूप में औपचारिक बनाते हैं।" }
+      ]
+    },
+    {
+      "id": "debate",
+      "scenario": "Academic Debate",
+      "icon": "🎯",
+      "speakers": { "A": "Proposer", "B": "Opposition" },
+      "lines": [
+        { "speaker": "A", "text": "Technology has unequivocally transformed education for the better.", "hindi": "प्रौद्योगिकी ने निस्संदेह शिक्षा को बेहतर के लिए बदल दिया है।" },
+        { "speaker": "B", "text": "That assertion is debatable. Digital dependence has eroded critical thinking among students.", "hindi": "यह दावा विवादास्पद है। डिजिटल निर्भरता ने छात्रों में आलोचनात्मक सोच को कमज़ोर किया है।" },
+        { "speaker": "A", "text": "On the contrary, access to information has empowered learners in unprecedented ways.", "hindi": "इसके विपरीत, जानकारी तक पहुँच ने अभूतपूर्व तरीकों से शिक्षार्थियों को सशक्त बनाया है।" },
+        { "speaker": "B", "text": "Yet the digital divide perpetuates inequality, leaving marginalised communities further behind.", "hindi": "फिर भी डिजिटल विभाजन असमानता को बनाए रखता है, जो हाशिये पर रहे समुदायों को और पीछे छोड़ देता है।" },
+        { "speaker": "A", "text": "That is precisely why policy interventions must accompany technological adoption.", "hindi": "यही कारण है कि नीतिगत हस्तक्षेप को तकनीकी अपनाने के साथ होना चाहिए।" },
+        { "speaker": "B", "text": "A valid point. Perhaps a hybrid approach balancing tradition and innovation is most prudent.", "hindi": "एक वैध बिंदु। शायद परंपरा और नवाचार को संतुलित करने वाला एक हाइब्रिड दृष्टिकोण सबसे विवेकपूर्ण है।" }
+      ]
+    },
+    {
+      "id": "medical",
+      "scenario": "Medical Consultation",
+      "icon": "🩺",
+      "speakers": { "A": "Patient", "B": "Specialist" },
+      "lines": [
+        { "speaker": "B", "text": "The test results indicate elevated cholesterol levels and borderline hypertension.", "hindi": "परीक्षण के परिणाम उच्च कोलेस्ट्रॉल स्तर और सीमावर्ती उच्च रक्तचाप का संकेत देते हैं।" },
+        { "speaker": "A", "text": "That is concerning. What are the implications for my long-term health?", "hindi": "यह चिंताजनक है। मेरे दीर्घकालिक स्वास्थ्य के लिए इसके क्या निहितार्थ हैं?" },
+        { "speaker": "B", "text": "Left unaddressed, it could precipitate cardiovascular complications within a decade.", "hindi": "अनदेखा छोड़ने पर यह एक दशक के भीतर हृदय संबंधी जटिलताओं को जन्म दे सकता है।" },
+        { "speaker": "A", "text": "I would prefer to manage this through lifestyle modifications before resorting to medication.", "hindi": "मैं दवा का सहारा लेने से पहले जीवनशैली में बदलाव के माध्यम से इसे प्रबंधित करना पसंद करूँगा।" },
+        { "speaker": "B", "text": "A prudent approach. I recommend a low-sodium diet, aerobic exercise, and stress management.", "hindi": "एक विवेकपूर्ण दृष्टिकोण। मैं कम सोडियम आहार, एरोबिक व्यायाम और तनाव प्रबंधन की सलाह देता हूँ।" },
+        { "speaker": "A", "text": "I will adhere to the regimen diligently. When should I come for a follow-up?", "hindi": "मैं इस नियम का परिश्रमपूर्वक पालन करूँगा। मुझे फॉलो-अप के लिए कब आना चाहिए?" },
+        { "speaker": "B", "text": "Schedule a follow-up in three months. We will reassess and adjust the plan accordingly.", "hindi": "तीन महीने में फॉलो-अप निर्धारित करें। हम उसके अनुसार योजना का पुनर्मूल्यांकन और समायोजन करेंगे।" }
+      ]
+    },
+    {
+      "id": "legal",
+      "scenario": "Legal Consultation",
+      "icon": "⚖️",
+      "speakers": { "A": "Client", "B": "Advocate" },
+      "lines": [
+        { "speaker": "A", "text": "My employer has withheld my salary for three months without any justification.", "hindi": "मेरे नियोक्ता ने बिना किसी औचित्य के तीन महीने से मेरा वेतन रोक रखा है।" },
+        { "speaker": "B", "text": "This constitutes a clear violation of the Payment of Wages Act. Do you have documentary evidence?", "hindi": "यह वेतन भुगतान अधिनियम का स्पष्ट उल्लंघन है। क्या आपके पास दस्तावेज़ी सबूत है?" },
+        { "speaker": "A", "text": "I have salary slips, bank statements, and written correspondence with the HR department.", "hindi": "मेरे पास वेतन पर्ची, बैंक विवरण और मानव संसाधन विभाग के साथ लिखित पत्राचार है।" },
+        { "speaker": "B", "text": "Excellent. We can file a complaint before the Labour Commissioner to expedite resolution.", "hindi": "उत्कृष्ट। हम समाधान में तेजी लाने के लिए श्रम आयुक्त के समक्ष शिकायत दर्ज कर सकते हैं।" },
+        { "speaker": "A", "text": "What is the likely outcome if the employer contests the claim?", "hindi": "यदि नियोक्ता दावे का विरोध करे तो संभावित परिणाम क्या होगा?" },
+        { "speaker": "B", "text": "The tribunal is likely to rule in your favour given the unambiguous documentary trail.", "hindi": "दस्तावेज़ी साक्ष्य की स्पष्टता को देखते हुए न्यायाधिकरण संभवतः आपके पक्ष में निर्णय देगा।" }
+      ]
+    },
+    {
+      "id": "academic",
+      "scenario": "University Interview",
+      "icon": "🎓",
+      "speakers": { "A": "Professor", "B": "Applicant" },
+      "lines": [
+        { "speaker": "A", "text": "What motivated you to pursue research in artificial intelligence?", "hindi": "कृत्रिम बुद्धिमत्ता में शोध करने के लिए आपको किसने प्रेरित किया?" },
+        { "speaker": "B", "text": "The potential of AI to ameliorate healthcare disparities in rural India compelled me to specialise in this field.", "hindi": "ग्रामीण भारत में स्वास्थ्य सेवा असमानताओं को सुधारने की AI की क्षमता ने मुझे इस क्षेत्र में विशेषज्ञता के लिए प्रेरित किया।" },
+        { "speaker": "A", "text": "Your proposal is ambitious. What challenges do you anticipate in implementation?", "hindi": "आपका प्रस्ताव महत्वाकांक्षी है। आप कार्यान्वयन में क्या चुनौतियाँ अनुमानित करते हैं?" },
+        { "speaker": "B", "text": "Data scarcity, infrastructural deficits, and linguistic diversity pose formidable obstacles.", "hindi": "डेटा की कमी, बुनियादी ढाँचे की कमियाँ और भाषाई विविधता दुर्जेय बाधाएँ प्रस्तुत करती हैं।" },
+        { "speaker": "A", "text": "How do you propose to address the ethical concerns around bias in AI models?", "hindi": "AI मॉडलों में पूर्वाग्रह से संबंधित नैतिक चिंताओं को आप कैसे दूर करने का प्रस्ताव करते हैं?" },
+        { "speaker": "B", "text": "Through inclusive dataset curation, rigorous auditing protocols, and community-participatory design.", "hindi": "समावेशी डेटासेट क्यूरेशन, कठोर ऑडिटिंग प्रोटोकॉल और सामुदायिक-भागीदारी डिज़ाइन के माध्यम से।" },
+        { "speaker": "A", "text": "A thoughtful response. We will deliberate and revert to you within a fortnight.", "hindi": "एक विचारशील उत्तर। हम विचार-विमर्श करेंगे और पंद्रह दिनों के भीतर आपको वापस जानकारी देंगे।" }
+      ]
+    }
+  ]
+}

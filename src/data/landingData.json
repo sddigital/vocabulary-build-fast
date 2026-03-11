@@ -1,0 +1,91 @@
+{
+  "stats": [
+    { "value": "1500+", "label": "Beginner Words",      "icon": "📗" },
+    { "value": "2500+", "label": "Intermediate Words",  "icon": "📘" },
+    { "value": "5000+", "label": "Advanced Words",      "icon": "📕" },
+    { "value": "9",     "label": "Quiz Formats",        "icon": "🎯" }
+  ],
+  "features": [
+    {
+      "icon": "📗",
+      "title": "1500 Basic Words",
+      "description": "Word ↔ Hindi matching & audio quizzes designed for Classes 5–8 students building their foundation.",
+      "color": "emerald",
+      "level": "Beginners"
+    },
+    {
+      "icon": "🎯",
+      "title": "9 Quiz Formats",
+      "description": "Synonyms, antonyms, fill-in-blanks, idioms, word analogy, cloze tests & more — never boring.",
+      "color": "indigo",
+      "level": "All Levels"
+    },
+    {
+      "icon": "🏆",
+      "title": "Competitive Ready",
+      "description": "5000 curated words mapped to SSC, UPSC, Banking, NEET & JEE question patterns.",
+      "color": "amber",
+      "level": "Advanced"
+    }
+  ],
+  "levels": [
+    {
+      "id": "beginners",
+      "label": "Beginners",
+      "sublabel": "Class 5–8",
+      "words": "1500 words",
+      "color": "#10b981",
+      "formats": ["Word ↔ Hindi Match", "Listen & Spell", "Fill in the Blank"]
+    },
+    {
+      "id": "intermediate",
+      "label": "Intermediate",
+      "sublabel": "Class 9–10",
+      "words": "2500 words",
+      "color": "#6366f1",
+      "formats": ["Synonyms & Antonyms", "Fill in Blanks", "Contextual Usage"]
+    },
+    {
+      "id": "advanced",
+      "label": "Advanced",
+      "sublabel": "Class 11–12 + Exams",
+      "words": "5000 words",
+      "color": "#f59e0b",
+      "formats": ["Idioms & Phrases", "Word Analogy", "Cloze Test", "One Word Sub."]
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Cleared SSC CGL with 90% in English vocab. This app made practice actually fun — not like boring textbooks.",
+      "name": "Ravi Kumar",
+      "role": "SSC CGL 2024 Qualifier",
+      "city": "Delhi",
+      "avatar": "RK",
+      "color": "#6366f1"
+    },
+    {
+      "text": "My Class 8 students love the word-matching quizzes. Their vocabulary has doubled in just 2 months.",
+      "name": "Priya Sharma",
+      "role": "English Teacher, CBSE School",
+      "city": "Pune",
+      "avatar": "PS",
+      "color": "#ec4899"
+    },
+    {
+      "text": "Perfect for UPSC preparation. The advanced word list covers everything that appears in GS Paper II.",
+      "name": "Anjali Mishra",
+      "role": "UPSC Aspirant, Mains 2024",
+      "city": "Lucknow",
+      "avatar": "AM",
+      "color": "#f59e0b"
+    },
+    {
+      "text": "English became my strongest section in JEE Advanced after 3 months of daily practice with this app.",
+      "name": "Arjun Patel",
+      "role": "JEE Advanced 2024",
+      "city": "Ahmedabad",
+      "avatar": "AP",
+      "color": "#10b981"
+    }
+  ]
+}

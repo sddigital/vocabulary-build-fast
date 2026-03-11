@@ -1,0 +1,551 @@
+{
+  "level": "advanced",
+  "target": "Class 11-12 + SSC/UPSC/Banking/NEET/JEE/CLAT",
+  "word_count_target": 5000,
+  "quiz_formats": ["one_word_sub", "idioms", "word_analogy", "cloze_test"],
+  "words": [
+    {
+      "word": "ameliorate",
+      "hindi": "सुधारना / बेहतर बनाना",
+      "meaning_en": "To make something bad or unsatisfactory better",
+      "example_sentence": "The government took steps to ameliorate the living conditions of slum dwellers.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To make something better or improve a bad situation",
+        "answer": "ameliorate"
+      },
+      "analogy": {
+        "pair": "worsen : deteriorate",
+        "question": "improve : ______",
+        "answer": "ameliorate"
+      },
+      "hint_words": "worsen, ameliorate, ignore, tolerate",
+      "correct_word": "ameliorate",
+      "sentence": "New policies were introduced to ______ the suffering of flood victims.",
+      "meaning_hi": "सुधारना",
+      "example_sentence_hi": "सरकार ने झुग्गी वासियों की स्थिति सुधारने के लिए कदम उठाए।"
+    },
+    {
+      "word": "belligerent",
+      "hindi": "लड़ाकू / आक्रामक",
+      "meaning_en": "Hostile and aggressive; engaged in war or conflict",
+      "example_sentence": "The belligerent nation refused to participate in peace talks.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person or nation engaged in war or conflict",
+        "answer": "belligerent"
+      },
+      "analogy": {
+        "pair": "peace : pacifist",
+        "question": "war : ______",
+        "answer": "belligerent"
+      },
+      "hint_words": "peaceful, belligerent, neutral, cooperative",
+      "correct_word": "belligerent",
+      "sentence": "The ______ attitude of the suspect alarmed the investigators.",
+      "meaning_hi": "लड़ाकू",
+      "example_sentence_hi": "लड़ाकू राष्ट्र ने शांति वार्ता में भाग लेने से इनकार कर दिया।"
+    },
+    {
+      "word": "cacophony",
+      "hindi": "कर्कश शोर / बेसुरापन",
+      "meaning_en": "A harsh, discordant mixture of sounds",
+      "example_sentence": "The cacophony of traffic horns made it impossible to think.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A harsh and unpleasant mixture of loud sounds",
+        "answer": "cacophony"
+      },
+      "analogy": {
+        "pair": "melody : harmony",
+        "question": "noise : ______",
+        "answer": "cacophony"
+      },
+      "hint_words": "melody, silence, cacophony, rhythm",
+      "correct_word": "cacophony",
+      "sentence": "The street market was filled with the ______ of vendors calling out loudly.",
+      "meaning_hi": "कर्कश शोर",
+      "example_sentence_hi": "यातायात के हॉर्न की कर्कश ध्वनि ने सोचना असंभव बना दिया।"
+    },
+    {
+      "word": "duplicity",
+      "hindi": "छल / दोहरापन",
+      "meaning_en": "Deceitfulness; saying one thing and doing another",
+      "example_sentence": "His duplicity was exposed when both parties compared his promises.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "The practice of deceiving by presenting a different face to different people",
+        "answer": "duplicity"
+      },
+      "analogy": {
+        "pair": "honesty : sincerity",
+        "question": "deceit : ______",
+        "answer": "duplicity"
+      },
+      "hint_words": "sincerity, duplicity, loyalty, frankness",
+      "correct_word": "duplicity",
+      "sentence": "The diplomat's ______ led to the breakdown of negotiations.",
+      "meaning_hi": "छल",
+      "example_sentence_hi": "उसकी छल-प्रवृत्ति तब उजागर हुई जब दोनों पक्षों ने उसके वादों की तुलना की।"
+    },
+    {
+      "word": "ephemeral",
+      "hindi": "क्षणभंगुर / अल्पकालिक",
+      "meaning_en": "Lasting for a very short time",
+      "example_sentence": "Fame can be ephemeral—here today, gone tomorrow.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that lasts for only a very short period",
+        "answer": "ephemeral"
+      },
+      "analogy": {
+        "pair": "permanent : eternal",
+        "question": "temporary : ______",
+        "answer": "ephemeral"
+      },
+      "hint_words": "eternal, permanent, ephemeral, enduring",
+      "correct_word": "ephemeral",
+      "sentence": "The joy of victory was ______, fading within hours of the match.",
+      "meaning_hi": "क्षणभंगुर",
+      "example_sentence_hi": "प्रसिद्धि क्षणभंगुर हो सकती है—आज है, कल नहीं।"
+    },
+    {
+      "word": "fallacious",
+      "hindi": "भ्रामक / गलत तर्क वाला",
+      "meaning_en": "Based on a mistaken belief; logically unsound",
+      "example_sentence": "His fallacious argument was quickly dismantled in the debate.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An argument that is logically wrong or misleading",
+        "answer": "fallacious"
+      },
+      "analogy": {
+        "pair": "valid : logical",
+        "question": "incorrect : ______",
+        "answer": "fallacious"
+      },
+      "hint_words": "valid, logical, fallacious, convincing",
+      "correct_word": "fallacious",
+      "sentence": "The advertisement made a ______ claim about the product's benefits.",
+      "meaning_hi": "भ्रामक",
+      "example_sentence_hi": "उसका भ्रामक तर्क बहस में जल्दी ही खंडित हो गया।"
+    },
+    {
+      "word": "gregarious",
+      "hindi": "मिलनसार / सामाजिक",
+      "meaning_en": "Fond of company; sociable",
+      "example_sentence": "A gregarious person makes friends wherever they go.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who enjoys the company of others and is very sociable",
+        "answer": "gregarious"
+      },
+      "analogy": {
+        "pair": "introvert : reclusive",
+        "question": "extrovert : ______",
+        "answer": "gregarious"
+      },
+      "hint_words": "reclusive, introverted, gregarious, shy",
+      "correct_word": "gregarious",
+      "sentence": "Her ______ nature made her a natural leader in group activities.",
+      "meaning_hi": "मिलनसार",
+      "example_sentence_hi": "एक मिलनसार व्यक्ति जहाँ भी जाता है दोस्त बना लेता है।"
+    },
+    {
+      "word": "harbinger",
+      "hindi": "अग्रदूत / पूर्व संकेत",
+      "meaning_en": "A person or thing that announces or signals the approach of another",
+      "example_sentence": "Dark clouds are often a harbinger of rain.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that indicates the approach of a future event",
+        "answer": "harbinger"
+      },
+      "analogy": {
+        "pair": "result : consequence",
+        "question": "sign : ______",
+        "answer": "harbinger"
+      },
+      "hint_words": "result, barrier, harbinger, obstacle",
+      "correct_word": "harbinger",
+      "sentence": "The cuckoo's call is considered a ______ of spring.",
+      "meaning_hi": "अग्रदूत",
+      "example_sentence_hi": "काले बादल अक्सर बारिश के अग्रदूत होते हैं।"
+    },
+    {
+      "word": "iconoclast",
+      "hindi": "परंपरा-विरोधी / मूर्तिभंजक",
+      "meaning_en": "A person who attacks or criticises cherished beliefs or institutions",
+      "example_sentence": "The young scientist was an iconoclast who challenged outdated theories.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who challenges and opposes traditional beliefs or practices",
+        "answer": "iconoclast"
+      },
+      "analogy": {
+        "pair": "conformist : tradition",
+        "question": "rebel : ______",
+        "answer": "iconoclast"
+      },
+      "hint_words": "conformist, iconoclast, traditionalist, follower",
+      "correct_word": "iconoclast",
+      "sentence": "As an ______, she refused to follow the established norms of her profession.",
+      "meaning_hi": "परंपरा-विरोधी",
+      "example_sentence_hi": "युवा वैज्ञानिक एक परंपरा-विरोधी था जिसने पुरानी सिद्धांतों को चुनौती दी।"
+    },
+    {
+      "word": "jettison",
+      "hindi": "फेंक देना / त्यागना",
+      "meaning_en": "To throw or drop from an aircraft or ship; to abandon or discard",
+      "example_sentence": "The company decided to jettison its failing division.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To throw away or get rid of something no longer needed",
+        "answer": "jettison"
+      },
+      "analogy": {
+        "pair": "acquire : obtain",
+        "question": "discard : ______",
+        "answer": "jettison"
+      },
+      "hint_words": "retain, jettison, acquire, preserve",
+      "correct_word": "jettison",
+      "sentence": "The pilot had to ______ excess fuel before making an emergency landing.",
+      "meaning_hi": "फेंक देना",
+      "example_sentence_hi": "कंपनी ने अपने असफल प्रभाग को त्यागने का फैसला किया।"
+    },
+    {
+      "word": "laconic",
+      "hindi": "संक्षिप्त / कम बोलने वाला",
+      "meaning_en": "Using very few words; brief and concise",
+      "example_sentence": "His laconic reply — just 'No' — surprised everyone.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who uses very few words to express themselves",
+        "answer": "laconic"
+      },
+      "analogy": {
+        "pair": "verbose : wordy",
+        "question": "brief : ______",
+        "answer": "laconic"
+      },
+      "hint_words": "verbose, laconic, talkative, elaborate",
+      "correct_word": "laconic",
+      "sentence": "The general was known for his ______ orders that left no room for confusion.",
+      "meaning_hi": "संक्षिप्त",
+      "example_sentence_hi": "उनका संक्षिप्त उत्तर — केवल 'नहीं' — ने सभी को चौंका दिया।"
+    },
+    {
+      "word": "magnanimous",
+      "hindi": "उदार / महानदिल",
+      "meaning_en": "Very generous or forgiving, especially towards a rival or someone less powerful",
+      "example_sentence": "The magnanimous winner congratulated his opponent warmly.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is very generous and forgiving, especially to rivals",
+        "answer": "magnanimous"
+      },
+      "analogy": {
+        "pair": "petty : mean",
+        "question": "noble : ______",
+        "answer": "magnanimous"
+      },
+      "hint_words": "petty, magnanimous, selfish, proud",
+      "correct_word": "magnanimous",
+      "sentence": "It was ______ of him to forgive those who had wronged him.",
+      "meaning_hi": "उदार",
+      "example_sentence_hi": "उदार विजेता ने अपने प्रतिद्वंद्वी को गर्मजोशी से बधाई दी।"
+    },
+    {
+      "word": "nefarious",
+      "hindi": "दुष्ट / घृणित",
+      "meaning_en": "Wicked, criminal, or extremely immoral",
+      "example_sentence": "The nefarious scheme was uncovered by the investigators.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An extremely wicked or criminal act or plan",
+        "answer": "nefarious"
+      },
+      "analogy": {
+        "pair": "virtuous : noble",
+        "question": "wicked : ______",
+        "answer": "nefarious"
+      },
+      "hint_words": "virtuous, nefarious, noble, decent",
+      "correct_word": "nefarious",
+      "sentence": "The gang was involved in ______ activities that harmed the community.",
+      "meaning_hi": "दुष्ट",
+      "example_sentence_hi": "जाँचकर्ताओं ने उस दुष्टतापूर्ण योजना को उजागर किया।"
+    },
+    {
+      "word": "obfuscate",
+      "hindi": "अस्पष्ट करना / भ्रमित करना",
+      "meaning_en": "To make unclear or confusing; to bewilder",
+      "example_sentence": "Politicians often obfuscate facts with technical jargon.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To deliberately make something unclear or confusing",
+        "answer": "obfuscate"
+      },
+      "analogy": {
+        "pair": "clarify : explain",
+        "question": "confuse : ______",
+        "answer": "obfuscate"
+      },
+      "hint_words": "clarify, simplify, obfuscate, explain",
+      "correct_word": "obfuscate",
+      "sentence": "The report was designed to ______ rather than inform the public.",
+      "meaning_hi": "अस्पष्ट करना",
+      "example_sentence_hi": "राजनेता अक्सर तकनीकी शब्दजाल से तथ्यों को अस्पष्ट कर देते हैं।"
+    },
+    {
+      "word": "penury",
+      "hindi": "दरिद्रता / अत्यंत गरीबी",
+      "meaning_en": "Extreme poverty; destitution",
+      "example_sentence": "Despite his penury, he managed to send his children to school.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A state of extreme and utter poverty",
+        "answer": "penury"
+      },
+      "analogy": {
+        "pair": "wealth : opulence",
+        "question": "poverty : ______",
+        "answer": "penury"
+      },
+      "hint_words": "wealth, luxury, penury, comfort",
+      "correct_word": "penury",
+      "sentence": "The old poet died in ______, his talents unrecognised during his lifetime.",
+      "meaning_hi": "दरिद्रता",
+      "example_sentence_hi": "अत्यंत गरीबी के बावजूद, वह अपने बच्चों को स्कूल भेजने में सफल रहा।"
+    },
+    {
+      "word": "querulous",
+      "hindi": "शिकायती / चिड़चिड़ा",
+      "meaning_en": "Complaining in a petulant or whining manner",
+      "example_sentence": "The querulous customer complained about every minor issue.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who constantly complains or whines about minor things",
+        "answer": "querulous"
+      },
+      "analogy": {
+        "pair": "content : satisfied",
+        "question": "complaining : ______",
+        "answer": "querulous"
+      },
+      "hint_words": "content, cheerful, querulous, patient",
+      "correct_word": "querulous",
+      "sentence": "His ______ tone made it difficult to have a productive conversation.",
+      "meaning_hi": "शिकायती",
+      "example_sentence_hi": "शिकायती ग्राहक ने हर छोटी बात पर शिकायत की।"
+    },
+    {
+      "word": "recalcitrant",
+      "hindi": "अड़ियल / अवज्ञाकारी",
+      "meaning_en": "Having an obstinately uncooperative attitude",
+      "example_sentence": "The recalcitrant employee refused to follow the new policy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who stubbornly refuses to obey rules or authority",
+        "answer": "recalcitrant"
+      },
+      "analogy": {
+        "pair": "obedient : compliant",
+        "question": "stubborn : ______",
+        "answer": "recalcitrant"
+      },
+      "hint_words": "obedient, recalcitrant, compliant, cooperative",
+      "correct_word": "recalcitrant",
+      "sentence": "The ______ student was sent to the principal's office for the third time.",
+      "meaning_hi": "अड़ियल",
+      "example_sentence_hi": "अड़ियल कर्मचारी ने नई नीति का पालन करने से इनकार कर दिया।"
+    },
+    {
+      "word": "sycophant",
+      "hindi": "चापलूस / खुशामदी",
+      "meaning_en": "A person who acts obsequiously towards someone important in order to gain advantage",
+      "example_sentence": "The boss was surrounded by sycophants who never told him the truth.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who flatters powerful people to gain personal advantage",
+        "answer": "sycophant"
+      },
+      "analogy": {
+        "pair": "critic : honest",
+        "question": "flatterer : ______",
+        "answer": "sycophant"
+      },
+      "hint_words": "critic, rebel, sycophant, leader",
+      "correct_word": "sycophant",
+      "sentence": "A true friend is more valuable than a thousand ______s.",
+      "meaning_hi": "चापलूस",
+      "example_sentence_hi": "मालिक उन चापलूसों से घिरा था जो उसे कभी सच नहीं बताते थे।"
+    },
+    {
+      "word": "truculent",
+      "hindi": "उग्र / लड़ाकू",
+      "meaning_en": "Eager or quick to argue or fight; aggressively defiant",
+      "example_sentence": "His truculent behaviour made negotiation impossible.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is aggressively defiant and eager to fight or argue",
+        "answer": "truculent"
+      },
+      "analogy": {
+        "pair": "gentle : meek",
+        "question": "aggressive : ______",
+        "answer": "truculent"
+      },
+      "hint_words": "gentle, truculent, meek, peaceful",
+      "correct_word": "truculent",
+      "sentence": "The ______ prisoner refused to cooperate with the prison authorities.",
+      "meaning_hi": "उग्र",
+      "example_sentence_hi": "उसके उग्र व्यवहार ने बातचीत को असंभव बना दिया।"
+    },
+    {
+      "word": "vacillate",
+      "hindi": "डगमगाना / अनिश्चय में रहना",
+      "meaning_en": "To waver between different opinions or actions; to be indecisive",
+      "example_sentence": "She vacillated between accepting the job offer and staying in her hometown.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To keep changing one's mind or opinion; to be unable to decide",
+        "answer": "vacillate"
+      },
+      "analogy": {
+        "pair": "decide : resolve",
+        "question": "hesitate : ______",
+        "answer": "vacillate"
+      },
+      "hint_words": "decide, vacillate, commit, choose",
+      "correct_word": "vacillate",
+      "sentence": "Leaders who ______ in times of crisis lose the confidence of their followers.",
+      "meaning_hi": "डगमगाना",
+      "example_sentence_hi": "वह नौकरी का प्रस्ताव स्वीकार करने और अपने गृहनगर में रहने के बीच डगमगाती रही।"
+    },
+    {
+      "word": "wanton",
+      "hindi": "निरंकुश / लापरवाह",
+      "meaning_en": "Deliberate and unprovoked; showing reckless disregard",
+      "example_sentence": "The wanton destruction of public property is a criminal offence.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An act of deliberate cruelty or destruction without reason",
+        "answer": "wanton"
+      },
+      "analogy": {
+        "pair": "careful : deliberate",
+        "question": "reckless : ______",
+        "answer": "wanton"
+      },
+      "hint_words": "careful, wanton, intentional, deliberate",
+      "correct_word": "wanton",
+      "sentence": "The ______ cruelty shown to animals shocked the entire neighbourhood.",
+      "meaning_hi": "निरंकुश",
+      "example_sentence_hi": "सार्वजनिक संपत्ति का जानबूझकर नुकसान एक आपराधिक अपराध है।"
+    },
+    {
+      "word": "xenophobia",
+      "hindi": "विदेशियों से भय / परदेशी-द्वेष",
+      "meaning_en": "Dislike or prejudice against people from other countries",
+      "example_sentence": "Xenophobia increases during times of economic hardship.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An intense fear or dislike of people from foreign countries",
+        "answer": "xenophobia"
+      },
+      "analogy": {
+        "pair": "love : philanthropy",
+        "question": "fear of foreigners : ______",
+        "answer": "xenophobia"
+      },
+      "hint_words": "philanthropy, xenophobia, cosmopolitanism, tolerance",
+      "correct_word": "xenophobia",
+      "sentence": "The policy was widely criticised as an example of institutional ______.",
+      "meaning_hi": "विदेशियों से भय",
+      "example_sentence_hi": "आर्थिक कठिनाई के समय विदेशी-द्वेष बढ़ जाता है।"
+    },
+    {
+      "word": "zeitgeist",
+      "hindi": "युग-भावना / समय की प्रवृत्ति",
+      "meaning_en": "The defining spirit or mood of a particular period of history",
+      "example_sentence": "Social media perfectly captures the zeitgeist of the 21st century.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "The general mood or spirit that characterises a particular historical period",
+        "answer": "zeitgeist"
+      },
+      "analogy": {
+        "pair": "individual : personality",
+        "question": "era : ______",
+        "answer": "zeitgeist"
+      },
+      "hint_words": "tradition, heritage, zeitgeist, nostalgia",
+      "correct_word": "zeitgeist",
+      "sentence": "The film captured the ______ of the 1990s with remarkable accuracy.",
+      "meaning_hi": "युग-भावना",
+      "example_sentence_hi": "सोशल मीडिया 21वीं सदी की युग-भावना को पूरी तरह दर्शाता है।"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "burning the midnight oil",
+      "hindi": "देर रात तक काम करना",
+      "meaning_en": "Working late into the night",
+      "example_sentence": "She was burning the midnight oil to finish her project before the deadline.",
+      "exam_category": "SSC"
+    },
+    {
+      "idiom": "bite the bullet",
+      "hindi": "कठिन परिस्थिति को साहस से सहना",
+      "meaning_en": "To endure a painful or difficult situation with courage",
+      "example_sentence": "He decided to bite the bullet and confront his boss about the issue.",
+      "exam_category": "Banking"
+    },
+    {
+      "idiom": "a blessing in disguise",
+      "hindi": "छुपी हुई नेमत",
+      "meaning_en": "Something that seems bad at first but turns out to be good",
+      "example_sentence": "Losing that job was a blessing in disguise — it led him to a better career.",
+      "exam_category": "SSC"
+    },
+    {
+      "idiom": "barking up the wrong tree",
+      "hindi": "गलत दिशा में प्रयास करना",
+      "meaning_en": "Pursuing a mistaken or misguided course of action",
+      "example_sentence": "If you think he's the culprit, you're barking up the wrong tree.",
+      "exam_category": "UPSC"
+    },
+    {
+      "idiom": "hit the nail on the head",
+      "hindi": "बिल्कुल सही बात कहना",
+      "meaning_en": "To describe exactly what is causing a situation or problem",
+      "example_sentence": "You hit the nail on the head when you said the team lacked motivation.",
+      "exam_category": "Banking"
+    }
+  ]
+}

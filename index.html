@@ -1,130 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>English Vocabulary Practice</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<div class="appContainer">
-
-  <!-- =========================
-       LANDING PAGE
-  ========================== -->
-
-  <div id="landingPage">
-    <div class="landing-logo">📖</div>
-    <h1 class="landing-title">Vocabulary Practice</h1>
-    <p class="landing-tagline">Build your English vocabulary with daily exercises, timed challenges, and streak tracking.</p>
-    <div class="landing-features">
-      <div class="feature-item"><span>🗂️</span> 10 Categories</div>
-      <div class="feature-item"><span>⏱️</span> Timed Mode</div>
-      <div class="feature-item"><span>🔥</span> Streak Tracking</div>
-      <div class="feature-item"><span>📅</span> Daily Challenge</div>
-    </div>
-    <button id="startBtn">Start Practicing</button>
-  </div>
-
-  <!-- =========================
-       CONTROL PANEL
-  ========================== -->
-
-  <div id="controlPanel" style="display:none;">
-
-    <!-- Level -->
-    <div class="controlsRow">
-      <div class="controlItem">
-        <label for="levelSelect">Level:</label>
-        <select id="levelSelect">
-          <option value="easy">Beginner</option>
-          <option value="medium">Intermediate</option>
-          <option value="hard">Advanced</option>
-          <option value="mixed">Mixed</option>
-        </select>
-      </div>
-
-      <div class="controlItem">
-        <label>
-          <input type="checkbox" id="shuffleToggle" checked>
-          Shuffle
-        </label>
-      </div>
-
-      <div class="controlItem">
-        <label>
-          <input type="checkbox" id="timerToggle" checked>
-          Timer
-        </label>
-      </div>
-    </div>
-
-    <hr>
-
-    <!-- Modes -->
-    <div class="modeRow">
-      <button id="dailyBtn">Daily Challenge</button>
-      <button id="mixedModeBtn">Mixed Mode</button>
-    </div>
-
-    <hr>
-
-    <!-- Categories -->
-    <div id="categories">
-
-  <button class="categoryBtn" data-category="home">Home</button>
-  <button class="categoryBtn" data-category="office">Office</button>
-  <button class="categoryBtn" data-category="friends">Friends</button>
-  <button class="categoryBtn" data-category="travel">Travel</button>
-  <button class="categoryBtn" data-category="school">School</button>
-
-  <button class="categoryBtn" data-category="food">Food</button>
-  <button class="categoryBtn" data-category="health">Health</button>
-  <button class="categoryBtn" data-category="shopping">Shopping</button>
-  <button class="categoryBtn" data-category="emotions">Emotions</button>
-  <button class="categoryBtn" data-category="actions">Daily Actions</button>
-
-</div>
-
-  </div>
-
-
-  <!-- =========================
-       PRACTICE SECTION
-  ========================== -->
-
-  <div id="practiceSection" style="display:none;">
-
-    <div class="topBar">
-  <div id="modeTitle"></div>
-  <div class="statsBar">
-    <span id="score">Score: 0</span>
-    <span id="streak">Streak: 0</span>
-    <span id="timer">Time: 15</span>
-  </div>
-  </div>
-
-    <div class="progressContainer">
-      <div id="progressBar"></div>
-    </div>
-
-    <div class="questionCard">
-      <p id="sentence"></p>
-      <div id="hints"></div>
-
-      <input type="text" id="answerInput" placeholder="Type your answer">
-      <button id="submitBtn">Submit</button>
-
-      <div id="feedback"></div>
-    </div>
-
-    <div class="bottomButtons">
-      <button id="backBtn">Back</button>
-    </div>
-
-  </div>
-
-  <script src="app.js"></script>
-</div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VocabPro — Master English for Exams & School</title>
+    <meta name="description" content="CBSE Classes 5-12 + SSC/UPSC/Banking vocabulary practice. 1500–5000 curated words, 6 quiz formats, free to use." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800;900&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>
