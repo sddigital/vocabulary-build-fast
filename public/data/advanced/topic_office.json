@@ -1,0 +1,337 @@
+{
+  "words": [
+    {
+      "word": "bureaucracy",
+      "hindi": "नौकरशाही / अफसरशाही",
+      "meaning_en": "A system of government with many complicated rules and processes",
+      "example_sentence": "The new policy was delayed due to layers of bureaucracy.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A complex system of official rules and procedures that slows decision-making",
+        "answer": "bureaucracy"
+      },
+      "analogy": {
+        "pair": "simplicity : efficiency",
+        "question": "complexity : ______",
+        "answer": "bureaucracy"
+      },
+      "hint_words": "bureaucracy, democracy, meritocracy, autocracy",
+      "correct_word": "bureaucracy",
+      "sentence": "Reformers argued that ______ was hindering economic growth in the country.",
+      "meaning_hi": "नौकरशाही",
+      "synonyms": [
+        "red tape",
+        "officialdom",
+        "administration",
+        "paperwork"
+      ],
+      "antonyms": [
+        "efficiency",
+        "simplicity",
+        "deregulation"
+      ]
+    },
+    {
+      "word": "subordinate",
+      "hindi": "अधीनस्थ / निम्न श्रेणी का",
+      "meaning_en": "Lower in rank or position; a person under the authority of another",
+      "example_sentence": "The manager asked his subordinate to prepare the quarterly report.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A person who is lower in rank and works under someone else's authority",
+        "answer": "subordinate"
+      },
+      "analogy": {
+        "pair": "chief : superior",
+        "question": "assistant : ______",
+        "answer": "subordinate"
+      },
+      "hint_words": "subordinate, superior, peer, director",
+      "correct_word": "subordinate",
+      "sentence": "The officer was reprimanded for ignoring the advice of his ______.",
+      "meaning_hi": "अधीनस्थ",
+      "synonyms": [
+        "junior",
+        "underling",
+        "deputy",
+        "assistant"
+      ],
+      "antonyms": [
+        "superior",
+        "boss",
+        "senior",
+        "chief"
+      ]
+    },
+    {
+      "word": "scrupulous",
+      "hindi": "ईमानदार / कर्तव्यनिष्ठ",
+      "meaning_en": "Diligent, thorough, and extremely attentive to details; having strong moral principles",
+      "example_sentence": "The auditor was scrupulous in reviewing every line of the financial records.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A person who is extremely careful, thorough, and honest in their work",
+        "answer": "scrupulous"
+      },
+      "analogy": {
+        "pair": "careless : negligent",
+        "question": "careful : ______",
+        "answer": "scrupulous"
+      },
+      "hint_words": "scrupulous, careless, reckless, dishonest",
+      "correct_word": "scrupulous",
+      "sentence": "Only a ______ accountant would catch such a subtle discrepancy in the ledger.",
+      "meaning_hi": "ईमानदार",
+      "synonyms": [
+        "meticulous",
+        "conscientious",
+        "thorough",
+        "principled"
+      ],
+      "antonyms": [
+        "careless",
+        "negligent",
+        "dishonest",
+        "sloppy"
+      ]
+    },
+    {
+      "word": "incumbent",
+      "hindi": "पदधारी / वर्तमान पदाधिकारी",
+      "meaning_en": "The person currently holding an official position; also meaning necessary as a duty",
+      "example_sentence": "It is incumbent upon every official to declare their assets.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "The person currently holding a particular office or position",
+        "answer": "incumbent"
+      },
+      "analogy": {
+        "pair": "former : past",
+        "question": "current : ______",
+        "answer": "incumbent"
+      },
+      "hint_words": "incumbent, predecessor, candidate, successor",
+      "correct_word": "incumbent",
+      "sentence": "The ______ minister was challenged by three strong contenders in the election.",
+      "meaning_hi": "पदधारी",
+      "synonyms": [
+        "current holder",
+        "officeholder",
+        "sitting",
+        "obligatory"
+      ],
+      "antonyms": [
+        "predecessor",
+        "successor",
+        "former"
+      ]
+    },
+    {
+      "word": "remuneration",
+      "hindi": "पारिश्रमिक / वेतन",
+      "meaning_en": "Payment or compensation received for services or work done",
+      "example_sentence": "She demanded fair remuneration for the additional responsibilities.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "The money paid to someone for the work or services they have provided",
+        "answer": "remuneration"
+      },
+      "analogy": {
+        "pair": "service : duty",
+        "question": "payment : ______",
+        "answer": "remuneration"
+      },
+      "hint_words": "remuneration, penalty, fine, donation",
+      "correct_word": "remuneration",
+      "sentence": "The employee negotiated a higher ______ before accepting the new role.",
+      "meaning_hi": "पारिश्रमिक",
+      "synonyms": [
+        "salary",
+        "wages",
+        "compensation",
+        "pay"
+      ],
+      "antonyms": [
+        "penalty",
+        "fine",
+        "deduction"
+      ]
+    },
+    {
+      "word": "mandate",
+      "hindi": "अधिदेश / आदेश",
+      "meaning_en": "An official order or authorization to carry out a policy or task",
+      "example_sentence": "The committee was given a clear mandate to investigate the allegations.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "An official instruction or authority given to carry out a specific task",
+        "answer": "mandate"
+      },
+      "analogy": {
+        "pair": "suggestion : optional",
+        "question": "order : ______",
+        "answer": "mandate"
+      },
+      "hint_words": "mandate, suggestion, request, option",
+      "correct_word": "mandate",
+      "sentence": "The new government had a strong electoral ______ to implement economic reforms.",
+      "meaning_hi": "अधिदेश",
+      "synonyms": [
+        "directive",
+        "authorization",
+        "order",
+        "decree"
+      ],
+      "antonyms": [
+        "option",
+        "suggestion",
+        "prohibition"
+      ]
+    },
+    {
+      "word": "redundant",
+      "hindi": "अनावश्यक / अतिरिक्त",
+      "meaning_en": "No longer needed or useful; superfluous or laid off from a job",
+      "example_sentence": "Many workers were made redundant after the factory introduced automation.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "Something or someone no longer required and therefore dismissed or removed",
+        "answer": "redundant"
+      },
+      "analogy": {
+        "pair": "essential : vital",
+        "question": "unnecessary : ______",
+        "answer": "redundant"
+      },
+      "hint_words": "redundant, essential, pivotal, indispensable",
+      "correct_word": "redundant",
+      "sentence": "The merger rendered several middle-management positions ______.",
+      "meaning_hi": "अनावश्यक",
+      "synonyms": [
+        "superfluous",
+        "surplus",
+        "unnecessary",
+        "excess"
+      ],
+      "antonyms": [
+        "essential",
+        "necessary",
+        "indispensable",
+        "vital"
+      ]
+    },
+    {
+      "word": "delegation",
+      "hindi": "प्रतिनिधिमंडल / सौंपना",
+      "meaning_en": "The act of assigning authority or responsibility to another person",
+      "example_sentence": "Effective delegation is a key skill for any successful manager.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "The act of entrusting a task or authority to a subordinate",
+        "answer": "delegation"
+      },
+      "analogy": {
+        "pair": "control : centralise",
+        "question": "distribute : ______",
+        "answer": "delegation"
+      },
+      "hint_words": "delegation, micromanagement, centralisation, monopoly",
+      "correct_word": "delegation",
+      "sentence": "The CEO practised ______ by assigning key projects to department heads.",
+      "meaning_hi": "प्रतिनिधिमंडल",
+      "synonyms": [
+        "assignment",
+        "devolution",
+        "transfer",
+        "empowerment"
+      ],
+      "antonyms": [
+        "centralisation",
+        "micromanagement",
+        "retention"
+      ]
+    },
+    {
+      "word": "protocol",
+      "hindi": "प्रोटोकॉल / आचार-संहिता",
+      "meaning_en": "The official set of rules governing correct behavior in formal situations",
+      "example_sentence": "The diplomat followed strict protocol during the state dinner.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "The official system of rules and correct formal procedures in an organization",
+        "answer": "protocol"
+      },
+      "analogy": {
+        "pair": "law : legal",
+        "question": "formal rules : ______",
+        "answer": "protocol"
+      },
+      "hint_words": "protocol, informality, deviation, chaos",
+      "correct_word": "protocol",
+      "sentence": "Breaching diplomatic ______ can cause serious international incidents.",
+      "meaning_hi": "आचार-संहिता",
+      "synonyms": [
+        "procedure",
+        "etiquette",
+        "convention",
+        "formality"
+      ],
+      "antonyms": [
+        "informality",
+        "deviation",
+        "disorder"
+      ]
+    },
+    {
+      "word": "hierarchy",
+      "hindi": "पदानुक्रम / श्रेणी-व्यवस्था",
+      "meaning_en": "A system in which people or things are arranged according to rank or authority",
+      "example_sentence": "She rose through the corporate hierarchy to become the CEO.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A system that arranges people or things in order of rank and authority",
+        "answer": "hierarchy"
+      },
+      "analogy": {
+        "pair": "equality : flat structure",
+        "question": "rank : ______",
+        "answer": "hierarchy"
+      },
+      "hint_words": "hierarchy, equality, anarchy, democracy",
+      "correct_word": "hierarchy",
+      "sentence": "In a rigid ______, decisions are made only at the top level.",
+      "meaning_hi": "पदानुक्रम",
+      "synonyms": [
+        "ranking",
+        "order",
+        "chain of command",
+        "pecking order"
+      ],
+      "antonyms": [
+        "equality",
+        "anarchy",
+        "flatness"
+      ]
+    }
+  ]
+}

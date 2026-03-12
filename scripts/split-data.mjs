@@ -31,11 +31,11 @@ function write(rel, data) {
 }
 
 /**
- * @param {string} levelName   e.g. 'beginners'
- * @param {object[]} words     array of word objects
- * @param {string|null} groupField  field to use for topic splits (null = no topics)
+ * @param {string} levelName    e.g. 'beginners'
+ * @param {object[]} words      array of word objects
+ * @param {...string} groupFields  one or more fields to use for topic splits
  */
-function splitLevel(levelName, words, groupField) {
+function splitLevel(levelName, words, ...groupFields) {
   console.log(`\n${levelName}: ${words.length} words`)
 
   // ── Sequential chunks ────────────────────────────────────────
@@ -46,9 +46,10 @@ function splitLevel(levelName, words, groupField) {
     chunkNames.push(name)
   }
 
-  // ── Topic files ───────────────────────────────────────────────
+  // ── Topic files (one pass per groupField) ─────────────────────
   const topicMeta = []
-  if (groupField) {
+  for (const groupField of groupFields) {
+    if (!groupField) continue
     const groups = {}
     words.forEach(w => {
       const raw = (w[groupField] ?? 'general').toString()
@@ -78,12 +79,12 @@ function splitLevel(levelName, words, groupField) {
 }
 
 // ── Run ───────────────────────────────────────────────────────
-const beginners   = read('src/data/beginners.json')
+const beginners    = read('src/data/beginners.json')
 const intermediate = read('src/data/intermediate.json')
-const advanced    = read('src/data/advanced.json')
+const advanced     = read('src/data/advanced.json')
 
-splitLevel('beginners',   beginners.words,   'category')
-splitLevel('intermediate', intermediate.words, null)
-splitLevel('advanced',    advanced.words,    'exam_category')
+splitLevel('beginners',    beginners.words,    'category')
+splitLevel('intermediate', intermediate.words, 'category')
+splitLevel('advanced',     advanced.words,     'exam_category', 'category')
 
 console.log('\nDone! Split files are in public/data/')

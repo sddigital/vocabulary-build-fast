@@ -1,0 +1,331 @@
+{
+  "words": [
+    {
+      "word": "domicile",
+      "hindi": "निवास स्थान",
+      "meaning_en": "A person's permanent home or place of residence",
+      "example_sentence": "He had to prove his domicile before claiming the benefits.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A person's fixed or permanent home or place of residence",
+        "answer": "domicile"
+      },
+      "analogy": {
+        "pair": "temporary : sojourn",
+        "question": "permanent : ______",
+        "answer": "domicile"
+      },
+      "hint_words": "domicile, dwelling, refuge, abode",
+      "correct_word": "domicile",
+      "sentence": "He had to register his ______ address to vote in the local elections.",
+      "meaning_hi": "निवास स्थान",
+      "synonyms": [
+        "residence",
+        "abode",
+        "dwelling",
+        "habitation"
+      ],
+      "antonyms": [
+        "homelessness",
+        "vagrancy"
+      ]
+    },
+    {
+      "word": "dilapidated",
+      "hindi": "जर्जर / खस्ताहाल",
+      "meaning_en": "In a state of disrepair or ruin as a result of age or neglect",
+      "example_sentence": "The family was forced to vacate the dilapidated building for safety reasons.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A building fallen into ruin or disrepair due to neglect or age",
+        "answer": "dilapidated"
+      },
+      "analogy": {
+        "pair": "new : pristine",
+        "question": "old and neglected : ______",
+        "answer": "dilapidated"
+      },
+      "hint_words": "dilapidated, renovated, sturdy, modern",
+      "correct_word": "dilapidated",
+      "sentence": "The municipality ordered the demolition of the ______ structure near the school.",
+      "meaning_hi": "जर्जर",
+      "synonyms": [
+        "decrepit",
+        "crumbling",
+        "run-down",
+        "rickety"
+      ],
+      "antonyms": [
+        "pristine",
+        "sturdy",
+        "renovated"
+      ]
+    },
+    {
+      "word": "tenancy",
+      "hindi": "किरायेदारी / भाड़े का अधिकार",
+      "meaning_en": "The possession or occupancy of land or a property as a tenant",
+      "example_sentence": "The tenancy agreement was signed for a period of two years.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "The right to occupy a property under a rental agreement",
+        "answer": "tenancy"
+      },
+      "analogy": {
+        "pair": "ownership : proprietor",
+        "question": "renting : ______",
+        "answer": "tenancy"
+      },
+      "hint_words": "tenancy, ownership, mortgage, lease",
+      "correct_word": "tenancy",
+      "sentence": "The landlord terminated the ______ due to non-payment of rent.",
+      "meaning_hi": "किरायेदारी",
+      "synonyms": [
+        "lease",
+        "rental",
+        "occupancy",
+        "holding"
+      ],
+      "antonyms": [
+        "ownership",
+        "freehold"
+      ]
+    },
+    {
+      "word": "abode",
+      "hindi": "निवास / घर",
+      "meaning_en": "The place where someone lives; a house or home",
+      "example_sentence": "The traveller sought a humble abode to rest for the night.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A place where one lives or resides",
+        "answer": "abode"
+      },
+      "analogy": {
+        "pair": "bird : nest",
+        "question": "human : ______",
+        "answer": "abode"
+      },
+      "hint_words": "abode, workplace, transit, refuge",
+      "correct_word": "abode",
+      "sentence": "The old hermit had made a cave his ______ for many years.",
+      "meaning_hi": "निवास",
+      "synonyms": [
+        "dwelling",
+        "residence",
+        "domicile",
+        "habitation"
+      ],
+      "antonyms": [
+        "homelessness",
+        "displacement"
+      ]
+    },
+    {
+      "word": "renovation",
+      "hindi": "नवीकरण / मरम्मत",
+      "meaning_en": "The process of repairing and improving a building or structure",
+      "example_sentence": "The historic building underwent extensive renovation before reopening.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "The process of restoring a building to a good state of repair",
+        "answer": "renovation"
+      },
+      "analogy": {
+        "pair": "creation : construction",
+        "question": "restoration : ______",
+        "answer": "renovation"
+      },
+      "hint_words": "renovation, demolition, neglect, abandonment",
+      "correct_word": "renovation",
+      "sentence": "The housing society approved a ______ plan to upgrade all common areas.",
+      "meaning_hi": "नवीकरण",
+      "synonyms": [
+        "restoration",
+        "refurbishment",
+        "repair",
+        "overhaul"
+      ],
+      "antonyms": [
+        "demolition",
+        "neglect",
+        "deterioration"
+      ]
+    },
+    {
+      "word": "proprietor",
+      "hindi": "मालिक / स्वामी",
+      "meaning_en": "The owner of a business, property, or establishment",
+      "example_sentence": "The proprietor of the guesthouse welcomed every guest personally.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "The person who owns and runs a business or property",
+        "answer": "proprietor"
+      },
+      "analogy": {
+        "pair": "employee : worker",
+        "question": "owner : ______",
+        "answer": "proprietor"
+      },
+      "hint_words": "proprietor, tenant, guest, caretaker",
+      "correct_word": "proprietor",
+      "sentence": "The ______ of the building refused to renew the lease on unfavourable terms.",
+      "meaning_hi": "मालिक",
+      "synonyms": [
+        "owner",
+        "landlord",
+        "titleholder",
+        "master"
+      ],
+      "antonyms": [
+        "tenant",
+        "lessee",
+        "occupant"
+      ]
+    },
+    {
+      "word": "annexe",
+      "hindi": "संलग्न भवन / अनुलग्नक",
+      "meaning_en": "A building attached or added to a main building, providing extra space",
+      "example_sentence": "The school built an annexe to accommodate the growing number of students.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "An extension or additional building joined to the main structure",
+        "answer": "annexe"
+      },
+      "analogy": {
+        "pair": "original : building",
+        "question": "extension : ______",
+        "answer": "annexe"
+      },
+      "hint_words": "annexe, detached, basement, facade",
+      "correct_word": "annexe",
+      "sentence": "The guests were accommodated in the ______ behind the main house.",
+      "meaning_hi": "संलग्न भवन",
+      "synonyms": [
+        "extension",
+        "wing",
+        "addition",
+        "supplement"
+      ],
+      "antonyms": [
+        "main building",
+        "core structure"
+      ]
+    },
+    {
+      "word": "partition",
+      "hindi": "विभाजन / दीवार",
+      "meaning_en": "A structure dividing a room or space into two separate areas",
+      "example_sentence": "A wooden partition was installed to create two separate offices.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A thin wall or screen used to divide a room or space",
+        "answer": "partition"
+      },
+      "analogy": {
+        "pair": "open : hall",
+        "question": "divided : ______",
+        "answer": "partition"
+      },
+      "hint_words": "partition, merger, unification, expansion",
+      "correct_word": "partition",
+      "sentence": "They erected a glass ______ to separate the living room from the dining area.",
+      "meaning_hi": "विभाजन",
+      "synonyms": [
+        "divider",
+        "screen",
+        "barrier",
+        "separator"
+      ],
+      "antonyms": [
+        "merger",
+        "union",
+        "unification"
+      ]
+    },
+    {
+      "word": "inhabit",
+      "hindi": "निवास करना / बसना",
+      "meaning_en": "To live in or occupy a place as a resident",
+      "example_sentence": "Several endangered species inhabit this protected forest.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "To live in or occupy a particular place permanently",
+        "answer": "inhabit"
+      },
+      "analogy": {
+        "pair": "visit : tourist",
+        "question": "reside : ______",
+        "answer": "inhabit"
+      },
+      "hint_words": "inhabit, visit, vacate, abandon",
+      "correct_word": "inhabit",
+      "sentence": "Millions of people ______ the flood-prone regions along the river delta.",
+      "meaning_hi": "निवास करना",
+      "synonyms": [
+        "reside",
+        "occupy",
+        "dwell",
+        "populate"
+      ],
+      "antonyms": [
+        "vacate",
+        "abandon",
+        "evacuate"
+      ]
+    },
+    {
+      "word": "sequestered",
+      "hindi": "एकांत / अलग-थलग",
+      "meaning_en": "Kept away from others; isolated or hidden from the world",
+      "example_sentence": "The monk led a sequestered life in the mountains, away from all worldly distractions.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A place or life that is isolated and away from people or activity",
+        "answer": "sequestered"
+      },
+      "analogy": {
+        "pair": "public : exposed",
+        "question": "private : ______",
+        "answer": "sequestered"
+      },
+      "hint_words": "sequestered, communal, bustling, accessible",
+      "correct_word": "sequestered",
+      "sentence": "She preferred the ______ cottage in the hills to the noisy city apartment.",
+      "meaning_hi": "एकांत",
+      "synonyms": [
+        "isolated",
+        "secluded",
+        "cloistered",
+        "withdrawn"
+      ],
+      "antonyms": [
+        "public",
+        "accessible",
+        "exposed",
+        "communal"
+      ]
+    }
+  ]
+}

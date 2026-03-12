@@ -1,0 +1,276 @@
+{
+  "words": [
+    {
+      "word": "contemplate",
+      "hindi": "विचार करना / मनन करना",
+      "meaning_en": "To look thoughtfully at something for a long time; to think deeply about something",
+      "example_sentence": "He sat in silence to contemplate the meaning of his experience.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To think deeply and seriously about something over a period of time",
+        "answer": "contemplate"
+      },
+      "analogy": {
+        "pair": "act : execute",
+        "question": "think deeply : ______",
+        "answer": "contemplate"
+      },
+      "hint_words": "contemplate, ignore, dismiss, react",
+      "correct_word": "contemplate",
+      "sentence": "She paused to ______ the long-term consequences of her decision.",
+      "meaning_hi": "विचार करना",
+      "synonyms": [
+        "meditate",
+        "ponder",
+        "reflect",
+        "muse"
+      ],
+      "antonyms": [
+        "ignore",
+        "dismiss",
+        "act impulsively",
+        "overlook"
+      ]
+    },
+    {
+      "word": "procrastinate",
+      "hindi": "टालना / काम टालते रहना",
+      "meaning_en": "To delay or postpone action; to put off doing something",
+      "example_sentence": "Students who procrastinate often struggle to complete assignments on time.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To repeatedly delay or postpone doing something that needs to be done",
+        "answer": "procrastinate"
+      },
+      "analogy": {
+        "pair": "act : diligent",
+        "question": "delay : ______",
+        "answer": "procrastinate"
+      },
+      "hint_words": "procrastinate, expedite, hasten, prioritise",
+      "correct_word": "procrastinate",
+      "sentence": "If you continue to ______, you will miss every important deadline.",
+      "meaning_hi": "टालना",
+      "synonyms": [
+        "delay",
+        "defer",
+        "postpone",
+        "dither"
+      ],
+      "antonyms": [
+        "expedite",
+        "hasten",
+        "prioritise",
+        "act promptly"
+      ]
+    },
+    {
+      "word": "deliberate",
+      "hindi": "जानबूझकर / विचार-विमर्श करना",
+      "meaning_en": "Done consciously and intentionally; to think carefully before deciding",
+      "example_sentence": "The committee deliberated for hours before reaching a verdict.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To think carefully and weigh all options before making a decision",
+        "answer": "deliberate"
+      },
+      "analogy": {
+        "pair": "impulsive : rash",
+        "question": "thoughtful : ______",
+        "answer": "deliberate"
+      },
+      "hint_words": "deliberate, impulsive, hasty, reckless",
+      "correct_word": "deliberate",
+      "sentence": "The judge asked the jury to ______ carefully before delivering the final verdict.",
+      "meaning_hi": "जानबूझकर",
+      "synonyms": [
+        "intentional",
+        "premeditated",
+        "considered",
+        "calculated"
+      ],
+      "antonyms": [
+        "impulsive",
+        "hasty",
+        "accidental",
+        "spontaneous"
+      ]
+    },
+    {
+      "word": "collaborate",
+      "hindi": "सहयोग करना / मिलकर काम करना",
+      "meaning_en": "To work jointly with others, especially in an intellectual endeavour",
+      "example_sentence": "Scientists from different countries collaborated to develop the vaccine.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To work together with others towards a common goal or project",
+        "answer": "collaborate"
+      },
+      "analogy": {
+        "pair": "compete : rival",
+        "question": "cooperate : ______",
+        "answer": "collaborate"
+      },
+      "hint_words": "collaborate, compete, oppose, isolate",
+      "correct_word": "collaborate",
+      "sentence": "The two departments agreed to ______ on the development of the new product.",
+      "meaning_hi": "सहयोग करना",
+      "synonyms": [
+        "cooperate",
+        "team up",
+        "partner",
+        "work together"
+      ],
+      "antonyms": [
+        "compete",
+        "oppose",
+        "obstruct",
+        "work alone"
+      ]
+    },
+    {
+      "word": "instigate",
+      "hindi": "उकसाना / भड़काना",
+      "meaning_en": "To bring about or initiate an action or event; to provoke or stir up",
+      "example_sentence": "The provocative speech was seen as an attempt to instigate unrest.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To provoke, incite, or cause a person to do something, especially something wrong",
+        "answer": "instigate"
+      },
+      "analogy": {
+        "pair": "pacify : calm down",
+        "question": "provoke : ______",
+        "answer": "instigate"
+      },
+      "hint_words": "instigate, pacify, suppress, prevent",
+      "correct_word": "instigate",
+      "sentence": "The opposition accused the ruling party of trying to ______ communal tension.",
+      "meaning_hi": "उकसाना",
+      "synonyms": [
+        "provoke",
+        "incite",
+        "trigger",
+        "initiate"
+      ],
+      "antonyms": [
+        "pacify",
+        "suppress",
+        "prevent",
+        "discourage"
+      ]
+    },
+    {
+      "word": "expedite",
+      "hindi": "जल्दी करना / शीघ्र निपटाना",
+      "meaning_en": "To make a process happen sooner or be accomplished more quickly",
+      "example_sentence": "The minister ordered officials to expedite the relief operations.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To speed up or cause a task or process to be completed more quickly",
+        "answer": "expedite"
+      },
+      "analogy": {
+        "pair": "delay : procrastinate",
+        "question": "hurry : ______",
+        "answer": "expedite"
+      },
+      "hint_words": "expedite, delay, postpone, obstruct",
+      "correct_word": "expedite",
+      "sentence": "We need to ______ the approval process to meet the project deadline.",
+      "meaning_hi": "जल्दी करना",
+      "synonyms": [
+        "accelerate",
+        "hasten",
+        "quicken",
+        "facilitate"
+      ],
+      "antonyms": [
+        "delay",
+        "obstruct",
+        "postpone",
+        "hinder"
+      ]
+    },
+    {
+      "word": "implement",
+      "hindi": "लागू करना / क्रियान्वित करना",
+      "meaning_en": "To put a decision, plan, or agreement into effect",
+      "example_sentence": "The committee voted to implement the new attendance policy immediately.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To put a plan, decision, or policy into practical action",
+        "answer": "implement"
+      },
+      "analogy": {
+        "pair": "plan : design",
+        "question": "execute : ______",
+        "answer": "implement"
+      },
+      "hint_words": "implement, abandon, draft, discuss",
+      "correct_word": "implement",
+      "sentence": "Authorities need to ______ stricter regulations on industrial waste disposal.",
+      "meaning_hi": "लागू करना",
+      "synonyms": [
+        "execute",
+        "enforce",
+        "apply",
+        "carry out"
+      ],
+      "antonyms": [
+        "abandon",
+        "repeal",
+        "revoke",
+        "dismiss"
+      ]
+    },
+    {
+      "word": "aggravate",
+      "hindi": "बिगाड़ना / और खराब करना",
+      "meaning_en": "To make a problem, injury, or offence worse or more serious",
+      "example_sentence": "Stress can aggravate existing medical conditions significantly.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To intensify or make an already difficult or bad situation worse",
+        "answer": "aggravate"
+      },
+      "analogy": {
+        "pair": "heal : remedy",
+        "question": "worsen : ______",
+        "answer": "aggravate"
+      },
+      "hint_words": "aggravate, ameliorate, soothe, alleviate",
+      "correct_word": "aggravate",
+      "sentence": "Ignoring the early symptoms only served to ______ the patient's condition.",
+      "meaning_hi": "बिगाड़ना",
+      "synonyms": [
+        "worsen",
+        "intensify",
+        "inflame",
+        "compound"
+      ],
+      "antonyms": [
+        "ameliorate",
+        "alleviate",
+        "soothe",
+        "mitigate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "words": [
+    {
+      "word": "mercantile",
+      "hindi": "व्यापारिक / वाणिज्यिक",
+      "meaning_en": "Relating to trade or commerce",
+      "example_sentence": "India was a hub of mercantile activity during the medieval period.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "Relating to the business of buying and selling goods and trade",
+        "answer": "mercantile"
+      },
+      "analogy": {
+        "pair": "judicial : courts",
+        "question": "commercial : ______",
+        "answer": "mercantile"
+      },
+      "hint_words": "mercantile, judicial, ecclesiastical, agricultural",
+      "correct_word": "mercantile",
+      "sentence": "The port city thrived because of its vibrant ______ culture and sea trade routes.",
+      "meaning_hi": "व्यापारिक",
+      "synonyms": [
+        "commercial",
+        "trading",
+        "business",
+        "entrepreneurial"
+      ],
+      "antonyms": [
+        "non-commercial",
+        "charitable",
+        "philanthropic"
+      ]
+    },
+    {
+      "word": "barter",
+      "hindi": "वस्तु-विनिमय / अदला-बदली",
+      "meaning_en": "The exchange of goods or services without the use of money",
+      "example_sentence": "Before currency was invented, people used barter to trade goods.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A system of trade where goods are exchanged directly without money",
+        "answer": "barter"
+      },
+      "analogy": {
+        "pair": "currency : purchase",
+        "question": "goods exchange : ______",
+        "answer": "barter"
+      },
+      "hint_words": "barter, purchase, donation, taxation",
+      "correct_word": "barter",
+      "sentence": "The village economy relied on ______, with farmers trading grain for tools.",
+      "meaning_hi": "वस्तु-विनिमय",
+      "synonyms": [
+        "exchange",
+        "swap",
+        "trade",
+        "deal"
+      ],
+      "antonyms": [
+        "purchase",
+        "sale",
+        "monetary transaction"
+      ]
+    },
+    {
+      "word": "commodity",
+      "hindi": "वस्तु / माल",
+      "meaning_en": "A raw material or primary agricultural product that can be bought and sold",
+      "example_sentence": "Gold is considered a safe-haven commodity during economic crises.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A tradeable economic good or raw material, especially one that can be bought and sold",
+        "answer": "commodity"
+      },
+      "analogy": {
+        "pair": "share : stock market",
+        "question": "raw material : ______",
+        "answer": "commodity"
+      },
+      "hint_words": "commodity, liability, deficit, currency",
+      "correct_word": "commodity",
+      "sentence": "The price of every essential ______ rose sharply after the fuel price hike.",
+      "meaning_hi": "वस्तु",
+      "synonyms": [
+        "product",
+        "goods",
+        "merchandise",
+        "staple"
+      ],
+      "antonyms": [
+        "service",
+        "liability",
+        "intangible"
+      ]
+    },
+    {
+      "word": "consignment",
+      "hindi": "माल की खेप / परेषण",
+      "meaning_en": "A batch of goods sent or delivered to someone",
+      "example_sentence": "The consignment of medical supplies arrived at the affected region.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A batch or shipment of goods delivered to a buyer or destination",
+        "answer": "consignment"
+      },
+      "analogy": {
+        "pair": "letter : correspondence",
+        "question": "goods shipment : ______",
+        "answer": "consignment"
+      },
+      "hint_words": "consignment, retention, withdrawal, cancellation",
+      "correct_word": "consignment",
+      "sentence": "The ______ of textile goods was delayed at the port due to customs inspection.",
+      "meaning_hi": "माल की खेप",
+      "synonyms": [
+        "shipment",
+        "delivery",
+        "cargo",
+        "batch"
+      ],
+      "antonyms": [
+        "retention",
+        "withholding",
+        "return"
+      ]
+    },
+    {
+      "word": "extravagant",
+      "hindi": "अपव्ययी / फ़िज़ूलख़र्च",
+      "meaning_en": "Spending much more than is necessary or wise; exceeding what is reasonable",
+      "example_sentence": "Her extravagant lifestyle quickly depleted her savings.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A person who spends money excessively and far beyond reasonable limits",
+        "answer": "extravagant"
+      },
+      "analogy": {
+        "pair": "thrifty : frugal",
+        "question": "wasteful : ______",
+        "answer": "extravagant"
+      },
+      "hint_words": "extravagant, thrifty, abstemious, prudent",
+      "correct_word": "extravagant",
+      "sentence": "The ______ wedding cost more than most families earn in a decade.",
+      "meaning_hi": "अपव्ययी",
+      "synonyms": [
+        "lavish",
+        "wasteful",
+        "profligate",
+        "spendthrift"
+      ],
+      "antonyms": [
+        "frugal",
+        "thrifty",
+        "economical",
+        "prudent"
+      ]
+    },
+    {
+      "word": "subsidize",
+      "hindi": "सब्सिडी देना / सहायता देना",
+      "meaning_en": "To support financially by paying part of the cost of something",
+      "example_sentence": "The government decided to subsidize fertilisers to help farmers.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "To provide financial assistance to reduce the cost of goods or services for people",
+        "answer": "subsidize"
+      },
+      "analogy": {
+        "pair": "tax : collect",
+        "question": "aid : ______",
+        "answer": "subsidize"
+      },
+      "hint_words": "subsidize, tax, penalise, privatise",
+      "correct_word": "subsidize",
+      "sentence": "The state government agreed to ______ public transport to ease the burden on commuters.",
+      "meaning_hi": "सब्सिडी देना",
+      "synonyms": [
+        "fund",
+        "support",
+        "finance",
+        "underwrite"
+      ],
+      "antonyms": [
+        "tax",
+        "penalise",
+        "privatise",
+        "withdraw funding"
+      ]
+    },
+    {
+      "word": "vendor",
+      "hindi": "विक्रेता / दुकानदार",
+      "meaning_en": "A person or company offering something for sale",
+      "example_sentence": "Street vendors are an important part of the urban informal economy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A person who sells goods, especially in the street or at a stall",
+        "answer": "vendor"
+      },
+      "analogy": {
+        "pair": "buyer : purchaser",
+        "question": "seller : ______",
+        "answer": "vendor"
+      },
+      "hint_words": "vendor, customer, consumer, buyer",
+      "correct_word": "vendor",
+      "sentence": "The food ______ outside the school was warned to maintain hygiene standards.",
+      "meaning_hi": "विक्रेता",
+      "synonyms": [
+        "seller",
+        "trader",
+        "merchant",
+        "supplier"
+      ],
+      "antonyms": [
+        "buyer",
+        "customer",
+        "consumer",
+        "purchaser"
+      ]
+    },
+    {
+      "word": "liquidation",
+      "hindi": "परिसमापन / संपत्ति बेचना",
+      "meaning_en": "The process of bringing a business to an end and distributing its assets; selling off stock",
+      "example_sentence": "The struggling retailer was forced into liquidation after years of losses.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "The winding up of a company by selling its assets to pay off its debts",
+        "answer": "liquidation"
+      },
+      "analogy": {
+        "pair": "creation : inception",
+        "question": "closure : ______",
+        "answer": "liquidation"
+      },
+      "hint_words": "liquidation, incorporation, expansion, merger",
+      "correct_word": "liquidation",
+      "sentence": "The court ordered the ______ of the bankrupt company's remaining assets.",
+      "meaning_hi": "परिसमापन",
+      "synonyms": [
+        "winding up",
+        "dissolution",
+        "sell-off",
+        "clearance"
+      ],
+      "antonyms": [
+        "incorporation",
+        "expansion",
+        "establishment"
+      ]
+    },
+    {
+      "word": "consumerism",
+      "hindi": "उपभोक्तावाद",
+      "meaning_en": "The preoccupation of society with the acquisition of consumer goods",
+      "example_sentence": "Critics argue that rampant consumerism is fuelling environmental degradation.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A social and economic tendency towards the excessive purchase and consumption of goods",
+        "answer": "consumerism"
+      },
+      "analogy": {
+        "pair": "minimalism : simplicity",
+        "question": "excess consumption : ______",
+        "answer": "consumerism"
+      },
+      "hint_words": "consumerism, minimalism, frugality, asceticism",
+      "correct_word": "consumerism",
+      "sentence": "The festival season amplifies ______, with people spending far beyond their means.",
+      "meaning_hi": "उपभोक्तावाद",
+      "synonyms": [
+        "materialism",
+        "buying culture",
+        "acquisitiveness",
+        "commercialism"
+      ],
+      "antonyms": [
+        "minimalism",
+        "frugality",
+        "asceticism",
+        "austerity"
+      ]
+    },
+    {
+      "word": "procurement",
+      "hindi": "खरीद / प्राप्ति",
+      "meaning_en": "The action of obtaining or procuring something, especially for a business or government",
+      "example_sentence": "The government's public procurement policy ensures transparency in contracts.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "The process of acquiring goods or services by a company or government",
+        "answer": "procurement"
+      },
+      "analogy": {
+        "pair": "disposal : getting rid of",
+        "question": "acquisition : ______",
+        "answer": "procurement"
+      },
+      "hint_words": "procurement, disposal, donation, abandonment",
+      "correct_word": "procurement",
+      "sentence": "The defence ministry launched a new ______ policy for military equipment.",
+      "meaning_hi": "खरीद",
+      "synonyms": [
+        "acquisition",
+        "purchase",
+        "sourcing",
+        "obtaining"
+      ],
+      "antonyms": [
+        "disposal",
+        "sale",
+        "discarding"
+      ]
+    }
+  ]
+}

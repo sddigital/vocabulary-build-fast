@@ -1033,6 +1033,438 @@
       "sentence": "Be ______ of investment schemes that promise unrealistic returns.",
       "meaning_hi": "सतर्क",
       "example_sentence_hi": "निवेशक अस्थिर क्रिप्टोकरेंसी बाजार के प्रति सतर्क बने हुए हैं।"
+    },
+    {
+      "word": "proprietor",
+      "hindi": "मालिक / स्वामी",
+      "meaning_en": "The owner of a business, property, or establishment",
+      "example_sentence": "The proprietor of the guesthouse welcomed every guest personally.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "The person who owns and runs a business or property",
+        "answer": "proprietor"
+      },
+      "analogy": {
+        "pair": "employee : worker",
+        "question": "owner : ______",
+        "answer": "proprietor"
+      },
+      "hint_words": "proprietor, tenant, guest, caretaker",
+      "correct_word": "proprietor",
+      "sentence": "The ______ of the building refused to renew the lease on unfavourable terms.",
+      "meaning_hi": "मालिक",
+      "synonyms": [
+        "owner",
+        "landlord",
+        "titleholder",
+        "master"
+      ],
+      "antonyms": [
+        "tenant",
+        "lessee",
+        "occupant"
+      ]
+    },
+    {
+      "word": "subordinate",
+      "hindi": "अधीनस्थ / निम्न श्रेणी का",
+      "meaning_en": "Lower in rank or position; a person under the authority of another",
+      "example_sentence": "The manager asked his subordinate to prepare the quarterly report.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A person who is lower in rank and works under someone else's authority",
+        "answer": "subordinate"
+      },
+      "analogy": {
+        "pair": "chief : superior",
+        "question": "assistant : ______",
+        "answer": "subordinate"
+      },
+      "hint_words": "subordinate, superior, peer, director",
+      "correct_word": "subordinate",
+      "sentence": "The officer was reprimanded for ignoring the advice of his ______.",
+      "meaning_hi": "अधीनस्थ",
+      "synonyms": [
+        "junior",
+        "underling",
+        "deputy",
+        "assistant"
+      ],
+      "antonyms": [
+        "superior",
+        "boss",
+        "senior",
+        "chief"
+      ]
+    },
+    {
+      "word": "scrupulous",
+      "hindi": "ईमानदार / कर्तव्यनिष्ठ",
+      "meaning_en": "Diligent, thorough, and extremely attentive to details; having strong moral principles",
+      "example_sentence": "The auditor was scrupulous in reviewing every line of the financial records.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A person who is extremely careful, thorough, and honest in their work",
+        "answer": "scrupulous"
+      },
+      "analogy": {
+        "pair": "careless : negligent",
+        "question": "careful : ______",
+        "answer": "scrupulous"
+      },
+      "hint_words": "scrupulous, careless, reckless, dishonest",
+      "correct_word": "scrupulous",
+      "sentence": "Only a ______ accountant would catch such a subtle discrepancy in the ledger.",
+      "meaning_hi": "ईमानदार",
+      "synonyms": [
+        "meticulous",
+        "conscientious",
+        "thorough",
+        "principled"
+      ],
+      "antonyms": [
+        "careless",
+        "negligent",
+        "dishonest",
+        "sloppy"
+      ]
+    },
+    {
+      "word": "remuneration",
+      "hindi": "पारिश्रमिक / वेतन",
+      "meaning_en": "Payment or compensation received for services or work done",
+      "example_sentence": "She demanded fair remuneration for the additional responsibilities.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "The money paid to someone for the work or services they have provided",
+        "answer": "remuneration"
+      },
+      "analogy": {
+        "pair": "service : duty",
+        "question": "payment : ______",
+        "answer": "remuneration"
+      },
+      "hint_words": "remuneration, penalty, fine, donation",
+      "correct_word": "remuneration",
+      "sentence": "The employee negotiated a higher ______ before accepting the new role.",
+      "meaning_hi": "पारिश्रमिक",
+      "synonyms": [
+        "salary",
+        "wages",
+        "compensation",
+        "pay"
+      ],
+      "antonyms": [
+        "penalty",
+        "fine",
+        "deduction"
+      ]
+    },
+    {
+      "word": "delegation",
+      "hindi": "प्रतिनिधिमंडल / सौंपना",
+      "meaning_en": "The act of assigning authority or responsibility to another person",
+      "example_sentence": "Effective delegation is a key skill for any successful manager.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "The act of entrusting a task or authority to a subordinate",
+        "answer": "delegation"
+      },
+      "analogy": {
+        "pair": "control : centralise",
+        "question": "distribute : ______",
+        "answer": "delegation"
+      },
+      "hint_words": "delegation, micromanagement, centralisation, monopoly",
+      "correct_word": "delegation",
+      "sentence": "The CEO practised ______ by assigning key projects to department heads.",
+      "meaning_hi": "प्रतिनिधिमंडल",
+      "synonyms": [
+        "assignment",
+        "devolution",
+        "transfer",
+        "empowerment"
+      ],
+      "antonyms": [
+        "centralisation",
+        "micromanagement",
+        "retention"
+      ]
+    },
+    {
+      "word": "itinerary",
+      "hindi": "यात्रा कार्यक्रम",
+      "meaning_en": "A planned route or journey, or a detailed schedule of travel",
+      "example_sentence": "The travel agent prepared a detailed itinerary for the two-week tour.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A detailed plan or schedule of a journey including routes and stops",
+        "answer": "itinerary"
+      },
+      "analogy": {
+        "pair": "recipe : cooking",
+        "question": "schedule : ______",
+        "answer": "itinerary"
+      },
+      "hint_words": "itinerary, destination, passport, visa",
+      "correct_word": "itinerary",
+      "sentence": "She prepared a tight ______ to cover six cities in just ten days.",
+      "meaning_hi": "यात्रा कार्यक्रम",
+      "synonyms": [
+        "schedule",
+        "route",
+        "plan",
+        "agenda"
+      ],
+      "antonyms": [
+        "spontaneity",
+        "improvisation"
+      ]
+    },
+    {
+      "word": "mercantile",
+      "hindi": "व्यापारिक / वाणिज्यिक",
+      "meaning_en": "Relating to trade or commerce",
+      "example_sentence": "India was a hub of mercantile activity during the medieval period.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "Relating to the business of buying and selling goods and trade",
+        "answer": "mercantile"
+      },
+      "analogy": {
+        "pair": "judicial : courts",
+        "question": "commercial : ______",
+        "answer": "mercantile"
+      },
+      "hint_words": "mercantile, judicial, ecclesiastical, agricultural",
+      "correct_word": "mercantile",
+      "sentence": "The port city thrived because of its vibrant ______ culture and sea trade routes.",
+      "meaning_hi": "व्यापारिक",
+      "synonyms": [
+        "commercial",
+        "trading",
+        "business",
+        "entrepreneurial"
+      ],
+      "antonyms": [
+        "non-commercial",
+        "charitable",
+        "philanthropic"
+      ]
+    },
+    {
+      "word": "commodity",
+      "hindi": "वस्तु / माल",
+      "meaning_en": "A raw material or primary agricultural product that can be bought and sold",
+      "example_sentence": "Gold is considered a safe-haven commodity during economic crises.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A tradeable economic good or raw material, especially one that can be bought and sold",
+        "answer": "commodity"
+      },
+      "analogy": {
+        "pair": "share : stock market",
+        "question": "raw material : ______",
+        "answer": "commodity"
+      },
+      "hint_words": "commodity, liability, deficit, currency",
+      "correct_word": "commodity",
+      "sentence": "The price of every essential ______ rose sharply after the fuel price hike.",
+      "meaning_hi": "वस्तु",
+      "synonyms": [
+        "product",
+        "goods",
+        "merchandise",
+        "staple"
+      ],
+      "antonyms": [
+        "service",
+        "liability",
+        "intangible"
+      ]
+    },
+    {
+      "word": "consignment",
+      "hindi": "माल की खेप / परेषण",
+      "meaning_en": "A batch of goods sent or delivered to someone",
+      "example_sentence": "The consignment of medical supplies arrived at the affected region.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A batch or shipment of goods delivered to a buyer or destination",
+        "answer": "consignment"
+      },
+      "analogy": {
+        "pair": "letter : correspondence",
+        "question": "goods shipment : ______",
+        "answer": "consignment"
+      },
+      "hint_words": "consignment, retention, withdrawal, cancellation",
+      "correct_word": "consignment",
+      "sentence": "The ______ of textile goods was delayed at the port due to customs inspection.",
+      "meaning_hi": "माल की खेप",
+      "synonyms": [
+        "shipment",
+        "delivery",
+        "cargo",
+        "batch"
+      ],
+      "antonyms": [
+        "retention",
+        "withholding",
+        "return"
+      ]
+    },
+    {
+      "word": "subsidize",
+      "hindi": "सब्सिडी देना / सहायता देना",
+      "meaning_en": "To support financially by paying part of the cost of something",
+      "example_sentence": "The government decided to subsidize fertilisers to help farmers.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "To provide financial assistance to reduce the cost of goods or services for people",
+        "answer": "subsidize"
+      },
+      "analogy": {
+        "pair": "tax : collect",
+        "question": "aid : ______",
+        "answer": "subsidize"
+      },
+      "hint_words": "subsidize, tax, penalise, privatise",
+      "correct_word": "subsidize",
+      "sentence": "The state government agreed to ______ public transport to ease the burden on commuters.",
+      "meaning_hi": "सब्सिडी देना",
+      "synonyms": [
+        "fund",
+        "support",
+        "finance",
+        "underwrite"
+      ],
+      "antonyms": [
+        "tax",
+        "penalise",
+        "privatise",
+        "withdraw funding"
+      ]
+    },
+    {
+      "word": "liquidation",
+      "hindi": "परिसमापन / संपत्ति बेचना",
+      "meaning_en": "The process of bringing a business to an end and distributing its assets; selling off stock",
+      "example_sentence": "The struggling retailer was forced into liquidation after years of losses.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "The winding up of a company by selling its assets to pay off its debts",
+        "answer": "liquidation"
+      },
+      "analogy": {
+        "pair": "creation : inception",
+        "question": "closure : ______",
+        "answer": "liquidation"
+      },
+      "hint_words": "liquidation, incorporation, expansion, merger",
+      "correct_word": "liquidation",
+      "sentence": "The court ordered the ______ of the bankrupt company's remaining assets.",
+      "meaning_hi": "परिसमापन",
+      "synonyms": [
+        "winding up",
+        "dissolution",
+        "sell-off",
+        "clearance"
+      ],
+      "antonyms": [
+        "incorporation",
+        "expansion",
+        "establishment"
+      ]
+    },
+    {
+      "word": "procurement",
+      "hindi": "खरीद / प्राप्ति",
+      "meaning_en": "The action of obtaining or procuring something, especially for a business or government",
+      "example_sentence": "The government's public procurement policy ensures transparency in contracts.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "The process of acquiring goods or services by a company or government",
+        "answer": "procurement"
+      },
+      "analogy": {
+        "pair": "disposal : getting rid of",
+        "question": "acquisition : ______",
+        "answer": "procurement"
+      },
+      "hint_words": "procurement, disposal, donation, abandonment",
+      "correct_word": "procurement",
+      "sentence": "The defence ministry launched a new ______ policy for military equipment.",
+      "meaning_hi": "खरीद",
+      "synonyms": [
+        "acquisition",
+        "purchase",
+        "sourcing",
+        "obtaining"
+      ],
+      "antonyms": [
+        "disposal",
+        "sale",
+        "discarding"
+      ]
+    },
+    {
+      "word": "expedite",
+      "hindi": "जल्दी करना / शीघ्र निपटाना",
+      "meaning_en": "To make a process happen sooner or be accomplished more quickly",
+      "example_sentence": "The minister ordered officials to expedite the relief operations.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To speed up or cause a task or process to be completed more quickly",
+        "answer": "expedite"
+      },
+      "analogy": {
+        "pair": "delay : procrastinate",
+        "question": "hurry : ______",
+        "answer": "expedite"
+      },
+      "hint_words": "expedite, delay, postpone, obstruct",
+      "correct_word": "expedite",
+      "sentence": "We need to ______ the approval process to meet the project deadline.",
+      "meaning_hi": "जल्दी करना",
+      "synonyms": [
+        "accelerate",
+        "hasten",
+        "quicken",
+        "facilitate"
+      ],
+      "antonyms": [
+        "delay",
+        "obstruct",
+        "postpone",
+        "hinder"
+      ]
     }
   ]
 }

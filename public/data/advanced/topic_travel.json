@@ -1,0 +1,333 @@
+{
+  "words": [
+    {
+      "word": "itinerant",
+      "hindi": "यायावर / घुमंतू",
+      "meaning_en": "Travelling from place to place, typically for work",
+      "example_sentence": "An itinerant musician travelled the countryside performing folk songs.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A person who travels from place to place, especially for work",
+        "answer": "itinerant"
+      },
+      "analogy": {
+        "pair": "settled : stationary",
+        "question": "wandering : ______",
+        "answer": "itinerant"
+      },
+      "hint_words": "itinerant, stationary, sedentary, settled",
+      "correct_word": "itinerant",
+      "sentence": "The ______ trader sold his goods in different village markets every week.",
+      "meaning_hi": "यायावर",
+      "synonyms": [
+        "wandering",
+        "nomadic",
+        "roving",
+        "peripatetic"
+      ],
+      "antonyms": [
+        "settled",
+        "stationary",
+        "sedentary"
+      ]
+    },
+    {
+      "word": "sojourn",
+      "hindi": "अस्थायी प्रवास / कुछ समय रुकना",
+      "meaning_en": "A temporary stay at a particular place",
+      "example_sentence": "Her sojourn in Paris lasted only three weeks, but changed her life.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A short temporary stay at a place",
+        "answer": "sojourn"
+      },
+      "analogy": {
+        "pair": "permanent : domicile",
+        "question": "temporary : ______",
+        "answer": "sojourn"
+      },
+      "hint_words": "sojourn, domicile, emigration, settlement",
+      "correct_word": "sojourn",
+      "sentence": "After a brief ______ in the hill station, she returned to her demanding city job.",
+      "meaning_hi": "अस्थायी प्रवास",
+      "synonyms": [
+        "stay",
+        "visit",
+        "stopover",
+        "holiday"
+      ],
+      "antonyms": [
+        "permanent residence",
+        "settlement",
+        "domicile"
+      ]
+    },
+    {
+      "word": "nomadic",
+      "hindi": "खानाबदोश / घुमंतू",
+      "meaning_en": "Relating to a way of life involving moving from place to place without a fixed home",
+      "example_sentence": "The nomadic tribes of the Sahara follow ancient migratory routes.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "Describing a lifestyle of constantly moving without a permanent home",
+        "answer": "nomadic"
+      },
+      "analogy": {
+        "pair": "urban : settled",
+        "question": "wandering : ______",
+        "answer": "nomadic"
+      },
+      "hint_words": "nomadic, sedentary, urban, permanent",
+      "correct_word": "nomadic",
+      "sentence": "The journalist lived a ______ lifestyle, spending months in different countries.",
+      "meaning_hi": "खानाबदोश",
+      "synonyms": [
+        "wandering",
+        "roving",
+        "migratory",
+        "itinerant"
+      ],
+      "antonyms": [
+        "settled",
+        "stationary",
+        "sedentary",
+        "permanent"
+      ]
+    },
+    {
+      "word": "pilgrimage",
+      "hindi": "तीर्थयात्रा",
+      "meaning_en": "A journey to a sacred place for religious reasons",
+      "example_sentence": "Every year, millions undertake the pilgrimage to Mecca.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A journey undertaken to a holy or sacred place for religious devotion",
+        "answer": "pilgrimage"
+      },
+      "analogy": {
+        "pair": "pleasure : excursion",
+        "question": "religion : ______",
+        "answer": "pilgrimage"
+      },
+      "hint_words": "pilgrimage, excursion, expedition, tour",
+      "correct_word": "pilgrimage",
+      "sentence": "The elderly couple completed their lifelong dream of a ______ to Varanasi.",
+      "meaning_hi": "तीर्थयात्रा",
+      "synonyms": [
+        "holy journey",
+        "trek",
+        "devotional visit",
+        "hajj"
+      ],
+      "antonyms": [
+        "secular trip",
+        "leisure travel"
+      ]
+    },
+    {
+      "word": "excursion",
+      "hindi": "भ्रमण / छोटी यात्रा",
+      "meaning_en": "A short journey or trip, usually for leisure or education",
+      "example_sentence": "The class went on an excursion to the science museum.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A short trip or outing made for pleasure or educational purposes",
+        "answer": "excursion"
+      },
+      "analogy": {
+        "pair": "long journey : expedition",
+        "question": "short trip : ______",
+        "answer": "excursion"
+      },
+      "hint_words": "excursion, migration, pilgrimage, expedition",
+      "correct_word": "excursion",
+      "sentence": "The school organised an educational ______ to the national heritage site.",
+      "meaning_hi": "भ्रमण",
+      "synonyms": [
+        "outing",
+        "trip",
+        "jaunt",
+        "tour"
+      ],
+      "antonyms": [
+        "stay",
+        "confinement",
+        "isolation"
+      ]
+    },
+    {
+      "word": "emigrate",
+      "hindi": "प्रवास करना / देश छोड़ना",
+      "meaning_en": "To leave one's own country in order to settle permanently in another",
+      "example_sentence": "Thousands emigrated to Canada in search of better opportunities.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "To leave one's native country permanently to settle in another",
+        "answer": "emigrate"
+      },
+      "analogy": {
+        "pair": "arrive : immigrate",
+        "question": "depart : ______",
+        "answer": "emigrate"
+      },
+      "hint_words": "emigrate, immigrate, repatriate, visit",
+      "correct_word": "emigrate",
+      "sentence": "She decided to ______ to Australia after accepting a job offer there.",
+      "meaning_hi": "प्रवास करना",
+      "synonyms": [
+        "migrate",
+        "relocate",
+        "leave",
+        "depart"
+      ],
+      "antonyms": [
+        "immigrate",
+        "return",
+        "repatriate"
+      ]
+    },
+    {
+      "word": "itinerary",
+      "hindi": "यात्रा कार्यक्रम",
+      "meaning_en": "A planned route or journey, or a detailed schedule of travel",
+      "example_sentence": "The travel agent prepared a detailed itinerary for the two-week tour.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A detailed plan or schedule of a journey including routes and stops",
+        "answer": "itinerary"
+      },
+      "analogy": {
+        "pair": "recipe : cooking",
+        "question": "schedule : ______",
+        "answer": "itinerary"
+      },
+      "hint_words": "itinerary, destination, passport, visa",
+      "correct_word": "itinerary",
+      "sentence": "She prepared a tight ______ to cover six cities in just ten days.",
+      "meaning_hi": "यात्रा कार्यक्रम",
+      "synonyms": [
+        "schedule",
+        "route",
+        "plan",
+        "agenda"
+      ],
+      "antonyms": [
+        "spontaneity",
+        "improvisation"
+      ]
+    },
+    {
+      "word": "wayfarer",
+      "hindi": "पथिक / यात्री",
+      "meaning_en": "A person who travels on foot from place to place",
+      "example_sentence": "The kind innkeeper offered shelter to a tired wayfarer.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A traveller who journeys on foot across various places",
+        "answer": "wayfarer"
+      },
+      "analogy": {
+        "pair": "sea : sailor",
+        "question": "road : ______",
+        "answer": "wayfarer"
+      },
+      "hint_words": "wayfarer, settler, recluse, hermit",
+      "correct_word": "wayfarer",
+      "sentence": "The ancient poem describes a weary ______ seeking rest under a banyan tree.",
+      "meaning_hi": "पथिक",
+      "synonyms": [
+        "traveller",
+        "wanderer",
+        "pilgrim",
+        "rambler"
+      ],
+      "antonyms": [
+        "settler",
+        "resident",
+        "homebody"
+      ]
+    },
+    {
+      "word": "traverse",
+      "hindi": "पार करना / आर-पार जाना",
+      "meaning_en": "To travel across or through an area",
+      "example_sentence": "The expedition team traversed the Himalayan range in winter.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "To travel or move across a wide or difficult stretch of land or water",
+        "answer": "traverse"
+      },
+      "analogy": {
+        "pair": "climb : ascend",
+        "question": "cross : ______",
+        "answer": "traverse"
+      },
+      "hint_words": "traverse, avoid, retreat, circumvent",
+      "correct_word": "traverse",
+      "sentence": "The cyclists planned to ______ the entire length of the coastal highway.",
+      "meaning_hi": "पार करना",
+      "synonyms": [
+        "cross",
+        "cover",
+        "navigate",
+        "ford"
+      ],
+      "antonyms": [
+        "avoid",
+        "bypass",
+        "retreat"
+      ]
+    },
+    {
+      "word": "peregrination",
+      "hindi": "दीर्घकालीन यात्रा / भ्रमण",
+      "meaning_en": "A long and winding journey, especially one made on foot",
+      "example_sentence": "The monk's peregrination across India lasted several years.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A long journey or pilgrimage, especially on foot across many places",
+        "answer": "peregrination"
+      },
+      "analogy": {
+        "pair": "sprint : brief effort",
+        "question": "long journey : ______",
+        "answer": "peregrination"
+      },
+      "hint_words": "peregrination, sedentarism, confinement, stagnation",
+      "correct_word": "peregrination",
+      "sentence": "His ______ through remote tribal regions gave him rare insights into indigenous cultures.",
+      "meaning_hi": "दीर्घकालीन यात्रा",
+      "synonyms": [
+        "journey",
+        "wandering",
+        "roaming",
+        "odyssey"
+      ],
+      "antonyms": [
+        "settlement",
+        "confinement",
+        "stagnation"
+      ]
+    }
+  ]
+}

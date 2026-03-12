@@ -857,6 +857,206 @@
       "sentence": "His ______ response to criticism destroyed his reputation among peers.",
       "meaning_hi": "प्रतिशोधी",
       "example_sentence_hi": "प्रतिशोधी प्रबंधक ने व्हिसलब्लोअर को खराब प्रदर्शन समीक्षा दी।"
+    },
+    {
+      "word": "tenancy",
+      "hindi": "किरायेदारी / भाड़े का अधिकार",
+      "meaning_en": "The possession or occupancy of land or a property as a tenant",
+      "example_sentence": "The tenancy agreement was signed for a period of two years.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "The right to occupy a property under a rental agreement",
+        "answer": "tenancy"
+      },
+      "analogy": {
+        "pair": "ownership : proprietor",
+        "question": "renting : ______",
+        "answer": "tenancy"
+      },
+      "hint_words": "tenancy, ownership, mortgage, lease",
+      "correct_word": "tenancy",
+      "sentence": "The landlord terminated the ______ due to non-payment of rent.",
+      "meaning_hi": "किरायेदारी",
+      "synonyms": [
+        "lease",
+        "rental",
+        "occupancy",
+        "holding"
+      ],
+      "antonyms": [
+        "ownership",
+        "freehold"
+      ]
+    },
+    {
+      "word": "sojourn",
+      "hindi": "अस्थायी प्रवास / कुछ समय रुकना",
+      "meaning_en": "A temporary stay at a particular place",
+      "example_sentence": "Her sojourn in Paris lasted only three weeks, but changed her life.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A short temporary stay at a place",
+        "answer": "sojourn"
+      },
+      "analogy": {
+        "pair": "permanent : domicile",
+        "question": "temporary : ______",
+        "answer": "sojourn"
+      },
+      "hint_words": "sojourn, domicile, emigration, settlement",
+      "correct_word": "sojourn",
+      "sentence": "After a brief ______ in the hill station, she returned to her demanding city job.",
+      "meaning_hi": "अस्थायी प्रवास",
+      "synonyms": [
+        "stay",
+        "visit",
+        "stopover",
+        "holiday"
+      ],
+      "antonyms": [
+        "permanent residence",
+        "settlement",
+        "domicile"
+      ]
+    },
+    {
+      "word": "peregrination",
+      "hindi": "दीर्घकालीन यात्रा / भ्रमण",
+      "meaning_en": "A long and winding journey, especially one made on foot",
+      "example_sentence": "The monk's peregrination across India lasted several years.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A long journey or pilgrimage, especially on foot across many places",
+        "answer": "peregrination"
+      },
+      "analogy": {
+        "pair": "sprint : brief effort",
+        "question": "long journey : ______",
+        "answer": "peregrination"
+      },
+      "hint_words": "peregrination, sedentarism, confinement, stagnation",
+      "correct_word": "peregrination",
+      "sentence": "His ______ through remote tribal regions gave him rare insights into indigenous cultures.",
+      "meaning_hi": "दीर्घकालीन यात्रा",
+      "synonyms": [
+        "journey",
+        "wandering",
+        "roaming",
+        "odyssey"
+      ],
+      "antonyms": [
+        "settlement",
+        "confinement",
+        "stagnation"
+      ]
+    },
+    {
+      "word": "abstemious",
+      "hindi": "संयमी / कम खाने-पीने वाला",
+      "meaning_en": "Not allowing oneself to enjoy food and drink very much",
+      "example_sentence": "Despite his wealth, the elder statesman led an abstemious lifestyle.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "A person who practises self-restraint and consumes very little food or drink",
+        "answer": "abstemious"
+      },
+      "analogy": {
+        "pair": "lavish : extravagant",
+        "question": "moderate : ______",
+        "answer": "abstemious"
+      },
+      "hint_words": "abstemious, voracious, indulgent, gluttonous",
+      "correct_word": "abstemious",
+      "sentence": "The athlete's ______ diet was key to his remarkable fitness and stamina.",
+      "meaning_hi": "संयमी",
+      "synonyms": [
+        "temperate",
+        "moderate",
+        "sparing",
+        "austere"
+      ],
+      "antonyms": [
+        "indulgent",
+        "voracious",
+        "gluttonous",
+        "excessive"
+      ]
+    },
+    {
+      "word": "palliate",
+      "hindi": "कम करना / लक्षणों को शांत करना",
+      "meaning_en": "To relieve the symptoms of a disease without curing it; to make less severe",
+      "example_sentence": "Painkillers can palliate the symptoms but cannot cure the underlying condition.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "To reduce the severity of symptoms without treating the underlying cause",
+        "answer": "palliate"
+      },
+      "analogy": {
+        "pair": "cure : eliminate",
+        "question": "relieve symptoms : ______",
+        "answer": "palliate"
+      },
+      "hint_words": "palliate, aggravate, worsen, cure",
+      "correct_word": "palliate",
+      "sentence": "The new drug could ______ pain in terminal patients but offered no prospect of cure.",
+      "meaning_hi": "कम करना",
+      "synonyms": [
+        "alleviate",
+        "relieve",
+        "soothe",
+        "ease"
+      ],
+      "antonyms": [
+        "aggravate",
+        "worsen",
+        "intensify",
+        "cure"
+      ]
+    },
+    {
+      "word": "disconsolate",
+      "hindi": "बहुत दुखी / निराश",
+      "meaning_en": "Deeply sad and unable to be comforted",
+      "example_sentence": "She was disconsolate after failing her dream examination for the third time.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A person who is profoundly sad and beyond being comforted",
+        "answer": "disconsolate"
+      },
+      "analogy": {
+        "pair": "cheerful : elated",
+        "question": "grief-stricken : ______",
+        "answer": "disconsolate"
+      },
+      "hint_words": "disconsolate, jubilant, content, serene",
+      "correct_word": "disconsolate",
+      "sentence": "The family remained ______ for months after their irreplaceable loss.",
+      "meaning_hi": "बहुत दुखी",
+      "synonyms": [
+        "inconsolable",
+        "heartbroken",
+        "desolate",
+        "woeful"
+      ],
+      "antonyms": [
+        "jubilant",
+        "cheerful",
+        "elated",
+        "content"
+      ]
     }
   ]
 }

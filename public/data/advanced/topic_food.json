@@ -1,0 +1,338 @@
+{
+  "words": [
+    {
+      "word": "gastronomy",
+      "hindi": "पाक कला / भोजन विज्ञान",
+      "meaning_en": "The practice or art of choosing, cooking, and eating good food",
+      "example_sentence": "The chef's expertise in gastronomy earned him three Michelin stars.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "The art and knowledge of fine cooking and appreciation of good food",
+        "answer": "gastronomy"
+      },
+      "analogy": {
+        "pair": "astronomy : stars",
+        "question": "food : ______",
+        "answer": "gastronomy"
+      },
+      "hint_words": "gastronomy, astronomy, agronomy, taxonomy",
+      "correct_word": "gastronomy",
+      "sentence": "The city is famous for its rich ______, drawing food lovers from across the world.",
+      "meaning_hi": "पाक कला",
+      "synonyms": [
+        "culinary art",
+        "cuisine",
+        "cookery",
+        "epicureanism"
+      ],
+      "antonyms": [
+        "fasting",
+        "abstinence",
+        "austerity"
+      ]
+    },
+    {
+      "word": "sustenance",
+      "hindi": "भरण-पोषण / जीवनाधार",
+      "meaning_en": "Food and drink regarded as a source of strength and nutrition",
+      "example_sentence": "The trapped miners survived on minimal sustenance for weeks.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Food and nourishment necessary to maintain life and health",
+        "answer": "sustenance"
+      },
+      "analogy": {
+        "pair": "water : hydration",
+        "question": "food : ______",
+        "answer": "sustenance"
+      },
+      "hint_words": "sustenance, poison, deprivation, starvation",
+      "correct_word": "sustenance",
+      "sentence": "The charity provided daily ______ to hundreds of homeless people.",
+      "meaning_hi": "भरण-पोषण",
+      "synonyms": [
+        "nourishment",
+        "nutrition",
+        "food",
+        "provisions"
+      ],
+      "antonyms": [
+        "starvation",
+        "deprivation",
+        "fasting"
+      ]
+    },
+    {
+      "word": "palatable",
+      "hindi": "स्वादिष्ट / स्वीकार्य",
+      "meaning_en": "Pleasant to taste; also acceptable or agreeable to the mind",
+      "example_sentence": "The hospital food was barely palatable, but the patient ate it anyway.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Food or an idea that is acceptable and pleasant, not offensive or distasteful",
+        "answer": "palatable"
+      },
+      "analogy": {
+        "pair": "beautiful : appealing",
+        "question": "tasty : ______",
+        "answer": "palatable"
+      },
+      "hint_words": "palatable, repulsive, nauseating, bitter",
+      "correct_word": "palatable",
+      "sentence": "The bland medicine was made more ______ by mixing it with juice.",
+      "meaning_hi": "स्वादिष्ट",
+      "synonyms": [
+        "tasty",
+        "appetising",
+        "acceptable",
+        "agreeable"
+      ],
+      "antonyms": [
+        "unpalatable",
+        "repulsive",
+        "nauseating",
+        "distasteful"
+      ]
+    },
+    {
+      "word": "voracious",
+      "hindi": "अतिभोजी / लालची",
+      "meaning_en": "Having a very eager approach to an activity, especially eating",
+      "example_sentence": "He was a voracious reader who finished three novels a week.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Extremely eager and greedy, especially in eating or consuming something",
+        "answer": "voracious"
+      },
+      "analogy": {
+        "pair": "modest : restrained",
+        "question": "greedy : ______",
+        "answer": "voracious"
+      },
+      "hint_words": "voracious, moderate, abstemious, indifferent",
+      "correct_word": "voracious",
+      "sentence": "The ______ appetite of the young athlete required six meals a day.",
+      "meaning_hi": "अतिभोजी",
+      "synonyms": [
+        "ravenous",
+        "gluttonous",
+        "insatiable",
+        "avid"
+      ],
+      "antonyms": [
+        "moderate",
+        "abstemious",
+        "restrained",
+        "indifferent"
+      ]
+    },
+    {
+      "word": "nourishment",
+      "hindi": "पोषण / आहार",
+      "meaning_en": "The food and other substances necessary for growth, health, and good condition",
+      "example_sentence": "Children in remote areas lack adequate nourishment due to poverty.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "The essential food or nutrients required for growth, health and life",
+        "answer": "nourishment"
+      },
+      "analogy": {
+        "pair": "fuel : engine",
+        "question": "food : ______",
+        "answer": "nourishment"
+      },
+      "hint_words": "nourishment, deprivation, starvation, toxin",
+      "correct_word": "nourishment",
+      "sentence": "The doctor stressed the importance of proper ______ during pregnancy.",
+      "meaning_hi": "पोषण",
+      "synonyms": [
+        "nutrition",
+        "sustenance",
+        "food",
+        "alimentation"
+      ],
+      "antonyms": [
+        "starvation",
+        "deprivation",
+        "malnutrition"
+      ]
+    },
+    {
+      "word": "delicacy",
+      "hindi": "स्वादिष्ट व्यंजन / नाज़ुकपन",
+      "meaning_en": "A choice or expensive food item; also the quality of being delicate or fine",
+      "example_sentence": "Sea urchin is considered a delicacy in Japan.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "A rare or expensive food item considered a special treat",
+        "answer": "delicacy"
+      },
+      "analogy": {
+        "pair": "staple : ordinary food",
+        "question": "special food : ______",
+        "answer": "delicacy"
+      },
+      "hint_words": "delicacy, staple, refuse, fodder",
+      "correct_word": "delicacy",
+      "sentence": "Saffron, known as a culinary ______, is among the world's most expensive spices.",
+      "meaning_hi": "स्वादिष्ट व्यंजन",
+      "synonyms": [
+        "delicatessen",
+        "titbit",
+        "luxury food",
+        "speciality"
+      ],
+      "antonyms": [
+        "staple",
+        "ordinary food",
+        "basic fare"
+      ]
+    },
+    {
+      "word": "abstinence",
+      "hindi": "संयम / परहेज",
+      "meaning_en": "The practice of restraining oneself from indulging in something, especially food or drink",
+      "example_sentence": "The doctor prescribed complete abstinence from alcohol and spicy food.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "The deliberate self-restraint from consuming food, drink or other pleasures",
+        "answer": "abstinence"
+      },
+      "analogy": {
+        "pair": "indulgence : excess",
+        "question": "restraint : ______",
+        "answer": "abstinence"
+      },
+      "hint_words": "abstinence, indulgence, gluttony, excess",
+      "correct_word": "abstinence",
+      "sentence": "Religious ______ during fasting periods is practised across many cultures.",
+      "meaning_hi": "संयम",
+      "synonyms": [
+        "self-restraint",
+        "temperance",
+        "fasting",
+        "sobriety"
+      ],
+      "antonyms": [
+        "indulgence",
+        "excess",
+        "gluttony",
+        "intemperance"
+      ]
+    },
+    {
+      "word": "abstemious",
+      "hindi": "संयमी / कम खाने-पीने वाला",
+      "meaning_en": "Not allowing oneself to enjoy food and drink very much",
+      "example_sentence": "Despite his wealth, the elder statesman led an abstemious lifestyle.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "A person who practises self-restraint and consumes very little food or drink",
+        "answer": "abstemious"
+      },
+      "analogy": {
+        "pair": "lavish : extravagant",
+        "question": "moderate : ______",
+        "answer": "abstemious"
+      },
+      "hint_words": "abstemious, voracious, indulgent, gluttonous",
+      "correct_word": "abstemious",
+      "sentence": "The athlete's ______ diet was key to his remarkable fitness and stamina.",
+      "meaning_hi": "संयमी",
+      "synonyms": [
+        "temperate",
+        "moderate",
+        "sparing",
+        "austere"
+      ],
+      "antonyms": [
+        "indulgent",
+        "voracious",
+        "gluttonous",
+        "excessive"
+      ]
+    },
+    {
+      "word": "repast",
+      "hindi": "भोजन / खाना",
+      "meaning_en": "A meal; food eaten at a particular time",
+      "example_sentence": "After the long journey, the weary travellers enjoyed a hearty repast.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "A formal or literary word for a meal",
+        "answer": "repast"
+      },
+      "analogy": {
+        "pair": "sleep : slumber",
+        "question": "meal : ______",
+        "answer": "repast"
+      },
+      "hint_words": "repast, fast, diet, abstinence",
+      "correct_word": "repast",
+      "sentence": "The royal family hosted a lavish ______ in honour of the visiting dignitaries.",
+      "meaning_hi": "भोजन",
+      "synonyms": [
+        "meal",
+        "feast",
+        "spread",
+        "banquet"
+      ],
+      "antonyms": [
+        "fast",
+        "abstinence",
+        "starvation"
+      ]
+    },
+    {
+      "word": "culinary",
+      "hindi": "रसोई संबंधी / पाक-कला संबंधी",
+      "meaning_en": "Relating to cooking or the kitchen",
+      "example_sentence": "She enrolled in a culinary school to pursue her passion for cooking.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Relating to the art or practice of cooking and kitchen preparation",
+        "answer": "culinary"
+      },
+      "analogy": {
+        "pair": "medical : health",
+        "question": "cooking : ______",
+        "answer": "culinary"
+      },
+      "hint_words": "culinary, literary, military, monetary",
+      "correct_word": "culinary",
+      "sentence": "The chef's ______ skills were evident from the intricate presentation of each dish.",
+      "meaning_hi": "रसोई संबंधी",
+      "synonyms": [
+        "gastronomic",
+        "kitchen",
+        "cooking",
+        "epicurean"
+      ],
+      "antonyms": [
+        "non-culinary",
+        "raw",
+        "unprocessed"
+      ]
+    }
+  ]
+}

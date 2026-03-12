@@ -1341,6 +1341,1536 @@
       "sentence": "The memorial was built to ______ those who gave their lives for the nation.",
       "meaning_hi": "श्रद्धा करना",
       "example_sentence_hi": "भारतीय संस्कृति में बुजुर्गों को ज्ञान के स्रोत के रूप में श्रद्धा दी जाती है।"
+    },
+    {
+      "word": "domicile",
+      "hindi": "निवास स्थान",
+      "meaning_en": "A person's permanent home or place of residence",
+      "example_sentence": "He had to prove his domicile before claiming the benefits.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A person's fixed or permanent home or place of residence",
+        "answer": "domicile"
+      },
+      "analogy": {
+        "pair": "temporary : sojourn",
+        "question": "permanent : ______",
+        "answer": "domicile"
+      },
+      "hint_words": "domicile, dwelling, refuge, abode",
+      "correct_word": "domicile",
+      "sentence": "He had to register his ______ address to vote in the local elections.",
+      "meaning_hi": "निवास स्थान",
+      "synonyms": [
+        "residence",
+        "abode",
+        "dwelling",
+        "habitation"
+      ],
+      "antonyms": [
+        "homelessness",
+        "vagrancy"
+      ]
+    },
+    {
+      "word": "dilapidated",
+      "hindi": "जर्जर / खस्ताहाल",
+      "meaning_en": "In a state of disrepair or ruin as a result of age or neglect",
+      "example_sentence": "The family was forced to vacate the dilapidated building for safety reasons.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A building fallen into ruin or disrepair due to neglect or age",
+        "answer": "dilapidated"
+      },
+      "analogy": {
+        "pair": "new : pristine",
+        "question": "old and neglected : ______",
+        "answer": "dilapidated"
+      },
+      "hint_words": "dilapidated, renovated, sturdy, modern",
+      "correct_word": "dilapidated",
+      "sentence": "The municipality ordered the demolition of the ______ structure near the school.",
+      "meaning_hi": "जर्जर",
+      "synonyms": [
+        "decrepit",
+        "crumbling",
+        "run-down",
+        "rickety"
+      ],
+      "antonyms": [
+        "pristine",
+        "sturdy",
+        "renovated"
+      ]
+    },
+    {
+      "word": "abode",
+      "hindi": "निवास / घर",
+      "meaning_en": "The place where someone lives; a house or home",
+      "example_sentence": "The traveller sought a humble abode to rest for the night.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A place where one lives or resides",
+        "answer": "abode"
+      },
+      "analogy": {
+        "pair": "bird : nest",
+        "question": "human : ______",
+        "answer": "abode"
+      },
+      "hint_words": "abode, workplace, transit, refuge",
+      "correct_word": "abode",
+      "sentence": "The old hermit had made a cave his ______ for many years.",
+      "meaning_hi": "निवास",
+      "synonyms": [
+        "dwelling",
+        "residence",
+        "domicile",
+        "habitation"
+      ],
+      "antonyms": [
+        "homelessness",
+        "displacement"
+      ]
+    },
+    {
+      "word": "renovation",
+      "hindi": "नवीकरण / मरम्मत",
+      "meaning_en": "The process of repairing and improving a building or structure",
+      "example_sentence": "The historic building underwent extensive renovation before reopening.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "The process of restoring a building to a good state of repair",
+        "answer": "renovation"
+      },
+      "analogy": {
+        "pair": "creation : construction",
+        "question": "restoration : ______",
+        "answer": "renovation"
+      },
+      "hint_words": "renovation, demolition, neglect, abandonment",
+      "correct_word": "renovation",
+      "sentence": "The housing society approved a ______ plan to upgrade all common areas.",
+      "meaning_hi": "नवीकरण",
+      "synonyms": [
+        "restoration",
+        "refurbishment",
+        "repair",
+        "overhaul"
+      ],
+      "antonyms": [
+        "demolition",
+        "neglect",
+        "deterioration"
+      ]
+    },
+    {
+      "word": "annexe",
+      "hindi": "संलग्न भवन / अनुलग्नक",
+      "meaning_en": "A building attached or added to a main building, providing extra space",
+      "example_sentence": "The school built an annexe to accommodate the growing number of students.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "An extension or additional building joined to the main structure",
+        "answer": "annexe"
+      },
+      "analogy": {
+        "pair": "original : building",
+        "question": "extension : ______",
+        "answer": "annexe"
+      },
+      "hint_words": "annexe, detached, basement, facade",
+      "correct_word": "annexe",
+      "sentence": "The guests were accommodated in the ______ behind the main house.",
+      "meaning_hi": "संलग्न भवन",
+      "synonyms": [
+        "extension",
+        "wing",
+        "addition",
+        "supplement"
+      ],
+      "antonyms": [
+        "main building",
+        "core structure"
+      ]
+    },
+    {
+      "word": "partition",
+      "hindi": "विभाजन / दीवार",
+      "meaning_en": "A structure dividing a room or space into two separate areas",
+      "example_sentence": "A wooden partition was installed to create two separate offices.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "A thin wall or screen used to divide a room or space",
+        "answer": "partition"
+      },
+      "analogy": {
+        "pair": "open : hall",
+        "question": "divided : ______",
+        "answer": "partition"
+      },
+      "hint_words": "partition, merger, unification, expansion",
+      "correct_word": "partition",
+      "sentence": "They erected a glass ______ to separate the living room from the dining area.",
+      "meaning_hi": "विभाजन",
+      "synonyms": [
+        "divider",
+        "screen",
+        "barrier",
+        "separator"
+      ],
+      "antonyms": [
+        "merger",
+        "union",
+        "unification"
+      ]
+    },
+    {
+      "word": "inhabit",
+      "hindi": "निवास करना / बसना",
+      "meaning_en": "To live in or occupy a place as a resident",
+      "example_sentence": "Several endangered species inhabit this protected forest.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "home",
+      "one_word_sub": {
+        "question": "To live in or occupy a particular place permanently",
+        "answer": "inhabit"
+      },
+      "analogy": {
+        "pair": "visit : tourist",
+        "question": "reside : ______",
+        "answer": "inhabit"
+      },
+      "hint_words": "inhabit, visit, vacate, abandon",
+      "correct_word": "inhabit",
+      "sentence": "Millions of people ______ the flood-prone regions along the river delta.",
+      "meaning_hi": "निवास करना",
+      "synonyms": [
+        "reside",
+        "occupy",
+        "dwell",
+        "populate"
+      ],
+      "antonyms": [
+        "vacate",
+        "abandon",
+        "evacuate"
+      ]
+    },
+    {
+      "word": "redundant",
+      "hindi": "अनावश्यक / अतिरिक्त",
+      "meaning_en": "No longer needed or useful; superfluous or laid off from a job",
+      "example_sentence": "Many workers were made redundant after the factory introduced automation.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "Something or someone no longer required and therefore dismissed or removed",
+        "answer": "redundant"
+      },
+      "analogy": {
+        "pair": "essential : vital",
+        "question": "unnecessary : ______",
+        "answer": "redundant"
+      },
+      "hint_words": "redundant, essential, pivotal, indispensable",
+      "correct_word": "redundant",
+      "sentence": "The merger rendered several middle-management positions ______.",
+      "meaning_hi": "अनावश्यक",
+      "synonyms": [
+        "superfluous",
+        "surplus",
+        "unnecessary",
+        "excess"
+      ],
+      "antonyms": [
+        "essential",
+        "necessary",
+        "indispensable",
+        "vital"
+      ]
+    },
+    {
+      "word": "hierarchy",
+      "hindi": "पदानुक्रम / श्रेणी-व्यवस्था",
+      "meaning_en": "A system in which people or things are arranged according to rank or authority",
+      "example_sentence": "She rose through the corporate hierarchy to become the CEO.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "office",
+      "one_word_sub": {
+        "question": "A system that arranges people or things in order of rank and authority",
+        "answer": "hierarchy"
+      },
+      "analogy": {
+        "pair": "equality : flat structure",
+        "question": "rank : ______",
+        "answer": "hierarchy"
+      },
+      "hint_words": "hierarchy, equality, anarchy, democracy",
+      "correct_word": "hierarchy",
+      "sentence": "In a rigid ______, decisions are made only at the top level.",
+      "meaning_hi": "पदानुक्रम",
+      "synonyms": [
+        "ranking",
+        "order",
+        "chain of command",
+        "pecking order"
+      ],
+      "antonyms": [
+        "equality",
+        "anarchy",
+        "flatness"
+      ]
+    },
+    {
+      "word": "itinerant",
+      "hindi": "यायावर / घुमंतू",
+      "meaning_en": "Travelling from place to place, typically for work",
+      "example_sentence": "An itinerant musician travelled the countryside performing folk songs.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A person who travels from place to place, especially for work",
+        "answer": "itinerant"
+      },
+      "analogy": {
+        "pair": "settled : stationary",
+        "question": "wandering : ______",
+        "answer": "itinerant"
+      },
+      "hint_words": "itinerant, stationary, sedentary, settled",
+      "correct_word": "itinerant",
+      "sentence": "The ______ trader sold his goods in different village markets every week.",
+      "meaning_hi": "यायावर",
+      "synonyms": [
+        "wandering",
+        "nomadic",
+        "roving",
+        "peripatetic"
+      ],
+      "antonyms": [
+        "settled",
+        "stationary",
+        "sedentary"
+      ]
+    },
+    {
+      "word": "pilgrimage",
+      "hindi": "तीर्थयात्रा",
+      "meaning_en": "A journey to a sacred place for religious reasons",
+      "example_sentence": "Every year, millions undertake the pilgrimage to Mecca.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A journey undertaken to a holy or sacred place for religious devotion",
+        "answer": "pilgrimage"
+      },
+      "analogy": {
+        "pair": "pleasure : excursion",
+        "question": "religion : ______",
+        "answer": "pilgrimage"
+      },
+      "hint_words": "pilgrimage, excursion, expedition, tour",
+      "correct_word": "pilgrimage",
+      "sentence": "The elderly couple completed their lifelong dream of a ______ to Varanasi.",
+      "meaning_hi": "तीर्थयात्रा",
+      "synonyms": [
+        "holy journey",
+        "trek",
+        "devotional visit",
+        "hajj"
+      ],
+      "antonyms": [
+        "secular trip",
+        "leisure travel"
+      ]
+    },
+    {
+      "word": "excursion",
+      "hindi": "भ्रमण / छोटी यात्रा",
+      "meaning_en": "A short journey or trip, usually for leisure or education",
+      "example_sentence": "The class went on an excursion to the science museum.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A short trip or outing made for pleasure or educational purposes",
+        "answer": "excursion"
+      },
+      "analogy": {
+        "pair": "long journey : expedition",
+        "question": "short trip : ______",
+        "answer": "excursion"
+      },
+      "hint_words": "excursion, migration, pilgrimage, expedition",
+      "correct_word": "excursion",
+      "sentence": "The school organised an educational ______ to the national heritage site.",
+      "meaning_hi": "भ्रमण",
+      "synonyms": [
+        "outing",
+        "trip",
+        "jaunt",
+        "tour"
+      ],
+      "antonyms": [
+        "stay",
+        "confinement",
+        "isolation"
+      ]
+    },
+    {
+      "word": "wayfarer",
+      "hindi": "पथिक / यात्री",
+      "meaning_en": "A person who travels on foot from place to place",
+      "example_sentence": "The kind innkeeper offered shelter to a tired wayfarer.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "A traveller who journeys on foot across various places",
+        "answer": "wayfarer"
+      },
+      "analogy": {
+        "pair": "sea : sailor",
+        "question": "road : ______",
+        "answer": "wayfarer"
+      },
+      "hint_words": "wayfarer, settler, recluse, hermit",
+      "correct_word": "wayfarer",
+      "sentence": "The ancient poem describes a weary ______ seeking rest under a banyan tree.",
+      "meaning_hi": "पथिक",
+      "synonyms": [
+        "traveller",
+        "wanderer",
+        "pilgrim",
+        "rambler"
+      ],
+      "antonyms": [
+        "settler",
+        "resident",
+        "homebody"
+      ]
+    },
+    {
+      "word": "traverse",
+      "hindi": "पार करना / आर-पार जाना",
+      "meaning_en": "To travel across or through an area",
+      "example_sentence": "The expedition team traversed the Himalayan range in winter.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "travel",
+      "one_word_sub": {
+        "question": "To travel or move across a wide or difficult stretch of land or water",
+        "answer": "traverse"
+      },
+      "analogy": {
+        "pair": "climb : ascend",
+        "question": "cross : ______",
+        "answer": "traverse"
+      },
+      "hint_words": "traverse, avoid, retreat, circumvent",
+      "correct_word": "traverse",
+      "sentence": "The cyclists planned to ______ the entire length of the coastal highway.",
+      "meaning_hi": "पार करना",
+      "synonyms": [
+        "cross",
+        "cover",
+        "navigate",
+        "ford"
+      ],
+      "antonyms": [
+        "avoid",
+        "bypass",
+        "retreat"
+      ]
+    },
+    {
+      "word": "curriculum",
+      "hindi": "पाठ्यक्रम",
+      "meaning_en": "The subjects comprising a course of study at a school or university",
+      "example_sentence": "The school revised its curriculum to include coding and digital literacy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "The complete set of courses and subjects offered at an educational institution",
+        "answer": "curriculum"
+      },
+      "analogy": {
+        "pair": "menu : restaurant",
+        "question": "syllabus : ______",
+        "answer": "curriculum"
+      },
+      "hint_words": "curriculum, faculty, administration, infrastructure",
+      "correct_word": "curriculum",
+      "sentence": "The new ______ was designed to bridge the gap between theory and practical skills.",
+      "meaning_hi": "पाठ्यक्रम",
+      "synonyms": [
+        "syllabus",
+        "course of study",
+        "programme",
+        "schedule"
+      ],
+      "antonyms": [
+        "extracurricular",
+        "unstructured learning"
+      ]
+    },
+    {
+      "word": "seminar",
+      "hindi": "संगोष्ठी / विचार-गोष्ठी",
+      "meaning_en": "A class or meeting for discussion or training, typically on an academic topic",
+      "example_sentence": "The professor conducted a seminar on climate change policy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A small group discussion session led by an expert for academic or professional learning",
+        "answer": "seminar"
+      },
+      "analogy": {
+        "pair": "lecture : passive listening",
+        "question": "discussion : ______",
+        "answer": "seminar"
+      },
+      "hint_words": "seminar, examination, dissertation, dormitory",
+      "correct_word": "seminar",
+      "sentence": "Students were required to present their research findings at the departmental ______.",
+      "meaning_hi": "संगोष्ठी",
+      "synonyms": [
+        "workshop",
+        "colloquium",
+        "conference",
+        "discussion"
+      ],
+      "antonyms": [
+        "lecture",
+        "monologue",
+        "individual study"
+      ]
+    },
+    {
+      "word": "scholarship",
+      "hindi": "छात्रवृत्ति / विद्वत्ता",
+      "meaning_en": "A grant awarded to support a student's education; also great academic learning",
+      "example_sentence": "She received a scholarship to study at a prestigious foreign university.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A financial grant given to a deserving student to support their education",
+        "answer": "scholarship"
+      },
+      "analogy": {
+        "pair": "reward : achievement",
+        "question": "grant : ______",
+        "answer": "scholarship"
+      },
+      "hint_words": "scholarship, penalty, fine, debt",
+      "correct_word": "scholarship",
+      "sentence": "His excellent performance earned him a full ______ to study engineering.",
+      "meaning_hi": "छात्रवृत्ति",
+      "synonyms": [
+        "fellowship",
+        "grant",
+        "bursary",
+        "award"
+      ],
+      "antonyms": [
+        "penalty",
+        "debt",
+        "loan"
+      ]
+    },
+    {
+      "word": "prodigy",
+      "hindi": "बाल-प्रतिभा / असाधारण प्रतिभाशाली",
+      "meaning_en": "A person, especially a young one, with exceptional abilities or qualities",
+      "example_sentence": "The young chess prodigy defeated the national champion at age twelve.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A young person who has extraordinary and exceptional talent or ability",
+        "answer": "prodigy"
+      },
+      "analogy": {
+        "pair": "ordinary : mediocre",
+        "question": "exceptional : ______",
+        "answer": "prodigy"
+      },
+      "hint_words": "prodigy, mediocrity, laggard, dunce",
+      "correct_word": "prodigy",
+      "sentence": "Recognised as a musical ______, he performed at Carnegie Hall at the age of ten.",
+      "meaning_hi": "बाल-प्रतिभा",
+      "synonyms": [
+        "genius",
+        "wonder child",
+        "virtuoso",
+        "marvel"
+      ],
+      "antonyms": [
+        "mediocrity",
+        "dunce",
+        "laggard"
+      ]
+    },
+    {
+      "word": "gastronomy",
+      "hindi": "पाक कला / भोजन विज्ञान",
+      "meaning_en": "The practice or art of choosing, cooking, and eating good food",
+      "example_sentence": "The chef's expertise in gastronomy earned him three Michelin stars.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "The art and knowledge of fine cooking and appreciation of good food",
+        "answer": "gastronomy"
+      },
+      "analogy": {
+        "pair": "astronomy : stars",
+        "question": "food : ______",
+        "answer": "gastronomy"
+      },
+      "hint_words": "gastronomy, astronomy, agronomy, taxonomy",
+      "correct_word": "gastronomy",
+      "sentence": "The city is famous for its rich ______, drawing food lovers from across the world.",
+      "meaning_hi": "पाक कला",
+      "synonyms": [
+        "culinary art",
+        "cuisine",
+        "cookery",
+        "epicureanism"
+      ],
+      "antonyms": [
+        "fasting",
+        "abstinence",
+        "austerity"
+      ]
+    },
+    {
+      "word": "sustenance",
+      "hindi": "भरण-पोषण / जीवनाधार",
+      "meaning_en": "Food and drink regarded as a source of strength and nutrition",
+      "example_sentence": "The trapped miners survived on minimal sustenance for weeks.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Food and nourishment necessary to maintain life and health",
+        "answer": "sustenance"
+      },
+      "analogy": {
+        "pair": "water : hydration",
+        "question": "food : ______",
+        "answer": "sustenance"
+      },
+      "hint_words": "sustenance, poison, deprivation, starvation",
+      "correct_word": "sustenance",
+      "sentence": "The charity provided daily ______ to hundreds of homeless people.",
+      "meaning_hi": "भरण-पोषण",
+      "synonyms": [
+        "nourishment",
+        "nutrition",
+        "food",
+        "provisions"
+      ],
+      "antonyms": [
+        "starvation",
+        "deprivation",
+        "fasting"
+      ]
+    },
+    {
+      "word": "palatable",
+      "hindi": "स्वादिष्ट / स्वीकार्य",
+      "meaning_en": "Pleasant to taste; also acceptable or agreeable to the mind",
+      "example_sentence": "The hospital food was barely palatable, but the patient ate it anyway.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Food or an idea that is acceptable and pleasant, not offensive or distasteful",
+        "answer": "palatable"
+      },
+      "analogy": {
+        "pair": "beautiful : appealing",
+        "question": "tasty : ______",
+        "answer": "palatable"
+      },
+      "hint_words": "palatable, repulsive, nauseating, bitter",
+      "correct_word": "palatable",
+      "sentence": "The bland medicine was made more ______ by mixing it with juice.",
+      "meaning_hi": "स्वादिष्ट",
+      "synonyms": [
+        "tasty",
+        "appetising",
+        "acceptable",
+        "agreeable"
+      ],
+      "antonyms": [
+        "unpalatable",
+        "repulsive",
+        "nauseating",
+        "distasteful"
+      ]
+    },
+    {
+      "word": "voracious",
+      "hindi": "अतिभोजी / लालची",
+      "meaning_en": "Having a very eager approach to an activity, especially eating",
+      "example_sentence": "He was a voracious reader who finished three novels a week.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Extremely eager and greedy, especially in eating or consuming something",
+        "answer": "voracious"
+      },
+      "analogy": {
+        "pair": "modest : restrained",
+        "question": "greedy : ______",
+        "answer": "voracious"
+      },
+      "hint_words": "voracious, moderate, abstemious, indifferent",
+      "correct_word": "voracious",
+      "sentence": "The ______ appetite of the young athlete required six meals a day.",
+      "meaning_hi": "अतिभोजी",
+      "synonyms": [
+        "ravenous",
+        "gluttonous",
+        "insatiable",
+        "avid"
+      ],
+      "antonyms": [
+        "moderate",
+        "abstemious",
+        "restrained",
+        "indifferent"
+      ]
+    },
+    {
+      "word": "nourishment",
+      "hindi": "पोषण / आहार",
+      "meaning_en": "The food and other substances necessary for growth, health, and good condition",
+      "example_sentence": "Children in remote areas lack adequate nourishment due to poverty.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "The essential food or nutrients required for growth, health and life",
+        "answer": "nourishment"
+      },
+      "analogy": {
+        "pair": "fuel : engine",
+        "question": "food : ______",
+        "answer": "nourishment"
+      },
+      "hint_words": "nourishment, deprivation, starvation, toxin",
+      "correct_word": "nourishment",
+      "sentence": "The doctor stressed the importance of proper ______ during pregnancy.",
+      "meaning_hi": "पोषण",
+      "synonyms": [
+        "nutrition",
+        "sustenance",
+        "food",
+        "alimentation"
+      ],
+      "antonyms": [
+        "starvation",
+        "deprivation",
+        "malnutrition"
+      ]
+    },
+    {
+      "word": "delicacy",
+      "hindi": "स्वादिष्ट व्यंजन / नाज़ुकपन",
+      "meaning_en": "A choice or expensive food item; also the quality of being delicate or fine",
+      "example_sentence": "Sea urchin is considered a delicacy in Japan.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "A rare or expensive food item considered a special treat",
+        "answer": "delicacy"
+      },
+      "analogy": {
+        "pair": "staple : ordinary food",
+        "question": "special food : ______",
+        "answer": "delicacy"
+      },
+      "hint_words": "delicacy, staple, refuse, fodder",
+      "correct_word": "delicacy",
+      "sentence": "Saffron, known as a culinary ______, is among the world's most expensive spices.",
+      "meaning_hi": "स्वादिष्ट व्यंजन",
+      "synonyms": [
+        "delicatessen",
+        "titbit",
+        "luxury food",
+        "speciality"
+      ],
+      "antonyms": [
+        "staple",
+        "ordinary food",
+        "basic fare"
+      ]
+    },
+    {
+      "word": "repast",
+      "hindi": "भोजन / खाना",
+      "meaning_en": "A meal; food eaten at a particular time",
+      "example_sentence": "After the long journey, the weary travellers enjoyed a hearty repast.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "A formal or literary word for a meal",
+        "answer": "repast"
+      },
+      "analogy": {
+        "pair": "sleep : slumber",
+        "question": "meal : ______",
+        "answer": "repast"
+      },
+      "hint_words": "repast, fast, diet, abstinence",
+      "correct_word": "repast",
+      "sentence": "The royal family hosted a lavish ______ in honour of the visiting dignitaries.",
+      "meaning_hi": "भोजन",
+      "synonyms": [
+        "meal",
+        "feast",
+        "spread",
+        "banquet"
+      ],
+      "antonyms": [
+        "fast",
+        "abstinence",
+        "starvation"
+      ]
+    },
+    {
+      "word": "culinary",
+      "hindi": "रसोई संबंधी / पाक-कला संबंधी",
+      "meaning_en": "Relating to cooking or the kitchen",
+      "example_sentence": "She enrolled in a culinary school to pursue her passion for cooking.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "food",
+      "one_word_sub": {
+        "question": "Relating to the art or practice of cooking and kitchen preparation",
+        "answer": "culinary"
+      },
+      "analogy": {
+        "pair": "medical : health",
+        "question": "cooking : ______",
+        "answer": "culinary"
+      },
+      "hint_words": "culinary, literary, military, monetary",
+      "correct_word": "culinary",
+      "sentence": "The chef's ______ skills were evident from the intricate presentation of each dish.",
+      "meaning_hi": "रसोई संबंधी",
+      "synonyms": [
+        "gastronomic",
+        "kitchen",
+        "cooking",
+        "epicurean"
+      ],
+      "antonyms": [
+        "non-culinary",
+        "raw",
+        "unprocessed"
+      ]
+    },
+    {
+      "word": "ailment",
+      "hindi": "बीमारी / रोग",
+      "meaning_en": "A minor illness or chronic complaint",
+      "example_sentence": "The elderly patient suffered from various ailments related to old age.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "A minor or chronic physical disorder or illness",
+        "answer": "ailment"
+      },
+      "analogy": {
+        "pair": "good health : wellness",
+        "question": "sickness : ______",
+        "answer": "ailment"
+      },
+      "hint_words": "ailment, remedy, vigour, immunity",
+      "correct_word": "ailment",
+      "sentence": "The campaign aimed to create awareness about common respiratory ______s.",
+      "meaning_hi": "बीमारी",
+      "synonyms": [
+        "illness",
+        "disorder",
+        "complaint",
+        "malady"
+      ],
+      "antonyms": [
+        "wellness",
+        "vigour",
+        "robustness"
+      ]
+    },
+    {
+      "word": "recuperate",
+      "hindi": "स्वास्थ्य-लाभ करना / ठीक होना",
+      "meaning_en": "To recover from illness, exhaustion, or a setback",
+      "example_sentence": "She travelled to the mountains to recuperate after the surgery.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "To recover health or strength after illness, injury, or exhaustion",
+        "answer": "recuperate"
+      },
+      "analogy": {
+        "pair": "fall : rise",
+        "question": "sicken : ______",
+        "answer": "recuperate"
+      },
+      "hint_words": "recuperate, deteriorate, collapse, weaken",
+      "correct_word": "recuperate",
+      "sentence": "The player needed three months to fully ______ from the knee injury.",
+      "meaning_hi": "स्वास्थ्य-लाभ करना",
+      "synonyms": [
+        "recover",
+        "convalesce",
+        "heal",
+        "mend"
+      ],
+      "antonyms": [
+        "deteriorate",
+        "weaken",
+        "relapse",
+        "worsen"
+      ]
+    },
+    {
+      "word": "quarantine",
+      "hindi": "संगरोध / एकांतवास",
+      "meaning_en": "A state of isolation to prevent the spread of infectious disease",
+      "example_sentence": "All passengers arriving from affected regions were placed in quarantine.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "The isolation of a person or animal to prevent the spread of a contagious disease",
+        "answer": "quarantine"
+      },
+      "analogy": {
+        "pair": "prison : criminal",
+        "question": "isolation : ______",
+        "answer": "quarantine"
+      },
+      "hint_words": "quarantine, integration, mingling, socialization",
+      "correct_word": "quarantine",
+      "sentence": "Health authorities ordered a fourteen-day ______ for all close contacts of the patient.",
+      "meaning_hi": "संगरोध",
+      "synonyms": [
+        "isolation",
+        "segregation",
+        "confinement",
+        "seclusion"
+      ],
+      "antonyms": [
+        "integration",
+        "socialisation",
+        "mingling"
+      ]
+    },
+    {
+      "word": "immunity",
+      "hindi": "प्रतिरक्षा / छूट",
+      "meaning_en": "The ability of the body to resist infection or disease; also legal exemption",
+      "example_sentence": "The vaccine was designed to build long-term immunity against the virus.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "The body's natural or acquired ability to resist a particular disease or infection",
+        "answer": "immunity"
+      },
+      "analogy": {
+        "pair": "vulnerability : susceptibility",
+        "question": "resistance : ______",
+        "answer": "immunity"
+      },
+      "hint_words": "immunity, susceptibility, vulnerability, exposure",
+      "correct_word": "immunity",
+      "sentence": "Breastfeeding is known to confer passive ______ to newborns.",
+      "meaning_hi": "प्रतिरक्षा",
+      "synonyms": [
+        "resistance",
+        "protection",
+        "defence",
+        "insusceptibility"
+      ],
+      "antonyms": [
+        "susceptibility",
+        "vulnerability",
+        "exposure"
+      ]
+    },
+    {
+      "word": "pathology",
+      "hindi": "रोगविज्ञान / विकृति",
+      "meaning_en": "The science of the causes and effects of diseases; abnormal or unhealthy behaviour",
+      "example_sentence": "The lab report came from the pathology department within 24 hours.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "The branch of medicine dealing with the causes, processes, and effects of diseases",
+        "answer": "pathology"
+      },
+      "analogy": {
+        "pair": "astronomy : stars",
+        "question": "disease : ______",
+        "answer": "pathology"
+      },
+      "hint_words": "pathology, physiology, theology, psychology",
+      "correct_word": "pathology",
+      "sentence": "The forensic ______ report confirmed that death was due to poisoning.",
+      "meaning_hi": "रोगविज्ञान",
+      "synonyms": [
+        "disease study",
+        "medical science",
+        "morbidity",
+        "disorder"
+      ],
+      "antonyms": [
+        "health",
+        "normalcy",
+        "wellness"
+      ]
+    },
+    {
+      "word": "barter",
+      "hindi": "वस्तु-विनिमय / अदला-बदली",
+      "meaning_en": "The exchange of goods or services without the use of money",
+      "example_sentence": "Before currency was invented, people used barter to trade goods.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A system of trade where goods are exchanged directly without money",
+        "answer": "barter"
+      },
+      "analogy": {
+        "pair": "currency : purchase",
+        "question": "goods exchange : ______",
+        "answer": "barter"
+      },
+      "hint_words": "barter, purchase, donation, taxation",
+      "correct_word": "barter",
+      "sentence": "The village economy relied on ______, with farmers trading grain for tools.",
+      "meaning_hi": "वस्तु-विनिमय",
+      "synonyms": [
+        "exchange",
+        "swap",
+        "trade",
+        "deal"
+      ],
+      "antonyms": [
+        "purchase",
+        "sale",
+        "monetary transaction"
+      ]
+    },
+    {
+      "word": "extravagant",
+      "hindi": "अपव्ययी / फ़िज़ूलख़र्च",
+      "meaning_en": "Spending much more than is necessary or wise; exceeding what is reasonable",
+      "example_sentence": "Her extravagant lifestyle quickly depleted her savings.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A person who spends money excessively and far beyond reasonable limits",
+        "answer": "extravagant"
+      },
+      "analogy": {
+        "pair": "thrifty : frugal",
+        "question": "wasteful : ______",
+        "answer": "extravagant"
+      },
+      "hint_words": "extravagant, thrifty, abstemious, prudent",
+      "correct_word": "extravagant",
+      "sentence": "The ______ wedding cost more than most families earn in a decade.",
+      "meaning_hi": "अपव्ययी",
+      "synonyms": [
+        "lavish",
+        "wasteful",
+        "profligate",
+        "spendthrift"
+      ],
+      "antonyms": [
+        "frugal",
+        "thrifty",
+        "economical",
+        "prudent"
+      ]
+    },
+    {
+      "word": "vendor",
+      "hindi": "विक्रेता / दुकानदार",
+      "meaning_en": "A person or company offering something for sale",
+      "example_sentence": "Street vendors are an important part of the urban informal economy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "shopping",
+      "one_word_sub": {
+        "question": "A person who sells goods, especially in the street or at a stall",
+        "answer": "vendor"
+      },
+      "analogy": {
+        "pair": "buyer : purchaser",
+        "question": "seller : ______",
+        "answer": "vendor"
+      },
+      "hint_words": "vendor, customer, consumer, buyer",
+      "correct_word": "vendor",
+      "sentence": "The food ______ outside the school was warned to maintain hygiene standards.",
+      "meaning_hi": "विक्रेता",
+      "synonyms": [
+        "seller",
+        "trader",
+        "merchant",
+        "supplier"
+      ],
+      "antonyms": [
+        "buyer",
+        "customer",
+        "consumer",
+        "purchaser"
+      ]
+    },
+    {
+      "word": "melancholy",
+      "hindi": "उदासी / विषाद",
+      "meaning_en": "A deep, persistent feeling of sadness and sorrow",
+      "example_sentence": "A deep melancholy settled over him after the loss of his closest friend.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A deep and prolonged feeling of sadness and gloom",
+        "answer": "melancholy"
+      },
+      "analogy": {
+        "pair": "elation : joy",
+        "question": "gloom : ______",
+        "answer": "melancholy"
+      },
+      "hint_words": "melancholy, euphoria, exuberance, contentment",
+      "correct_word": "melancholy",
+      "sentence": "The haunting music filled the room with a deep sense of ______.",
+      "meaning_hi": "उदासी",
+      "synonyms": [
+        "sadness",
+        "sorrow",
+        "despondency",
+        "gloom"
+      ],
+      "antonyms": [
+        "happiness",
+        "euphoria",
+        "elation",
+        "cheerfulness"
+      ]
+    },
+    {
+      "word": "euphoria",
+      "hindi": "आनंदातिरेक / उल्लास",
+      "meaning_en": "An intense feeling of happiness and excitement",
+      "example_sentence": "The crowd was filled with euphoria after the team's historic victory.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "An intense feeling of great happiness and excitement, often short-lived",
+        "answer": "euphoria"
+      },
+      "analogy": {
+        "pair": "sadness : melancholy",
+        "question": "happiness : ______",
+        "answer": "euphoria"
+      },
+      "hint_words": "euphoria, despair, anguish, apathy",
+      "correct_word": "euphoria",
+      "sentence": "Post-victory ______ quickly gave way to the reality of hard work ahead.",
+      "meaning_hi": "आनंदातिरेक",
+      "synonyms": [
+        "elation",
+        "exhilaration",
+        "joy",
+        "ecstasy"
+      ],
+      "antonyms": [
+        "despair",
+        "misery",
+        "melancholy",
+        "anguish"
+      ]
+    },
+    {
+      "word": "trepidation",
+      "hindi": "आशंका / घबराहट",
+      "meaning_en": "A feeling of fear or anxiety about something that may happen",
+      "example_sentence": "She entered the examination hall with great trepidation.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A state of alarm or anxiety about an anticipated event or outcome",
+        "answer": "trepidation"
+      },
+      "analogy": {
+        "pair": "confidence : assurance",
+        "question": "fear : ______",
+        "answer": "trepidation"
+      },
+      "hint_words": "trepidation, confidence, boldness, assurance",
+      "correct_word": "trepidation",
+      "sentence": "The young doctor operated with ______ for the first time without supervision.",
+      "meaning_hi": "आशंका",
+      "synonyms": [
+        "anxiety",
+        "apprehension",
+        "dread",
+        "nervousness"
+      ],
+      "antonyms": [
+        "confidence",
+        "boldness",
+        "assurance",
+        "courage"
+      ]
+    },
+    {
+      "word": "nostalgia",
+      "hindi": "पुरानी यादों की चाहत / विरह",
+      "meaning_en": "A sentimental longing for the past, typically for a period one associates with happiness",
+      "example_sentence": "The old song filled him with a deep sense of nostalgia for his childhood.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A sentimental longing or wistful affection for the past",
+        "answer": "nostalgia"
+      },
+      "analogy": {
+        "pair": "anticipation : future",
+        "question": "longing : ______",
+        "answer": "nostalgia"
+      },
+      "hint_words": "nostalgia, indifference, ambition, enthusiasm",
+      "correct_word": "nostalgia",
+      "sentence": "Looking at old photographs always evokes a powerful sense of ______ in her.",
+      "meaning_hi": "पुरानी यादों की चाहत",
+      "synonyms": [
+        "wistfulness",
+        "sentimentality",
+        "longing",
+        "reminiscence"
+      ],
+      "antonyms": [
+        "indifference",
+        "detachment",
+        "forward-thinking"
+      ]
+    },
+    {
+      "word": "compassion",
+      "hindi": "करुणा / दयाभाव",
+      "meaning_en": "Sympathetic concern for the sufferings of others with a desire to help",
+      "example_sentence": "The nurse showed great compassion in caring for critically ill patients.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "Deep sympathy and the desire to alleviate the suffering of others",
+        "answer": "compassion"
+      },
+      "analogy": {
+        "pair": "indifference : apathy",
+        "question": "care : ______",
+        "answer": "compassion"
+      },
+      "hint_words": "compassion, apathy, cruelty, indifference",
+      "correct_word": "compassion",
+      "sentence": "Showing ______ to those in need is a mark of true character.",
+      "meaning_hi": "करुणा",
+      "synonyms": [
+        "empathy",
+        "pity",
+        "sympathy",
+        "benevolence"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "callousness",
+        "apathy"
+      ]
+    },
+    {
+      "word": "exhilaration",
+      "hindi": "उत्साह / उमंग",
+      "meaning_en": "A feeling of excitement, happiness, and energy",
+      "example_sentence": "She felt pure exhilaration as she crossed the finish line first.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A strong feeling of joyful excitement and energised happiness",
+        "answer": "exhilaration"
+      },
+      "analogy": {
+        "pair": "sadness : dejection",
+        "question": "excitement : ______",
+        "answer": "exhilaration"
+      },
+      "hint_words": "exhilaration, dejection, lethargy, boredom",
+      "correct_word": "exhilaration",
+      "sentence": "The ______ of skydiving for the first time left him speechless.",
+      "meaning_hi": "उत्साह",
+      "synonyms": [
+        "elation",
+        "thrill",
+        "excitement",
+        "ecstasy"
+      ],
+      "antonyms": [
+        "dejection",
+        "gloom",
+        "lethargy",
+        "boredom"
+      ]
+    },
+    {
+      "word": "endeavour",
+      "hindi": "प्रयास / कोशिश",
+      "meaning_en": "To try hard to do or achieve something; a serious effort",
+      "example_sentence": "She endeavoured to complete the project despite many obstacles.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To make a serious and sustained effort to achieve something",
+        "answer": "endeavour"
+      },
+      "analogy": {
+        "pair": "surrender : give up",
+        "question": "try hard : ______",
+        "answer": "endeavour"
+      },
+      "hint_words": "endeavour, abandon, neglect, surrender",
+      "correct_word": "endeavour",
+      "sentence": "Despite repeated failures, he continued to ______ towards his goal with determination.",
+      "meaning_hi": "प्रयास",
+      "synonyms": [
+        "attempt",
+        "strive",
+        "try",
+        "aspire"
+      ],
+      "antonyms": [
+        "abandon",
+        "surrender",
+        "neglect",
+        "give up"
+      ]
+    },
+    {
+      "word": "persevere",
+      "hindi": "डटे रहना / लगातार प्रयास करना",
+      "meaning_en": "To continue in a course of action despite difficulty or lack of success",
+      "example_sentence": "She persevered through years of hardship to become a renowned scientist.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To continue steadfastly and persistently despite obstacles and failures",
+        "answer": "persevere"
+      },
+      "analogy": {
+        "pair": "quit : abandon",
+        "question": "continue : ______",
+        "answer": "persevere"
+      },
+      "hint_words": "persevere, quit, abandon, surrender",
+      "correct_word": "persevere",
+      "sentence": "Champions ______ through hardship where others choose to walk away.",
+      "meaning_hi": "डटे रहना",
+      "synonyms": [
+        "persist",
+        "endure",
+        "continue",
+        "press on"
+      ],
+      "antonyms": [
+        "quit",
+        "abandon",
+        "surrender",
+        "capitulate"
+      ]
+    },
+    {
+      "word": "procrastinate",
+      "hindi": "टालना / काम टालते रहना",
+      "meaning_en": "To delay or postpone action; to put off doing something",
+      "example_sentence": "Students who procrastinate often struggle to complete assignments on time.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To repeatedly delay or postpone doing something that needs to be done",
+        "answer": "procrastinate"
+      },
+      "analogy": {
+        "pair": "act : diligent",
+        "question": "delay : ______",
+        "answer": "procrastinate"
+      },
+      "hint_words": "procrastinate, expedite, hasten, prioritise",
+      "correct_word": "procrastinate",
+      "sentence": "If you continue to ______, you will miss every important deadline.",
+      "meaning_hi": "टालना",
+      "synonyms": [
+        "delay",
+        "defer",
+        "postpone",
+        "dither"
+      ],
+      "antonyms": [
+        "expedite",
+        "hasten",
+        "prioritise",
+        "act promptly"
+      ]
+    },
+    {
+      "word": "collaborate",
+      "hindi": "सहयोग करना / मिलकर काम करना",
+      "meaning_en": "To work jointly with others, especially in an intellectual endeavour",
+      "example_sentence": "Scientists from different countries collaborated to develop the vaccine.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To work together with others towards a common goal or project",
+        "answer": "collaborate"
+      },
+      "analogy": {
+        "pair": "compete : rival",
+        "question": "cooperate : ______",
+        "answer": "collaborate"
+      },
+      "hint_words": "collaborate, compete, oppose, isolate",
+      "correct_word": "collaborate",
+      "sentence": "The two departments agreed to ______ on the development of the new product.",
+      "meaning_hi": "सहयोग करना",
+      "synonyms": [
+        "cooperate",
+        "team up",
+        "partner",
+        "work together"
+      ],
+      "antonyms": [
+        "compete",
+        "oppose",
+        "obstruct",
+        "work alone"
+      ]
+    },
+    {
+      "word": "implement",
+      "hindi": "लागू करना / क्रियान्वित करना",
+      "meaning_en": "To put a decision, plan, or agreement into effect",
+      "example_sentence": "The committee voted to implement the new attendance policy immediately.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To put a plan, decision, or policy into practical action",
+        "answer": "implement"
+      },
+      "analogy": {
+        "pair": "plan : design",
+        "question": "execute : ______",
+        "answer": "implement"
+      },
+      "hint_words": "implement, abandon, draft, discuss",
+      "correct_word": "implement",
+      "sentence": "Authorities need to ______ stricter regulations on industrial waste disposal.",
+      "meaning_hi": "लागू करना",
+      "synonyms": [
+        "execute",
+        "enforce",
+        "apply",
+        "carry out"
+      ],
+      "antonyms": [
+        "abandon",
+        "repeal",
+        "revoke",
+        "dismiss"
+      ]
+    },
+    {
+      "word": "aggravate",
+      "hindi": "बिगाड़ना / और खराब करना",
+      "meaning_en": "To make a problem, injury, or offence worse or more serious",
+      "example_sentence": "Stress can aggravate existing medical conditions significantly.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "actions",
+      "one_word_sub": {
+        "question": "To intensify or make an already difficult or bad situation worse",
+        "answer": "aggravate"
+      },
+      "analogy": {
+        "pair": "heal : remedy",
+        "question": "worsen : ______",
+        "answer": "aggravate"
+      },
+      "hint_words": "aggravate, ameliorate, soothe, alleviate",
+      "correct_word": "aggravate",
+      "sentence": "Ignoring the early symptoms only served to ______ the patient's condition.",
+      "meaning_hi": "बिगाड़ना",
+      "synonyms": [
+        "worsen",
+        "intensify",
+        "inflame",
+        "compound"
+      ],
+      "antonyms": [
+        "ameliorate",
+        "alleviate",
+        "soothe",
+        "mitigate"
+      ]
     }
   ]
 }

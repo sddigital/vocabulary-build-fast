@@ -1,0 +1,343 @@
+{
+  "words": [
+    {
+      "word": "melancholy",
+      "hindi": "उदासी / विषाद",
+      "meaning_en": "A deep, persistent feeling of sadness and sorrow",
+      "example_sentence": "A deep melancholy settled over him after the loss of his closest friend.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A deep and prolonged feeling of sadness and gloom",
+        "answer": "melancholy"
+      },
+      "analogy": {
+        "pair": "elation : joy",
+        "question": "gloom : ______",
+        "answer": "melancholy"
+      },
+      "hint_words": "melancholy, euphoria, exuberance, contentment",
+      "correct_word": "melancholy",
+      "sentence": "The haunting music filled the room with a deep sense of ______.",
+      "meaning_hi": "उदासी",
+      "synonyms": [
+        "sadness",
+        "sorrow",
+        "despondency",
+        "gloom"
+      ],
+      "antonyms": [
+        "happiness",
+        "euphoria",
+        "elation",
+        "cheerfulness"
+      ]
+    },
+    {
+      "word": "euphoria",
+      "hindi": "आनंदातिरेक / उल्लास",
+      "meaning_en": "An intense feeling of happiness and excitement",
+      "example_sentence": "The crowd was filled with euphoria after the team's historic victory.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "An intense feeling of great happiness and excitement, often short-lived",
+        "answer": "euphoria"
+      },
+      "analogy": {
+        "pair": "sadness : melancholy",
+        "question": "happiness : ______",
+        "answer": "euphoria"
+      },
+      "hint_words": "euphoria, despair, anguish, apathy",
+      "correct_word": "euphoria",
+      "sentence": "Post-victory ______ quickly gave way to the reality of hard work ahead.",
+      "meaning_hi": "आनंदातिरेक",
+      "synonyms": [
+        "elation",
+        "exhilaration",
+        "joy",
+        "ecstasy"
+      ],
+      "antonyms": [
+        "despair",
+        "misery",
+        "melancholy",
+        "anguish"
+      ]
+    },
+    {
+      "word": "disconsolate",
+      "hindi": "बहुत दुखी / निराश",
+      "meaning_en": "Deeply sad and unable to be comforted",
+      "example_sentence": "She was disconsolate after failing her dream examination for the third time.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A person who is profoundly sad and beyond being comforted",
+        "answer": "disconsolate"
+      },
+      "analogy": {
+        "pair": "cheerful : elated",
+        "question": "grief-stricken : ______",
+        "answer": "disconsolate"
+      },
+      "hint_words": "disconsolate, jubilant, content, serene",
+      "correct_word": "disconsolate",
+      "sentence": "The family remained ______ for months after their irreplaceable loss.",
+      "meaning_hi": "बहुत दुखी",
+      "synonyms": [
+        "inconsolable",
+        "heartbroken",
+        "desolate",
+        "woeful"
+      ],
+      "antonyms": [
+        "jubilant",
+        "cheerful",
+        "elated",
+        "content"
+      ]
+    },
+    {
+      "word": "serenity",
+      "hindi": "शांति / प्रशांतता",
+      "meaning_en": "The state of being calm, peaceful, and untroubled",
+      "example_sentence": "The serenity of the mountain retreat helped her regain her composure.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A state of perfect calm and peace of mind, undisturbed by troubles",
+        "answer": "serenity"
+      },
+      "analogy": {
+        "pair": "storm : turbulence",
+        "question": "calm : ______",
+        "answer": "serenity"
+      },
+      "hint_words": "serenity, chaos, turmoil, anxiety",
+      "correct_word": "serenity",
+      "sentence": "Despite the crisis around her, she maintained an air of quiet ______.",
+      "meaning_hi": "शांति",
+      "synonyms": [
+        "calmness",
+        "tranquility",
+        "peace",
+        "composure"
+      ],
+      "antonyms": [
+        "turmoil",
+        "chaos",
+        "agitation",
+        "anxiety"
+      ]
+    },
+    {
+      "word": "trepidation",
+      "hindi": "आशंका / घबराहट",
+      "meaning_en": "A feeling of fear or anxiety about something that may happen",
+      "example_sentence": "She entered the examination hall with great trepidation.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A state of alarm or anxiety about an anticipated event or outcome",
+        "answer": "trepidation"
+      },
+      "analogy": {
+        "pair": "confidence : assurance",
+        "question": "fear : ______",
+        "answer": "trepidation"
+      },
+      "hint_words": "trepidation, confidence, boldness, assurance",
+      "correct_word": "trepidation",
+      "sentence": "The young doctor operated with ______ for the first time without supervision.",
+      "meaning_hi": "आशंका",
+      "synonyms": [
+        "anxiety",
+        "apprehension",
+        "dread",
+        "nervousness"
+      ],
+      "antonyms": [
+        "confidence",
+        "boldness",
+        "assurance",
+        "courage"
+      ]
+    },
+    {
+      "word": "nostalgia",
+      "hindi": "पुरानी यादों की चाहत / विरह",
+      "meaning_en": "A sentimental longing for the past, typically for a period one associates with happiness",
+      "example_sentence": "The old song filled him with a deep sense of nostalgia for his childhood.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A sentimental longing or wistful affection for the past",
+        "answer": "nostalgia"
+      },
+      "analogy": {
+        "pair": "anticipation : future",
+        "question": "longing : ______",
+        "answer": "nostalgia"
+      },
+      "hint_words": "nostalgia, indifference, ambition, enthusiasm",
+      "correct_word": "nostalgia",
+      "sentence": "Looking at old photographs always evokes a powerful sense of ______ in her.",
+      "meaning_hi": "पुरानी यादों की चाहत",
+      "synonyms": [
+        "wistfulness",
+        "sentimentality",
+        "longing",
+        "reminiscence"
+      ],
+      "antonyms": [
+        "indifference",
+        "detachment",
+        "forward-thinking"
+      ]
+    },
+    {
+      "word": "animosity",
+      "hindi": "दुश्मनी / द्वेष",
+      "meaning_en": "Strong hostility and active dislike",
+      "example_sentence": "Personal animosity between the two leaders derailed the peace process.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "Strong feelings of hatred and active hostility towards another person",
+        "answer": "animosity"
+      },
+      "analogy": {
+        "pair": "love : affection",
+        "question": "hatred : ______",
+        "answer": "animosity"
+      },
+      "hint_words": "animosity, camaraderie, goodwill, affection",
+      "correct_word": "animosity",
+      "sentence": "Years of unresolved ______ between the two communities finally erupted into violence.",
+      "meaning_hi": "दुश्मनी",
+      "synonyms": [
+        "hostility",
+        "enmity",
+        "antipathy",
+        "hatred"
+      ],
+      "antonyms": [
+        "goodwill",
+        "affection",
+        "camaraderie",
+        "amity"
+      ]
+    },
+    {
+      "word": "compassion",
+      "hindi": "करुणा / दयाभाव",
+      "meaning_en": "Sympathetic concern for the sufferings of others with a desire to help",
+      "example_sentence": "The nurse showed great compassion in caring for critically ill patients.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "Deep sympathy and the desire to alleviate the suffering of others",
+        "answer": "compassion"
+      },
+      "analogy": {
+        "pair": "indifference : apathy",
+        "question": "care : ______",
+        "answer": "compassion"
+      },
+      "hint_words": "compassion, apathy, cruelty, indifference",
+      "correct_word": "compassion",
+      "sentence": "Showing ______ to those in need is a mark of true character.",
+      "meaning_hi": "करुणा",
+      "synonyms": [
+        "empathy",
+        "pity",
+        "sympathy",
+        "benevolence"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "callousness",
+        "apathy"
+      ]
+    },
+    {
+      "word": "perturbation",
+      "hindi": "बेचैनी / व्याकुलता",
+      "meaning_en": "Anxiety or mental uneasiness; a disturbance in a normal state",
+      "example_sentence": "There was visible perturbation on her face when she heard the news.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A state of mental disturbance, agitation, or unease",
+        "answer": "perturbation"
+      },
+      "analogy": {
+        "pair": "peace : tranquility",
+        "question": "anxiety : ______",
+        "answer": "perturbation"
+      },
+      "hint_words": "perturbation, composure, serenity, equanimity",
+      "correct_word": "perturbation",
+      "sentence": "The sudden change in plans caused considerable ______ among the event organisers.",
+      "meaning_hi": "बेचैनी",
+      "synonyms": [
+        "agitation",
+        "unease",
+        "disturbance",
+        "anxiety"
+      ],
+      "antonyms": [
+        "composure",
+        "serenity",
+        "calmness",
+        "equanimity"
+      ]
+    },
+    {
+      "word": "exhilaration",
+      "hindi": "उत्साह / उमंग",
+      "meaning_en": "A feeling of excitement, happiness, and energy",
+      "example_sentence": "She felt pure exhilaration as she crossed the finish line first.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "emotions",
+      "one_word_sub": {
+        "question": "A strong feeling of joyful excitement and energised happiness",
+        "answer": "exhilaration"
+      },
+      "analogy": {
+        "pair": "sadness : dejection",
+        "question": "excitement : ______",
+        "answer": "exhilaration"
+      },
+      "hint_words": "exhilaration, dejection, lethargy, boredom",
+      "correct_word": "exhilaration",
+      "sentence": "The ______ of skydiving for the first time left him speechless.",
+      "meaning_hi": "उत्साह",
+      "synonyms": [
+        "elation",
+        "thrill",
+        "excitement",
+        "ecstasy"
+      ],
+      "antonyms": [
+        "dejection",
+        "gloom",
+        "lethargy",
+        "boredom"
+      ]
+    }
+  ]
+}

@@ -6,7 +6,7 @@ import { useDailyTarget } from '../hooks/useDailyTarget'
 const CATEGORIES = {
   beginners:    ['home', 'office', 'friends', 'travel', 'school', 'food', 'health', 'shopping', 'emotions', 'actions'],
   intermediate: ['friends', 'emotions', 'health', 'social', 'environment', 'literature', 'science', 'history', 'geography', 'economics'],
-  advanced:     ['general'],
+  advanced:     ['home', 'office', 'travel', 'school', 'food', 'health', 'shopping', 'emotions', 'actions', 'general'],
 }
 
 const LEVEL_MAP = {

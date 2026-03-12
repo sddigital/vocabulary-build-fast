@@ -1,0 +1,332 @@
+{
+  "words": [
+    {
+      "word": "pedagogy",
+      "hindi": "शिक्षाशास्त्र / अध्यापन कला",
+      "meaning_en": "The method and practice of teaching as an academic subject or theoretical concept",
+      "example_sentence": "Modern pedagogy emphasises critical thinking over rote memorisation.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "The art, science, and theory of teaching and education",
+        "answer": "pedagogy"
+      },
+      "analogy": {
+        "pair": "medicine : healing",
+        "question": "teaching : ______",
+        "answer": "pedagogy"
+      },
+      "hint_words": "pedagogy, anarchy, bureaucracy, theology",
+      "correct_word": "pedagogy",
+      "sentence": "The teacher training programme focused heavily on constructivist ______.",
+      "meaning_hi": "शिक्षाशास्त्र",
+      "synonyms": [
+        "teaching method",
+        "instruction",
+        "education",
+        "didactics"
+      ],
+      "antonyms": [
+        "ignorance",
+        "miseducation"
+      ]
+    },
+    {
+      "word": "academician",
+      "hindi": "शिक्षाविद् / विद्वान",
+      "meaning_en": "A person who is a member of an academy of arts or sciences; a highly learned scholar",
+      "example_sentence": "The celebrated academician delivered the inaugural lecture at the conference.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A distinguished scholar who is a member of an academy or institution of learning",
+        "answer": "academician"
+      },
+      "analogy": {
+        "pair": "soldier : army",
+        "question": "scholar : ______",
+        "answer": "academician"
+      },
+      "hint_words": "academician, layman, novice, apprentice",
+      "correct_word": "academician",
+      "sentence": "The renowned ______ was invited to chair the national education policy committee.",
+      "meaning_hi": "शिक्षाविद्",
+      "synonyms": [
+        "scholar",
+        "intellectual",
+        "savant",
+        "professor"
+      ],
+      "antonyms": [
+        "layman",
+        "novice",
+        "ignoramus"
+      ]
+    },
+    {
+      "word": "curriculum",
+      "hindi": "पाठ्यक्रम",
+      "meaning_en": "The subjects comprising a course of study at a school or university",
+      "example_sentence": "The school revised its curriculum to include coding and digital literacy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "The complete set of courses and subjects offered at an educational institution",
+        "answer": "curriculum"
+      },
+      "analogy": {
+        "pair": "menu : restaurant",
+        "question": "syllabus : ______",
+        "answer": "curriculum"
+      },
+      "hint_words": "curriculum, faculty, administration, infrastructure",
+      "correct_word": "curriculum",
+      "sentence": "The new ______ was designed to bridge the gap between theory and practical skills.",
+      "meaning_hi": "पाठ्यक्रम",
+      "synonyms": [
+        "syllabus",
+        "course of study",
+        "programme",
+        "schedule"
+      ],
+      "antonyms": [
+        "extracurricular",
+        "unstructured learning"
+      ]
+    },
+    {
+      "word": "dissertation",
+      "hindi": "शोध-प्रबंध / विस्तृत शोध",
+      "meaning_en": "A long essay or research paper on a particular subject, especially for a degree",
+      "example_sentence": "She submitted her doctoral dissertation on ancient Sanskrit grammar.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A long formal written thesis or research paper submitted for an academic degree",
+        "answer": "dissertation"
+      },
+      "analogy": {
+        "pair": "article : magazine",
+        "question": "thesis : ______",
+        "answer": "dissertation"
+      },
+      "hint_words": "dissertation, presentation, lecture, seminar",
+      "correct_word": "dissertation",
+      "sentence": "His ______ on rural water scarcity won him the national academic award.",
+      "meaning_hi": "शोध-प्रबंध",
+      "synonyms": [
+        "thesis",
+        "treatise",
+        "monograph",
+        "paper"
+      ],
+      "antonyms": [
+        "summary",
+        "abstract",
+        "overview"
+      ]
+    },
+    {
+      "word": "seminar",
+      "hindi": "संगोष्ठी / विचार-गोष्ठी",
+      "meaning_en": "A class or meeting for discussion or training, typically on an academic topic",
+      "example_sentence": "The professor conducted a seminar on climate change policy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A small group discussion session led by an expert for academic or professional learning",
+        "answer": "seminar"
+      },
+      "analogy": {
+        "pair": "lecture : passive listening",
+        "question": "discussion : ______",
+        "answer": "seminar"
+      },
+      "hint_words": "seminar, examination, dissertation, dormitory",
+      "correct_word": "seminar",
+      "sentence": "Students were required to present their research findings at the departmental ______.",
+      "meaning_hi": "संगोष्ठी",
+      "synonyms": [
+        "workshop",
+        "colloquium",
+        "conference",
+        "discussion"
+      ],
+      "antonyms": [
+        "lecture",
+        "monologue",
+        "individual study"
+      ]
+    },
+    {
+      "word": "scholarship",
+      "hindi": "छात्रवृत्ति / विद्वत्ता",
+      "meaning_en": "A grant awarded to support a student's education; also great academic learning",
+      "example_sentence": "She received a scholarship to study at a prestigious foreign university.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A financial grant given to a deserving student to support their education",
+        "answer": "scholarship"
+      },
+      "analogy": {
+        "pair": "reward : achievement",
+        "question": "grant : ______",
+        "answer": "scholarship"
+      },
+      "hint_words": "scholarship, penalty, fine, debt",
+      "correct_word": "scholarship",
+      "sentence": "His excellent performance earned him a full ______ to study engineering.",
+      "meaning_hi": "छात्रवृत्ति",
+      "synonyms": [
+        "fellowship",
+        "grant",
+        "bursary",
+        "award"
+      ],
+      "antonyms": [
+        "penalty",
+        "debt",
+        "loan"
+      ]
+    },
+    {
+      "word": "prodigy",
+      "hindi": "बाल-प्रतिभा / असाधारण प्रतिभाशाली",
+      "meaning_en": "A person, especially a young one, with exceptional abilities or qualities",
+      "example_sentence": "The young chess prodigy defeated the national champion at age twelve.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "A young person who has extraordinary and exceptional talent or ability",
+        "answer": "prodigy"
+      },
+      "analogy": {
+        "pair": "ordinary : mediocre",
+        "question": "exceptional : ______",
+        "answer": "prodigy"
+      },
+      "hint_words": "prodigy, mediocrity, laggard, dunce",
+      "correct_word": "prodigy",
+      "sentence": "Recognised as a musical ______, he performed at Carnegie Hall at the age of ten.",
+      "meaning_hi": "बाल-प्रतिभा",
+      "synonyms": [
+        "genius",
+        "wonder child",
+        "virtuoso",
+        "marvel"
+      ],
+      "antonyms": [
+        "mediocrity",
+        "dunce",
+        "laggard"
+      ]
+    },
+    {
+      "word": "pedagogical",
+      "hindi": "शैक्षणिक / अध्यापन-विषयक",
+      "meaning_en": "Relating to or characteristic of the art or science of teaching",
+      "example_sentence": "The pedagogical approach adopted by the school encouraged student participation.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "Relating to the theories and methods involved in education and teaching",
+        "answer": "pedagogical"
+      },
+      "analogy": {
+        "pair": "medical : medicine",
+        "question": "teaching : ______",
+        "answer": "pedagogical"
+      },
+      "hint_words": "pedagogical, bureaucratic, political, commercial",
+      "correct_word": "pedagogical",
+      "sentence": "The new ______ framework placed equal importance on creativity and academic rigour.",
+      "meaning_hi": "शैक्षणिक",
+      "synonyms": [
+        "educational",
+        "instructional",
+        "didactic",
+        "academic"
+      ],
+      "antonyms": [
+        "non-educational",
+        "anti-intellectual"
+      ]
+    },
+    {
+      "word": "academia",
+      "hindi": "शिक्षा-जगत / विश्वविद्यालय-क्षेत्र",
+      "meaning_en": "The world of universities and academic scholarship",
+      "example_sentence": "She left academia to start her own technology company.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "The environment or world associated with universities, research, and scholarship",
+        "answer": "academia"
+      },
+      "analogy": {
+        "pair": "judiciary : law",
+        "question": "education : ______",
+        "answer": "academia"
+      },
+      "hint_words": "academia, industry, bureaucracy, politics",
+      "correct_word": "academia",
+      "sentence": "His ideas were too radical for ______ but found great success in the business world.",
+      "meaning_hi": "शिक्षा-जगत",
+      "synonyms": [
+        "scholarly world",
+        "university life",
+        "academe",
+        "educational community"
+      ],
+      "antonyms": [
+        "industry",
+        "trade",
+        "commerce"
+      ]
+    },
+    {
+      "word": "elucidate",
+      "hindi": "स्पष्ट करना / विस्तार से समझाना",
+      "meaning_en": "To make something clear by explaining it in detail",
+      "example_sentence": "The professor elucidated the complex theorem with a simple diagram.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "school",
+      "one_word_sub": {
+        "question": "To explain or clarify something complex so that it becomes easy to understand",
+        "answer": "elucidate"
+      },
+      "analogy": {
+        "pair": "confuse : obfuscate",
+        "question": "clarify : ______",
+        "answer": "elucidate"
+      },
+      "hint_words": "elucidate, obscure, confuse, mislead",
+      "correct_word": "elucidate",
+      "sentence": "Could you ______ the steps you followed to arrive at this conclusion?",
+      "meaning_hi": "स्पष्ट करना",
+      "synonyms": [
+        "clarify",
+        "explain",
+        "illuminate",
+        "expound"
+      ],
+      "antonyms": [
+        "obscure",
+        "confuse",
+        "obfuscate",
+        "mystify"
+      ]
+    }
+  ]
+}

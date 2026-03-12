@@ -15,6 +15,7 @@ let vocabularyData = [];
 let currentIndex = 0;
 let timerInterval = null;
 let timeLeft = QUESTION_TIME;
+
 let currentMode = "category";
 
 let score = 0;

@@ -1,0 +1,338 @@
+{
+  "words": [
+    {
+      "word": "ailment",
+      "hindi": "बीमारी / रोग",
+      "meaning_en": "A minor illness or chronic complaint",
+      "example_sentence": "The elderly patient suffered from various ailments related to old age.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "A minor or chronic physical disorder or illness",
+        "answer": "ailment"
+      },
+      "analogy": {
+        "pair": "good health : wellness",
+        "question": "sickness : ______",
+        "answer": "ailment"
+      },
+      "hint_words": "ailment, remedy, vigour, immunity",
+      "correct_word": "ailment",
+      "sentence": "The campaign aimed to create awareness about common respiratory ______s.",
+      "meaning_hi": "बीमारी",
+      "synonyms": [
+        "illness",
+        "disorder",
+        "complaint",
+        "malady"
+      ],
+      "antonyms": [
+        "wellness",
+        "vigour",
+        "robustness"
+      ]
+    },
+    {
+      "word": "convalescent",
+      "hindi": "स्वास्थ्य-लाभ कर रहा / रोगमुक्ति की अवस्था",
+      "meaning_en": "A person recovering gradually from an illness or medical treatment",
+      "example_sentence": "The convalescent patient needed weeks of bed rest before returning to work.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "A person who is slowly recovering health after an illness or surgery",
+        "answer": "convalescent"
+      },
+      "analogy": {
+        "pair": "student : learning",
+        "question": "patient : ______",
+        "answer": "convalescent"
+      },
+      "hint_words": "convalescent, healthy, terminal, immune",
+      "correct_word": "convalescent",
+      "sentence": "The hospital had a special wing for ______ patients who needed supervised recovery.",
+      "meaning_hi": "स्वास्थ्य-लाभ कर रहा",
+      "synonyms": [
+        "recovering",
+        "recuperating",
+        "healing",
+        "mending"
+      ],
+      "antonyms": [
+        "sick",
+        "ailing",
+        "deteriorating",
+        "terminal"
+      ]
+    },
+    {
+      "word": "malady",
+      "hindi": "रोग / बीमारी",
+      "meaning_en": "A serious or chronic disease; a widespread problem",
+      "example_sentence": "Corruption is a malady that has plagued the country for decades.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "A serious disease or a deep-seated problem affecting a person or society",
+        "answer": "malady"
+      },
+      "analogy": {
+        "pair": "health : fitness",
+        "question": "disease : ______",
+        "answer": "malady"
+      },
+      "hint_words": "malady, remedy, wellness, vitality",
+      "correct_word": "malady",
+      "sentence": "Poverty is a social ______ that requires urgent attention and reform.",
+      "meaning_hi": "रोग",
+      "synonyms": [
+        "illness",
+        "disease",
+        "disorder",
+        "affliction"
+      ],
+      "antonyms": [
+        "health",
+        "wellness",
+        "vitality",
+        "fitness"
+      ]
+    },
+    {
+      "word": "recuperate",
+      "hindi": "स्वास्थ्य-लाभ करना / ठीक होना",
+      "meaning_en": "To recover from illness, exhaustion, or a setback",
+      "example_sentence": "She travelled to the mountains to recuperate after the surgery.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "To recover health or strength after illness, injury, or exhaustion",
+        "answer": "recuperate"
+      },
+      "analogy": {
+        "pair": "fall : rise",
+        "question": "sicken : ______",
+        "answer": "recuperate"
+      },
+      "hint_words": "recuperate, deteriorate, collapse, weaken",
+      "correct_word": "recuperate",
+      "sentence": "The player needed three months to fully ______ from the knee injury.",
+      "meaning_hi": "स्वास्थ्य-लाभ करना",
+      "synonyms": [
+        "recover",
+        "convalesce",
+        "heal",
+        "mend"
+      ],
+      "antonyms": [
+        "deteriorate",
+        "weaken",
+        "relapse",
+        "worsen"
+      ]
+    },
+    {
+      "word": "prognosis",
+      "hindi": "रोगनिदान / भविष्यवाणी",
+      "meaning_en": "The likely course of a disease or medical condition; a forecast",
+      "example_sentence": "The doctor gave a positive prognosis after reviewing the test results.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "A medical forecast about the likely outcome of a patient's disease",
+        "answer": "prognosis"
+      },
+      "analogy": {
+        "pair": "history : past",
+        "question": "forecast : ______",
+        "answer": "prognosis"
+      },
+      "hint_words": "prognosis, diagnosis, treatment, symptom",
+      "correct_word": "prognosis",
+      "sentence": "The oncologist delivered a guarded ______ about the patient's recovery chances.",
+      "meaning_hi": "रोगनिदान",
+      "synonyms": [
+        "forecast",
+        "outlook",
+        "prediction",
+        "prospect"
+      ],
+      "antonyms": [
+        "diagnosis",
+        "retrospective analysis"
+      ]
+    },
+    {
+      "word": "quarantine",
+      "hindi": "संगरोध / एकांतवास",
+      "meaning_en": "A state of isolation to prevent the spread of infectious disease",
+      "example_sentence": "All passengers arriving from affected regions were placed in quarantine.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "The isolation of a person or animal to prevent the spread of a contagious disease",
+        "answer": "quarantine"
+      },
+      "analogy": {
+        "pair": "prison : criminal",
+        "question": "isolation : ______",
+        "answer": "quarantine"
+      },
+      "hint_words": "quarantine, integration, mingling, socialization",
+      "correct_word": "quarantine",
+      "sentence": "Health authorities ordered a fourteen-day ______ for all close contacts of the patient.",
+      "meaning_hi": "संगरोध",
+      "synonyms": [
+        "isolation",
+        "segregation",
+        "confinement",
+        "seclusion"
+      ],
+      "antonyms": [
+        "integration",
+        "socialisation",
+        "mingling"
+      ]
+    },
+    {
+      "word": "palliate",
+      "hindi": "कम करना / लक्षणों को शांत करना",
+      "meaning_en": "To relieve the symptoms of a disease without curing it; to make less severe",
+      "example_sentence": "Painkillers can palliate the symptoms but cannot cure the underlying condition.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "To reduce the severity of symptoms without treating the underlying cause",
+        "answer": "palliate"
+      },
+      "analogy": {
+        "pair": "cure : eliminate",
+        "question": "relieve symptoms : ______",
+        "answer": "palliate"
+      },
+      "hint_words": "palliate, aggravate, worsen, cure",
+      "correct_word": "palliate",
+      "sentence": "The new drug could ______ pain in terminal patients but offered no prospect of cure.",
+      "meaning_hi": "कम करना",
+      "synonyms": [
+        "alleviate",
+        "relieve",
+        "soothe",
+        "ease"
+      ],
+      "antonyms": [
+        "aggravate",
+        "worsen",
+        "intensify",
+        "cure"
+      ]
+    },
+    {
+      "word": "virulent",
+      "hindi": "विषाणुजनित / अत्यंत हानिकारक",
+      "meaning_en": "Extremely harmful or poisonous; of a disease or pathogen that is highly infectious",
+      "example_sentence": "The virulent strain of influenza spread rapidly through the population.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "A disease or pathogen that is extremely infectious, dangerous, and difficult to combat",
+        "answer": "virulent"
+      },
+      "analogy": {
+        "pair": "mild : benign",
+        "question": "severe : ______",
+        "answer": "virulent"
+      },
+      "hint_words": "virulent, benign, harmless, mild",
+      "correct_word": "virulent",
+      "sentence": "Scientists raced to develop a vaccine against the ______ new pathogen.",
+      "meaning_hi": "विषाणुजनित",
+      "synonyms": [
+        "lethal",
+        "toxic",
+        "malignant",
+        "pernicious"
+      ],
+      "antonyms": [
+        "benign",
+        "harmless",
+        "mild",
+        "innocuous"
+      ]
+    },
+    {
+      "word": "immunity",
+      "hindi": "प्रतिरक्षा / छूट",
+      "meaning_en": "The ability of the body to resist infection or disease; also legal exemption",
+      "example_sentence": "The vaccine was designed to build long-term immunity against the virus.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "The body's natural or acquired ability to resist a particular disease or infection",
+        "answer": "immunity"
+      },
+      "analogy": {
+        "pair": "vulnerability : susceptibility",
+        "question": "resistance : ______",
+        "answer": "immunity"
+      },
+      "hint_words": "immunity, susceptibility, vulnerability, exposure",
+      "correct_word": "immunity",
+      "sentence": "Breastfeeding is known to confer passive ______ to newborns.",
+      "meaning_hi": "प्रतिरक्षा",
+      "synonyms": [
+        "resistance",
+        "protection",
+        "defence",
+        "insusceptibility"
+      ],
+      "antonyms": [
+        "susceptibility",
+        "vulnerability",
+        "exposure"
+      ]
+    },
+    {
+      "word": "pathology",
+      "hindi": "रोगविज्ञान / विकृति",
+      "meaning_en": "The science of the causes and effects of diseases; abnormal or unhealthy behaviour",
+      "example_sentence": "The lab report came from the pathology department within 24 hours.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "category": "health",
+      "one_word_sub": {
+        "question": "The branch of medicine dealing with the causes, processes, and effects of diseases",
+        "answer": "pathology"
+      },
+      "analogy": {
+        "pair": "astronomy : stars",
+        "question": "disease : ______",
+        "answer": "pathology"
+      },
+      "hint_words": "pathology, physiology, theology, psychology",
+      "correct_word": "pathology",
+      "sentence": "The forensic ______ report confirmed that death was due to poisoning.",
+      "meaning_hi": "रोगविज्ञान",
+      "synonyms": [
+        "disease study",
+        "medical science",
+        "morbidity",
+        "disorder"
+      ],
+      "antonyms": [
+        "health",
+        "normalcy",
+        "wellness"
+      ]
+    }
+  ]
+}
