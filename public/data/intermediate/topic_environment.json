@@ -1,0 +1,374 @@
+{
+  "level": "intermediate",
+  "topic": "environment",
+  "words": [
+    {
+      "word": "extinct",
+      "hindi": "विलुप्त / नष्ट",
+      "meaning_en": "No longer in existence; having died out",
+      "example_sentence": "The dodo bird became extinct in the 17th century.",
+      "synonyms": [
+        "vanished",
+        "dead",
+        "gone",
+        "wiped out"
+      ],
+      "antonyms": [
+        "alive",
+        "existing",
+        "thriving",
+        "surviving"
+      ],
+      "fill_blank": "Many species become ______ due to deforestation.",
+      "correct_word": "extinct",
+      "hint_words": "extinct, alive, thriving, vanished",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "fertile",
+      "hindi": "उपजाऊ / फलदार",
+      "meaning_en": "Capable of producing abundant vegetation or crops",
+      "example_sentence": "The Ganges plain has very fertile soil.",
+      "synonyms": [
+        "productive",
+        "fruitful",
+        "rich",
+        "lush"
+      ],
+      "antonyms": [
+        "barren",
+        "infertile",
+        "dry",
+        "unproductive"
+      ],
+      "fill_blank": "The ______ valley grew the best wheat in the district.",
+      "correct_word": "fertile",
+      "hint_words": "fertile, barren, dry, productive",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "preserve",
+      "hindi": "संरक्षित करना / बचाना",
+      "meaning_en": "To maintain in its original or existing state",
+      "example_sentence": "We must preserve our forests for future generations.",
+      "synonyms": [
+        "protect",
+        "conserve",
+        "maintain",
+        "safeguard"
+      ],
+      "antonyms": [
+        "destroy",
+        "damage",
+        "neglect",
+        "ruin"
+      ],
+      "fill_blank": "It is our duty to ______ cultural heritage.",
+      "correct_word": "preserve",
+      "hint_words": "preserve, destroy, damage, protect",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "restore",
+      "hindi": "पुनर्स्थापित करना / ठीक करना",
+      "meaning_en": "To bring back to a former condition",
+      "example_sentence": "The government plans to restore the ancient temple.",
+      "synonyms": [
+        "repair",
+        "revive",
+        "rebuild",
+        "renew"
+      ],
+      "antonyms": [
+        "damage",
+        "ruin",
+        "destroy",
+        "neglect"
+      ],
+      "fill_blank": "We must ______ the natural balance of ecosystems.",
+      "correct_word": "restore",
+      "hint_words": "restore, damage, ruin, repair",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "scarcity",
+      "hindi": "कमी / अभाव",
+      "meaning_en": "Insufficiency of supply; shortage",
+      "example_sentence": "Water scarcity is a growing problem in many cities.",
+      "synonyms": [
+        "shortage",
+        "deficiency",
+        "lack",
+        "dearth"
+      ],
+      "antonyms": [
+        "abundance",
+        "surplus",
+        "plenty",
+        "excess"
+      ],
+      "fill_blank": "The drought caused a ______ of food in the region.",
+      "correct_word": "scarcity",
+      "hint_words": "scarcity, abundance, surplus, shortage",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "stagnant",
+      "hindi": "ठहरा हुआ / रुका हुआ",
+      "meaning_en": "Not flowing or moving; showing no activity or development",
+      "example_sentence": "Stagnant water is a breeding ground for mosquitoes.",
+      "synonyms": [
+        "still",
+        "static",
+        "motionless",
+        "idle"
+      ],
+      "antonyms": [
+        "flowing",
+        "active",
+        "dynamic",
+        "developing"
+      ],
+      "fill_blank": "A ______ economy fails to create jobs.",
+      "correct_word": "stagnant",
+      "hint_words": "stagnant, flowing, active, dynamic",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "deforestation",
+      "hindi": "वनों की कटाई",
+      "meaning_en": "The process of clearing forests on a large scale",
+      "example_sentence": "Deforestation is one of the leading causes of climate change.",
+      "synonyms": [
+        "forest clearing",
+        "logging",
+        "woodland destruction",
+        "tree felling"
+      ],
+      "antonyms": [
+        "reforestation",
+        "afforestation",
+        "conservation",
+        "replanting"
+      ],
+      "fill_blank": "______ destroys the homes of thousands of animals.",
+      "correct_word": "deforestation",
+      "hint_words": "deforestation, afforestation, reforestation, logging",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "environmental",
+      "hindi": "पर्यावरण संबंधी",
+      "meaning_en": "Relating to the natural world and the impact of human activity on it",
+      "example_sentence": "Environmental pollution affects human health directly.",
+      "synonyms": [
+        "ecological",
+        "natural",
+        "green",
+        "nature-related"
+      ],
+      "antonyms": [
+        "industrial",
+        "artificial",
+        "man-made",
+        "unnatural"
+      ],
+      "fill_blank": "We need strong ______ policies to protect our forests.",
+      "correct_word": "environmental",
+      "hint_words": "environmental, industrial, artificial, ecological",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "migrate",
+      "hindi": "प्रवास करना / स्थान बदलना",
+      "meaning_en": "To move from one region or habitat to another seasonally",
+      "example_sentence": "Migratory birds migrate to warmer areas in winter.",
+      "synonyms": [
+        "move",
+        "travel",
+        "relocate",
+        "journey"
+      ],
+      "antonyms": [
+        "stay",
+        "settle",
+        "remain",
+        "reside"
+      ],
+      "fill_blank": "Many workers ______ from villages to cities for employment.",
+      "correct_word": "migrate",
+      "hint_words": "migrate, stay, settle, relocate",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "pollution",
+      "hindi": "प्रदूषण",
+      "meaning_en": "The introduction of harmful substances into the environment",
+      "example_sentence": "Air pollution in cities has reached dangerous levels.",
+      "synonyms": [
+        "contamination",
+        "poisoning",
+        "impurity",
+        "degradation"
+      ],
+      "antonyms": [
+        "purification",
+        "cleanliness",
+        "conservation",
+        "protection"
+      ],
+      "fill_blank": "Industrial ______ poisons rivers and harms aquatic life.",
+      "correct_word": "pollution",
+      "hint_words": "pollution, purification, cleanliness, contamination",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "sustainable",
+      "hindi": "टिकाऊ / दीर्घकालिक",
+      "meaning_en": "Able to be maintained at a certain rate without depleting resources",
+      "example_sentence": "Solar energy is a sustainable alternative to coal.",
+      "synonyms": [
+        "renewable",
+        "lasting",
+        "eco-friendly",
+        "long-term"
+      ],
+      "antonyms": [
+        "wasteful",
+        "destructive",
+        "short-term",
+        "non-renewable"
+      ],
+      "fill_blank": "Farmers are adopting ______ practices to protect the soil.",
+      "correct_word": "sustainable",
+      "hint_words": "sustainable, wasteful, destructive, eco-friendly",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "biodiversity",
+      "hindi": "जैव विविधता",
+      "meaning_en": "The variety of plant and animal life in a particular habitat or on Earth as a whole",
+      "example_sentence": "Deforestation threatens the biodiversity of tropical rainforests.",
+      "synonyms": [
+        "ecological variety",
+        "species diversity",
+        "natural variety",
+        "wildlife richness"
+      ],
+      "antonyms": [
+        "monoculture",
+        "uniformity",
+        "extinction",
+        "depletion"
+      ],
+      "fill_blank": "Protecting ______ is essential to maintaining healthy ecosystems.",
+      "correct_word": "biodiversity",
+      "hint_words": "biodiversity, monoculture, pollution, extinction",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "renewable",
+      "hindi": "नवीकरणीय",
+      "meaning_en": "A resource that is naturally replenished and can be used repeatedly without being exhausted",
+      "example_sentence": "Solar and wind energy are renewable sources of power.",
+      "synonyms": [
+        "sustainable",
+        "replenishable",
+        "inexhaustible",
+        "recyclable"
+      ],
+      "antonyms": [
+        "non-renewable",
+        "finite",
+        "exhaustible",
+        "fossil-based"
+      ],
+      "fill_blank": "India is investing heavily in ______ energy to reduce dependence on coal.",
+      "correct_word": "renewable",
+      "hint_words": "renewable, non-renewable, fossil, finite",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "emission",
+      "hindi": "उत्सर्जन",
+      "meaning_en": "The production and discharge of something, especially greenhouse gases into the atmosphere",
+      "example_sentence": "Reducing carbon emissions is essential to slow global warming.",
+      "synonyms": [
+        "discharge",
+        "release",
+        "output",
+        "expulsion"
+      ],
+      "antonyms": [
+        "absorption",
+        "intake",
+        "containment",
+        "capture"
+      ],
+      "fill_blank": "Factories and vehicles are major sources of carbon ______.",
+      "correct_word": "emission",
+      "hint_words": "emission, absorption, radiation, pollution",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "depletion",
+      "hindi": "ह्रास / कमी",
+      "meaning_en": "A reduction in the quantity or richness of something valuable over time",
+      "example_sentence": "The depletion of the ozone layer has increased harmful UV radiation reaching Earth.",
+      "synonyms": [
+        "reduction",
+        "exhaustion",
+        "diminution",
+        "consumption"
+      ],
+      "antonyms": [
+        "replenishment",
+        "increase",
+        "restoration",
+        "renewal"
+      ],
+      "fill_blank": "Overuse of groundwater has led to the rapid ______ of water reserves.",
+      "correct_word": "depletion",
+      "hint_words": "depletion, replenishment, increase, emission",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "contamination",
+      "hindi": "प्रदूषण / संदूषण",
+      "meaning_en": "The process of making something impure or harmful by introducing a pollutant",
+      "example_sentence": "Industrial waste causes contamination of rivers and groundwater.",
+      "synonyms": [
+        "pollution",
+        "impurity",
+        "adulteration",
+        "infection"
+      ],
+      "antonyms": [
+        "purification",
+        "cleansing",
+        "filtration",
+        "decontamination"
+      ],
+      "fill_blank": "The ______ of the drinking water supply led to a disease outbreak.",
+      "correct_word": "contamination",
+      "hint_words": "contamination, purification, filtration, pollution",
+      "difficulty": "medium",
+      "category": "environment"
+    }
+  ]
+}

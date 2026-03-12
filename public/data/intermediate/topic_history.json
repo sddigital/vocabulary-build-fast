@@ -1,0 +1,213 @@
+{
+  "level": "intermediate",
+  "topic": "history",
+  "words": [
+    {
+      "word": "colonialism",
+      "hindi": "उपनिवेशवाद",
+      "meaning_en": "The practice of one country taking political and economic control over another",
+      "example_sentence": "India suffered under British colonialism for nearly two centuries.",
+      "synonyms": [
+        "imperialism",
+        "domination",
+        "subjugation",
+        "occupation"
+      ],
+      "antonyms": [
+        "independence",
+        "sovereignty",
+        "liberation",
+        "self-rule"
+      ],
+      "fill_blank": "The freedom movement was a direct response to the ______ of the British Empire.",
+      "correct_word": "colonialism",
+      "hint_words": "colonialism, democracy, liberation, sovereignty",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "imperialism",
+      "hindi": "साम्राज्यवाद",
+      "meaning_en": "A policy of extending a country's power and influence through military force or diplomacy",
+      "example_sentence": "European imperialism led to the colonisation of Asia and Africa.",
+      "synonyms": [
+        "expansionism",
+        "colonialism",
+        "domination",
+        "conquest"
+      ],
+      "antonyms": [
+        "nationalism",
+        "independence",
+        "liberation",
+        "self-determination"
+      ],
+      "fill_blank": "The scramble for Africa was driven by European ______.",
+      "correct_word": "imperialism",
+      "hint_words": "imperialism, nationalism, liberalism, pacifism",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "nationalism",
+      "hindi": "राष्ट्रवाद",
+      "meaning_en": "A strong feeling of pride and loyalty towards one's country, often driving movements for independence",
+      "example_sentence": "The spirit of nationalism united Indians against British rule.",
+      "synonyms": [
+        "patriotism",
+        "self-determination",
+        "independence movement",
+        "sovereignty"
+      ],
+      "antonyms": [
+        "imperialism",
+        "colonialism",
+        "subjugation",
+        "internationalism"
+      ],
+      "fill_blank": "The rise of ______ in the 19th century led to the unification of Germany and Italy.",
+      "correct_word": "nationalism",
+      "hint_words": "nationalism, colonialism, imperialism, globalism",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "revolution",
+      "hindi": "क्रांति",
+      "meaning_en": "A fundamental and rapid change in a society or government, often achieved through force",
+      "example_sentence": "The French Revolution changed the political landscape of Europe.",
+      "synonyms": [
+        "uprising",
+        "transformation",
+        "overthrow",
+        "rebellion"
+      ],
+      "antonyms": [
+        "stability",
+        "continuity",
+        "submission",
+        "peace"
+      ],
+      "fill_blank": "The Industrial ______ transformed manufacturing and changed people's way of life.",
+      "correct_word": "revolution",
+      "hint_words": "revolution, rebellion, stability, governance",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "constitution",
+      "hindi": "संविधान",
+      "meaning_en": "A set of fundamental laws that establishes the principles of a government and the rights of citizens",
+      "example_sentence": "India adopted its Constitution on January 26, 1950.",
+      "synonyms": [
+        "charter",
+        "framework",
+        "statute",
+        "law"
+      ],
+      "antonyms": [
+        "anarchy",
+        "disorder",
+        "lawlessness",
+        "tyranny"
+      ],
+      "fill_blank": "Dr B.R. Ambedkar was the principal architect of the Indian ______.",
+      "correct_word": "constitution",
+      "hint_words": "constitution, statute, anarchy, law",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "parliament",
+      "hindi": "संसद",
+      "meaning_en": "The highest legislative body of a country that debates and passes laws",
+      "example_sentence": "A bill must be passed in Parliament before it becomes a law.",
+      "synonyms": [
+        "legislature",
+        "assembly",
+        "congress",
+        "senate"
+      ],
+      "antonyms": [
+        "monarchy",
+        "dictatorship",
+        "autocracy",
+        "tyranny"
+      ],
+      "fill_blank": "The Indian ______ consists of the Lok Sabha and the Rajya Sabha.",
+      "correct_word": "parliament",
+      "hint_words": "parliament, monarchy, judiciary, assembly",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "feudalism",
+      "hindi": "सामंतवाद",
+      "meaning_en": "A medieval social system where lords owned land and peasants worked it in exchange for protection",
+      "example_sentence": "Under feudalism, peasants had very few rights and freedoms.",
+      "synonyms": [
+        "serfdom",
+        "manorialism",
+        "aristocracy",
+        "vassalage"
+      ],
+      "antonyms": [
+        "democracy",
+        "equality",
+        "freedom",
+        "liberalism"
+      ],
+      "fill_blank": "The decline of ______ in Europe gave rise to new social and economic classes.",
+      "correct_word": "feudalism",
+      "hint_words": "feudalism, democracy, socialism, monarchy",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "sovereignty",
+      "hindi": "संप्रभुता",
+      "meaning_en": "The full right and supreme power of a state to govern itself without outside interference",
+      "example_sentence": "After independence, India regained full sovereignty over its land.",
+      "synonyms": [
+        "authority",
+        "independence",
+        "supremacy",
+        "autonomy"
+      ],
+      "antonyms": [
+        "subjugation",
+        "dependence",
+        "colonialism",
+        "submission"
+      ],
+      "fill_blank": "A nation's ______ means it has the right to make its own laws and policies.",
+      "correct_word": "sovereignty",
+      "hint_words": "sovereignty, colonialism, dependence, autonomy",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "alliance",
+      "hindi": "गठबंधन",
+      "meaning_en": "A union or formal agreement between countries or groups for mutual benefit",
+      "example_sentence": "The two nations formed an alliance to fight against a common enemy.",
+      "synonyms": [
+        "partnership",
+        "coalition",
+        "union",
+        "pact"
+      ],
+      "antonyms": [
+        "rivalry",
+        "conflict",
+        "hostility",
+        "enmity"
+      ],
+      "fill_blank": "The Allied Powers formed an ______ to oppose Nazi Germany in World War II.",
+      "correct_word": "alliance",
+      "hint_words": "alliance, rivalry, conflict, partnership",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

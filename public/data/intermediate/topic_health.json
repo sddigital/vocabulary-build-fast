@@ -1,0 +1,259 @@
+{
+  "level": "intermediate",
+  "topic": "health",
+  "words": [
+    {
+      "word": "alleviate",
+      "hindi": "कम करना / राहत देना",
+      "meaning_en": "To make pain or a problem less severe",
+      "example_sentence": "The medicine helped alleviate her headache.",
+      "synonyms": [
+        "relieve",
+        "ease",
+        "reduce",
+        "lessen"
+      ],
+      "antonyms": [
+        "worsen",
+        "aggravate",
+        "intensify",
+        "increase"
+      ],
+      "fill_blank": "Exercise can ______ stress and improve mood.",
+      "correct_word": "alleviate",
+      "hint_words": "alleviate, worsen, ignore, relieve",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "hazardous",
+      "hindi": "खतरनाक / जोखिम भरा",
+      "meaning_en": "Risky; involving potential harm or danger",
+      "example_sentence": "Working in a chemical factory can be hazardous.",
+      "synonyms": [
+        "dangerous",
+        "risky",
+        "perilous",
+        "unsafe"
+      ],
+      "antonyms": [
+        "safe",
+        "harmless",
+        "secure",
+        "risk-free"
+      ],
+      "fill_blank": "Smoking is ______ to health.",
+      "correct_word": "hazardous",
+      "hint_words": "hazardous, safe, harmless, dangerous",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "remedy",
+      "hindi": "उपाय / इलाज",
+      "meaning_en": "A solution to a problem; a treatment for a disease",
+      "example_sentence": "Ginger tea is a popular home remedy for a cold.",
+      "synonyms": [
+        "cure",
+        "solution",
+        "treatment",
+        "answer"
+      ],
+      "antonyms": [
+        "problem",
+        "ailment",
+        "disease",
+        "aggravation"
+      ],
+      "fill_blank": "The best ______ for stress is regular exercise.",
+      "correct_word": "remedy",
+      "hint_words": "remedy, problem, cure, disease",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "vigorous",
+      "hindi": "जोरदार / ऊर्जावान",
+      "meaning_en": "Strong, healthy, and full of energy",
+      "example_sentence": "A vigorous debate took place in the school parliament.",
+      "synonyms": [
+        "energetic",
+        "lively",
+        "forceful",
+        "active"
+      ],
+      "antonyms": [
+        "weak",
+        "lethargic",
+        "feeble",
+        "passive"
+      ],
+      "fill_blank": "Regular exercise keeps you ______ and healthy.",
+      "correct_word": "vigorous",
+      "hint_words": "vigorous, weak, lethargic, energetic",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "acute",
+      "hindi": "तीव्र / गंभीर",
+      "meaning_en": "Severe; of great importance; sharp in perception",
+      "example_sentence": "She had an acute pain in her knee after the fall.",
+      "synonyms": [
+        "severe",
+        "sharp",
+        "intense",
+        "critical"
+      ],
+      "antonyms": [
+        "mild",
+        "gentle",
+        "chronic",
+        "insignificant"
+      ],
+      "fill_blank": "The country faces an ______ shortage of doctors.",
+      "correct_word": "acute",
+      "hint_words": "acute, mild, gentle, severe",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "epidemic",
+      "hindi": "महामारी / एक क्षेत्र में फैलने वाला रोग",
+      "meaning_en": "A widespread occurrence of an infectious disease in a community",
+      "example_sentence": "An epidemic of dengue broke out in the city last year.",
+      "synonyms": [
+        "outbreak",
+        "plague",
+        "spread",
+        "disease wave"
+      ],
+      "antonyms": [
+        "containment",
+        "cure",
+        "eradication",
+        "prevention"
+      ],
+      "fill_blank": "Health workers quickly responded to the cholera ______.",
+      "correct_word": "epidemic",
+      "hint_words": "epidemic, prevention, cure, outbreak",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "sanitation",
+      "hindi": "स्वच्छता / सफाई व्यवस्था",
+      "meaning_en": "Conditions relating to public health, especially clean water and waste disposal",
+      "example_sentence": "Proper sanitation prevents the spread of disease.",
+      "synonyms": [
+        "hygiene",
+        "cleanliness",
+        "health",
+        "waste management"
+      ],
+      "antonyms": [
+        "filth",
+        "contamination",
+        "uncleanliness",
+        "pollution"
+      ],
+      "fill_blank": "The Swachh Bharat campaign focuses on ______.",
+      "correct_word": "sanitation",
+      "hint_words": "sanitation, filth, pollution, hygiene",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "immunity",
+      "hindi": "प्रतिरक्षा",
+      "meaning_en": "The body's ability to resist or fight off infection and disease",
+      "example_sentence": "Vaccines strengthen the body's immunity against dangerous diseases.",
+      "synonyms": [
+        "resistance",
+        "protection",
+        "defence",
+        "invulnerability"
+      ],
+      "antonyms": [
+        "vulnerability",
+        "susceptibility",
+        "weakness",
+        "exposure"
+      ],
+      "fill_blank": "A healthy diet and exercise help build natural ______ against illness.",
+      "correct_word": "immunity",
+      "hint_words": "immunity, vulnerability, resistance, infection",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "pathogen",
+      "hindi": "रोगाणु",
+      "meaning_en": "A bacterium, virus, or other microorganism that causes disease",
+      "example_sentence": "A pathogen enters the body and triggers an immune response.",
+      "synonyms": [
+        "germ",
+        "microbe",
+        "bacterium",
+        "virus"
+      ],
+      "antonyms": [
+        "vaccine",
+        "antibiotic",
+        "antidote",
+        "remedy"
+      ],
+      "fill_blank": "Malaria is caused by a ______ transmitted through the bite of an infected mosquito.",
+      "correct_word": "pathogen",
+      "hint_words": "pathogen, vaccine, remedy, germ",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "diagnosis",
+      "hindi": "निदान",
+      "meaning_en": "The identification of an illness or condition through examination and tests",
+      "example_sentence": "An early diagnosis of cancer greatly improves the chances of recovery.",
+      "synonyms": [
+        "identification",
+        "detection",
+        "assessment",
+        "evaluation"
+      ],
+      "antonyms": [
+        "misdiagnosis",
+        "ignorance",
+        "neglect",
+        "oversight"
+      ],
+      "fill_blank": "The doctor made a ______ of pneumonia after examining the patient.",
+      "correct_word": "diagnosis",
+      "hint_words": "diagnosis, treatment, misdiagnosis, remedy",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "contagious",
+      "hindi": "संक्रामक",
+      "meaning_en": "A disease that can spread easily from one person to another by contact",
+      "example_sentence": "Influenza is contagious and can spread through coughing and sneezing.",
+      "synonyms": [
+        "infectious",
+        "transmissible",
+        "communicable",
+        "spreading"
+      ],
+      "antonyms": [
+        "non-infectious",
+        "contained",
+        "isolated",
+        "non-communicable"
+      ],
+      "fill_blank": "Chickenpox is a ______ disease that spreads rapidly among children.",
+      "correct_word": "contagious",
+      "hint_words": "contagious, chronic, infectious, contained",
+      "difficulty": "medium",
+      "category": "health"
+    }
+  ]
+}

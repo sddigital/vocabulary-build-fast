@@ -1,0 +1,880 @@
+{
+  "level": "intermediate",
+  "topic": "social",
+  "words": [
+    {
+      "word": "famine",
+      "hindi": "अकाल / भुखमरी",
+      "meaning_en": "Extreme scarcity of food leading to starvation",
+      "example_sentence": "The drought caused a severe famine in the region.",
+      "synonyms": [
+        "starvation",
+        "hunger",
+        "scarcity",
+        "deprivation"
+      ],
+      "antonyms": [
+        "abundance",
+        "plenty",
+        "surplus",
+        "prosperity"
+      ],
+      "fill_blank": "Millions suffered during the great ______ of the 1940s.",
+      "correct_word": "famine",
+      "hint_words": "famine, abundance, feast, scarcity",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "grievance",
+      "hindi": "शिकायत / असंतोष",
+      "meaning_en": "A complaint about unfair treatment",
+      "example_sentence": "The workers submitted their grievances to the manager.",
+      "synonyms": [
+        "complaint",
+        "protest",
+        "objection",
+        "resentment"
+      ],
+      "antonyms": [
+        "satisfaction",
+        "contentment",
+        "approval",
+        "gratitude"
+      ],
+      "fill_blank": "She filed a ______ against the unfair dismissal.",
+      "correct_word": "grievance",
+      "hint_words": "grievance, satisfaction, praise, complaint",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "harmony",
+      "hindi": "सामंजस्य / मेलजोल",
+      "meaning_en": "Agreement; peaceful coexistence",
+      "example_sentence": "People of all religions live in harmony in this village.",
+      "synonyms": [
+        "peace",
+        "unity",
+        "agreement",
+        "accord"
+      ],
+      "antonyms": [
+        "conflict",
+        "discord",
+        "disharmony",
+        "disagreement"
+      ],
+      "fill_blank": "The team worked in ______ to complete the project.",
+      "correct_word": "harmony",
+      "hint_words": "harmony, conflict, discord, peace",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "hostile",
+      "hindi": "शत्रुतापूर्ण / विरोधी",
+      "meaning_en": "Unfriendly; showing opposition or resistance",
+      "example_sentence": "The crowd turned hostile when the leader did not appear.",
+      "synonyms": [
+        "unfriendly",
+        "aggressive",
+        "antagonistic",
+        "opposed"
+      ],
+      "antonyms": [
+        "friendly",
+        "welcoming",
+        "peaceful",
+        "amicable"
+      ],
+      "fill_blank": "He received a ______ response when he raised the issue.",
+      "correct_word": "hostile",
+      "hint_words": "hostile, friendly, welcoming, aggressive",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "impartial",
+      "hindi": "निष्पक्ष / तटस्थ",
+      "meaning_en": "Treating all rivals or disputants equally; unbiased",
+      "example_sentence": "The judge gave an impartial verdict.",
+      "synonyms": [
+        "neutral",
+        "fair",
+        "unbiased",
+        "objective"
+      ],
+      "antonyms": [
+        "biased",
+        "partial",
+        "prejudiced",
+        "unfair"
+      ],
+      "fill_blank": "A referee must be completely ______ during a match.",
+      "correct_word": "impartial",
+      "hint_words": "impartial, biased, partial, fair",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "impose",
+      "hindi": "थोपना / लागू करना",
+      "meaning_en": "To force something unwelcome on someone",
+      "example_sentence": "The government imposed new taxes on imported goods.",
+      "synonyms": [
+        "enforce",
+        "inflict",
+        "thrust",
+        "press"
+      ],
+      "antonyms": [
+        "lift",
+        "remove",
+        "withdraw",
+        "abolish"
+      ],
+      "fill_blank": "The principal decided to ______ stricter rules.",
+      "correct_word": "impose",
+      "hint_words": "impose, remove, lift, enforce",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "incentive",
+      "hindi": "प्रोत्साहन / प्रेरणा",
+      "meaning_en": "Something that motivates or encourages action",
+      "example_sentence": "A scholarship is a great incentive for students to study hard.",
+      "synonyms": [
+        "motivation",
+        "encouragement",
+        "reward",
+        "stimulus"
+      ],
+      "antonyms": [
+        "deterrent",
+        "discouragement",
+        "punishment",
+        "obstacle"
+      ],
+      "fill_blank": "The bonus acted as an ______ for the sales team.",
+      "correct_word": "incentive",
+      "hint_words": "incentive, deterrent, punishment, motivation",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "influence",
+      "hindi": "प्रभाव / असर",
+      "meaning_en": "The capacity to have an effect on the character or behavior of someone",
+      "example_sentence": "Good teachers have a lasting influence on their students.",
+      "synonyms": [
+        "impact",
+        "effect",
+        "power",
+        "authority"
+      ],
+      "antonyms": [
+        "weakness",
+        "impotence",
+        "ineffectiveness",
+        "insignificance"
+      ],
+      "fill_blank": "Your friends can ______ your choices greatly.",
+      "correct_word": "influence",
+      "hint_words": "influence, ignore, forget, impact",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "intervene",
+      "hindi": "हस्तक्षेप करना / बीच में आना",
+      "meaning_en": "To become involved in a situation to alter or prevent events",
+      "example_sentence": "The teacher had to intervene when the boys began to fight.",
+      "synonyms": [
+        "interfere",
+        "mediate",
+        "step in",
+        "intercede"
+      ],
+      "antonyms": [
+        "ignore",
+        "withdraw",
+        "avoid",
+        "neglect"
+      ],
+      "fill_blank": "The police decided to ______ before the riot spread.",
+      "correct_word": "intervene",
+      "hint_words": "intervene, ignore, avoid, mediate",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "manipulate",
+      "hindi": "चालाकी से नियंत्रित करना / हेरफेर करना",
+      "meaning_en": "To control or influence cleverly or unfairly",
+      "example_sentence": "He tried to manipulate others by telling half-truths.",
+      "synonyms": [
+        "control",
+        "influence",
+        "exploit",
+        "maneuver"
+      ],
+      "antonyms": [
+        "guide",
+        "assist",
+        "respect",
+        "support"
+      ],
+      "fill_blank": "A good leader does not ______ people for personal gain.",
+      "correct_word": "manipulate",
+      "hint_words": "manipulate, guide, respect, exploit",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "migrate",
+      "hindi": "प्रवास करना / एक स्थान से दूसरे स्थान जाना",
+      "meaning_en": "To move from one region or country to another",
+      "example_sentence": "Many birds migrate to India during winter.",
+      "synonyms": [
+        "move",
+        "travel",
+        "relocate",
+        "wander"
+      ],
+      "antonyms": [
+        "stay",
+        "settle",
+        "remain",
+        "reside"
+      ],
+      "fill_blank": "Thousands of workers ______ to cities for employment.",
+      "correct_word": "migrate",
+      "hint_words": "migrate, stay, remain, relocate",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "neutral",
+      "hindi": "तटस्थ / निष्पक्ष",
+      "meaning_en": "Not supporting or helping either side in a conflict",
+      "example_sentence": "Switzerland remained neutral during both world wars.",
+      "synonyms": [
+        "impartial",
+        "unbiased",
+        "detached",
+        "objective"
+      ],
+      "antonyms": [
+        "biased",
+        "partial",
+        "sided",
+        "opinionated"
+      ],
+      "fill_blank": "The mediator remained ______ during the talks.",
+      "correct_word": "neutral",
+      "hint_words": "neutral, biased, partial, impartial",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "prejudice",
+      "hindi": "पूर्वाग्रह / भेदभाव",
+      "meaning_en": "A preconceived opinion not based on reason or experience",
+      "example_sentence": "Prejudice based on caste or religion divides society.",
+      "synonyms": [
+        "bias",
+        "discrimination",
+        "bigotry",
+        "partiality"
+      ],
+      "antonyms": [
+        "fairness",
+        "tolerance",
+        "equality",
+        "impartiality"
+      ],
+      "fill_blank": "Society suffers when ______ replaces reason.",
+      "correct_word": "prejudice",
+      "hint_words": "prejudice, fairness, tolerance, bias",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "protest",
+      "hindi": "विरोध करना / प्रदर्शन करना",
+      "meaning_en": "A strong expression of objection or disapproval",
+      "example_sentence": "Students staged a protest against the fee hike.",
+      "synonyms": [
+        "objection",
+        "demonstration",
+        "dissent",
+        "opposition"
+      ],
+      "antonyms": [
+        "support",
+        "approval",
+        "agreement",
+        "acceptance"
+      ],
+      "fill_blank": "The workers organized a ______ in front of the factory.",
+      "correct_word": "protest",
+      "hint_words": "protest, support, approval, objection",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "provoke",
+      "hindi": "उकसाना / भड़काना",
+      "meaning_en": "To stimulate a reaction, especially an angry one",
+      "example_sentence": "His rude comments provoked an argument.",
+      "synonyms": [
+        "irritate",
+        "anger",
+        "incite",
+        "trigger"
+      ],
+      "antonyms": [
+        "calm",
+        "soothe",
+        "pacify",
+        "please"
+      ],
+      "fill_blank": "Don't ______ others by making fun of their weakness.",
+      "correct_word": "provoke",
+      "hint_words": "provoke, calm, soothe, irritate",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "tolerance",
+      "hindi": "सहनशीलता / सहिष्णुता",
+      "meaning_en": "The ability to accept opinions, beliefs, or behaviors different from one's own",
+      "example_sentence": "Religious tolerance is essential for a peaceful society.",
+      "synonyms": [
+        "acceptance",
+        "patience",
+        "open-mindedness",
+        "forbearance"
+      ],
+      "antonyms": [
+        "intolerance",
+        "prejudice",
+        "bigotry",
+        "hatred"
+      ],
+      "fill_blank": "Our constitution promotes ______ and equality for all.",
+      "correct_word": "tolerance",
+      "hint_words": "tolerance, intolerance, hatred, acceptance",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "transparent",
+      "hindi": "पारदर्शी / साफ़",
+      "meaning_en": "Open, honest, and easy to understand; allowing light through",
+      "example_sentence": "The government promised to be transparent in its dealings.",
+      "synonyms": [
+        "clear",
+        "open",
+        "honest",
+        "candid"
+      ],
+      "antonyms": [
+        "opaque",
+        "secretive",
+        "deceptive",
+        "hidden"
+      ],
+      "fill_blank": "A ______ system builds public trust.",
+      "correct_word": "transparent",
+      "hint_words": "transparent, secretive, opaque, honest",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "unanimous",
+      "hindi": "सर्वसम्मत / एकमत",
+      "meaning_en": "In full agreement; without any disagreement",
+      "example_sentence": "The class made a unanimous decision to go on the trip.",
+      "synonyms": [
+        "agreed",
+        "united",
+        "concordant",
+        "harmonious"
+      ],
+      "antonyms": [
+        "divided",
+        "disputed",
+        "split",
+        "conflicting"
+      ],
+      "fill_blank": "The jury gave a ______ verdict of not guilty.",
+      "correct_word": "unanimous",
+      "hint_words": "unanimous, divided, split, agreed",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "undermine",
+      "hindi": "कमज़ोर करना / नुकसान पहुँचाना",
+      "meaning_en": "To damage or weaken something gradually",
+      "example_sentence": "Constant criticism can undermine a child's confidence.",
+      "synonyms": [
+        "weaken",
+        "sabotage",
+        "damage",
+        "erode"
+      ],
+      "antonyms": [
+        "strengthen",
+        "support",
+        "reinforce",
+        "encourage"
+      ],
+      "fill_blank": "Spreading rumours can ______ team spirit.",
+      "correct_word": "undermine",
+      "hint_words": "undermine, strengthen, support, weaken",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "vulnerable",
+      "hindi": "कमज़ोर / असुरक्षित",
+      "meaning_en": "Exposed to the possibility of being hurt or attacked",
+      "example_sentence": "Elderly people are vulnerable to serious illness.",
+      "synonyms": [
+        "exposed",
+        "weak",
+        "helpless",
+        "defenceless"
+      ],
+      "antonyms": [
+        "protected",
+        "strong",
+        "secure",
+        "safe"
+      ],
+      "fill_blank": "Children in conflict zones are especially ______.",
+      "correct_word": "vulnerable",
+      "hint_words": "vulnerable, protected, strong, helpless",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "ally",
+      "hindi": "सहयोगी / मित्र राष्ट्र",
+      "meaning_en": "A person, country, or organization that cooperates with another",
+      "example_sentence": "France and Britain were allies during the Second World War.",
+      "synonyms": [
+        "partner",
+        "supporter",
+        "associate",
+        "confederate"
+      ],
+      "antonyms": [
+        "enemy",
+        "opponent",
+        "rival",
+        "adversary"
+      ],
+      "fill_blank": "India has a strong ______ in its diplomatic relations.",
+      "correct_word": "ally",
+      "hint_words": "ally, enemy, opponent, partner",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "corrupt",
+      "hindi": "भ्रष्ट / बेईमान",
+      "meaning_en": "Willing to act dishonestly in return for money or personal gain",
+      "example_sentence": "The corrupt official was arrested for taking bribes.",
+      "synonyms": [
+        "dishonest",
+        "fraudulent",
+        "immoral",
+        "crooked"
+      ],
+      "antonyms": [
+        "honest",
+        "upright",
+        "ethical",
+        "incorruptible"
+      ],
+      "fill_blank": "A ______ system harms the poorest people in society.",
+      "correct_word": "corrupt",
+      "hint_words": "corrupt, honest, upright, dishonest",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "domestic",
+      "hindi": "घरेलू / देशीय",
+      "meaning_en": "Relating to the home, household, or one's own country",
+      "example_sentence": "The government launched a domestic policy to boost farming.",
+      "synonyms": [
+        "local",
+        "household",
+        "national",
+        "internal"
+      ],
+      "antonyms": [
+        "foreign",
+        "external",
+        "international",
+        "overseas"
+      ],
+      "fill_blank": "Both domestic and international trade contribute to the economy.",
+      "correct_word": "domestic",
+      "hint_words": "domestic, foreign, external, local",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "eliminate",
+      "hindi": "समाप्त करना / हटाना",
+      "meaning_en": "To completely remove or get rid of",
+      "example_sentence": "We must eliminate plastic waste from our oceans.",
+      "synonyms": [
+        "remove",
+        "eradicate",
+        "abolish",
+        "wipe out"
+      ],
+      "antonyms": [
+        "introduce",
+        "keep",
+        "add",
+        "preserve"
+      ],
+      "fill_blank": "The government aims to ______ poverty in rural areas.",
+      "correct_word": "eliminate",
+      "hint_words": "eliminate, introduce, keep, remove",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "enforce",
+      "hindi": "लागू करना / लागू करवाना",
+      "meaning_en": "To compel observance of a law or rule",
+      "example_sentence": "The police were deployed to enforce the curfew.",
+      "synonyms": [
+        "implement",
+        "apply",
+        "impose",
+        "uphold"
+      ],
+      "antonyms": [
+        "ignore",
+        "cancel",
+        "disobey",
+        "neglect"
+      ],
+      "fill_blank": "Traffic rules must be strictly ______.",
+      "correct_word": "enforce",
+      "hint_words": "enforce, ignore, cancel, implement",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "exploit",
+      "hindi": "शोषण करना / फायदा उठाना",
+      "meaning_en": "To make use of a situation unfairly for personal gain",
+      "example_sentence": "Child labour is an example of exploiting the vulnerable.",
+      "synonyms": [
+        "misuse",
+        "take advantage",
+        "abuse",
+        "manipulate"
+      ],
+      "antonyms": [
+        "protect",
+        "respect",
+        "support",
+        "defend"
+      ],
+      "fill_blank": "It is wrong to ______ workers by paying them unfair wages.",
+      "correct_word": "exploit",
+      "hint_words": "exploit, protect, respect, misuse",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "opposition",
+      "hindi": "विरोध / प्रतिपक्ष",
+      "meaning_en": "Resistance or conflict against something; the party opposing the government",
+      "example_sentence": "The opposition party raised serious questions in parliament.",
+      "synonyms": [
+        "resistance",
+        "conflict",
+        "objection",
+        "rivalry"
+      ],
+      "antonyms": [
+        "support",
+        "agreement",
+        "cooperation",
+        "alliance"
+      ],
+      "fill_blank": "There was strong ______ to the proposed law.",
+      "correct_word": "opposition",
+      "hint_words": "opposition, support, agreement, resistance",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "poverty",
+      "hindi": "गरीबी / निर्धनता",
+      "meaning_en": "The state of being extremely poor",
+      "example_sentence": "Education is one of the best ways to escape poverty.",
+      "synonyms": [
+        "destitution",
+        "deprivation",
+        "hardship",
+        "neediness"
+      ],
+      "antonyms": [
+        "wealth",
+        "prosperity",
+        "richness",
+        "abundance"
+      ],
+      "fill_blank": "The government launched schemes to reduce ______ in rural areas.",
+      "correct_word": "poverty",
+      "hint_words": "poverty, wealth, prosperity, hardship",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "stereotype",
+      "hindi": "रूढ़िवादी धारणा / बंधी-बंधाई सोच",
+      "meaning_en": "A widely held but fixed and oversimplified image of a group",
+      "example_sentence": "It is wrong to stereotype people based on their religion.",
+      "synonyms": [
+        "prejudice",
+        "generalization",
+        "assumption",
+        "bias"
+      ],
+      "antonyms": [
+        "individuality",
+        "uniqueness",
+        "fairness",
+        "open-mindedness"
+      ],
+      "fill_blank": "We must challenge ______ and see people as individuals.",
+      "correct_word": "stereotype",
+      "hint_words": "stereotype, fairness, individuality, prejudice",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "testimony",
+      "hindi": "गवाही / साक्ष्य",
+      "meaning_en": "A formal statement given in a court; evidence",
+      "example_sentence": "The witness gave testimony that helped solve the case.",
+      "synonyms": [
+        "evidence",
+        "statement",
+        "witness account",
+        "declaration"
+      ],
+      "antonyms": [
+        "denial",
+        "silence",
+        "concealment",
+        "refusal"
+      ],
+      "fill_blank": "The judge asked the witness to give a clear ______.",
+      "correct_word": "testimony",
+      "hint_words": "testimony, denial, silence, evidence",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "unity",
+      "hindi": "एकता / मेलजोल",
+      "meaning_en": "The state of being united or joined as a whole",
+      "example_sentence": "India's strength lies in its unity in diversity.",
+      "synonyms": [
+        "solidarity",
+        "harmony",
+        "togetherness",
+        "union"
+      ],
+      "antonyms": [
+        "division",
+        "conflict",
+        "separation",
+        "discord"
+      ],
+      "fill_blank": "______ among team members is the key to victory.",
+      "correct_word": "unity",
+      "hint_words": "unity, division, conflict, solidarity",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "welfare",
+      "hindi": "कल्याण / भलाई",
+      "meaning_en": "The health, happiness, and well-being of a person or group",
+      "example_sentence": "The government is responsible for the welfare of its citizens.",
+      "synonyms": [
+        "well-being",
+        "benefit",
+        "prosperity",
+        "happiness"
+      ],
+      "antonyms": [
+        "harm",
+        "suffering",
+        "neglect",
+        "misery"
+      ],
+      "fill_blank": "Child ______ programs provide food and education to the poor.",
+      "correct_word": "welfare",
+      "hint_words": "welfare, harm, neglect, well-being",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "discrimination",
+      "hindi": "भेदभाव",
+      "meaning_en": "The unjust or prejudicial treatment of people based on race, gender, religion, or other characteristics",
+      "example_sentence": "The civil rights movement fought against racial discrimination in America.",
+      "synonyms": [
+        "bias",
+        "prejudice",
+        "inequality",
+        "injustice"
+      ],
+      "antonyms": [
+        "equality",
+        "fairness",
+        "impartiality",
+        "justice"
+      ],
+      "fill_blank": "Caste-based ______ is prohibited under the Indian Constitution.",
+      "correct_word": "discrimination",
+      "hint_words": "discrimination, equality, prejudice, justice",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "oppression",
+      "hindi": "दमन / उत्पीड़न",
+      "meaning_en": "Prolonged and cruel exercise of authority or power that keeps people in subjugation",
+      "example_sentence": "The workers rose against the oppression of the factory owners.",
+      "synonyms": [
+        "tyranny",
+        "subjugation",
+        "repression",
+        "persecution"
+      ],
+      "antonyms": [
+        "freedom",
+        "liberation",
+        "equality",
+        "justice"
+      ],
+      "fill_blank": "Gandhi used non-violent resistance to fight colonial ______.",
+      "correct_word": "oppression",
+      "hint_words": "oppression, liberation, equality, tyranny",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "empower",
+      "hindi": "सशक्त बनाना",
+      "meaning_en": "To give someone the authority, confidence, or means to act independently",
+      "example_sentence": "Education can empower women to make independent decisions.",
+      "synonyms": [
+        "enable",
+        "authorise",
+        "strengthen",
+        "uplift"
+      ],
+      "antonyms": [
+        "weaken",
+        "oppress",
+        "disable",
+        "suppress"
+      ],
+      "fill_blank": "Government schemes aim to ______ rural communities through skill development.",
+      "correct_word": "empower",
+      "hint_words": "empower, oppress, enable, suppress",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "reform",
+      "hindi": "सुधार",
+      "meaning_en": "A change or improvement made to a law, social system, or institution",
+      "example_sentence": "Land reform redistributed farmland to poor farmers across the country.",
+      "synonyms": [
+        "improvement",
+        "transformation",
+        "change",
+        "revision"
+      ],
+      "antonyms": [
+        "regression",
+        "deterioration",
+        "corruption",
+        "decline"
+      ],
+      "fill_blank": "The abolition of child marriage was a major social ______ in India.",
+      "correct_word": "reform",
+      "hint_words": "reform, regression, improvement, decline",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "suffrage",
+      "hindi": "मताधिकार",
+      "meaning_en": "The right to vote in public and political elections",
+      "example_sentence": "Women fought for suffrage to gain the right to vote in the early 20th century.",
+      "synonyms": [
+        "voting right",
+        "franchise",
+        "democratic right",
+        "enfranchisement"
+      ],
+      "antonyms": [
+        "disenfranchisement",
+        "exclusion",
+        "restriction",
+        "denial"
+      ],
+      "fill_blank": "Universal adult ______ means every citizen above 18 can vote.",
+      "correct_word": "suffrage",
+      "hint_words": "suffrage, censorship, franchise, disenfranchisement",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "literate",
+      "hindi": "साक्षर",
+      "meaning_en": "Having the ability to read and write; educated and knowledgeable",
+      "example_sentence": "A literate population is essential for the development of a democratic nation.",
+      "synonyms": [
+        "educated",
+        "learned",
+        "schooled",
+        "knowledgeable"
+      ],
+      "antonyms": [
+        "illiterate",
+        "uneducated",
+        "ignorant",
+        "unschooled"
+      ],
+      "fill_blank": "India's goal is to make every citizen ______ by improving access to education.",
+      "correct_word": "literate",
+      "hint_words": "literate, illiterate, educated, ignorant",
+      "difficulty": "medium",
+      "category": "social"
+    }
+  ]
+}

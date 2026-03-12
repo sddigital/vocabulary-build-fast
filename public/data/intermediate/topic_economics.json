@@ -1,0 +1,121 @@
+{
+  "level": "intermediate",
+  "topic": "economics",
+  "words": [
+    {
+      "word": "inflation",
+      "hindi": "मुद्रास्फीति",
+      "meaning_en": "A general rise in prices over time that reduces the purchasing power of money",
+      "example_sentence": "High inflation means people can buy fewer goods with the same amount of money.",
+      "synonyms": [
+        "price rise",
+        "cost escalation",
+        "devaluation",
+        "price surge"
+      ],
+      "antonyms": [
+        "deflation",
+        "price drop",
+        "stability",
+        "recession"
+      ],
+      "fill_blank": "The government raises interest rates to control ______.",
+      "correct_word": "inflation",
+      "hint_words": "inflation, deflation, recession, taxation",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "revenue",
+      "hindi": "राजस्व",
+      "meaning_en": "The income received by a government from taxes or by a business from its activities",
+      "example_sentence": "The government uses tax revenue to build roads and schools.",
+      "synonyms": [
+        "income",
+        "earnings",
+        "proceeds",
+        "receipts"
+      ],
+      "antonyms": [
+        "expenditure",
+        "loss",
+        "debt",
+        "expense"
+      ],
+      "fill_blank": "The state earns ______ from taxes on goods and services.",
+      "correct_word": "revenue",
+      "hint_words": "revenue, expenditure, profit, taxation",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "demand",
+      "hindi": "माँग",
+      "meaning_en": "The desire and ability of consumers to purchase goods or services at a given price",
+      "example_sentence": "When the demand for a product rises, its price usually increases.",
+      "synonyms": [
+        "requirement",
+        "need",
+        "desire",
+        "request"
+      ],
+      "antonyms": [
+        "supply",
+        "provision",
+        "surplus",
+        "excess"
+      ],
+      "fill_blank": "The law of ______ states that as price rises, quantity demanded falls.",
+      "correct_word": "demand",
+      "hint_words": "demand, supply, production, inflation",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "taxation",
+      "hindi": "कराधान",
+      "meaning_en": "The system by which a government collects compulsory payments from citizens to fund public services",
+      "example_sentence": "Progressive taxation means richer citizens pay a higher percentage of their income.",
+      "synonyms": [
+        "levy",
+        "duty",
+        "assessment",
+        "tariff"
+      ],
+      "antonyms": [
+        "exemption",
+        "subsidy",
+        "rebate",
+        "relief"
+      ],
+      "fill_blank": "Direct ______ includes income tax paid directly to the government.",
+      "correct_word": "taxation",
+      "hint_words": "taxation, subsidy, exemption, revenue",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "barter",
+      "hindi": "वस्तु-विनिमय",
+      "meaning_en": "A system of exchange where goods or services are traded directly without the use of money",
+      "example_sentence": "Before money was invented, people used barter to trade goods.",
+      "synonyms": [
+        "trade",
+        "exchange",
+        "swap",
+        "transaction"
+      ],
+      "antonyms": [
+        "purchase",
+        "monetary payment",
+        "buying",
+        "sale"
+      ],
+      "fill_blank": "In the ______ system, a farmer might exchange grain for tools.",
+      "correct_word": "barter",
+      "hint_words": "barter, taxation, commerce, currency",
+      "difficulty": "medium",
+      "category": "economics"
+    }
+  ]
+}

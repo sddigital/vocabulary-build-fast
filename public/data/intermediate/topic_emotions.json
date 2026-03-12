@@ -1,0 +1,581 @@
+{
+  "level": "intermediate",
+  "topic": "emotions",
+  "words": [
+    {
+      "word": "gratitude",
+      "hindi": "कृतज्ञता / आभार",
+      "meaning_en": "The quality of being thankful; appreciation for kindness received",
+      "example_sentence": "She expressed her gratitude with a heartfelt letter.",
+      "synonyms": [
+        "thankfulness",
+        "appreciation",
+        "recognition",
+        "indebtedness"
+      ],
+      "antonyms": [
+        "ingratitude",
+        "ungratefulness",
+        "indifference",
+        "disregard"
+      ],
+      "fill_blank": "He felt deep ______ towards his teacher for all the support.",
+      "correct_word": "gratitude",
+      "hint_words": "gratitude, anger, joy, pride",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "jubilant",
+      "hindi": "आनंदित / हर्षित",
+      "meaning_en": "Feeling or expressing great happiness and triumph",
+      "example_sentence": "The team was jubilant after winning the championship.",
+      "synonyms": [
+        "elated",
+        "overjoyed",
+        "triumphant",
+        "exultant"
+      ],
+      "antonyms": [
+        "sad",
+        "dejected",
+        "miserable",
+        "sorrowful"
+      ],
+      "fill_blank": "The crowd was ______ when the home team scored the winning goal.",
+      "correct_word": "jubilant",
+      "hint_words": "jubilant, dejected, calm, excited",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "lament",
+      "hindi": "शोक मनाना / विलाप करना",
+      "meaning_en": "To express grief or sorrow; to mourn",
+      "example_sentence": "She lamented the loss of her old school friends.",
+      "synonyms": [
+        "mourn",
+        "grieve",
+        "regret",
+        "weep"
+      ],
+      "antonyms": [
+        "celebrate",
+        "rejoice",
+        "cheer",
+        "praise"
+      ],
+      "fill_blank": "The villagers began to ______ the passing of their beloved elder.",
+      "correct_word": "lament",
+      "hint_words": "lament, celebrate, ignore, forgive",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "reluctant",
+      "hindi": "अनिच्छुक / झिझकने वाला",
+      "meaning_en": "Unwilling and hesitant",
+      "example_sentence": "He was reluctant to admit his mistake in front of everyone.",
+      "synonyms": [
+        "unwilling",
+        "hesitant",
+        "disinclined",
+        "loath"
+      ],
+      "antonyms": [
+        "willing",
+        "eager",
+        "enthusiastic",
+        "keen"
+      ],
+      "fill_blank": "She was ______ to leave her hometown for a new city.",
+      "correct_word": "reluctant",
+      "hint_words": "reluctant, eager, happy, willing",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "serene",
+      "hindi": "शांत / निर्मल",
+      "meaning_en": "Calm, peaceful, and untroubled",
+      "example_sentence": "The serene lake reflected the blue sky perfectly.",
+      "synonyms": [
+        "peaceful",
+        "calm",
+        "tranquil",
+        "placid"
+      ],
+      "antonyms": [
+        "agitated",
+        "troubled",
+        "noisy",
+        "turbulent"
+      ],
+      "fill_blank": "She felt ______ sitting by the quiet river at sunset.",
+      "correct_word": "serene",
+      "hint_words": "serene, angry, noisy, peaceful",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "affectionate",
+      "hindi": "स्नेही / प्यार भरा",
+      "meaning_en": "Showing fondness or tender feelings",
+      "example_sentence": "She gave her grandmother an affectionate hug.",
+      "synonyms": [
+        "loving",
+        "tender",
+        "warm",
+        "caring"
+      ],
+      "antonyms": [
+        "cold",
+        "indifferent",
+        "uncaring",
+        "hostile"
+      ],
+      "fill_blank": "He wrote an ______ letter to his old friend.",
+      "correct_word": "affectionate",
+      "hint_words": "affectionate, cold, rude, caring",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "apprehensive",
+      "hindi": "चिंतित / आशंकित",
+      "meaning_en": "Anxious or fearful that something bad may happen",
+      "example_sentence": "She was apprehensive about her board exam results.",
+      "synonyms": [
+        "anxious",
+        "worried",
+        "fearful",
+        "uneasy"
+      ],
+      "antonyms": [
+        "confident",
+        "calm",
+        "assured",
+        "fearless"
+      ],
+      "fill_blank": "He was ______ before his first public speech.",
+      "correct_word": "apprehensive",
+      "hint_words": "apprehensive, confident, calm, anxious",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "bewildered",
+      "hindi": "हैरान / भ्रमित",
+      "meaning_en": "Cause someone to become perplexed and confused",
+      "example_sentence": "The student was bewildered by the complex question.",
+      "synonyms": [
+        "confused",
+        "puzzled",
+        "perplexed",
+        "baffled"
+      ],
+      "antonyms": [
+        "clear-headed",
+        "composed",
+        "certain",
+        "enlightened"
+      ],
+      "fill_blank": "She looked completely ______ when she saw the exam paper.",
+      "correct_word": "bewildered",
+      "hint_words": "bewildered, confident, calm, puzzled",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "bliss",
+      "hindi": "परमानंद / पूर्ण सुख",
+      "meaning_en": "Perfect happiness; great joy",
+      "example_sentence": "The cool breeze in summer was pure bliss.",
+      "synonyms": [
+        "happiness",
+        "joy",
+        "ecstasy",
+        "delight"
+      ],
+      "antonyms": [
+        "misery",
+        "sorrow",
+        "suffering",
+        "anguish"
+      ],
+      "fill_blank": "She was in ______ when she received the scholarship.",
+      "correct_word": "bliss",
+      "hint_words": "bliss, misery, sorrow, joy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "cherish",
+      "hindi": "संजोना / प्रिय मानना",
+      "meaning_en": "To protect and care for lovingly; to hold dear",
+      "example_sentence": "She cherished the memories of her childhood.",
+      "synonyms": [
+        "treasure",
+        "value",
+        "adore",
+        "prize"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandon",
+        "disregard",
+        "despise"
+      ],
+      "fill_blank": "We should ______ the time we spend with loved ones.",
+      "correct_word": "cherish",
+      "hint_words": "cherish, neglect, ignore, treasure",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "compassion",
+      "hindi": "करुणा / दया",
+      "meaning_en": "Sympathetic concern for the sufferings of others",
+      "example_sentence": "The doctor treated the poor patient with great compassion.",
+      "synonyms": [
+        "sympathy",
+        "empathy",
+        "mercy",
+        "kindness"
+      ],
+      "antonyms": [
+        "cruelty",
+        "indifference",
+        "harshness",
+        "heartlessness"
+      ],
+      "fill_blank": "A good leader shows ______ towards those in need.",
+      "correct_word": "compassion",
+      "hint_words": "compassion, cruelty, anger, sympathy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "dejected",
+      "hindi": "निराश / हताश",
+      "meaning_en": "Sad and dispirited",
+      "example_sentence": "He looked dejected after losing the competition.",
+      "synonyms": [
+        "downcast",
+        "despondent",
+        "disheartened",
+        "sad"
+      ],
+      "antonyms": [
+        "cheerful",
+        "elated",
+        "optimistic",
+        "upbeat"
+      ],
+      "fill_blank": "The team was ______ after their unexpected defeat.",
+      "correct_word": "dejected",
+      "hint_words": "dejected, cheerful, elated, sad",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "despair",
+      "hindi": "निराशा / हताशा",
+      "meaning_en": "The complete loss of hope",
+      "example_sentence": "He fell into despair when he failed the exam again.",
+      "synonyms": [
+        "hopelessness",
+        "gloom",
+        "despondency",
+        "anguish"
+      ],
+      "antonyms": [
+        "hope",
+        "optimism",
+        "joy",
+        "confidence"
+      ],
+      "fill_blank": "Never give in to ______ — every problem has a solution.",
+      "correct_word": "despair",
+      "hint_words": "despair, hope, joy, optimism",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "eager",
+      "hindi": "उत्सुक / बेताब",
+      "meaning_en": "Wanting to do or have something very much",
+      "example_sentence": "The eager students raised their hands to answer.",
+      "synonyms": [
+        "enthusiastic",
+        "keen",
+        "willing",
+        "excited"
+      ],
+      "antonyms": [
+        "reluctant",
+        "indifferent",
+        "apathetic",
+        "unwilling"
+      ],
+      "fill_blank": "She was ______ to begin her first day at the new school.",
+      "correct_word": "eager",
+      "hint_words": "eager, reluctant, bored, enthusiastic",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "empathy",
+      "hindi": "समानुभूति / दूसरों की भावना समझना",
+      "meaning_en": "The ability to understand and share the feelings of another",
+      "example_sentence": "A good counsellor has a lot of empathy for students.",
+      "synonyms": [
+        "understanding",
+        "compassion",
+        "sensitivity",
+        "sympathy"
+      ],
+      "antonyms": [
+        "indifference",
+        "coldness",
+        "cruelty",
+        "apathy"
+      ],
+      "fill_blank": "She showed great ______ when her friend lost her father.",
+      "correct_word": "empathy",
+      "hint_words": "empathy, indifference, cruelty, sympathy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "envious",
+      "hindi": "ईर्ष्यालु / जलन करने वाला",
+      "meaning_en": "Feeling or showing envy of someone else's possessions",
+      "example_sentence": "He was envious of his friend's new bicycle.",
+      "synonyms": [
+        "jealous",
+        "resentful",
+        "covetous",
+        "bitter"
+      ],
+      "antonyms": [
+        "content",
+        "satisfied",
+        "generous",
+        "joyful"
+      ],
+      "fill_blank": "She felt ______ when her classmate won the prize.",
+      "correct_word": "envious",
+      "hint_words": "envious, content, happy, jealous",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "exhausted",
+      "hindi": "थका हुआ / बिल्कुल थक गया",
+      "meaning_en": "Completely tired out",
+      "example_sentence": "He was exhausted after the marathon.",
+      "synonyms": [
+        "worn out",
+        "drained",
+        "fatigued",
+        "spent"
+      ],
+      "antonyms": [
+        "energetic",
+        "refreshed",
+        "rested",
+        "lively"
+      ],
+      "fill_blank": "The workers were ______ after harvesting all day.",
+      "correct_word": "exhausted",
+      "hint_words": "exhausted, energetic, refreshed, tired",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "indifferent",
+      "hindi": "उदासीन / बेपरवाह",
+      "meaning_en": "Having no particular interest or care; unconcerned",
+      "example_sentence": "She was indifferent to the outcome of the match.",
+      "synonyms": [
+        "unconcerned",
+        "apathetic",
+        "uninterested",
+        "detached"
+      ],
+      "antonyms": [
+        "concerned",
+        "interested",
+        "passionate",
+        "committed"
+      ],
+      "fill_blank": "He seemed ______ to the suffering around him.",
+      "correct_word": "indifferent",
+      "hint_words": "indifferent, concerned, passionate, unconcerned",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "isolated",
+      "hindi": "अकेला / एकांत में",
+      "meaning_en": "Far away from other places or people; alone",
+      "example_sentence": "The isolated village had no mobile network.",
+      "synonyms": [
+        "secluded",
+        "remote",
+        "alone",
+        "detached"
+      ],
+      "antonyms": [
+        "connected",
+        "central",
+        "sociable",
+        "accessible"
+      ],
+      "fill_blank": "He felt ______ after moving to a new city.",
+      "correct_word": "isolated",
+      "hint_words": "isolated, connected, sociable, remote",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "miserable",
+      "hindi": "दयनीय / बहुत दुखी",
+      "meaning_en": "Very unhappy or uncomfortable",
+      "example_sentence": "The wet, cold day made everyone feel miserable.",
+      "synonyms": [
+        "wretched",
+        "unhappy",
+        "distressed",
+        "sorrowful"
+      ],
+      "antonyms": [
+        "happy",
+        "joyful",
+        "content",
+        "comfortable"
+      ],
+      "fill_blank": "He was ______ when his best friend moved away.",
+      "correct_word": "miserable",
+      "hint_words": "miserable, happy, content, wretched",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "optimistic",
+      "hindi": "आशावादी",
+      "meaning_en": "Hopeful and confident about the future",
+      "example_sentence": "She was optimistic about passing the board exams.",
+      "synonyms": [
+        "hopeful",
+        "positive",
+        "confident",
+        "cheerful"
+      ],
+      "antonyms": [
+        "pessimistic",
+        "negative",
+        "gloomy",
+        "hopeless"
+      ],
+      "fill_blank": "Stay ______ even when things are difficult.",
+      "correct_word": "optimistic",
+      "hint_words": "optimistic, pessimistic, hopeless, hopeful",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "pessimistic",
+      "hindi": "निराशावादी",
+      "meaning_en": "Tending to see the worst aspect of things",
+      "example_sentence": "A pessimistic attitude can prevent you from trying new things.",
+      "synonyms": [
+        "negative",
+        "gloomy",
+        "hopeless",
+        "despairing"
+      ],
+      "antonyms": [
+        "optimistic",
+        "hopeful",
+        "positive",
+        "confident"
+      ],
+      "fill_blank": "Don't be ______ — every problem has a solution.",
+      "correct_word": "pessimistic",
+      "hint_words": "pessimistic, optimistic, hopeful, gloomy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "sympathy",
+      "hindi": "सहानुभूति / दूसरों की पीड़ा महसूस करना",
+      "meaning_en": "Feelings of pity and sorrow for someone else's misfortune",
+      "example_sentence": "She expressed sympathy for the victims of the earthquake.",
+      "synonyms": [
+        "compassion",
+        "pity",
+        "concern",
+        "kindness"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "harshness",
+        "callousness"
+      ],
+      "fill_blank": "The nurse showed ______ towards the frightened child.",
+      "correct_word": "sympathy",
+      "hint_words": "sympathy, indifference, cruelty, compassion",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "tranquil",
+      "hindi": "शांत / निश्चल",
+      "meaning_en": "Free from disturbance; calm and peaceful",
+      "example_sentence": "The hillside village was tranquil and beautiful.",
+      "synonyms": [
+        "peaceful",
+        "calm",
+        "serene",
+        "still"
+      ],
+      "antonyms": [
+        "noisy",
+        "chaotic",
+        "turbulent",
+        "restless"
+      ],
+      "fill_blank": "She found the forest walk ______ and refreshing.",
+      "correct_word": "tranquil",
+      "hint_words": "tranquil, noisy, chaotic, calm",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "compassionate",
+      "hindi": "करुणामय / दयालु",
+      "meaning_en": "Feeling or showing sympathy and concern for others",
+      "example_sentence": "A compassionate teacher supports students through difficulties.",
+      "synonyms": [
+        "caring",
+        "sympathetic",
+        "kind",
+        "humane"
+      ],
+      "antonyms": [
+        "cruel",
+        "heartless",
+        "indifferent",
+        "cold"
+      ],
+      "fill_blank": "She was ______ towards the homeless children on the street.",
+      "correct_word": "compassionate",
+      "hint_words": "compassionate, cruel, indifferent, kind",
+      "difficulty": "medium",
+      "category": "emotions"
+    }
+  ]
+}

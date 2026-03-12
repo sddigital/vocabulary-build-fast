@@ -1,0 +1,305 @@
+{
+  "level": "intermediate",
+  "topic": "science",
+  "words": [
+    {
+      "word": "sophisticated",
+      "hindi": "परिष्कृत / आधुनिक",
+      "meaning_en": "Having a refined knowledge; complex and highly developed",
+      "example_sentence": "Smartphones are becoming more sophisticated every year.",
+      "synonyms": [
+        "refined",
+        "advanced",
+        "complex",
+        "cultured"
+      ],
+      "antonyms": [
+        "simple",
+        "crude",
+        "basic",
+        "unsophisticated"
+      ],
+      "fill_blank": "The laboratory used ______ equipment for research.",
+      "correct_word": "sophisticated",
+      "hint_words": "sophisticated, simple, crude, advanced",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "hypothesis",
+      "hindi": "परिकल्पना / अनुमान",
+      "meaning_en": "A proposed explanation for an observation that can be tested",
+      "example_sentence": "The scientist formed a hypothesis before conducting the experiment.",
+      "synonyms": [
+        "theory",
+        "assumption",
+        "proposition",
+        "supposition"
+      ],
+      "antonyms": [
+        "fact",
+        "proof",
+        "certainty",
+        "evidence"
+      ],
+      "fill_blank": "A good ______ leads to a well-designed experiment.",
+      "correct_word": "hypothesis",
+      "hint_words": "hypothesis, fact, proof, theory",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "innovation",
+      "hindi": "नवाचार / नई खोज",
+      "meaning_en": "A new method, idea, or product that brings about positive change",
+      "example_sentence": "India's space program is a great example of technological innovation.",
+      "synonyms": [
+        "invention",
+        "breakthrough",
+        "novelty",
+        "discovery"
+      ],
+      "antonyms": [
+        "tradition",
+        "stagnation",
+        "repetition",
+        "imitation"
+      ],
+      "fill_blank": "______ in agriculture has helped increase crop production.",
+      "correct_word": "innovation",
+      "hint_words": "innovation, tradition, repetition, invention",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "observation",
+      "hindi": "अवलोकन / निरीक्षण",
+      "meaning_en": "The act of watching carefully; a remark based on what you notice",
+      "example_sentence": "Scientific progress depends on careful observation.",
+      "synonyms": [
+        "watching",
+        "monitoring",
+        "examination",
+        "remark"
+      ],
+      "antonyms": [
+        "inattention",
+        "neglect",
+        "ignorance",
+        "oversight"
+      ],
+      "fill_blank": "The teacher praised the student's sharp ______.",
+      "correct_word": "observation",
+      "hint_words": "observation, neglect, ignorance, monitoring",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "stimulate",
+      "hindi": "उत्तेजित करना / प्रेरित करना",
+      "meaning_en": "To raise levels of physiological or nervous activity; to encourage",
+      "example_sentence": "Interesting lessons stimulate students to learn more.",
+      "synonyms": [
+        "encourage",
+        "motivate",
+        "excite",
+        "activate"
+      ],
+      "antonyms": [
+        "discourage",
+        "suppress",
+        "dampen",
+        "bore"
+      ],
+      "fill_blank": "Good feedback can ______ students to improve.",
+      "correct_word": "stimulate",
+      "hint_words": "stimulate, discourage, suppress, encourage",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "photosynthesis",
+      "hindi": "प्रकाश संश्लेषण",
+      "meaning_en": "The process by which plants make food using sunlight, water, and carbon dioxide",
+      "example_sentence": "Without photosynthesis, plants would not be able to produce food.",
+      "synonyms": [
+        "carbon fixation",
+        "food synthesis",
+        "light reaction",
+        "chlorophyll process"
+      ],
+      "antonyms": [
+        "respiration",
+        "decomposition",
+        "combustion",
+        "oxidation"
+      ],
+      "fill_blank": "Plants use ______ to convert sunlight into food.",
+      "correct_word": "photosynthesis",
+      "hint_words": "photosynthesis, respiration, decomposition, synthesis",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "osmosis",
+      "hindi": "परासरण",
+      "meaning_en": "The movement of water through a semi-permeable membrane from a dilute to a concentrated solution",
+      "example_sentence": "Water enters plant roots by the process of osmosis.",
+      "synonyms": [
+        "diffusion",
+        "absorption",
+        "permeation",
+        "filtration"
+      ],
+      "antonyms": [
+        "evaporation",
+        "dehydration",
+        "expulsion",
+        "concentration"
+      ],
+      "fill_blank": "Salt draws water out of cells through the process of ______.",
+      "correct_word": "osmosis",
+      "hint_words": "osmosis, diffusion, evaporation, filtration",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "refraction",
+      "hindi": "अपवर्तन",
+      "meaning_en": "The bending of light as it passes from one medium into another",
+      "example_sentence": "A straw in a glass of water appears bent due to refraction.",
+      "synonyms": [
+        "bending",
+        "deflection",
+        "diversion",
+        "dispersion"
+      ],
+      "antonyms": [
+        "reflection",
+        "absorption",
+        "transmission",
+        "straightening"
+      ],
+      "fill_blank": "The ______ of light through a prism creates a rainbow of colours.",
+      "correct_word": "refraction",
+      "hint_words": "refraction, reflection, absorption, diffusion",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "velocity",
+      "hindi": "वेग",
+      "meaning_en": "The speed of an object in a given direction",
+      "example_sentence": "The velocity of the car increased as it went downhill.",
+      "synonyms": [
+        "speed",
+        "pace",
+        "rate",
+        "momentum"
+      ],
+      "antonyms": [
+        "stillness",
+        "rest",
+        "immobility",
+        "slowness"
+      ],
+      "fill_blank": "The ______ of sound is approximately 343 metres per second in air.",
+      "correct_word": "velocity",
+      "hint_words": "velocity, speed, distance, stillness",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "chromosome",
+      "hindi": "गुणसूत्र",
+      "meaning_en": "A thread-like structure inside a cell nucleus that carries genetic information",
+      "example_sentence": "Humans have 46 chromosomes arranged in 23 pairs.",
+      "synonyms": [
+        "gene carrier",
+        "DNA strand",
+        "genetic unit",
+        "hereditary thread"
+      ],
+      "antonyms": [
+        "non-genetic material",
+        "cytoplasm",
+        "protein",
+        "cell wall"
+      ],
+      "fill_blank": "The sex of a child is determined by the ______ inherited from the father.",
+      "correct_word": "chromosome",
+      "hint_words": "chromosome, gene, nucleus, protein",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "combustion",
+      "hindi": "दहन",
+      "meaning_en": "The chemical process of burning in which a substance reacts with oxygen to produce heat and light",
+      "example_sentence": "The combustion of coal in power plants produces carbon dioxide.",
+      "synonyms": [
+        "burning",
+        "oxidation",
+        "ignition",
+        "incineration"
+      ],
+      "antonyms": [
+        "extinguishing",
+        "quenching",
+        "cooling",
+        "freezing"
+      ],
+      "fill_blank": "The ______ of fossil fuels releases carbon dioxide into the atmosphere.",
+      "correct_word": "combustion",
+      "hint_words": "combustion, photosynthesis, cooling, burning",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "inertia",
+      "hindi": "जड़त्व",
+      "meaning_en": "The tendency of an object to remain at rest or in motion unless acted on by an external force",
+      "example_sentence": "Due to inertia, passengers jerk forward when a bus brakes suddenly.",
+      "synonyms": [
+        "resistance",
+        "sluggishness",
+        "immobility",
+        "passivity"
+      ],
+      "antonyms": [
+        "momentum",
+        "motion",
+        "energy",
+        "activity"
+      ],
+      "fill_blank": "Newton's first law of motion is also called the law of ______.",
+      "correct_word": "inertia",
+      "hint_words": "inertia, gravity, momentum, friction",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "heredity",
+      "hindi": "आनुवंशिकता",
+      "meaning_en": "The passing of physical and mental traits from parents to offspring through genes",
+      "example_sentence": "The colour of a child's eyes is largely determined by heredity.",
+      "synonyms": [
+        "genetics",
+        "inheritance",
+        "transmission",
+        "lineage"
+      ],
+      "antonyms": [
+        "mutation",
+        "variation",
+        "acquired trait",
+        "environment"
+      ],
+      "fill_blank": "Gregor Mendel is known as the father of ______.",
+      "correct_word": "heredity",
+      "hint_words": "heredity, environment, mutation, genetics",
+      "difficulty": "medium",
+      "category": "science"
+    }
+  ]
+}

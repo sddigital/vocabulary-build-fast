@@ -7,5 +7,61 @@
     "chunk_1.json",
     "chunk_2.json"
   ],
-  "topics": []
+  "topics": [
+    {
+      "id": "general",
+      "file": "topic_general.json",
+      "count": 109
+    },
+    {
+      "id": "emotions",
+      "file": "topic_emotions.json",
+      "count": 25
+    },
+    {
+      "id": "friends",
+      "file": "topic_friends.json",
+      "count": 51
+    },
+    {
+      "id": "health",
+      "file": "topic_health.json",
+      "count": 11
+    },
+    {
+      "id": "literature",
+      "file": "topic_literature.json",
+      "count": 17
+    },
+    {
+      "id": "environment",
+      "file": "topic_environment.json",
+      "count": 16
+    },
+    {
+      "id": "social",
+      "file": "topic_social.json",
+      "count": 38
+    },
+    {
+      "id": "science",
+      "file": "topic_science.json",
+      "count": 13
+    },
+    {
+      "id": "history",
+      "file": "topic_history.json",
+      "count": 9
+    },
+    {
+      "id": "geography",
+      "file": "topic_geography.json",
+      "count": 6
+    },
+    {
+      "id": "economics",
+      "file": "topic_economics.json",
+      "count": 5
+    }
+  ]
 }

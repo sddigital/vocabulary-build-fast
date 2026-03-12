@@ -3,10 +3,11 @@ import { motion } from 'framer-motion'
 import { FORMAT_META, LEVEL_FORMATS } from './QuizEngine'
 import { useDailyTarget } from '../hooks/useDailyTarget'
 
-const CATEGORIES = [
-  'home', 'office', 'friends', 'travel', 'school',
-  'food', 'health', 'shopping', 'emotions', 'actions',
-]
+const CATEGORIES = {
+  beginners:    ['home', 'office', 'friends', 'travel', 'school', 'food', 'health', 'shopping', 'emotions', 'actions'],
+  intermediate: ['friends', 'emotions', 'health', 'social', 'environment', 'literature', 'science', 'history', 'geography', 'economics'],
+  advanced:     ['general'],
+}
 
 const LEVEL_MAP = {
   beginners: 'easy',
@@ -213,14 +214,14 @@ export default function ControlPanel({ defaultLevel = 'beginners', onStartPracti
       <div>
         <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-2.5">Category Practice</p>
         <div className="grid grid-cols-2 sm:grid-cols-5 gap-2.5">
-          {CATEGORIES.map(cat => (
+          {(CATEGORIES[quizLevel] ?? CATEGORIES.beginners).map(cat => (
             <motion.button
               key={cat}
               whileTap={{ scale: 0.97 }}
               onClick={() => onStartPractice({ mode: 'category', category: cat, level, shuffle, timer })}
               className="capitalize py-3 px-2 rounded-xl border border-blue-100 bg-blue-50 text-blue-800 text-sm font-medium hover:bg-blue-100 hover:border-blue-300 transition-colors"
             >
-              {cat === 'actions' ? 'Daily Actions' : cat}
+              {cat === 'actions' ? 'Daily Actions' : cat.charAt(0).toUpperCase() + cat.slice(1)}
             </motion.button>
           ))}
         </div>

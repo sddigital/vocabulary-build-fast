@@ -1,0 +1,144 @@
+{
+  "level": "intermediate",
+  "topic": "geography",
+  "words": [
+    {
+      "word": "delta",
+      "hindi": "डेल्टा",
+      "meaning_en": "A triangular landform created by sediment deposited where a river meets the sea",
+      "example_sentence": "The Sundarbans is the world's largest river delta.",
+      "synonyms": [
+        "estuary",
+        "alluvial plain",
+        "river mouth",
+        "sediment plain"
+      ],
+      "antonyms": [
+        "source",
+        "headwater",
+        "spring",
+        "origin"
+      ],
+      "fill_blank": "The Ganga-Brahmaputra ______ is one of the most fertile regions in the world.",
+      "correct_word": "delta",
+      "hint_words": "delta, tributary, source, estuary",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "peninsula",
+      "hindi": "प्रायद्वीप",
+      "meaning_en": "A piece of land almost entirely surrounded by water but connected to a larger landmass",
+      "example_sentence": "India is a peninsula as it is surrounded by sea on three sides.",
+      "synonyms": [
+        "cape",
+        "headland",
+        "promontory",
+        "land projection"
+      ],
+      "antonyms": [
+        "island",
+        "archipelago",
+        "landlocked region",
+        "interior"
+      ],
+      "fill_blank": "The Deccan Plateau forms much of the Indian ______.",
+      "correct_word": "peninsula",
+      "hint_words": "peninsula, island, continent, estuary",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "latitude",
+      "hindi": "अक्षांश",
+      "meaning_en": "The angular distance of a place north or south of the Earth's equator, measured in degrees",
+      "example_sentence": "New Delhi is located at approximately 28° north latitude.",
+      "synonyms": [
+        "parallel",
+        "horizontal coordinate",
+        "grid line",
+        "degree"
+      ],
+      "antonyms": [
+        "longitude",
+        "meridian",
+        "vertical line",
+        "prime meridian"
+      ],
+      "fill_blank": "The Tropic of Cancer lies at 23.5° north ______.",
+      "correct_word": "latitude",
+      "hint_words": "latitude, longitude, altitude, meridian",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "estuary",
+      "hindi": "ज्वारनदमुख",
+      "meaning_en": "A partially enclosed coastal area where a river meets the sea and freshwater mixes with saltwater",
+      "example_sentence": "Many migratory birds nest in the estuary during winter months.",
+      "synonyms": [
+        "inlet",
+        "bay",
+        "creek",
+        "tidal mouth"
+      ],
+      "antonyms": [
+        "source",
+        "origin",
+        "headwater",
+        "spring"
+      ],
+      "fill_blank": "The ______ is an important habitat for fish and water birds.",
+      "correct_word": "estuary",
+      "hint_words": "estuary, delta, source, tributary",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "monsoon",
+      "hindi": "मानसून",
+      "meaning_en": "The seasonal reversal of wind direction that brings heavy rainfall to South Asia",
+      "example_sentence": "Farmers in India depend on the monsoon for irrigating their crops.",
+      "synonyms": [
+        "rainy season",
+        "wet season",
+        "seasonal wind",
+        "rainfall"
+      ],
+      "antonyms": [
+        "drought",
+        "dry season",
+        "arid period",
+        "summer"
+      ],
+      "fill_blank": "The southwest ______ arrives in India around June every year.",
+      "correct_word": "monsoon",
+      "hint_words": "monsoon, drought, cyclone, rainfall",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "tributary",
+      "hindi": "सहायक नदी",
+      "meaning_en": "A river or stream that flows into and joins a larger river",
+      "example_sentence": "The Yamuna is a major tributary of the Ganga.",
+      "synonyms": [
+        "branch",
+        "feeder river",
+        "stream",
+        "affluent"
+      ],
+      "antonyms": [
+        "main river",
+        "delta",
+        "estuary",
+        "outlet"
+      ],
+      "fill_blank": "The Chambal is a ______ of the Yamuna river.",
+      "correct_word": "tributary",
+      "hint_words": "tributary, delta, estuary, reservoir",
+      "difficulty": "medium",
+      "category": "geography"
+    }
+  ]
+}

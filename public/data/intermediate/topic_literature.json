@@ -1,0 +1,397 @@
+{
+  "level": "intermediate",
+  "topic": "literature",
+  "words": [
+    {
+      "word": "concise",
+      "hindi": "संक्षिप्त / सारगर्भित",
+      "meaning_en": "Giving a lot of information in few words",
+      "example_sentence": "The teacher asked for a concise summary of the chapter.",
+      "synonyms": [
+        "brief",
+        "succinct",
+        "compact",
+        "precise"
+      ],
+      "antonyms": [
+        "lengthy",
+        "verbose",
+        "wordy",
+        "long-winded"
+      ],
+      "fill_blank": "A ______ answer is better than a long, confusing one.",
+      "correct_word": "concise",
+      "hint_words": "concise, lengthy, verbose, brief",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "contradict",
+      "hindi": "खंडन करना / विरोध करना",
+      "meaning_en": "To say the opposite of what someone else has said",
+      "example_sentence": "The new evidence contradicted the earlier findings.",
+      "synonyms": [
+        "deny",
+        "oppose",
+        "refute",
+        "dispute"
+      ],
+      "antonyms": [
+        "confirm",
+        "agree",
+        "support",
+        "endorse"
+      ],
+      "fill_blank": "His actions ______ his words every single time.",
+      "correct_word": "contradict",
+      "hint_words": "contradict, support, confirm, oppose",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "exaggerate",
+      "hindi": "अतिशयोक्ति करना / बढ़ा-चढ़ाकर बोलना",
+      "meaning_en": "To represent something as larger or better than it really is",
+      "example_sentence": "He tends to exaggerate when he tells stories.",
+      "synonyms": [
+        "overstate",
+        "amplify",
+        "embellish",
+        "magnify"
+      ],
+      "antonyms": [
+        "understate",
+        "minimize",
+        "downplay",
+        "belittle"
+      ],
+      "fill_blank": "Don't ______ your achievements — honesty is better.",
+      "correct_word": "exaggerate",
+      "hint_words": "exaggerate, understate, minimize, overstate",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "subtle",
+      "hindi": "सूक्ष्म / बारीक",
+      "meaning_en": "So delicate or precise as to be difficult to see; not obvious",
+      "example_sentence": "There was a subtle difference between the two paintings.",
+      "synonyms": [
+        "delicate",
+        "fine",
+        "indirect",
+        "understated"
+      ],
+      "antonyms": [
+        "obvious",
+        "direct",
+        "blunt",
+        "clear"
+      ],
+      "fill_blank": "His ______ humor was not understood by everyone.",
+      "correct_word": "subtle",
+      "hint_words": "subtle, obvious, direct, delicate",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "vivid",
+      "hindi": "स्पष्ट / जीवंत",
+      "meaning_en": "Producing powerful images in the mind; bright and strong",
+      "example_sentence": "She had a vivid memory of her first day at school.",
+      "synonyms": [
+        "clear",
+        "bright",
+        "striking",
+        "sharp"
+      ],
+      "antonyms": [
+        "dull",
+        "faded",
+        "vague",
+        "blurred"
+      ],
+      "fill_blank": "The poet used ______ imagery to describe the storm.",
+      "correct_word": "vivid",
+      "hint_words": "vivid, dull, vague, bright",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "articulate",
+      "hindi": "स्पष्ट रूप से बोलना / प्रभावशाली",
+      "meaning_en": "Expressing ideas fluently and coherently",
+      "example_sentence": "She was articulate and confident during the interview.",
+      "synonyms": [
+        "eloquent",
+        "fluent",
+        "clear",
+        "well-spoken"
+      ],
+      "antonyms": [
+        "inarticulate",
+        "unclear",
+        "mumbling",
+        "tongue-tied"
+      ],
+      "fill_blank": "An ______ speaker can inspire large audiences.",
+      "correct_word": "articulate",
+      "hint_words": "articulate, inarticulate, mumbling, fluent",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "coherent",
+      "hindi": "सुसंगत / तार्किक क्रम में",
+      "meaning_en": "Logical and consistent; clearly expressed",
+      "example_sentence": "Her essay was well-structured and coherent.",
+      "synonyms": [
+        "logical",
+        "consistent",
+        "clear",
+        "organised"
+      ],
+      "antonyms": [
+        "incoherent",
+        "confusing",
+        "disorganised",
+        "unclear"
+      ],
+      "fill_blank": "Present your ideas in a ______ manner during the debate.",
+      "correct_word": "coherent",
+      "hint_words": "coherent, incoherent, confusing, logical",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "debate",
+      "hindi": "बहस / वाद-विवाद",
+      "meaning_en": "A formal discussion on a topic where opposing views are expressed",
+      "example_sentence": "The school held a debate on the use of social media.",
+      "synonyms": [
+        "argument",
+        "discussion",
+        "dispute",
+        "deliberation"
+      ],
+      "antonyms": [
+        "agreement",
+        "silence",
+        "acceptance",
+        "consensus"
+      ],
+      "fill_blank": "There was a heated ______ over the new school policy.",
+      "correct_word": "debate",
+      "hint_words": "debate, agreement, silence, discussion",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "plagiarism",
+      "hindi": "साहित्यिक चोरी",
+      "meaning_en": "The practice of taking someone else's work and passing it off as one's own",
+      "example_sentence": "Copying from the internet without reference is plagiarism.",
+      "synonyms": [
+        "copying",
+        "theft",
+        "imitation",
+        "fraud"
+      ],
+      "antonyms": [
+        "originality",
+        "creativity",
+        "authenticity",
+        "invention"
+      ],
+      "fill_blank": "Students must avoid ______ in their projects.",
+      "correct_word": "plagiarism",
+      "hint_words": "plagiarism, originality, creativity, copying",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "relevant",
+      "hindi": "प्रासंगिक / संबंधित",
+      "meaning_en": "Closely connected or appropriate to the matter in hand",
+      "example_sentence": "Give only relevant information in your answer.",
+      "synonyms": [
+        "applicable",
+        "pertinent",
+        "related",
+        "appropriate"
+      ],
+      "antonyms": [
+        "irrelevant",
+        "unrelated",
+        "unimportant",
+        "inappropriate"
+      ],
+      "fill_blank": "Include only ______ points in your essay.",
+      "correct_word": "relevant",
+      "hint_words": "relevant, irrelevant, unrelated, pertinent",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "metaphor",
+      "hindi": "रूपक",
+      "meaning_en": "A figure of speech in which one thing is described as being something else to suggest a resemblance",
+      "example_sentence": "The phrase 'life is a journey' is a metaphor comparing life to travel.",
+      "synonyms": [
+        "comparison",
+        "analogy",
+        "figure of speech",
+        "symbolism"
+      ],
+      "antonyms": [
+        "literal meaning",
+        "plain speech",
+        "fact",
+        "direct statement"
+      ],
+      "fill_blank": "The poet used a ______ to describe time as a thief.",
+      "correct_word": "metaphor",
+      "hint_words": "metaphor, simile, allegory, literal",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "allegory",
+      "hindi": "रूपकथा",
+      "meaning_en": "A story in which characters and events represent abstract ideas or moral lessons",
+      "example_sentence": "George Orwell's Animal Farm is an allegory of the Russian Revolution.",
+      "synonyms": [
+        "parable",
+        "fable",
+        "extended metaphor",
+        "symbol"
+      ],
+      "antonyms": [
+        "literal narrative",
+        "fact",
+        "biography",
+        "direct account"
+      ],
+      "fill_blank": "Plato's cave is a famous ______ about the nature of knowledge and reality.",
+      "correct_word": "allegory",
+      "hint_words": "allegory, biography, metaphor, parable",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "stanza",
+      "hindi": "छंद / पद",
+      "meaning_en": "A group of lines forming a unit in a poem, similar to a paragraph in prose",
+      "example_sentence": "The poem had five stanzas, each exploring a different emotion.",
+      "synonyms": [
+        "verse",
+        "couplet",
+        "strophe",
+        "quatrain"
+      ],
+      "antonyms": [
+        "paragraph",
+        "prose",
+        "chapter",
+        "sentence"
+      ],
+      "fill_blank": "Each ______ of the poem ended with a rhyming couplet.",
+      "correct_word": "stanza",
+      "hint_words": "stanza, paragraph, verse, chapter",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "narrative",
+      "hindi": "कथावाचन / आख्यान",
+      "meaning_en": "A spoken or written account of a series of connected events; a story",
+      "example_sentence": "The narrative of the novel was told from the child's perspective.",
+      "synonyms": [
+        "story",
+        "account",
+        "tale",
+        "chronicle"
+      ],
+      "antonyms": [
+        "abstract",
+        "summary",
+        "data",
+        "analysis"
+      ],
+      "fill_blank": "The first-person ______ makes the story feel personal and immediate.",
+      "correct_word": "narrative",
+      "hint_words": "narrative, summary, data, story",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "irony",
+      "hindi": "व्यंग्य / विडम्बना",
+      "meaning_en": "The use of words to convey the opposite of their literal meaning, or a situation opposite to what is expected",
+      "example_sentence": "It was an irony that the fire station caught fire.",
+      "synonyms": [
+        "sarcasm",
+        "paradox",
+        "satire",
+        "contradiction"
+      ],
+      "antonyms": [
+        "sincerity",
+        "directness",
+        "clarity",
+        "honesty"
+      ],
+      "fill_blank": "The ______ of the story was that the detective was himself the criminal.",
+      "correct_word": "irony",
+      "hint_words": "irony, metaphor, sarcasm, sincerity",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "protagonist",
+      "hindi": "नायक / मुख्य पात्र",
+      "meaning_en": "The main character in a story, novel, film, or play",
+      "example_sentence": "The protagonist of the novel faces great hardship before achieving his goal.",
+      "synonyms": [
+        "hero",
+        "lead character",
+        "main character",
+        "central figure"
+      ],
+      "antonyms": [
+        "antagonist",
+        "villain",
+        "minor character",
+        "supporting role"
+      ],
+      "fill_blank": "The ______ of the story overcomes many hardships to reach her goal.",
+      "correct_word": "protagonist",
+      "hint_words": "protagonist, antagonist, narrator, villain",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "symbolism",
+      "hindi": "प्रतीकवाद",
+      "meaning_en": "The use of symbols to represent ideas, qualities, or concepts beyond their literal meaning",
+      "example_sentence": "In the poem, the dove is used as symbolism for peace.",
+      "synonyms": [
+        "imagery",
+        "representation",
+        "allegory",
+        "allusion"
+      ],
+      "antonyms": [
+        "literalism",
+        "realism",
+        "directness",
+        "factuality"
+      ],
+      "fill_blank": "The green light in The Great Gatsby is considered ______ for the American Dream.",
+      "correct_word": "symbolism",
+      "hint_words": "symbolism, irony, metaphor, realism",
+      "difficulty": "medium",
+      "category": "literature"
+    }
+  ]
+}

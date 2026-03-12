@@ -1,0 +1,1179 @@
+{
+  "level": "intermediate",
+  "topic": "friends",
+  "words": [
+    {
+      "word": "quarrel",
+      "hindi": "झगड़ा / विवाद",
+      "meaning_en": "An angry argument or disagreement",
+      "example_sentence": "The two friends had a quarrel over a silly misunderstanding.",
+      "synonyms": [
+        "argument",
+        "dispute",
+        "conflict",
+        "disagreement"
+      ],
+      "antonyms": [
+        "agreement",
+        "harmony",
+        "peace",
+        "reconciliation"
+      ],
+      "fill_blank": "They had a ______ but made up by the end of the day.",
+      "correct_word": "quarrel",
+      "hint_words": "quarrel, party, chat, meeting",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "bond",
+      "hindi": "बंधन / रिश्ता",
+      "meaning_en": "A close connection or relationship between people",
+      "example_sentence": "Years of shared experiences created a strong bond between them.",
+      "synonyms": [
+        "connection",
+        "tie",
+        "link",
+        "attachment"
+      ],
+      "antonyms": [
+        "separation",
+        "estrangement",
+        "division",
+        "distance"
+      ],
+      "fill_blank": "A true friendship creates a ______ that lasts a lifetime.",
+      "correct_word": "bond",
+      "hint_words": "bond, separation, tie, conflict",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reconcile",
+      "hindi": "सुलह करना / मेल-मिलाप",
+      "meaning_en": "To restore friendly relations after a disagreement",
+      "example_sentence": "After the argument, the two friends decided to reconcile.",
+      "synonyms": [
+        "reunite",
+        "settle",
+        "make up",
+        "patch up"
+      ],
+      "antonyms": [
+        "quarrel",
+        "estrange",
+        "alienate",
+        "separate"
+      ],
+      "fill_blank": "It takes courage to ______ after a serious fight.",
+      "correct_word": "reconcile",
+      "hint_words": "reconcile, quarrel, alienate, reunite",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "betrayal",
+      "hindi": "विश्वासघात / धोखा",
+      "meaning_en": "The act of breaking trust or faith with someone",
+      "example_sentence": "She felt deep hurt at her best friend's betrayal.",
+      "synonyms": [
+        "treachery",
+        "disloyalty",
+        "deception",
+        "dishonesty"
+      ],
+      "antonyms": [
+        "loyalty",
+        "faithfulness",
+        "devotion",
+        "trust"
+      ],
+      "fill_blank": "Nothing wounds more deeply than a close friend's ______.",
+      "correct_word": "betrayal",
+      "hint_words": "betrayal, loyalty, devotion, treachery",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "companion",
+      "hindi": "साथी / सखा",
+      "meaning_en": "A person who spends time with or travels with another",
+      "example_sentence": "His dog was his constant companion on long walks.",
+      "synonyms": [
+        "friend",
+        "partner",
+        "associate",
+        "comrade"
+      ],
+      "antonyms": [
+        "stranger",
+        "enemy",
+        "rival",
+        "opponent"
+      ],
+      "fill_blank": "She was a loyal ______ throughout the difficult journey.",
+      "correct_word": "companion",
+      "hint_words": "companion, stranger, enemy, partner",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "trustworthy",
+      "hindi": "विश्वसनीय / भरोसेमंद",
+      "meaning_en": "Able to be relied on as honest and faithful",
+      "example_sentence": "A trustworthy friend keeps your secrets safe.",
+      "synonyms": [
+        "reliable",
+        "dependable",
+        "honest",
+        "faithful"
+      ],
+      "antonyms": [
+        "unreliable",
+        "dishonest",
+        "deceitful",
+        "untrustworthy"
+      ],
+      "fill_blank": "Choose ______ people to share your personal problems with.",
+      "correct_word": "trustworthy",
+      "hint_words": "trustworthy, unreliable, dishonest, faithful",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "cordial",
+      "hindi": "सौहार्दपूर्ण / मिलनसार",
+      "meaning_en": "Warm and friendly in manner",
+      "example_sentence": "Despite their past rivalry, the two teams had a cordial meeting.",
+      "synonyms": [
+        "warm",
+        "friendly",
+        "pleasant",
+        "genial"
+      ],
+      "antonyms": [
+        "cold",
+        "hostile",
+        "unfriendly",
+        "distant"
+      ],
+      "fill_blank": "They maintained a ______ relationship even after the argument.",
+      "correct_word": "cordial",
+      "hint_words": "cordial, hostile, cold, friendly",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "acquaintance",
+      "hindi": "जान-पहचान / परिचित व्यक्ति",
+      "meaning_en": "A person one knows slightly but not closely",
+      "example_sentence": "He is an acquaintance, not a close friend.",
+      "synonyms": [
+        "contact",
+        "associate",
+        "familiar",
+        "connection"
+      ],
+      "antonyms": [
+        "stranger",
+        "close friend",
+        "intimate",
+        "unknown"
+      ],
+      "fill_blank": "She had many ______ at work but few real friends.",
+      "correct_word": "acquaintance",
+      "hint_words": "acquaintance, stranger, intimate, contact",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "rivalry",
+      "hindi": "प्रतिस्पर्धा / दुश्मनी",
+      "meaning_en": "Competition or opposition between people for the same goal",
+      "example_sentence": "The friendly rivalry between the two students pushed both to excel.",
+      "synonyms": [
+        "competition",
+        "contest",
+        "conflict",
+        "opposition"
+      ],
+      "antonyms": [
+        "cooperation",
+        "friendship",
+        "alliance",
+        "partnership"
+      ],
+      "fill_blank": "A healthy ______ encourages both sides to improve.",
+      "correct_word": "rivalry",
+      "hint_words": "rivalry, friendship, alliance, competition",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "sincere",
+      "hindi": "सच्चा / ईमानदार",
+      "meaning_en": "Genuinely meaning what one says or does; not pretending",
+      "example_sentence": "A sincere friend always tells you the truth.",
+      "synonyms": [
+        "genuine",
+        "honest",
+        "earnest",
+        "heartfelt"
+      ],
+      "antonyms": [
+        "insincere",
+        "fake",
+        "deceptive",
+        "hollow"
+      ],
+      "fill_blank": "Her ______ apology moved him to forgive her.",
+      "correct_word": "sincere",
+      "hint_words": "sincere, fake, insincere, genuine",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "empathize",
+      "hindi": "दूसरे की भावना समझना",
+      "meaning_en": "To understand and share the feelings of another person",
+      "example_sentence": "A good friend can empathize with your pain.",
+      "synonyms": [
+        "understand",
+        "relate",
+        "sympathize",
+        "connect"
+      ],
+      "antonyms": [
+        "ignore",
+        "disregard",
+        "misunderstand",
+        "alienate"
+      ],
+      "fill_blank": "It is important to ______ with friends during hard times.",
+      "correct_word": "empathize",
+      "hint_words": "empathize, ignore, disregard, sympathize",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "consolation",
+      "hindi": "सांत्वना / दिलासा",
+      "meaning_en": "Comfort received by someone after a loss or disappointment",
+      "example_sentence": "Her words of consolation helped him feel better.",
+      "synonyms": [
+        "comfort",
+        "solace",
+        "support",
+        "sympathy"
+      ],
+      "antonyms": [
+        "distress",
+        "agitation",
+        "cruelty",
+        "indifference"
+      ],
+      "fill_blank": "Friends offer ______ when life is difficult.",
+      "correct_word": "consolation",
+      "hint_words": "consolation, distress, cruelty, comfort",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "rapport",
+      "hindi": "अच्छा संबंध / तालमेल",
+      "meaning_en": "A close and harmonious relationship where people understand each other",
+      "example_sentence": "The teacher quickly built a good rapport with the students.",
+      "synonyms": [
+        "understanding",
+        "harmony",
+        "affinity",
+        "connection"
+      ],
+      "antonyms": [
+        "hostility",
+        "distance",
+        "conflict",
+        "estrangement"
+      ],
+      "fill_blank": "Building ______ takes time, honesty, and effort.",
+      "correct_word": "rapport",
+      "hint_words": "rapport, hostility, conflict, harmony",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "misunderstanding",
+      "hindi": "गलतफहमी",
+      "meaning_en": "A failure to understand something correctly; a disagreement",
+      "example_sentence": "Many friendships break because of a small misunderstanding.",
+      "synonyms": [
+        "confusion",
+        "miscommunication",
+        "disagreement",
+        "error"
+      ],
+      "antonyms": [
+        "understanding",
+        "clarity",
+        "agreement",
+        "accord"
+      ],
+      "fill_blank": "A simple conversation could have cleared the ______.",
+      "correct_word": "misunderstanding",
+      "hint_words": "misunderstanding, clarity, agreement, confusion",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "solidarity",
+      "hindi": "एकजुटता / सहयोग",
+      "meaning_en": "Unity and support among a group with a common interest",
+      "example_sentence": "The students showed solidarity by supporting the expelled classmate.",
+      "synonyms": [
+        "unity",
+        "support",
+        "togetherness",
+        "fellowship"
+      ],
+      "antonyms": [
+        "division",
+        "selfishness",
+        "indifference",
+        "isolation"
+      ],
+      "fill_blank": "Standing in ______ with a friend shows real loyalty.",
+      "correct_word": "solidarity",
+      "hint_words": "solidarity, division, indifference, unity",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "congenial",
+      "hindi": "समान स्वभाव का / मिलनसार",
+      "meaning_en": "Pleasant and likeable; suited to one's nature",
+      "example_sentence": "He found a congenial group of friends who shared his interests.",
+      "synonyms": [
+        "pleasant",
+        "compatible",
+        "agreeable",
+        "friendly"
+      ],
+      "antonyms": [
+        "disagreeable",
+        "incompatible",
+        "hostile",
+        "unpleasant"
+      ],
+      "fill_blank": "She felt at ease in the ______ company of her classmates.",
+      "correct_word": "congenial",
+      "hint_words": "congenial, hostile, incompatible, pleasant",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "gossip",
+      "hindi": "गप-शप / चुगली",
+      "meaning_en": "Casual conversation about others, often involving rumours",
+      "example_sentence": "Spreading gossip can damage friendships permanently.",
+      "synonyms": [
+        "rumour",
+        "chatter",
+        "hearsay",
+        "tittle-tattle"
+      ],
+      "antonyms": [
+        "silence",
+        "privacy",
+        "respect",
+        "discretion"
+      ],
+      "fill_blank": "Never ______ about a friend behind their back.",
+      "correct_word": "gossip",
+      "hint_words": "gossip, respect, discretion, rumour",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "forgiveness",
+      "hindi": "क्षमा / माफी",
+      "meaning_en": "The act of forgiving someone for their wrongdoing",
+      "example_sentence": "His genuine apology earned him her forgiveness.",
+      "synonyms": [
+        "pardon",
+        "mercy",
+        "clemency",
+        "absolution"
+      ],
+      "antonyms": [
+        "grudge",
+        "resentment",
+        "revenge",
+        "bitterness"
+      ],
+      "fill_blank": "A lasting friendship requires ______ and understanding.",
+      "correct_word": "forgiveness",
+      "hint_words": "forgiveness, grudge, revenge, pardon",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "inseparable",
+      "hindi": "अविभाज्य / हमेशा साथ रहने वाले",
+      "meaning_en": "So close that they are always together; impossible to separate",
+      "example_sentence": "The two sisters were inseparable since childhood.",
+      "synonyms": [
+        "devoted",
+        "close",
+        "attached",
+        "bonded"
+      ],
+      "antonyms": [
+        "distant",
+        "detached",
+        "divided",
+        "estranged"
+      ],
+      "fill_blank": "The best friends were ______ throughout their school years.",
+      "correct_word": "inseparable",
+      "hint_words": "inseparable, distant, estranged, close",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "amicable",
+      "hindi": "मित्रतापूर्ण / सौहार्दपूर्ण",
+      "meaning_en": "Done in a friendly spirit; without hostility",
+      "example_sentence": "The two rivals reached an amicable settlement.",
+      "synonyms": [
+        "friendly",
+        "peaceful",
+        "harmonious",
+        "cordial"
+      ],
+      "antonyms": [
+        "hostile",
+        "aggressive",
+        "bitter",
+        "unfriendly"
+      ],
+      "fill_blank": "Their differences were resolved in an ______ manner.",
+      "correct_word": "amicable",
+      "hint_words": "amicable, hostile, bitter, friendly",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "camaraderie",
+      "hindi": "मित्रता / भाईचारा",
+      "meaning_en": "Mutual trust and friendship among a group of people",
+      "example_sentence": "The cricket team's camaraderie was obvious on and off the field.",
+      "synonyms": [
+        "fellowship",
+        "friendship",
+        "bonding",
+        "brotherhood"
+      ],
+      "antonyms": [
+        "hostility",
+        "rivalry",
+        "conflict",
+        "distrust"
+      ],
+      "fill_blank": "Years of working together built a strong sense of ______.",
+      "correct_word": "camaraderie",
+      "hint_words": "camaraderie, hostility, rivalry, fellowship",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "gregarious",
+      "hindi": "मिलनसार / सामाजिक",
+      "meaning_en": "Enjoying the company of other people; sociable",
+      "example_sentence": "His gregarious personality made him popular with everyone.",
+      "synonyms": [
+        "sociable",
+        "outgoing",
+        "friendly",
+        "social"
+      ],
+      "antonyms": [
+        "shy",
+        "reserved",
+        "introverted",
+        "withdrawn"
+      ],
+      "fill_blank": "A ______ person finds it easy to make new friends.",
+      "correct_word": "gregarious",
+      "hint_words": "gregarious, shy, reserved, sociable",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "mutual",
+      "hindi": "परस्पर / आपसी",
+      "meaning_en": "Experienced or done by each of two or more parties",
+      "example_sentence": "Their friendship was based on mutual respect and honesty.",
+      "synonyms": [
+        "shared",
+        "reciprocal",
+        "common",
+        "joint"
+      ],
+      "antonyms": [
+        "one-sided",
+        "unilateral",
+        "unequal",
+        "selfish"
+      ],
+      "fill_blank": "Strong friendships are built on ______ trust.",
+      "correct_word": "mutual",
+      "hint_words": "mutual, one-sided, selfish, shared",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "estrangement",
+      "hindi": "अलगाव / दूरी",
+      "meaning_en": "The state of being no longer close or friendly",
+      "example_sentence": "Years of estrangement made it hard for them to reconnect.",
+      "synonyms": [
+        "alienation",
+        "separation",
+        "distance",
+        "rift"
+      ],
+      "antonyms": [
+        "closeness",
+        "reconciliation",
+        "bonding",
+        "unity"
+      ],
+      "fill_blank": "A small argument led to a long ______ between the two families.",
+      "correct_word": "estrangement",
+      "hint_words": "estrangement, closeness, reconciliation, separation",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "confide",
+      "hindi": "विश्वास में बात बताना / राज़ बताना",
+      "meaning_en": "To tell someone a secret or private matter in trust",
+      "example_sentence": "She confided in her best friend about her family problems.",
+      "synonyms": [
+        "trust",
+        "share",
+        "disclose",
+        "reveal"
+      ],
+      "antonyms": [
+        "conceal",
+        "hide",
+        "withhold",
+        "keep secret"
+      ],
+      "fill_blank": "He chose to ______ in her because she was trustworthy.",
+      "correct_word": "confide",
+      "hint_words": "confide, conceal, hide, trust",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "generosity",
+      "hindi": "उदारता / दानशीलता",
+      "meaning_en": "The quality of being kind and giving freely to others",
+      "example_sentence": "His generosity towards his friends was well known.",
+      "synonyms": [
+        "kindness",
+        "giving",
+        "largesse",
+        "benevolence"
+      ],
+      "antonyms": [
+        "selfishness",
+        "greed",
+        "meanness",
+        "miserliness"
+      ],
+      "fill_blank": "Acts of ______ strengthen the bonds of friendship.",
+      "correct_word": "generosity",
+      "hint_words": "generosity, selfishness, greed, kindness",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "affinity",
+      "hindi": "लगाव / समानता",
+      "meaning_en": "A natural liking or sympathy for someone; a close connection",
+      "example_sentence": "She felt an immediate affinity with her new classmate.",
+      "synonyms": [
+        "attraction",
+        "closeness",
+        "connection",
+        "liking"
+      ],
+      "antonyms": [
+        "repulsion",
+        "distance",
+        "dislike",
+        "aversion"
+      ],
+      "fill_blank": "Their shared love of music created a strong ______.",
+      "correct_word": "affinity",
+      "hint_words": "affinity, repulsion, dislike, connection",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "rift",
+      "hindi": "दरार / मतभेद",
+      "meaning_en": "A serious break in friendly relations",
+      "example_sentence": "A misunderstanding caused a rift between the two childhood friends.",
+      "synonyms": [
+        "break",
+        "split",
+        "conflict",
+        "disagreement"
+      ],
+      "antonyms": [
+        "unity",
+        "harmony",
+        "reconciliation",
+        "bond"
+      ],
+      "fill_blank": "Jealousy created a ______ in their ten-year friendship.",
+      "correct_word": "rift",
+      "hint_words": "rift, unity, harmony, split",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "dependable",
+      "hindi": "भरोसेमंद / विश्वसनीय",
+      "meaning_en": "Trustworthy and reliable in fulfilling promises",
+      "example_sentence": "You need a dependable friend when life gets tough.",
+      "synonyms": [
+        "reliable",
+        "trustworthy",
+        "steadfast",
+        "loyal"
+      ],
+      "antonyms": [
+        "unreliable",
+        "fickle",
+        "undependable",
+        "inconsistent"
+      ],
+      "fill_blank": "A ______ friend never lets you down when it matters most.",
+      "correct_word": "dependable",
+      "hint_words": "dependable, unreliable, fickle, trustworthy",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "nostalgia",
+      "hindi": "पुरानी यादों की चाहत",
+      "meaning_en": "A sentimental longing for the past, especially happy memories",
+      "example_sentence": "The reunion filled her with nostalgia for school days.",
+      "synonyms": [
+        "longing",
+        "yearning",
+        "wistfulness",
+        "reminiscence"
+      ],
+      "antonyms": [
+        "indifference",
+        "contentment",
+        "forgetfulness",
+        "detachment"
+      ],
+      "fill_blank": "Looking at old photographs always brings on a sense of ______.",
+      "correct_word": "nostalgia",
+      "hint_words": "nostalgia, indifference, contentment, longing",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "welcoming",
+      "hindi": "स्वागत करने वाला / खुशदिल",
+      "meaning_en": "Behaving in a friendly way that makes someone feel at home",
+      "example_sentence": "Her welcoming nature made every newcomer feel comfortable.",
+      "synonyms": [
+        "hospitable",
+        "friendly",
+        "warm",
+        "open"
+      ],
+      "antonyms": [
+        "cold",
+        "unfriendly",
+        "hostile",
+        "unwelcoming"
+      ],
+      "fill_blank": "The ______ attitude of the group helped new members settle in.",
+      "correct_word": "welcoming",
+      "hint_words": "welcoming, cold, hostile, hospitable",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "enmity",
+      "hindi": "शत्रुता / दुश्मनी",
+      "meaning_en": "A state of active hostility and opposition between people",
+      "example_sentence": "Old enmity between the two families divided the village.",
+      "synonyms": [
+        "hostility",
+        "hatred",
+        "animosity",
+        "bitterness"
+      ],
+      "antonyms": [
+        "friendship",
+        "goodwill",
+        "harmony",
+        "affection"
+      ],
+      "fill_blank": "Years of ______ between the rivals came to an end.",
+      "correct_word": "enmity",
+      "hint_words": "enmity, friendship, goodwill, hostility",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "sentimental",
+      "hindi": "भावुक / संवेदनशील",
+      "meaning_en": "Strongly influenced by emotions; overly nostalgic or romantic",
+      "example_sentence": "She kept all the letters from her childhood friend for sentimental reasons.",
+      "synonyms": [
+        "emotional",
+        "nostalgic",
+        "tender",
+        "soft-hearted"
+      ],
+      "antonyms": [
+        "cold",
+        "indifferent",
+        "detached",
+        "unsentimental"
+      ],
+      "fill_blank": "He was too ______ to throw away the old greeting cards.",
+      "correct_word": "sentimental",
+      "hint_words": "sentimental, cold, indifferent, emotional",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "admire",
+      "hindi": "प्रशंसा करना / आदर करना",
+      "meaning_en": "To regard with respect, pleasure, or approval",
+      "example_sentence": "She admired her friend's patience and dedication.",
+      "synonyms": [
+        "respect",
+        "appreciate",
+        "esteem",
+        "applaud"
+      ],
+      "antonyms": [
+        "disrespect",
+        "criticize",
+        "condemn",
+        "despise"
+      ],
+      "fill_blank": "True friends ______ each other's strengths.",
+      "correct_word": "admire",
+      "hint_words": "admire, disrespect, criticize, respect",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "supportive",
+      "hindi": "सहयोगी / मददगार",
+      "meaning_en": "Providing encouragement or emotional help",
+      "example_sentence": "His supportive friends helped him through the difficult period.",
+      "synonyms": [
+        "encouraging",
+        "helpful",
+        "caring",
+        "reassuring"
+      ],
+      "antonyms": [
+        "discouraging",
+        "critical",
+        "unhelpful",
+        "unsupportive"
+      ],
+      "fill_blank": "A ______ friend believes in you even when you doubt yourself.",
+      "correct_word": "supportive",
+      "hint_words": "supportive, discouraging, critical, encouraging",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "tactful",
+      "hindi": "सुविचारित / व्यवहार-कुशल",
+      "meaning_en": "Having the ability to say difficult things without causing offence",
+      "example_sentence": "A tactful friend points out your mistakes with kindness.",
+      "synonyms": [
+        "diplomatic",
+        "considerate",
+        "sensitive",
+        "discreet"
+      ],
+      "antonyms": [
+        "blunt",
+        "thoughtless",
+        "insensitive",
+        "rude"
+      ],
+      "fill_blank": "Be ______ when sharing honest feedback with a friend.",
+      "correct_word": "tactful",
+      "hint_words": "tactful, blunt, rude, diplomatic",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reunion",
+      "hindi": "पुनर्मिलन / फिर से मिलना",
+      "meaning_en": "A gathering of people who have been apart for some time",
+      "example_sentence": "The school reunion brought old friends together after ten years.",
+      "synonyms": [
+        "gathering",
+        "meeting",
+        "get-together",
+        "reconnection"
+      ],
+      "antonyms": [
+        "separation",
+        "parting",
+        "farewell",
+        "departure"
+      ],
+      "fill_blank": "Everyone looked forward to the annual class ______.",
+      "correct_word": "reunion",
+      "hint_words": "reunion, separation, farewell, gathering",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "devoted",
+      "hindi": "समर्पित / निष्ठावान",
+      "meaning_en": "Very loving and loyal; giving all of one's attention to someone",
+      "example_sentence": "She was a devoted friend who always prioritised others.",
+      "synonyms": [
+        "loyal",
+        "dedicated",
+        "faithful",
+        "committed"
+      ],
+      "antonyms": [
+        "disloyal",
+        "unfaithful",
+        "uncaring",
+        "selfish"
+      ],
+      "fill_blank": "A ______ friend sacrifices their comfort for yours.",
+      "correct_word": "devoted",
+      "hint_words": "devoted, disloyal, selfish, faithful",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "confront",
+      "hindi": "सामना करना / मुकाबला करना",
+      "meaning_en": "To face or deal with a problem or difficult person directly",
+      "example_sentence": "It is better to confront a misunderstanding than let it fester.",
+      "synonyms": [
+        "face",
+        "challenge",
+        "address",
+        "tackle"
+      ],
+      "antonyms": [
+        "avoid",
+        "ignore",
+        "evade",
+        "sidestep"
+      ],
+      "fill_blank": "She decided to ______ her friend about the hurtful comment.",
+      "correct_word": "confront",
+      "hint_words": "confront, avoid, ignore, face",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "allegiance",
+      "hindi": "निष्ठा / वफ़ादारी",
+      "meaning_en": "Loyalty and commitment to a person or group",
+      "example_sentence": "His allegiance to his childhood friends never wavered.",
+      "synonyms": [
+        "loyalty",
+        "devotion",
+        "faithfulness",
+        "commitment"
+      ],
+      "antonyms": [
+        "disloyalty",
+        "betrayal",
+        "treachery",
+        "desertion"
+      ],
+      "fill_blank": "True friendship is built on mutual ______.",
+      "correct_word": "allegiance",
+      "hint_words": "allegiance, betrayal, treachery, loyalty",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "condolence",
+      "hindi": "शोक संवेदना / सहानुभूति",
+      "meaning_en": "An expression of sympathy for someone experiencing grief",
+      "example_sentence": "He sent his condolences to the family of his friend who passed away.",
+      "synonyms": [
+        "sympathy",
+        "consolation",
+        "comfort",
+        "compassion"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "celebration",
+        "coldness"
+      ],
+      "fill_blank": "Friends offer ______ when someone loses a loved one.",
+      "correct_word": "condolence",
+      "hint_words": "condolence, indifference, cruelty, sympathy",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "benign",
+      "hindi": "सौम्य / हानिरहित",
+      "meaning_en": "Gentle and kind; not harmful",
+      "example_sentence": "Her benign teasing showed she meant no harm.",
+      "synonyms": [
+        "gentle",
+        "harmless",
+        "kind",
+        "friendly"
+      ],
+      "antonyms": [
+        "harsh",
+        "malicious",
+        "cruel",
+        "harmful"
+      ],
+      "fill_blank": "His ______ humour kept the group cheerful.",
+      "correct_word": "benign",
+      "hint_words": "benign, harsh, malicious, gentle",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reciprocate",
+      "hindi": "बदले में करना / प्रतिदान देना",
+      "meaning_en": "To respond to a gesture or feeling in kind",
+      "example_sentence": "When she helped him, he was happy to reciprocate.",
+      "synonyms": [
+        "return",
+        "repay",
+        "match",
+        "respond"
+      ],
+      "antonyms": [
+        "ignore",
+        "withhold",
+        "reject",
+        "refuse"
+      ],
+      "fill_blank": "A good friend is always ready to ______ kindness.",
+      "correct_word": "reciprocate",
+      "hint_words": "reciprocate, ignore, reject, return",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "courteous",
+      "hindi": "शिष्ट / सभ्य",
+      "meaning_en": "Polite and respectful in manner",
+      "example_sentence": "He was always courteous to both friends and strangers.",
+      "synonyms": [
+        "polite",
+        "respectful",
+        "civil",
+        "gracious"
+      ],
+      "antonyms": [
+        "rude",
+        "impolite",
+        "disrespectful",
+        "discourteous"
+      ],
+      "fill_blank": "A ______ friend makes others feel valued and respected.",
+      "correct_word": "courteous",
+      "hint_words": "courteous, rude, impolite, polite",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "commiserate",
+      "hindi": "दुख में शामिल होना / सहानुभूति देना",
+      "meaning_en": "To express or feel sympathy with someone in their misfortune",
+      "example_sentence": "They sat together to commiserate after losing the match.",
+      "synonyms": [
+        "sympathize",
+        "console",
+        "comfort",
+        "empathize"
+      ],
+      "antonyms": [
+        "rejoice",
+        "mock",
+        "ignore",
+        "celebrate"
+      ],
+      "fill_blank": "True friends ______ with you in failure and celebrate with you in success.",
+      "correct_word": "commiserate",
+      "hint_words": "commiserate, mock, rejoice, sympathize",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "candour",
+      "hindi": "स्पष्टवादिता / खुलापन",
+      "meaning_en": "The quality of being open and honest in speech",
+      "example_sentence": "She appreciated her friend's candour even when it was hard to hear.",
+      "synonyms": [
+        "honesty",
+        "frankness",
+        "openness",
+        "sincerity"
+      ],
+      "antonyms": [
+        "deception",
+        "dishonesty",
+        "pretence",
+        "evasiveness"
+      ],
+      "fill_blank": "Friends who speak with ______ strengthen the relationship.",
+      "correct_word": "candour",
+      "hint_words": "candour, deception, dishonesty, frankness",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "cherished",
+      "hindi": "अत्यंत प्रिय / बहुमूल्य",
+      "meaning_en": "Held dear and valued greatly",
+      "example_sentence": "Old friendships are among the most cherished parts of life.",
+      "synonyms": [
+        "beloved",
+        "treasured",
+        "valued",
+        "precious"
+      ],
+      "antonyms": [
+        "neglected",
+        "forgotten",
+        "despised",
+        "abandoned"
+      ],
+      "fill_blank": "That letter remains one of her most ______ possessions.",
+      "correct_word": "cherished",
+      "hint_words": "cherished, neglected, forgotten, treasured",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "inclusive",
+      "hindi": "समावेशी / सबको साथ लेने वाला",
+      "meaning_en": "Not excluding any member of a group; welcoming to all",
+      "example_sentence": "An inclusive friend never makes others feel left out.",
+      "synonyms": [
+        "welcoming",
+        "open",
+        "broad",
+        "accepting"
+      ],
+      "antonyms": [
+        "exclusive",
+        "narrow",
+        "biased",
+        "excluding"
+      ],
+      "fill_blank": "The group was ______ and welcomed students from all backgrounds.",
+      "correct_word": "inclusive",
+      "hint_words": "inclusive, exclusive, biased, welcoming",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "unconditional",
+      "hindi": "निस्वार्थ / बिना शर्त का",
+      "meaning_en": "Not subject to any conditions; absolute and total",
+      "example_sentence": "A mother's love and a true friend's support are unconditional.",
+      "synonyms": [
+        "absolute",
+        "complete",
+        "wholehearted",
+        "unreserved"
+      ],
+      "antonyms": [
+        "conditional",
+        "limited",
+        "partial",
+        "reserved"
+      ],
+      "fill_blank": "The best friendships are built on ______ trust.",
+      "correct_word": "unconditional",
+      "hint_words": "unconditional, conditional, limited, absolute",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "platonic",
+      "hindi": "मित्रतापूर्ण / शारीरिक नहीं",
+      "meaning_en": "A close friendship without romantic involvement",
+      "example_sentence": "Their platonic friendship lasted for over twenty years.",
+      "synonyms": [
+        "non-romantic",
+        "pure",
+        "spiritual",
+        "friendly"
+      ],
+      "antonyms": [
+        "romantic",
+        "passionate",
+        "physical",
+        "amorous"
+      ],
+      "fill_blank": "They shared a deep ______ bond with no romantic feelings.",
+      "correct_word": "platonic",
+      "hint_words": "platonic, romantic, passionate, friendly",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "fidelity",
+      "hindi": "निष्ठा / वफ़ादारी",
+      "meaning_en": "Faithfulness and loyalty to a person, cause, or belief",
+      "example_sentence": "Her fidelity to her friends was never in question.",
+      "synonyms": [
+        "loyalty",
+        "faithfulness",
+        "devotion",
+        "allegiance"
+      ],
+      "antonyms": [
+        "disloyalty",
+        "betrayal",
+        "infidelity",
+        "treachery"
+      ],
+      "fill_blank": "______ and honesty are the pillars of any deep friendship.",
+      "correct_word": "fidelity",
+      "hint_words": "fidelity, betrayal, disloyalty, loyalty",
+      "difficulty": "medium",
+      "category": "friends"
+    }
+  ]
+}
