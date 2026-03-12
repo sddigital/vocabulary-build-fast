@@ -1,0 +1,274 @@
+{
+  "words": [
+    {
+      "word": "dog",
+      "hindi": "कुत्ता",
+      "meaning_en": "A common pet animal that barks",
+      "example_sentence": "The dog wagged its tail happily.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "dog.jpg"
+    },
+    {
+      "word": "cat",
+      "hindi": "बिल्ली",
+      "meaning_en": "A small furry animal kept as a pet",
+      "example_sentence": "The cat sat on the mat.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "cat.jpg"
+    },
+    {
+      "word": "cow",
+      "hindi": "गाय",
+      "meaning_en": "A large farm animal that gives milk",
+      "example_sentence": "The cow grazed in the field.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "cow.jpg"
+    },
+    {
+      "word": "elephant",
+      "hindi": "हाथी",
+      "meaning_en": "The largest land animal with a long trunk",
+      "example_sentence": "We saw an elephant at the zoo.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "elephant.jpg"
+    },
+    {
+      "word": "tiger",
+      "hindi": "बाघ",
+      "meaning_en": "A large wild cat with stripes",
+      "example_sentence": "The tiger is the national animal of India.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "tiger.jpg"
+    },
+    {
+      "word": "parrot",
+      "hindi": "तोता",
+      "meaning_en": "A colorful bird that can mimic human speech",
+      "example_sentence": "The parrot repeated every word we said.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "parrot.jpg"
+    },
+    {
+      "word": "rabbit",
+      "hindi": "खरगोश",
+      "meaning_en": "A small furry animal with long ears",
+      "example_sentence": "The rabbit hopped across the garden.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "rabbit.jpg"
+    },
+    {
+      "word": "fish",
+      "hindi": "मछली",
+      "meaning_en": "An animal that lives in water and breathes through gills",
+      "example_sentence": "He kept goldfish in a bowl.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "fish.jpg"
+    },
+    {
+      "word": "horse",
+      "hindi": "घोड़ा",
+      "meaning_en": "A large animal used for riding or pulling loads",
+      "example_sentence": "The horse ran across the field.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "horse.jpg"
+    },
+    {
+      "word": "butterfly",
+      "hindi": "तितली",
+      "meaning_en": "An insect with large colorful wings",
+      "example_sentence": "A butterfly landed on the flower.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "butterfly.jpg"
+    },
+    {
+      "word": "sparrow",
+      "hindi": "गौरैया",
+      "meaning_en": "A small common brown bird",
+      "example_sentence": "A sparrow built its nest on our windowsill.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "sparrow.jpg"
+    },
+    {
+      "word": "snake",
+      "hindi": "साँप",
+      "meaning_en": "A long legless reptile that slithers",
+      "example_sentence": "A snake was found in the garden.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "snake.jpg"
+    },
+    {
+      "word": "lion",
+      "hindi": "शेर / सिंह",
+      "meaning_en": "A large wild cat known as the king of the jungle",
+      "example_sentence": "The lion roared loudly in the forest.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "lion.jpg"
+    },
+    {
+      "word": "deer",
+      "hindi": "हिरण",
+      "meaning_en": "A fast wild animal with long legs and antlers",
+      "example_sentence": "A deer leaped across the forest path.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "deer.jpg"
+    },
+    {
+      "word": "peacock",
+      "hindi": "मोर",
+      "meaning_en": "A large bird with beautiful colorful feathers; national bird of India",
+      "example_sentence": "The peacock danced in the rain.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "peacock.jpg"
+    },
+    {
+      "word": "monkey",
+      "hindi": "बंदर",
+      "meaning_en": "A small wild animal with a tail that climbs trees",
+      "example_sentence": "A monkey jumped from tree to tree.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "monkey.jpg"
+    },
+    {
+      "word": "frog",
+      "hindi": "मेंढक",
+      "meaning_en": "A small amphibian that lives near water and can jump",
+      "example_sentence": "A frog jumped into the pond.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "frog.jpg"
+    },
+    {
+      "word": "camel",
+      "hindi": "ऊँट",
+      "meaning_en": "A large animal with one or two humps that lives in deserts",
+      "example_sentence": "Camels are used for travel in the desert.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "camel.jpg"
+    },
+    {
+      "word": "crocodile",
+      "hindi": "मगरमच्छ",
+      "meaning_en": "A large reptile that lives near rivers and lakes",
+      "example_sentence": "A crocodile lay still on the riverbank.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "crocodile.jpg"
+    },
+    {
+      "word": "penguin",
+      "hindi": "पेंगुइन",
+      "meaning_en": "A black and white bird that lives in cold regions and cannot fly",
+      "example_sentence": "Penguins slide on ice to move quickly.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "penguin.jpg"
+    },
+    {
+      "word": "zebra",
+      "hindi": "ज़ेबरा",
+      "meaning_en": "A horse-like animal with black and white stripes",
+      "example_sentence": "The zebra grazed in the African grasslands.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "zebra.jpg"
+    },
+    {
+      "word": "ostrich",
+      "hindi": "शुतुरमुर्ग",
+      "meaning_en": "The largest bird in the world that cannot fly but runs fast",
+      "example_sentence": "An ostrich can run faster than a horse.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "ostrich.jpg"
+    },
+    {
+      "word": "dolphin",
+      "hindi": "डॉल्फिन",
+      "meaning_en": "A friendly sea animal known for its intelligence",
+      "example_sentence": "A dolphin jumped out of the sea.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "dolphin.jpg"
+    },
+    {
+      "word": "crow",
+      "hindi": "कौआ",
+      "meaning_en": "A large black bird known for its loud cawing sound",
+      "example_sentence": "A crow sat on the wall and cawed.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "crow.jpg"
+    },
+    {
+      "word": "owl",
+      "hindi": "उल्लू",
+      "meaning_en": "A bird with large eyes that is active at night",
+      "example_sentence": "The owl hooted from the old tree.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "owl.jpg"
+    },
+    {
+      "word": "buffalo",
+      "hindi": "भैंस",
+      "meaning_en": "A large black farm animal used for milk and ploughing",
+      "example_sentence": "The farmer milked his buffalo every morning.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "buffalo.jpg"
+    },
+    {
+      "word": "goat",
+      "hindi": "बकरी",
+      "meaning_en": "A farm animal with horns that gives milk",
+      "example_sentence": "The goat grazed on the hillside.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "goat.jpg"
+    },
+    {
+      "word": "squirrel",
+      "hindi": "गिलहरी",
+      "meaning_en": "A small furry animal with a bushy tail that climbs trees",
+      "example_sentence": "A squirrel jumped from branch to branch.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "squirrel.jpg"
+    },
+    {
+      "word": "sheep",
+      "hindi": "भेड़",
+      "meaning_en": "A farm animal with thick woolly fleece",
+      "example_sentence": "The sheep grazed in the green meadow.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "sheep.jpg"
+    },
+    {
+      "word": "flock",
+      "hindi": "झुंड",
+      "meaning_en": "A group of birds or sheep together",
+      "example_sentence": "A flock of birds flew over the lake.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "flock.jpg"
+    }
+  ]
+}

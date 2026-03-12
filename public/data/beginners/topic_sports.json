@@ -1,0 +1,175 @@
+{
+  "words": [
+    {
+      "word": "cricket",
+      "hindi": "क्रिकेट",
+      "meaning_en": "A bat-and-ball sport popular in India",
+      "example_sentence": "Boys played cricket in the field.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "cricket.jpg"
+    },
+    {
+      "word": "football",
+      "hindi": "फुटबॉल",
+      "meaning_en": "A game played by kicking a round ball into a goal",
+      "example_sentence": "Our school team won the football match.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "football.jpg"
+    },
+    {
+      "word": "swimming",
+      "hindi": "तैराकी",
+      "meaning_en": "Moving through water using arms and legs",
+      "example_sentence": "She learned swimming at the sports club.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "swimming.jpg"
+    },
+    {
+      "word": "running",
+      "hindi": "दौड़ना",
+      "meaning_en": "Moving on foot at a fast pace",
+      "example_sentence": "He won the running race on Sports Day.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "running.jpg"
+    },
+    {
+      "word": "badminton",
+      "hindi": "बैडमिंटन",
+      "meaning_en": "A game played with a shuttlecock and a racket",
+      "example_sentence": "They played badminton in the backyard.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "badminton.jpg"
+    },
+    {
+      "word": "medal",
+      "hindi": "पदक",
+      "meaning_en": "A metal disc given as a prize in a competition",
+      "example_sentence": "She won a gold medal at the district meet.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "medal.jpg"
+    },
+    {
+      "word": "kite",
+      "hindi": "पतंग",
+      "meaning_en": "A light frame covered with paper or cloth flown in wind",
+      "example_sentence": "He flew a kite on Makar Sankranti.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "kite.jpg"
+    },
+    {
+      "word": "chess",
+      "hindi": "शतरंज",
+      "meaning_en": "A board game played by two people with different pieces",
+      "example_sentence": "She won the chess tournament at school.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "chess.jpg"
+    },
+    {
+      "word": "carrom",
+      "hindi": "कैरम",
+      "meaning_en": "A board game where players flick discs into corner pockets",
+      "example_sentence": "We played carrom after dinner.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "carrom.jpg"
+    },
+    {
+      "word": "trophy",
+      "hindi": "ट्रॉफी",
+      "meaning_en": "A cup or figure given as a prize for winning",
+      "example_sentence": "Our school won the trophy for best team.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "trophy.jpg"
+    },
+    {
+      "word": "marathon",
+      "hindi": "मैराथन",
+      "meaning_en": "A long-distance running race of about 42 kilometres",
+      "example_sentence": "He trained hard to run a marathon.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "marathon.jpg"
+    },
+    {
+      "word": "gymnastics",
+      "hindi": "जिम्नास्टिक्स",
+      "meaning_en": "A sport involving balance, flexibility, and body movements",
+      "example_sentence": "She won a gold medal in gymnastics.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "gymnastics.jpg"
+    },
+    {
+      "word": "archery",
+      "hindi": "तीरंदाज़ी",
+      "meaning_en": "The sport of shooting arrows at a target using a bow",
+      "example_sentence": "Archery has been part of Indian culture for centuries.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "archery.jpg"
+    },
+    {
+      "word": "hockey",
+      "hindi": "हॉकी",
+      "meaning_en": "A sport played with a stick and a ball or puck",
+      "example_sentence": "Hockey is the national sport of India.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "hockey.jpg"
+    },
+    {
+      "word": "volleyball",
+      "hindi": "वॉलीबॉल",
+      "meaning_en": "A game in which players hit a ball over a high net",
+      "example_sentence": "Our school team won the volleyball match.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "volleyball.jpg"
+    },
+    {
+      "word": "wrestling",
+      "hindi": "कुश्ती",
+      "meaning_en": "A sport in which two people try to throw each other to the ground",
+      "example_sentence": "He became a champion in wrestling.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "wrestling.jpg"
+    },
+    {
+      "word": "referee",
+      "hindi": "रेफरी",
+      "meaning_en": "A person who controls a sports game and ensures rules are followed",
+      "example_sentence": "The referee blew the whistle to stop the game.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "referee.jpg"
+    },
+    {
+      "word": "playground",
+      "hindi": "खेल का मैदान",
+      "meaning_en": "An outdoor area where children can play",
+      "example_sentence": "The children ran to the playground after school.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "playground.jpg"
+    },
+    {
+      "word": "coach",
+      "hindi": "प्रशिक्षक",
+      "meaning_en": "A person who trains a sports team or player",
+      "example_sentence": "The coach trained the team every morning.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "coach.jpg"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "words": [
+    {
+      "word": "river",
+      "hindi": "नदी",
+      "meaning_en": "A large natural stream of water flowing to the sea",
+      "example_sentence": "Children swam in the river.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "river.jpg"
+    },
+    {
+      "word": "mountain",
+      "hindi": "पहाड़",
+      "meaning_en": "A very high area of land with steep sides",
+      "example_sentence": "We could see snow on the mountain top.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "mountain.jpg"
+    },
+    {
+      "word": "forest",
+      "hindi": "जंगल",
+      "meaning_en": "A large area covered with trees",
+      "example_sentence": "The deer ran into the forest.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "forest.jpg"
+    },
+    {
+      "word": "flower",
+      "hindi": "फूल",
+      "meaning_en": "The colorful part of a plant that blooms",
+      "example_sentence": "She picked a flower from the garden.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "flower.jpg"
+    },
+    {
+      "word": "tree",
+      "hindi": "पेड़",
+      "meaning_en": "A tall plant with a trunk, branches, and leaves",
+      "example_sentence": "The bird sat on the top branch of the tree.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "tree.jpg"
+    },
+    {
+      "word": "leaf",
+      "hindi": "पत्ता",
+      "meaning_en": "A flat green part of a plant that grows from a branch",
+      "example_sentence": "A dry leaf fell from the tree.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "leaf.jpg"
+    },
+    {
+      "word": "seed",
+      "hindi": "बीज",
+      "meaning_en": "A small part of a plant that can grow into a new plant",
+      "example_sentence": "She planted a seed in the pot.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "seed.jpg"
+    },
+    {
+      "word": "soil",
+      "hindi": "मिट्टी",
+      "meaning_en": "The top layer of earth in which plants grow",
+      "example_sentence": "The farmer dug the soil before planting.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "soil.jpg"
+    },
+    {
+      "word": "lake",
+      "hindi": "झील",
+      "meaning_en": "A large area of water surrounded by land",
+      "example_sentence": "Ducks swam on the lake.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "lake.jpg"
+    },
+    {
+      "word": "beach",
+      "hindi": "समुद्र तट",
+      "meaning_en": "An area of sand or stones next to the sea",
+      "example_sentence": "We collected shells on the beach.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "beach.jpg"
+    },
+    {
+      "word": "stars",
+      "hindi": "तारे",
+      "meaning_en": "Bright points of light seen in the sky at night",
+      "example_sentence": "On a clear night, you can see thousands of stars.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "stars.jpg"
+    },
+    {
+      "word": "moon",
+      "hindi": "चाँद",
+      "meaning_en": "The natural satellite of Earth that shines at night",
+      "example_sentence": "The full moon looked beautiful.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "moon.jpg"
+    },
+    {
+      "word": "volcano",
+      "hindi": "ज्वालामुखी",
+      "meaning_en": "A mountain that can eject hot lava and gases",
+      "example_sentence": "The volcano erupted last night.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "volcano.jpg"
+    },
+    {
+      "word": "desert",
+      "hindi": "रेगिस्तान",
+      "meaning_en": "A dry area with very little rain and few plants",
+      "example_sentence": "The Thar Desert is in Rajasthan.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "desert.jpg"
+    },
+    {
+      "word": "waterfall",
+      "hindi": "झरना",
+      "meaning_en": "Water falling from a height over a cliff",
+      "example_sentence": "The waterfall was very tall and beautiful.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "waterfall.jpg"
+    },
+    {
+      "word": "jungle",
+      "hindi": "जंगल / वन",
+      "meaning_en": "A dense tropical forest with thick vegetation",
+      "example_sentence": "Lions and tigers live in the jungle.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "jungle.jpg"
+    },
+    {
+      "word": "cave",
+      "hindi": "गुफा",
+      "meaning_en": "A hollow space inside a rock or hill",
+      "example_sentence": "Bats live inside the dark cave.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "cave.jpg"
+    },
+    {
+      "word": "cliff",
+      "hindi": "चट्टान / खड़ी ढाल",
+      "meaning_en": "A steep rocky face of a hill or mountain",
+      "example_sentence": "They stood at the edge of the cliff and looked below.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "cliff.jpg"
+    },
+    {
+      "word": "meadow",
+      "hindi": "घास का मैदान",
+      "meaning_en": "A flat open area of land covered with grass",
+      "example_sentence": "Cows grazed peacefully in the green meadow.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "meadow.jpg"
+    },
+    {
+      "word": "horizon",
+      "hindi": "क्षितिज",
+      "meaning_en": "The line where the sky seems to meet the earth",
+      "example_sentence": "The sun dipped below the horizon at sunset.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "horizon.jpg"
+    },
+    {
+      "word": "tide",
+      "hindi": "ज्वार-भाटा",
+      "meaning_en": "The rise and fall of sea water caused by the moon",
+      "example_sentence": "The high tide brought water close to the shore.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "tide.jpg"
+    },
+    {
+      "word": "glacier",
+      "hindi": "हिमनद / ग्लेशियर",
+      "meaning_en": "A large slow-moving mass of ice on a mountain",
+      "example_sentence": "Glaciers are melting because of global warming.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "glacier.jpg"
+    },
+    {
+      "word": "pond",
+      "hindi": "तालाब",
+      "meaning_en": "A small area of still water, smaller than a lake",
+      "example_sentence": "Frogs and fish live in the village pond.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "pond.jpg"
+    },
+    {
+      "word": "plateau",
+      "hindi": "पठार",
+      "meaning_en": "A flat area of land at a high elevation",
+      "example_sentence": "The Deccan Plateau is in southern India.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "plateau.jpg"
+    },
+    {
+      "word": "dune",
+      "hindi": "बालू का टीला",
+      "meaning_en": "A hill of sand formed by the wind in a desert or beach",
+      "example_sentence": "They climbed a large sand dune in Rajasthan.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "dune.jpg"
+    },
+    {
+      "word": "bush",
+      "hindi": "झाड़ी",
+      "meaning_en": "A small plant with many thin branches",
+      "example_sentence": "A rabbit hid behind the bush.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "bush.jpg"
+    },
+    {
+      "word": "valley",
+      "hindi": "घाटी",
+      "meaning_en": "A low area of land between hills or mountains",
+      "example_sentence": "A river flowed through the green valley.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "valley.jpg"
+    },
+    {
+      "word": "sunrise",
+      "hindi": "सूर्योदय",
+      "meaning_en": "The time in the morning when the sun appears",
+      "example_sentence": "We woke early to watch the sunrise.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "sunrise.jpg"
+    }
+  ]
+}

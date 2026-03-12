@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word": "wait",
+      "hindi": "इंतजार करना",
+      "meaning_en": "To stay in one place until something happens",
+      "example_sentence": "We waited at the bus stop for ten minutes.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "wait.jpg"
+    },
+    {
+      "word": "watch",
+      "hindi": "देखना",
+      "meaning_en": "To look at something carefully over time",
+      "example_sentence": "They watched a movie together on Saturday.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "watch.jpg"
+    },
+    {
+      "word": "count",
+      "hindi": "गिनना",
+      "meaning_en": "To find out how many things there are",
+      "example_sentence": "She counted the apples in the basket.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "count.jpg"
+    },
+    {
+      "word": "point",
+      "hindi": "इशारा करना",
+      "meaning_en": "To direct attention using your finger",
+      "example_sentence": "He pointed at the board during the lesson.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "point.jpg"
+    },
+    {
+      "word": "knock",
+      "hindi": "दस्तक देना",
+      "meaning_en": "To hit a door with your knuckles to get attention",
+      "example_sentence": "She knocked on the door before entering.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "knock.jpg"
+    },
+    {
+      "word": "call",
+      "hindi": "बुलाना / फोन करना",
+      "meaning_en": "To shout to get attention or to phone someone",
+      "example_sentence": "He called his friend to come and play.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "call.jpg"
+    },
+    {
+      "word": "visit",
+      "hindi": "मिलने जाना",
+      "meaning_en": "To go to see a person or place",
+      "example_sentence": "We visited our grandparents during holidays.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "visit.jpg"
+    },
+    {
+      "word": "pack",
+      "hindi": "पैक करना",
+      "meaning_en": "To put things into a bag or box for travel",
+      "example_sentence": "She packed her bag the night before the trip.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "pack.jpg"
+    },
+    {
+      "word": "fetch",
+      "hindi": "लाना",
+      "meaning_en": "To go and get something and bring it back",
+      "example_sentence": "He fetched water from the well.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "fetch.jpg"
+    },
+    {
+      "word": "pour",
+      "hindi": "डालना",
+      "meaning_en": "To make liquid flow from a container",
+      "example_sentence": "She poured milk into the glass.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "pour.jpg"
+    },
+    {
+      "word": "chop",
+      "hindi": "काटना",
+      "meaning_en": "To cut something into pieces with a sharp tool",
+      "example_sentence": "Mum chopped the vegetables for the curry.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "chop.jpg"
+    },
+    {
+      "word": "sweep",
+      "hindi": "झाड़ू लगाना",
+      "meaning_en": "To clean a floor by pushing dirt with a broom",
+      "example_sentence": "She swept the floor every morning.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sweep.jpg"
+    },
+    {
+      "word": "fold",
+      "hindi": "मोड़ना",
+      "meaning_en": "To bend something flat so one part lies over another",
+      "example_sentence": "He folded his clothes and kept them in the cupboard.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "fold.jpg"
+    },
+    {
+      "word": "hang",
+      "hindi": "टांगना",
+      "meaning_en": "To attach something at the top so it hangs down",
+      "example_sentence": "She hung her school bag on the hook.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "hang.jpg"
+    },
+    {
+      "word": "rush",
+      "hindi": "जल्दी करना",
+      "meaning_en": "To hurry and move quickly",
+      "example_sentence": "He rushed to school so he would not be late.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "rush.jpg"
+    },
+    {
+      "word": "chat",
+      "hindi": "गपशप करना",
+      "meaning_en": "To talk in a friendly and informal way",
+      "example_sentence": "The friends chatted on the way home.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "chat.jpg"
+    }
+  ]
+}

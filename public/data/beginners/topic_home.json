@@ -1,0 +1,301 @@
+{
+  "words": [
+    {
+      "word": "candle",
+      "hindi": "मोमबत्ती",
+      "meaning_en": "A stick of wax with a wick that gives light when burned",
+      "example_sentence": "She lit a candle during the power cut.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "candle.jpg"
+    },
+    {
+      "word": "garden",
+      "hindi": "बगीचा",
+      "meaning_en": "A piece of land where flowers, vegetables, or trees are grown",
+      "example_sentence": "Grandma waters her garden every evening.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "garden.jpg"
+    },
+    {
+      "word": "kettle",
+      "hindi": "केतली",
+      "meaning_en": "A container used to boil water",
+      "example_sentence": "Put the kettle on to make some tea.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "kettle.jpg"
+    },
+    {
+      "word": "ladder",
+      "hindi": "सीढ़ी",
+      "meaning_en": "A set of steps used to climb up or down",
+      "example_sentence": "The painter climbed the ladder to reach the ceiling.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "ladder.jpg"
+    },
+    {
+      "word": "alarm",
+      "hindi": "अलार्म",
+      "meaning_en": "A device that makes a loud sound to warn or wake someone",
+      "example_sentence": "He set the alarm for 6 in the morning.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "alarm.jpg"
+    },
+    {
+      "word": "chair",
+      "hindi": "कुर्सी",
+      "meaning_en": "A piece of furniture with a back for one person to sit on",
+      "example_sentence": "She pulled the chair and sat down.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "chair.jpg"
+    },
+    {
+      "word": "table",
+      "hindi": "मेज़",
+      "meaning_en": "A piece of furniture with a flat top on legs",
+      "example_sentence": "Books were spread across the table.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "table.jpg"
+    },
+    {
+      "word": "bed",
+      "hindi": "बिस्तर",
+      "meaning_en": "A piece of furniture used for sleeping",
+      "example_sentence": "He went to bed early last night.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "bed.jpg"
+    },
+    {
+      "word": "door",
+      "hindi": "दरवाज़ा",
+      "meaning_en": "A panel that opens and closes to let people in or out",
+      "example_sentence": "Please knock before opening the door.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "door.jpg"
+    },
+    {
+      "word": "window",
+      "hindi": "खिड़की",
+      "meaning_en": "An opening in a wall covered with glass to let in light",
+      "example_sentence": "She opened the window to let in fresh air.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "window.jpg"
+    },
+    {
+      "word": "clock",
+      "hindi": "घड़ी",
+      "meaning_en": "A device for showing the time",
+      "example_sentence": "The clock on the wall showed three o'clock.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "clock.jpg"
+    },
+    {
+      "word": "mirror",
+      "hindi": "आईना / दर्पण",
+      "meaning_en": "A glass surface that reflects images",
+      "example_sentence": "She looked at herself in the mirror.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "mirror.jpg"
+    },
+    {
+      "word": "broom",
+      "hindi": "झाड़ू",
+      "meaning_en": "A brush with a long handle used for sweeping floors",
+      "example_sentence": "She swept the floor with a broom.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "broom.jpg"
+    },
+    {
+      "word": "bucket",
+      "hindi": "बाल्टी",
+      "meaning_en": "A round container with a handle used to hold water",
+      "example_sentence": "He filled the bucket with water.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "bucket.jpg"
+    },
+    {
+      "word": "electricity",
+      "hindi": "बिजली",
+      "meaning_en": "Energy in the form of electric current used to power things",
+      "example_sentence": "The fan stopped because there was no electricity.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "electricity.jpg"
+    },
+    {
+      "word": "switch",
+      "hindi": "स्विच",
+      "meaning_en": "A device used to turn electricity on or off",
+      "example_sentence": "Please turn off the switch before sleeping.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "switch.jpg"
+    },
+    {
+      "word": "dustbin",
+      "hindi": "कूड़ेदान",
+      "meaning_en": "A container for rubbish or waste",
+      "example_sentence": "Throw the wrapper in the dustbin, not on the road.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "dustbin.jpg"
+    },
+    {
+      "word": "cooler",
+      "hindi": "कूलर",
+      "meaning_en": "A device that blows cool air to reduce heat indoors",
+      "example_sentence": "We switched on the cooler in summer.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "cooler.jpg"
+    },
+    {
+      "word": "fan",
+      "hindi": "पंखा",
+      "meaning_en": "An electrical device with rotating blades used to cool a room",
+      "example_sentence": "Please switch on the fan, it is very hot.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "fan.jpg"
+    },
+    {
+      "word": "tank",
+      "hindi": "टंकी / जलाशय",
+      "meaning_en": "A large container for storing water",
+      "example_sentence": "The water tank on the roof was full.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "tank.jpg"
+    },
+    {
+      "word": "balcony",
+      "hindi": "बालकनी",
+      "meaning_en": "A platform on the outside of a building with a railing",
+      "example_sentence": "She watered her plants on the balcony.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "balcony.jpg"
+    },
+    {
+      "word": "curtain",
+      "hindi": "पर्दा",
+      "meaning_en": "A piece of cloth hung over a window to block light",
+      "example_sentence": "He pulled the curtain to block the sunlight.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "curtain.jpg"
+    },
+    {
+      "word": "chimney",
+      "hindi": "चिमनी",
+      "meaning_en": "A pipe or structure that lets smoke out of a building",
+      "example_sentence": "Smoke rose from the chimney of the factory.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "chimney.jpg"
+    },
+    {
+      "word": "terrace",
+      "hindi": "छत / टेरेस",
+      "meaning_en": "A flat open area on the roof of a building",
+      "example_sentence": "We flew kites from the terrace on Independence Day.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "terrace.jpg"
+    },
+    {
+      "word": "shelf",
+      "hindi": "शेल्फ / ताक",
+      "meaning_en": "A flat board fixed to a wall or inside a cupboard to hold things",
+      "example_sentence": "She arranged her books on the shelf.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "shelf.jpg"
+    },
+    {
+      "word": "pillow",
+      "hindi": "तकिया",
+      "meaning_en": "A soft cushion used to rest the head while sleeping",
+      "example_sentence": "He placed his head on the pillow and fell asleep.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "pillow.jpg"
+    },
+    {
+      "word": "staircase",
+      "hindi": "सीढ़ियाँ",
+      "meaning_en": "A set of steps inside a building connecting floors",
+      "example_sentence": "She ran up the staircase to reach her class.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "staircase.jpg"
+    },
+    {
+      "word": "mattress",
+      "hindi": "गद्दा",
+      "meaning_en": "A thick soft pad placed on a bed to sleep on",
+      "example_sentence": "He spread the mattress on the floor.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "mattress.jpg"
+    },
+    {
+      "word": "kitchen",
+      "hindi": "रसोई",
+      "meaning_en": "The room where food is cooked",
+      "example_sentence": "Mum is in the kitchen making dinner.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "kitchen.jpg"
+    },
+    {
+      "word": "bedroom",
+      "hindi": "शयनकक्ष",
+      "meaning_en": "A room used for sleeping",
+      "example_sentence": "He tidied his bedroom before bed.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "bedroom.jpg"
+    },
+    {
+      "word": "sofa",
+      "hindi": "सोफा",
+      "meaning_en": "A long comfortable seat for more than one person",
+      "example_sentence": "The family sat on the sofa to watch TV.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "sofa.jpg"
+    },
+    {
+      "word": "bathroom",
+      "hindi": "बाथरूम",
+      "meaning_en": "A room with a bath, shower, and toilet",
+      "example_sentence": "She brushed her teeth in the bathroom.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "bathroom.jpg"
+    },
+    {
+      "word": "mop",
+      "hindi": "पोंछा",
+      "meaning_en": "A tool with a long handle used to clean floors",
+      "example_sentence": "He used a mop to clean the wet floor.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "mop.jpg"
+    }
+  ]
+}

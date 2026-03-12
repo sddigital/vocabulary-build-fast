@@ -588,19 +588,23 @@ function FeedbackPanel({ feedback, onNext }) {
     <motion.div
       initial={{ opacity: 0, y: 8 }}
       animate={{ opacity: 1, y: 0 }}
-      className={`rounded-2xl p-4 space-y-2 text-sm leading-relaxed ${
+      className={`rounded-2xl p-5 space-y-2 text-sm leading-relaxed ${
         isCorrect
-          ? 'bg-green-50 border border-green-200 text-green-900'
-          : 'bg-red-50 border border-red-200 text-red-900'
+          ? 'bg-green-100 border-2 border-green-400 text-green-900'
+          : 'bg-red-100 border-2 border-red-400 text-red-900'
       }`}
     >
       {isCorrect
         ? <p className="font-bold text-base">Correct! 🎉</p>
         : <p className="font-bold text-base">Correct answer: <span className="underline">{word.correct_word ?? word.word}</span></p>
       }
-      {word.meaning_en && <p className="text-gray-700">{word.meaning_en}</p>}
-      {(word.meaning_hi ?? word.hindi) && <p className="text-gray-500">{word.meaning_hi ?? word.hindi}</p>}
-      {word.example_sentence && <p className="italic text-gray-400">{word.example_sentence}</p>}
+      {word.meaning_en && <p className="text-gray-800 font-medium">{word.meaning_en}</p>}
+      {(word.meaning_hi ?? word.hindi) && <p className="text-gray-700">{word.meaning_hi ?? word.hindi}</p>}
+      {word.example_sentence && (
+        <p className={`italic font-medium text-sm border-l-4 pl-3 ${isCorrect ? 'border-green-500 text-green-800' : 'border-red-500 text-red-800'}`}>
+          {word.example_sentence}
+        </p>
+      )}
       <div className="flex items-center gap-2 pt-1">
         <button
           onClick={() => tts(word.correct_word ?? word.word, 'en-IN')}

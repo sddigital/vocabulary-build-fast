@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word": "pollution",
+      "hindi": "प्रदूषण",
+      "meaning_en": "Harmful substances introduced into the environment",
+      "example_sentence": "Car fumes cause air pollution.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "pollution.jpg"
+    },
+    {
+      "word": "recycle",
+      "hindi": "पुनः उपयोग करना",
+      "meaning_en": "To process used items so they can be used again",
+      "example_sentence": "We should recycle paper and plastic.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "recycle.jpg"
+    },
+    {
+      "word": "waste",
+      "hindi": "कचरा / बर्बादी",
+      "meaning_en": "Unwanted material left over after use",
+      "example_sentence": "Do not waste food or water.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "waste.jpg"
+    },
+    {
+      "word": "plant",
+      "hindi": "पौधा",
+      "meaning_en": "A living organism that grows in the ground and has leaves",
+      "example_sentence": "She watered the plant every morning.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "plant.jpg"
+    },
+    {
+      "word": "oxygen",
+      "hindi": "ऑक्सीजन",
+      "meaning_en": "A gas in the air that living things need to breathe",
+      "example_sentence": "Trees give us oxygen.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "oxygen.jpg"
+    },
+    {
+      "word": "drought",
+      "hindi": "सूखा",
+      "meaning_en": "A long period with little or no rain",
+      "example_sentence": "The farmers suffered because of the drought.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "drought.jpg"
+    },
+    {
+      "word": "flood",
+      "hindi": "बाढ़",
+      "meaning_en": "A large amount of water covering normally dry land",
+      "example_sentence": "The flood destroyed many homes in the village.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "flood.jpg"
+    },
+    {
+      "word": "earthquake",
+      "hindi": "भूकंप",
+      "meaning_en": "A sudden shaking of the ground caused by movement of the earth",
+      "example_sentence": "Buildings fell during the earthquake.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "earthquake.jpg"
+    },
+    {
+      "word": "fossil",
+      "hindi": "जीवाश्म",
+      "meaning_en": "The remains of a prehistoric animal or plant preserved in rock",
+      "example_sentence": "Scientists found a dinosaur fossil in the desert.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "fossil.jpg"
+    },
+    {
+      "word": "mineral",
+      "hindi": "खनिज",
+      "meaning_en": "A natural substance found in rocks and the earth",
+      "example_sentence": "Iron is an important mineral found in the ground.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "mineral.jpg"
+    },
+    {
+      "word": "atmosphere",
+      "hindi": "वायुमंडल",
+      "meaning_en": "The layer of air and gases surrounding the Earth",
+      "example_sentence": "The atmosphere protects us from the sun's rays.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "atmosphere.jpg"
+    },
+    {
+      "word": "habitat",
+      "hindi": "आवास / प्राकृतिक वास",
+      "meaning_en": "The natural place where an animal or plant lives",
+      "example_sentence": "The forest is the natural habitat of the tiger.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "habitat.jpg"
+    },
+    {
+      "word": "erosion",
+      "hindi": "मृदा अपरदन / कटाव",
+      "meaning_en": "The gradual wearing away of soil or rock by water or wind",
+      "example_sentence": "Heavy rain caused soil erosion on the hillside.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "erosion.jpg"
+    },
+    {
+      "word": "conservation",
+      "hindi": "संरक्षण",
+      "meaning_en": "The protection of nature, animals, and natural resources",
+      "example_sentence": "Water conservation is important in dry areas.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "conservation.jpg"
+    }
+  ]
+}

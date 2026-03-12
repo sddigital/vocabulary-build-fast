@@ -1,0 +1,2304 @@
+{
+  "words": [
+    {
+      "word": "ambiguous",
+      "hindi": "द्वि-अर्थी / अस्पष्ट",
+      "meaning_en": "Open to more than one interpretation; not clear",
+      "example_sentence": "His ambiguous reply left everyone confused.",
+      "synonyms": [
+        "vague",
+        "unclear",
+        "obscure",
+        "equivocal"
+      ],
+      "antonyms": [
+        "clear",
+        "definite",
+        "explicit",
+        "unambiguous"
+      ],
+      "fill_blank": "The politician gave an ______ answer to avoid controversy.",
+      "correct_word": "ambiguous",
+      "hint_words": "vague, uncertain, obscure, ambiguous",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "benevolent",
+      "hindi": "परोपकारी / दयालु",
+      "meaning_en": "Well-meaning and kindly; generous",
+      "example_sentence": "The benevolent king shared his wealth with the poor.",
+      "synonyms": [
+        "kind",
+        "generous",
+        "charitable",
+        "compassionate"
+      ],
+      "antonyms": [
+        "cruel",
+        "malevolent",
+        "selfish",
+        "unkind"
+      ],
+      "fill_blank": "The ______ donor funded the school's new library.",
+      "correct_word": "benevolent",
+      "hint_words": "kind, generous, benevolent, cruel",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "calamity",
+      "hindi": "आपदा / विपत्ति",
+      "meaning_en": "An event causing great damage or distress; a disaster",
+      "example_sentence": "The flood was a terrible calamity for the village.",
+      "synonyms": [
+        "disaster",
+        "catastrophe",
+        "tragedy",
+        "misfortune"
+      ],
+      "antonyms": [
+        "blessing",
+        "fortune",
+        "miracle",
+        "benefit"
+      ],
+      "fill_blank": "The earthquake was a massive ______ that destroyed hundreds of homes.",
+      "correct_word": "calamity",
+      "hint_words": "disaster, calamity, blessing, accident",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "diligent",
+      "hindi": "परिश्रमी / मेहनती",
+      "meaning_en": "Having or showing care and effort in work",
+      "example_sentence": "She was a diligent student who never missed a class.",
+      "synonyms": [
+        "hardworking",
+        "industrious",
+        "careful",
+        "thorough"
+      ],
+      "antonyms": [
+        "lazy",
+        "careless",
+        "negligent",
+        "idle"
+      ],
+      "fill_blank": "A ______ worker always completes tasks on time.",
+      "correct_word": "diligent",
+      "hint_words": "lazy, diligent, casual, quick",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "eloquent",
+      "hindi": "वाकपटु / प्रभावशाली",
+      "meaning_en": "Fluent and persuasive in speaking or writing",
+      "example_sentence": "The eloquent speaker moved the audience to tears.",
+      "synonyms": [
+        "fluent",
+        "articulate",
+        "expressive",
+        "persuasive"
+      ],
+      "antonyms": [
+        "inarticulate",
+        "tongue-tied",
+        "mumbling",
+        "hesitant"
+      ],
+      "fill_blank": "Her ______ speech won the debate competition.",
+      "correct_word": "eloquent",
+      "hint_words": "fluent, eloquent, silent, nervous",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "frugal",
+      "hindi": "मितव्ययी / किफायती",
+      "meaning_en": "Careful with money and avoiding waste",
+      "example_sentence": "Despite being rich, he led a frugal life.",
+      "synonyms": [
+        "thrifty",
+        "economical",
+        "sparing",
+        "careful"
+      ],
+      "antonyms": [
+        "wasteful",
+        "extravagant",
+        "lavish",
+        "spendthrift"
+      ],
+      "fill_blank": "Being ______ helped her save enough money for college.",
+      "correct_word": "frugal",
+      "hint_words": "frugal, wasteful, generous, thrifty",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "gratitude",
+      "hindi": "कृतज्ञता / आभार",
+      "meaning_en": "The quality of being thankful; appreciation for kindness received",
+      "example_sentence": "She expressed her gratitude with a heartfelt letter.",
+      "synonyms": [
+        "thankfulness",
+        "appreciation",
+        "recognition",
+        "indebtedness"
+      ],
+      "antonyms": [
+        "ingratitude",
+        "ungratefulness",
+        "indifference",
+        "disregard"
+      ],
+      "fill_blank": "He felt deep ______ towards his teacher for all the support.",
+      "correct_word": "gratitude",
+      "hint_words": "gratitude, anger, joy, pride",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "haughty",
+      "hindi": "घमंडी / अभिमानी",
+      "meaning_en": "Arrogantly superior and disdainful",
+      "example_sentence": "His haughty attitude made him unpopular among classmates.",
+      "synonyms": [
+        "arrogant",
+        "proud",
+        "conceited",
+        "disdainful"
+      ],
+      "antonyms": [
+        "humble",
+        "modest",
+        "meek",
+        "respectful"
+      ],
+      "fill_blank": "The ______ prince refused to listen to anyone's advice.",
+      "correct_word": "haughty",
+      "hint_words": "humble, haughty, arrogant, shy",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "inevitable",
+      "hindi": "अनिवार्य / अटल",
+      "meaning_en": "Certain to happen; unable to be avoided",
+      "example_sentence": "Change is inevitable in life.",
+      "synonyms": [
+        "unavoidable",
+        "certain",
+        "inescapable",
+        "assured"
+      ],
+      "antonyms": [
+        "avoidable",
+        "preventable",
+        "uncertain",
+        "escapable"
+      ],
+      "fill_blank": "It was ______ that the old building would eventually collapse.",
+      "correct_word": "inevitable",
+      "hint_words": "inevitable, possible, avoidable, unexpected",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "jubilant",
+      "hindi": "आनंदित / हर्षित",
+      "meaning_en": "Feeling or expressing great happiness and triumph",
+      "example_sentence": "The team was jubilant after winning the championship.",
+      "synonyms": [
+        "elated",
+        "overjoyed",
+        "triumphant",
+        "exultant"
+      ],
+      "antonyms": [
+        "sad",
+        "dejected",
+        "miserable",
+        "sorrowful"
+      ],
+      "fill_blank": "The crowd was ______ when the home team scored the winning goal.",
+      "correct_word": "jubilant",
+      "hint_words": "jubilant, dejected, calm, excited",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "keen",
+      "hindi": "उत्सुक / तीव्र",
+      "meaning_en": "Eager and enthusiastic; very interested",
+      "example_sentence": "She was keen to learn new languages.",
+      "synonyms": [
+        "eager",
+        "enthusiastic",
+        "intense",
+        "sharp"
+      ],
+      "antonyms": [
+        "indifferent",
+        "apathetic",
+        "disinterested",
+        "reluctant"
+      ],
+      "fill_blank": "He was ______ on joining the science club.",
+      "correct_word": "keen",
+      "hint_words": "keen, bored, happy, reluctant",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "lament",
+      "hindi": "शोक मनाना / विलाप करना",
+      "meaning_en": "To express grief or sorrow; to mourn",
+      "example_sentence": "She lamented the loss of her old school friends.",
+      "synonyms": [
+        "mourn",
+        "grieve",
+        "regret",
+        "weep"
+      ],
+      "antonyms": [
+        "celebrate",
+        "rejoice",
+        "cheer",
+        "praise"
+      ],
+      "fill_blank": "The villagers began to ______ the passing of their beloved elder.",
+      "correct_word": "lament",
+      "hint_words": "lament, celebrate, ignore, forgive",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "meticulous",
+      "hindi": "सूक्ष्मदर्शी / बहुत सावधान",
+      "meaning_en": "Showing great attention to detail; very careful",
+      "example_sentence": "The scientist was meticulous in recording her observations.",
+      "synonyms": [
+        "thorough",
+        "precise",
+        "careful",
+        "painstaking"
+      ],
+      "antonyms": [
+        "careless",
+        "sloppy",
+        "hasty",
+        "negligent"
+      ],
+      "fill_blank": "A ______ approach to revision helps avoid silly mistakes.",
+      "correct_word": "meticulous",
+      "hint_words": "meticulous, careless, quick, thorough",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "notorious",
+      "hindi": "कुख्यात / बदनाम",
+      "meaning_en": "Famous for something bad; having a bad reputation",
+      "example_sentence": "The town was notorious for its floods every monsoon.",
+      "synonyms": [
+        "infamous",
+        "disreputable",
+        "scandalous",
+        "ill-famed"
+      ],
+      "antonyms": [
+        "reputable",
+        "respected",
+        "admired",
+        "praised"
+      ],
+      "fill_blank": "He was ______ for always arriving late to class.",
+      "correct_word": "notorious",
+      "hint_words": "notorious, famous, admired, popular",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "obsolete",
+      "hindi": "अप्रचलित / पुराना पड़ा",
+      "meaning_en": "No longer in use; out of date",
+      "example_sentence": "Cassette tapes have become obsolete in the digital age.",
+      "synonyms": [
+        "outdated",
+        "outmoded",
+        "archaic",
+        "old-fashioned"
+      ],
+      "antonyms": [
+        "modern",
+        "current",
+        "updated",
+        "contemporary"
+      ],
+      "fill_blank": "Fax machines are now considered ______ in most offices.",
+      "correct_word": "obsolete",
+      "hint_words": "obsolete, modern, useful, popular",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "persevere",
+      "hindi": "डटे रहना / लगे रहना",
+      "meaning_en": "To continue doing something despite difficulty",
+      "example_sentence": "She persevered with her studies despite many challenges.",
+      "synonyms": [
+        "persist",
+        "continue",
+        "endure",
+        "press on"
+      ],
+      "antonyms": [
+        "give up",
+        "quit",
+        "abandon",
+        "surrender"
+      ],
+      "fill_blank": "You must ______ through hardship to achieve your goals.",
+      "correct_word": "persevere",
+      "hint_words": "persevere, quit, relax, wait",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "quarrel",
+      "hindi": "झगड़ा / विवाद",
+      "meaning_en": "An angry argument or disagreement",
+      "example_sentence": "The two friends had a quarrel over a silly misunderstanding.",
+      "synonyms": [
+        "argument",
+        "dispute",
+        "conflict",
+        "disagreement"
+      ],
+      "antonyms": [
+        "agreement",
+        "harmony",
+        "peace",
+        "reconciliation"
+      ],
+      "fill_blank": "They had a ______ but made up by the end of the day.",
+      "correct_word": "quarrel",
+      "hint_words": "quarrel, party, chat, meeting",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reluctant",
+      "hindi": "अनिच्छुक / झिझकने वाला",
+      "meaning_en": "Unwilling and hesitant",
+      "example_sentence": "He was reluctant to admit his mistake in front of everyone.",
+      "synonyms": [
+        "unwilling",
+        "hesitant",
+        "disinclined",
+        "loath"
+      ],
+      "antonyms": [
+        "willing",
+        "eager",
+        "enthusiastic",
+        "keen"
+      ],
+      "fill_blank": "She was ______ to leave her hometown for a new city.",
+      "correct_word": "reluctant",
+      "hint_words": "reluctant, eager, happy, willing",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "serene",
+      "hindi": "शांत / निर्मल",
+      "meaning_en": "Calm, peaceful, and untroubled",
+      "example_sentence": "The serene lake reflected the blue sky perfectly.",
+      "synonyms": [
+        "peaceful",
+        "calm",
+        "tranquil",
+        "placid"
+      ],
+      "antonyms": [
+        "agitated",
+        "troubled",
+        "noisy",
+        "turbulent"
+      ],
+      "fill_blank": "She felt ______ sitting by the quiet river at sunset.",
+      "correct_word": "serene",
+      "hint_words": "serene, angry, noisy, peaceful",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "trivial",
+      "hindi": "तुच्छ / मामूली",
+      "meaning_en": "Of little value or importance",
+      "example_sentence": "Don't waste your energy on trivial matters.",
+      "synonyms": [
+        "minor",
+        "unimportant",
+        "petty",
+        "insignificant"
+      ],
+      "antonyms": [
+        "significant",
+        "important",
+        "major",
+        "crucial"
+      ],
+      "fill_blank": "They argued over a ______ issue that didn't really matter.",
+      "correct_word": "trivial",
+      "hint_words": "trivial, serious, major, important",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "abundant",
+      "hindi": "प्रचुर / बहुत अधिक",
+      "meaning_en": "Present in large quantities; more than enough",
+      "example_sentence": "The region has abundant rainfall every monsoon.",
+      "synonyms": [
+        "plentiful",
+        "ample",
+        "copious",
+        "profuse"
+      ],
+      "antonyms": [
+        "scarce",
+        "rare",
+        "deficient",
+        "sparse"
+      ],
+      "fill_blank": "The forest was ______ with wildlife.",
+      "correct_word": "abundant",
+      "hint_words": "abundant, scarce, rare, plentiful",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "adversity",
+      "hindi": "विपत्ति / कठिनाई",
+      "meaning_en": "A difficult or unfortunate situation",
+      "example_sentence": "She remained calm in the face of great adversity.",
+      "synonyms": [
+        "hardship",
+        "misfortune",
+        "difficulty",
+        "trouble"
+      ],
+      "antonyms": [
+        "prosperity",
+        "fortune",
+        "ease",
+        "advantage"
+      ],
+      "fill_blank": "True character is revealed in times of ______.",
+      "correct_word": "adversity",
+      "hint_words": "adversity, success, joy, hardship",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "affectionate",
+      "hindi": "स्नेही / प्यार भरा",
+      "meaning_en": "Showing fondness or tender feelings",
+      "example_sentence": "She gave her grandmother an affectionate hug.",
+      "synonyms": [
+        "loving",
+        "tender",
+        "warm",
+        "caring"
+      ],
+      "antonyms": [
+        "cold",
+        "indifferent",
+        "uncaring",
+        "hostile"
+      ],
+      "fill_blank": "He wrote an ______ letter to his old friend.",
+      "correct_word": "affectionate",
+      "hint_words": "affectionate, cold, rude, caring",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "agile",
+      "hindi": "फुर्तीला / चुस्त",
+      "meaning_en": "Able to move quickly and easily",
+      "example_sentence": "The agile gymnast performed flips with ease.",
+      "synonyms": [
+        "nimble",
+        "quick",
+        "lithe",
+        "swift"
+      ],
+      "antonyms": [
+        "clumsy",
+        "slow",
+        "stiff",
+        "sluggish"
+      ],
+      "fill_blank": "The ______ monkey leaped from branch to branch.",
+      "correct_word": "agile",
+      "hint_words": "agile, clumsy, slow, nimble",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "alleviate",
+      "hindi": "कम करना / राहत देना",
+      "meaning_en": "To make pain or a problem less severe",
+      "example_sentence": "The medicine helped alleviate her headache.",
+      "synonyms": [
+        "relieve",
+        "ease",
+        "reduce",
+        "lessen"
+      ],
+      "antonyms": [
+        "worsen",
+        "aggravate",
+        "intensify",
+        "increase"
+      ],
+      "fill_blank": "Exercise can ______ stress and improve mood.",
+      "correct_word": "alleviate",
+      "hint_words": "alleviate, worsen, ignore, relieve",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "ambitious",
+      "hindi": "महत्वाकांक्षी",
+      "meaning_en": "Having a strong desire to succeed or achieve something",
+      "example_sentence": "The ambitious student aimed for the top rank.",
+      "synonyms": [
+        "aspiring",
+        "driven",
+        "determined",
+        "goal-oriented"
+      ],
+      "antonyms": [
+        "lazy",
+        "unambitious",
+        "content",
+        "indifferent"
+      ],
+      "fill_blank": "An ______ person sets high goals and works hard.",
+      "correct_word": "ambitious",
+      "hint_words": "ambitious, lazy, careless, driven",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "amiable",
+      "hindi": "मिलनसार / सौहार्दपूर्ण",
+      "meaning_en": "Having a friendly and pleasant manner",
+      "example_sentence": "Our new neighbour was very amiable and helpful.",
+      "synonyms": [
+        "friendly",
+        "pleasant",
+        "agreeable",
+        "likeable"
+      ],
+      "antonyms": [
+        "unfriendly",
+        "hostile",
+        "rude",
+        "disagreeable"
+      ],
+      "fill_blank": "The ______ teacher made everyone feel welcome.",
+      "correct_word": "amiable",
+      "hint_words": "amiable, rude, hostile, friendly",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "apprehensive",
+      "hindi": "चिंतित / आशंकित",
+      "meaning_en": "Anxious or fearful that something bad may happen",
+      "example_sentence": "She was apprehensive about her board exam results.",
+      "synonyms": [
+        "anxious",
+        "worried",
+        "fearful",
+        "uneasy"
+      ],
+      "antonyms": [
+        "confident",
+        "calm",
+        "assured",
+        "fearless"
+      ],
+      "fill_blank": "He was ______ before his first public speech.",
+      "correct_word": "apprehensive",
+      "hint_words": "apprehensive, confident, calm, anxious",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "arrogant",
+      "hindi": "घमंडी / अहंकारी",
+      "meaning_en": "Having an exaggerated sense of one's own importance",
+      "example_sentence": "His arrogant behavior drove away his friends.",
+      "synonyms": [
+        "conceited",
+        "haughty",
+        "proud",
+        "pompous"
+      ],
+      "antonyms": [
+        "humble",
+        "modest",
+        "respectful",
+        "meek"
+      ],
+      "fill_blank": "The ______ officer refused to listen to his junior's suggestion.",
+      "correct_word": "arrogant",
+      "hint_words": "arrogant, humble, modest, polite",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "astute",
+      "hindi": "चालाक / कुशाग्र बुद्धि",
+      "meaning_en": "Having an ability to accurately assess situations; shrewd",
+      "example_sentence": "The astute businessman spotted the opportunity early.",
+      "synonyms": [
+        "shrewd",
+        "clever",
+        "sharp",
+        "perceptive"
+      ],
+      "antonyms": [
+        "naive",
+        "foolish",
+        "gullible",
+        "slow"
+      ],
+      "fill_blank": "She made an ______ observation that solved the problem.",
+      "correct_word": "astute",
+      "hint_words": "astute, foolish, naive, clever",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "audacious",
+      "hindi": "साहसी / निडर",
+      "meaning_en": "Willing to take bold or daring risks",
+      "example_sentence": "The audacious climber scaled the mountain alone.",
+      "synonyms": [
+        "bold",
+        "daring",
+        "brave",
+        "fearless"
+      ],
+      "antonyms": [
+        "timid",
+        "cowardly",
+        "cautious",
+        "meek"
+      ],
+      "fill_blank": "It was an ______ move to start a business at the age of fifteen.",
+      "correct_word": "audacious",
+      "hint_words": "audacious, timid, cowardly, bold",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "bewildered",
+      "hindi": "हैरान / भ्रमित",
+      "meaning_en": "Cause someone to become perplexed and confused",
+      "example_sentence": "The student was bewildered by the complex question.",
+      "synonyms": [
+        "confused",
+        "puzzled",
+        "perplexed",
+        "baffled"
+      ],
+      "antonyms": [
+        "clear-headed",
+        "composed",
+        "certain",
+        "enlightened"
+      ],
+      "fill_blank": "She looked completely ______ when she saw the exam paper.",
+      "correct_word": "bewildered",
+      "hint_words": "bewildered, confident, calm, puzzled",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "bliss",
+      "hindi": "परमानंद / पूर्ण सुख",
+      "meaning_en": "Perfect happiness; great joy",
+      "example_sentence": "The cool breeze in summer was pure bliss.",
+      "synonyms": [
+        "happiness",
+        "joy",
+        "ecstasy",
+        "delight"
+      ],
+      "antonyms": [
+        "misery",
+        "sorrow",
+        "suffering",
+        "anguish"
+      ],
+      "fill_blank": "She was in ______ when she received the scholarship.",
+      "correct_word": "bliss",
+      "hint_words": "bliss, misery, sorrow, joy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "candid",
+      "hindi": "स्पष्टवादी / खुलकर बोलने वाला",
+      "meaning_en": "Truthful and straightforward; frank",
+      "example_sentence": "He gave a candid opinion about the plan's weaknesses.",
+      "synonyms": [
+        "frank",
+        "honest",
+        "outspoken",
+        "direct"
+      ],
+      "antonyms": [
+        "evasive",
+        "dishonest",
+        "secretive",
+        "indirect"
+      ],
+      "fill_blank": "She appreciated the mentor's ______ feedback.",
+      "correct_word": "candid",
+      "hint_words": "candid, evasive, dishonest, frank",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "cautious",
+      "hindi": "सतर्क / सावधान",
+      "meaning_en": "Careful to avoid potential problems or dangers",
+      "example_sentence": "Be cautious while crossing a busy road.",
+      "synonyms": [
+        "careful",
+        "wary",
+        "prudent",
+        "watchful"
+      ],
+      "antonyms": [
+        "reckless",
+        "careless",
+        "rash",
+        "hasty"
+      ],
+      "fill_blank": "The driver was ______ on the slippery mountain road.",
+      "correct_word": "cautious",
+      "hint_words": "cautious, reckless, careless, careful",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "cherish",
+      "hindi": "संजोना / प्रिय मानना",
+      "meaning_en": "To protect and care for lovingly; to hold dear",
+      "example_sentence": "She cherished the memories of her childhood.",
+      "synonyms": [
+        "treasure",
+        "value",
+        "adore",
+        "prize"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandon",
+        "disregard",
+        "despise"
+      ],
+      "fill_blank": "We should ______ the time we spend with loved ones.",
+      "correct_word": "cherish",
+      "hint_words": "cherish, neglect, ignore, treasure",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "compassion",
+      "hindi": "करुणा / दया",
+      "meaning_en": "Sympathetic concern for the sufferings of others",
+      "example_sentence": "The doctor treated the poor patient with great compassion.",
+      "synonyms": [
+        "sympathy",
+        "empathy",
+        "mercy",
+        "kindness"
+      ],
+      "antonyms": [
+        "cruelty",
+        "indifference",
+        "harshness",
+        "heartlessness"
+      ],
+      "fill_blank": "A good leader shows ______ towards those in need.",
+      "correct_word": "compassion",
+      "hint_words": "compassion, cruelty, anger, sympathy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "competent",
+      "hindi": "सक्षम / योग्य",
+      "meaning_en": "Having the necessary skills or knowledge",
+      "example_sentence": "She was a competent engineer who solved problems efficiently.",
+      "synonyms": [
+        "capable",
+        "skilled",
+        "qualified",
+        "proficient"
+      ],
+      "antonyms": [
+        "incompetent",
+        "incapable",
+        "unskilled",
+        "unqualified"
+      ],
+      "fill_blank": "Only a ______ surgeon should perform such a complex operation.",
+      "correct_word": "competent",
+      "hint_words": "competent, incompetent, skilled, careless",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "concise",
+      "hindi": "संक्षिप्त / सारगर्भित",
+      "meaning_en": "Giving a lot of information in few words",
+      "example_sentence": "The teacher asked for a concise summary of the chapter.",
+      "synonyms": [
+        "brief",
+        "succinct",
+        "compact",
+        "precise"
+      ],
+      "antonyms": [
+        "lengthy",
+        "verbose",
+        "wordy",
+        "long-winded"
+      ],
+      "fill_blank": "A ______ answer is better than a long, confusing one.",
+      "correct_word": "concise",
+      "hint_words": "concise, lengthy, verbose, brief",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "conscience",
+      "hindi": "अंतरात्मा / विवेक",
+      "meaning_en": "An inner sense of right and wrong that guides behavior",
+      "example_sentence": "His conscience would not let him lie to his parents.",
+      "synonyms": [
+        "morality",
+        "ethics",
+        "integrity",
+        "principles"
+      ],
+      "antonyms": [
+        "wickedness",
+        "dishonesty",
+        "immorality",
+        "corruption"
+      ],
+      "fill_blank": "Always let your ______ guide your decisions.",
+      "correct_word": "conscience",
+      "hint_words": "conscience, greed, fear, wisdom",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "contradict",
+      "hindi": "खंडन करना / विरोध करना",
+      "meaning_en": "To say the opposite of what someone else has said",
+      "example_sentence": "The new evidence contradicted the earlier findings.",
+      "synonyms": [
+        "deny",
+        "oppose",
+        "refute",
+        "dispute"
+      ],
+      "antonyms": [
+        "confirm",
+        "agree",
+        "support",
+        "endorse"
+      ],
+      "fill_blank": "His actions ______ his words every single time.",
+      "correct_word": "contradict",
+      "hint_words": "contradict, support, confirm, oppose",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "conventional",
+      "hindi": "परंपरागत / प्रचलित",
+      "meaning_en": "Following traditional or commonly accepted customs",
+      "example_sentence": "He preferred conventional teaching methods over digital ones.",
+      "synonyms": [
+        "traditional",
+        "orthodox",
+        "standard",
+        "customary"
+      ],
+      "antonyms": [
+        "unconventional",
+        "unique",
+        "radical",
+        "innovative"
+      ],
+      "fill_blank": "Her ______ approach to cooking followed old family recipes.",
+      "correct_word": "conventional",
+      "hint_words": "conventional, radical, unique, traditional",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "courageous",
+      "hindi": "साहसी / वीर",
+      "meaning_en": "Not deterred by danger or pain; brave",
+      "example_sentence": "The courageous firefighter saved three lives.",
+      "synonyms": [
+        "brave",
+        "bold",
+        "daring",
+        "fearless"
+      ],
+      "antonyms": [
+        "cowardly",
+        "timid",
+        "fearful",
+        "weak"
+      ],
+      "fill_blank": "It takes a ______ spirit to stand up for what is right.",
+      "correct_word": "courageous",
+      "hint_words": "courageous, cowardly, timid, brave",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "cunning",
+      "hindi": "चालाक / धूर्त",
+      "meaning_en": "Having or showing skill in achieving one's ends by deceit",
+      "example_sentence": "The cunning fox tricked the crow in the story.",
+      "synonyms": [
+        "crafty",
+        "sly",
+        "devious",
+        "shrewd"
+      ],
+      "antonyms": [
+        "naive",
+        "honest",
+        "straightforward",
+        "open"
+      ],
+      "fill_blank": "The ______ thief disguised himself as a delivery man.",
+      "correct_word": "cunning",
+      "hint_words": "cunning, naive, honest, sly",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "deceive",
+      "hindi": "धोखा देना / छल करना",
+      "meaning_en": "To cause someone to believe something false",
+      "example_sentence": "He tried to deceive the teacher by submitting someone else's work.",
+      "synonyms": [
+        "mislead",
+        "trick",
+        "betray",
+        "cheat"
+      ],
+      "antonyms": [
+        "enlighten",
+        "guide",
+        "inform",
+        "trust"
+      ],
+      "fill_blank": "It is wrong to ______ others for personal gain.",
+      "correct_word": "deceive",
+      "hint_words": "deceive, guide, trust, cheat",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "decisive",
+      "hindi": "निर्णायक / दृढ़",
+      "meaning_en": "Having or showing the ability to make decisions quickly",
+      "example_sentence": "A decisive leader acts quickly in a crisis.",
+      "synonyms": [
+        "determined",
+        "resolute",
+        "firm",
+        "definite"
+      ],
+      "antonyms": [
+        "indecisive",
+        "hesitant",
+        "uncertain",
+        "wavering"
+      ],
+      "fill_blank": "She was ______ and chose the right path without hesitation.",
+      "correct_word": "decisive",
+      "hint_words": "decisive, hesitant, uncertain, firm",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "dedicate",
+      "hindi": "समर्पित करना",
+      "meaning_en": "To give time or effort wholly to a cause or person",
+      "example_sentence": "He dedicated his life to serving the poor.",
+      "synonyms": [
+        "devote",
+        "commit",
+        "pledge",
+        "give"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandon",
+        "ignore",
+        "withdraw"
+      ],
+      "fill_blank": "She decided to ______ her weekends to helping at the shelter.",
+      "correct_word": "dedicate",
+      "hint_words": "dedicate, neglect, ignore, devote",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "dejected",
+      "hindi": "निराश / हताश",
+      "meaning_en": "Sad and dispirited",
+      "example_sentence": "He looked dejected after losing the competition.",
+      "synonyms": [
+        "downcast",
+        "despondent",
+        "disheartened",
+        "sad"
+      ],
+      "antonyms": [
+        "cheerful",
+        "elated",
+        "optimistic",
+        "upbeat"
+      ],
+      "fill_blank": "The team was ______ after their unexpected defeat.",
+      "correct_word": "dejected",
+      "hint_words": "dejected, cheerful, elated, sad",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "despair",
+      "hindi": "निराशा / हताशा",
+      "meaning_en": "The complete loss of hope",
+      "example_sentence": "He fell into despair when he failed the exam again.",
+      "synonyms": [
+        "hopelessness",
+        "gloom",
+        "despondency",
+        "anguish"
+      ],
+      "antonyms": [
+        "hope",
+        "optimism",
+        "joy",
+        "confidence"
+      ],
+      "fill_blank": "Never give in to ______ — every problem has a solution.",
+      "correct_word": "despair",
+      "hint_words": "despair, hope, joy, optimism",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "determination",
+      "hindi": "दृढ़ संकल्प / हिम्मत",
+      "meaning_en": "Firmness of purpose; the quality of being determined",
+      "example_sentence": "With determination, she passed the exam on her third attempt.",
+      "synonyms": [
+        "resolve",
+        "willpower",
+        "persistence",
+        "commitment"
+      ],
+      "antonyms": [
+        "weakness",
+        "hesitation",
+        "indecision",
+        "apathy"
+      ],
+      "fill_blank": "Success comes to those who have ______.",
+      "correct_word": "determination",
+      "hint_words": "determination, laziness, fear, resolve",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "dignified",
+      "hindi": "गरिमापूर्ण / सम्मानजनक",
+      "meaning_en": "Having or showing a composed, serious manner worthy of respect",
+      "example_sentence": "The principal walked in with a dignified manner.",
+      "synonyms": [
+        "noble",
+        "stately",
+        "composed",
+        "respectable"
+      ],
+      "antonyms": [
+        "undignified",
+        "shameful",
+        "disrespectful",
+        "degrading"
+      ],
+      "fill_blank": "She responded to the insult in a calm and ______ way.",
+      "correct_word": "dignified",
+      "hint_words": "dignified, shameful, rude, noble",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "disobedient",
+      "hindi": "अवज्ञाकारी / उद्दंड",
+      "meaning_en": "Refusing to obey rules or authority",
+      "example_sentence": "The disobedient student was asked to leave the class.",
+      "synonyms": [
+        "rebellious",
+        "defiant",
+        "unruly",
+        "wayward"
+      ],
+      "antonyms": [
+        "obedient",
+        "compliant",
+        "disciplined",
+        "respectful"
+      ],
+      "fill_blank": "The ______ soldier ignored the captain's orders.",
+      "correct_word": "disobedient",
+      "hint_words": "disobedient, obedient, compliant, rebellious",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "distinct",
+      "hindi": "विशिष्ट / अलग",
+      "meaning_en": "Recognizably different in nature; clear and unmistakable",
+      "example_sentence": "Her distinct voice made her stand out in the choir.",
+      "synonyms": [
+        "different",
+        "unique",
+        "separate",
+        "clear"
+      ],
+      "antonyms": [
+        "similar",
+        "identical",
+        "vague",
+        "unclear"
+      ],
+      "fill_blank": "Each region of India has a ______ culture.",
+      "correct_word": "distinct",
+      "hint_words": "distinct, similar, vague, unique",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "dominant",
+      "hindi": "प्रमुख / हावी",
+      "meaning_en": "Most important, powerful, or influential",
+      "example_sentence": "English has become the dominant language in global business.",
+      "synonyms": [
+        "leading",
+        "controlling",
+        "supreme",
+        "chief"
+      ],
+      "antonyms": [
+        "minor",
+        "weak",
+        "submissive",
+        "inferior"
+      ],
+      "fill_blank": "Cricket is the ______ sport in India.",
+      "correct_word": "dominant",
+      "hint_words": "dominant, minor, weak, leading",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "eager",
+      "hindi": "उत्सुक / बेताब",
+      "meaning_en": "Wanting to do or have something very much",
+      "example_sentence": "The eager students raised their hands to answer.",
+      "synonyms": [
+        "enthusiastic",
+        "keen",
+        "willing",
+        "excited"
+      ],
+      "antonyms": [
+        "reluctant",
+        "indifferent",
+        "apathetic",
+        "unwilling"
+      ],
+      "fill_blank": "She was ______ to begin her first day at the new school.",
+      "correct_word": "eager",
+      "hint_words": "eager, reluctant, bored, enthusiastic",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "earnest",
+      "hindi": "ईमानदार / गंभीरतापूर्वक",
+      "meaning_en": "Showing sincere conviction or serious effort",
+      "example_sentence": "He made an earnest effort to improve his grades.",
+      "synonyms": [
+        "sincere",
+        "serious",
+        "genuine",
+        "wholehearted"
+      ],
+      "antonyms": [
+        "insincere",
+        "casual",
+        "flippant",
+        "halfhearted"
+      ],
+      "fill_blank": "Her ______ request for help moved everyone.",
+      "correct_word": "earnest",
+      "hint_words": "earnest, insincere, casual, sincere",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "efficient",
+      "hindi": "कुशल / दक्ष",
+      "meaning_en": "Achieving maximum productivity with minimum wasted effort",
+      "example_sentence": "An efficient farmer uses water wisely.",
+      "synonyms": [
+        "productive",
+        "capable",
+        "effective",
+        "competent"
+      ],
+      "antonyms": [
+        "inefficient",
+        "wasteful",
+        "slow",
+        "incapable"
+      ],
+      "fill_blank": "The ______ nurse finished her rounds in record time.",
+      "correct_word": "efficient",
+      "hint_words": "efficient, wasteful, slow, productive",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "eminent",
+      "hindi": "प्रसिद्ध / विशिष्ट",
+      "meaning_en": "Famous and respected within a particular field",
+      "example_sentence": "Dr. APJ Abdul Kalam was an eminent scientist and visionary.",
+      "synonyms": [
+        "distinguished",
+        "renowned",
+        "notable",
+        "prominent"
+      ],
+      "antonyms": [
+        "unknown",
+        "obscure",
+        "insignificant",
+        "ordinary"
+      ],
+      "fill_blank": "The award was presented by an ______ professor.",
+      "correct_word": "eminent",
+      "hint_words": "eminent, unknown, obscure, renowned",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "empathy",
+      "hindi": "समानुभूति / दूसरों की भावना समझना",
+      "meaning_en": "The ability to understand and share the feelings of another",
+      "example_sentence": "A good counsellor has a lot of empathy for students.",
+      "synonyms": [
+        "understanding",
+        "compassion",
+        "sensitivity",
+        "sympathy"
+      ],
+      "antonyms": [
+        "indifference",
+        "coldness",
+        "cruelty",
+        "apathy"
+      ],
+      "fill_blank": "She showed great ______ when her friend lost her father.",
+      "correct_word": "empathy",
+      "hint_words": "empathy, indifference, cruelty, sympathy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "endeavour",
+      "hindi": "प्रयास / कोशिश",
+      "meaning_en": "To try hard to do or achieve something",
+      "example_sentence": "She endeavoured to finish the project before the deadline.",
+      "synonyms": [
+        "strive",
+        "attempt",
+        "try",
+        "aim"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandon",
+        "ignore",
+        "give up"
+      ],
+      "fill_blank": "We must ______ to do our best in every task.",
+      "correct_word": "endeavour",
+      "hint_words": "endeavour, neglect, ignore, strive",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "enhance",
+      "hindi": "बढ़ाना / सुधारना",
+      "meaning_en": "To intensify or increase in quality, value, or strength",
+      "example_sentence": "Reading daily can enhance your vocabulary.",
+      "synonyms": [
+        "improve",
+        "boost",
+        "strengthen",
+        "elevate"
+      ],
+      "antonyms": [
+        "reduce",
+        "weaken",
+        "diminish",
+        "worsen"
+      ],
+      "fill_blank": "Regular practice will ______ your performance.",
+      "correct_word": "enhance",
+      "hint_words": "enhance, reduce, weaken, improve",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "enormous",
+      "hindi": "विशाल / बहुत बड़ा",
+      "meaning_en": "Very large in size, quantity, or degree",
+      "example_sentence": "The tsunami caused enormous damage to the coastal town.",
+      "synonyms": [
+        "huge",
+        "immense",
+        "gigantic",
+        "massive"
+      ],
+      "antonyms": [
+        "tiny",
+        "small",
+        "miniature",
+        "insignificant"
+      ],
+      "fill_blank": "She felt an ______ sense of relief after the results.",
+      "correct_word": "enormous",
+      "hint_words": "enormous, tiny, small, huge",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "envious",
+      "hindi": "ईर्ष्यालु / जलन करने वाला",
+      "meaning_en": "Feeling or showing envy of someone else's possessions",
+      "example_sentence": "He was envious of his friend's new bicycle.",
+      "synonyms": [
+        "jealous",
+        "resentful",
+        "covetous",
+        "bitter"
+      ],
+      "antonyms": [
+        "content",
+        "satisfied",
+        "generous",
+        "joyful"
+      ],
+      "fill_blank": "She felt ______ when her classmate won the prize.",
+      "correct_word": "envious",
+      "hint_words": "envious, content, happy, jealous",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "exaggerate",
+      "hindi": "अतिशयोक्ति करना / बढ़ा-चढ़ाकर बोलना",
+      "meaning_en": "To represent something as larger or better than it really is",
+      "example_sentence": "He tends to exaggerate when he tells stories.",
+      "synonyms": [
+        "overstate",
+        "amplify",
+        "embellish",
+        "magnify"
+      ],
+      "antonyms": [
+        "understate",
+        "minimize",
+        "downplay",
+        "belittle"
+      ],
+      "fill_blank": "Don't ______ your achievements — honesty is better.",
+      "correct_word": "exaggerate",
+      "hint_words": "exaggerate, understate, minimize, overstate",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "exhausted",
+      "hindi": "थका हुआ / बिल्कुल थक गया",
+      "meaning_en": "Completely tired out",
+      "example_sentence": "He was exhausted after the marathon.",
+      "synonyms": [
+        "worn out",
+        "drained",
+        "fatigued",
+        "spent"
+      ],
+      "antonyms": [
+        "energetic",
+        "refreshed",
+        "rested",
+        "lively"
+      ],
+      "fill_blank": "The workers were ______ after harvesting all day.",
+      "correct_word": "exhausted",
+      "hint_words": "exhausted, energetic, refreshed, tired",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "extinct",
+      "hindi": "विलुप्त / नष्ट",
+      "meaning_en": "No longer in existence; having died out",
+      "example_sentence": "The dodo bird became extinct in the 17th century.",
+      "synonyms": [
+        "vanished",
+        "dead",
+        "gone",
+        "wiped out"
+      ],
+      "antonyms": [
+        "alive",
+        "existing",
+        "thriving",
+        "surviving"
+      ],
+      "fill_blank": "Many species become ______ due to deforestation.",
+      "correct_word": "extinct",
+      "hint_words": "extinct, alive, thriving, vanished",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "famine",
+      "hindi": "अकाल / भुखमरी",
+      "meaning_en": "Extreme scarcity of food leading to starvation",
+      "example_sentence": "The drought caused a severe famine in the region.",
+      "synonyms": [
+        "starvation",
+        "hunger",
+        "scarcity",
+        "deprivation"
+      ],
+      "antonyms": [
+        "abundance",
+        "plenty",
+        "surplus",
+        "prosperity"
+      ],
+      "fill_blank": "Millions suffered during the great ______ of the 1940s.",
+      "correct_word": "famine",
+      "hint_words": "famine, abundance, feast, scarcity",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "feasible",
+      "hindi": "व्यावहारिक / संभव",
+      "meaning_en": "Possible to do easily or conveniently",
+      "example_sentence": "The engineer checked whether the plan was feasible.",
+      "synonyms": [
+        "possible",
+        "practical",
+        "workable",
+        "viable"
+      ],
+      "antonyms": [
+        "impossible",
+        "impractical",
+        "unworkable",
+        "unachievable"
+      ],
+      "fill_blank": "Is it ______ to complete this project in one week?",
+      "correct_word": "feasible",
+      "hint_words": "feasible, impossible, impractical, workable",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "ferocious",
+      "hindi": "भयंकर / क्रूर",
+      "meaning_en": "Savagely fierce, cruel, or violent",
+      "example_sentence": "The ferocious storm uprooted hundreds of trees.",
+      "synonyms": [
+        "fierce",
+        "savage",
+        "violent",
+        "brutal"
+      ],
+      "antonyms": [
+        "gentle",
+        "tame",
+        "mild",
+        "peaceful"
+      ],
+      "fill_blank": "The ______ lion charged at the approaching jeep.",
+      "correct_word": "ferocious",
+      "hint_words": "ferocious, gentle, tame, fierce",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "fertile",
+      "hindi": "उपजाऊ / फलदार",
+      "meaning_en": "Capable of producing abundant vegetation or crops",
+      "example_sentence": "The Ganges plain has very fertile soil.",
+      "synonyms": [
+        "productive",
+        "fruitful",
+        "rich",
+        "lush"
+      ],
+      "antonyms": [
+        "barren",
+        "infertile",
+        "dry",
+        "unproductive"
+      ],
+      "fill_blank": "The ______ valley grew the best wheat in the district.",
+      "correct_word": "fertile",
+      "hint_words": "fertile, barren, dry, productive",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "flexible",
+      "hindi": "लचीला / अनुकूलनशील",
+      "meaning_en": "Able to change or be changed easily according to the situation",
+      "example_sentence": "A flexible timetable helps students manage their studies.",
+      "synonyms": [
+        "adaptable",
+        "adjustable",
+        "pliable",
+        "versatile"
+      ],
+      "antonyms": [
+        "rigid",
+        "stubborn",
+        "inflexible",
+        "fixed"
+      ],
+      "fill_blank": "Be ______ in your approach and open to new ideas.",
+      "correct_word": "flexible",
+      "hint_words": "flexible, rigid, stubborn, adaptable",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "flourish",
+      "hindi": "फलना-फूलना / समृद्ध होना",
+      "meaning_en": "To grow or develop in a healthy or vigorous way",
+      "example_sentence": "Small businesses flourish when the economy is strong.",
+      "synonyms": [
+        "thrive",
+        "prosper",
+        "bloom",
+        "grow"
+      ],
+      "antonyms": [
+        "decline",
+        "wither",
+        "fail",
+        "struggle"
+      ],
+      "fill_blank": "With proper care, plants ______ quickly.",
+      "correct_word": "flourish",
+      "hint_words": "flourish, decline, wither, thrive",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "forbid",
+      "hindi": "मना करना / वर्जित करना",
+      "meaning_en": "To refuse to allow something",
+      "example_sentence": "The principal forbade mobile phones in the classroom.",
+      "synonyms": [
+        "prohibit",
+        "ban",
+        "prevent",
+        "disallow"
+      ],
+      "antonyms": [
+        "allow",
+        "permit",
+        "authorize",
+        "approve"
+      ],
+      "fill_blank": "The rules ______ students from leaving during school hours.",
+      "correct_word": "forbid",
+      "hint_words": "forbid, allow, permit, ban",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "fortunate",
+      "hindi": "भाग्यशाली / किस्मतवाला",
+      "meaning_en": "Favored by luck; lucky",
+      "example_sentence": "She was fortunate to escape the accident unharmed.",
+      "synonyms": [
+        "lucky",
+        "blessed",
+        "favored",
+        "prosperous"
+      ],
+      "antonyms": [
+        "unlucky",
+        "unfortunate",
+        "cursed",
+        "ill-fated"
+      ],
+      "fill_blank": "We are ______ to have access to clean water.",
+      "correct_word": "fortunate",
+      "hint_words": "fortunate, unlucky, cursed, lucky",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "fragile",
+      "hindi": "नाज़ुक / भंगुर",
+      "meaning_en": "Easily broken or damaged; delicate",
+      "example_sentence": "Handle the fragile glass with care.",
+      "synonyms": [
+        "delicate",
+        "brittle",
+        "weak",
+        "breakable"
+      ],
+      "antonyms": [
+        "sturdy",
+        "strong",
+        "durable",
+        "tough"
+      ],
+      "fill_blank": "The ______ peace between the two nations could break at any time.",
+      "correct_word": "fragile",
+      "hint_words": "fragile, sturdy, strong, delicate",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "genuine",
+      "hindi": "वास्तविक / असली",
+      "meaning_en": "Truly what something is said to be; authentic",
+      "example_sentence": "Her genuine concern for others made her popular.",
+      "synonyms": [
+        "authentic",
+        "real",
+        "sincere",
+        "true"
+      ],
+      "antonyms": [
+        "fake",
+        "artificial",
+        "false",
+        "insincere"
+      ],
+      "fill_blank": "He showed ______ interest in helping the flood victims.",
+      "correct_word": "genuine",
+      "hint_words": "genuine, fake, artificial, real",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "glorious",
+      "hindi": "गौरवशाली / शानदार",
+      "meaning_en": "Having or deserving great fame; wonderful",
+      "example_sentence": "India's glorious history stretches back thousands of years.",
+      "synonyms": [
+        "magnificent",
+        "splendid",
+        "brilliant",
+        "majestic"
+      ],
+      "antonyms": [
+        "shameful",
+        "disgraceful",
+        "dull",
+        "ordinary"
+      ],
+      "fill_blank": "The soldiers fought for the ______ victory of their nation.",
+      "correct_word": "glorious",
+      "hint_words": "glorious, shameful, dull, splendid",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "gradual",
+      "hindi": "क्रमिक / धीरे-धीरे",
+      "meaning_en": "Taking place in small stages over a long period",
+      "example_sentence": "There was a gradual improvement in her health.",
+      "synonyms": [
+        "slow",
+        "steady",
+        "progressive",
+        "incremental"
+      ],
+      "antonyms": [
+        "sudden",
+        "abrupt",
+        "rapid",
+        "immediate"
+      ],
+      "fill_blank": "Climate change is a ______ but dangerous process.",
+      "correct_word": "gradual",
+      "hint_words": "gradual, sudden, rapid, steady",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "grievance",
+      "hindi": "शिकायत / असंतोष",
+      "meaning_en": "A complaint about unfair treatment",
+      "example_sentence": "The workers submitted their grievances to the manager.",
+      "synonyms": [
+        "complaint",
+        "protest",
+        "objection",
+        "resentment"
+      ],
+      "antonyms": [
+        "satisfaction",
+        "contentment",
+        "approval",
+        "gratitude"
+      ],
+      "fill_blank": "She filed a ______ against the unfair dismissal.",
+      "correct_word": "grievance",
+      "hint_words": "grievance, satisfaction, praise, complaint",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "hamper",
+      "hindi": "बाधा डालना / रोकना",
+      "meaning_en": "To hinder or obstruct the movement or progress of",
+      "example_sentence": "Heavy rain hampered rescue operations.",
+      "synonyms": [
+        "hinder",
+        "obstruct",
+        "impede",
+        "disrupt"
+      ],
+      "antonyms": [
+        "help",
+        "aid",
+        "facilitate",
+        "assist"
+      ],
+      "fill_blank": "Poor nutrition can ______ a child's growth.",
+      "correct_word": "hamper",
+      "hint_words": "hamper, help, assist, hinder",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "harmony",
+      "hindi": "सामंजस्य / मेलजोल",
+      "meaning_en": "Agreement; peaceful coexistence",
+      "example_sentence": "People of all religions live in harmony in this village.",
+      "synonyms": [
+        "peace",
+        "unity",
+        "agreement",
+        "accord"
+      ],
+      "antonyms": [
+        "conflict",
+        "discord",
+        "disharmony",
+        "disagreement"
+      ],
+      "fill_blank": "The team worked in ______ to complete the project.",
+      "correct_word": "harmony",
+      "hint_words": "harmony, conflict, discord, peace",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "hazardous",
+      "hindi": "खतरनाक / जोखिम भरा",
+      "meaning_en": "Risky; involving potential harm or danger",
+      "example_sentence": "Working in a chemical factory can be hazardous.",
+      "synonyms": [
+        "dangerous",
+        "risky",
+        "perilous",
+        "unsafe"
+      ],
+      "antonyms": [
+        "safe",
+        "harmless",
+        "secure",
+        "risk-free"
+      ],
+      "fill_blank": "Smoking is ______ to health.",
+      "correct_word": "hazardous",
+      "hint_words": "hazardous, safe, harmless, dangerous",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "hostile",
+      "hindi": "शत्रुतापूर्ण / विरोधी",
+      "meaning_en": "Unfriendly; showing opposition or resistance",
+      "example_sentence": "The crowd turned hostile when the leader did not appear.",
+      "synonyms": [
+        "unfriendly",
+        "aggressive",
+        "antagonistic",
+        "opposed"
+      ],
+      "antonyms": [
+        "friendly",
+        "welcoming",
+        "peaceful",
+        "amicable"
+      ],
+      "fill_blank": "He received a ______ response when he raised the issue.",
+      "correct_word": "hostile",
+      "hint_words": "hostile, friendly, welcoming, aggressive",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "humble",
+      "hindi": "विनम्र / नम्र",
+      "meaning_en": "Having a modest opinion of oneself; not proud",
+      "example_sentence": "Despite his fame, the actor was humble and polite.",
+      "synonyms": [
+        "modest",
+        "meek",
+        "unassuming",
+        "respectful"
+      ],
+      "antonyms": [
+        "proud",
+        "arrogant",
+        "conceited",
+        "boastful"
+      ],
+      "fill_blank": "A ______ person never boasts about achievements.",
+      "correct_word": "humble",
+      "hint_words": "humble, proud, arrogant, modest",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "impartial",
+      "hindi": "निष्पक्ष / तटस्थ",
+      "meaning_en": "Treating all rivals or disputants equally; unbiased",
+      "example_sentence": "The judge gave an impartial verdict.",
+      "synonyms": [
+        "neutral",
+        "fair",
+        "unbiased",
+        "objective"
+      ],
+      "antonyms": [
+        "biased",
+        "partial",
+        "prejudiced",
+        "unfair"
+      ],
+      "fill_blank": "A referee must be completely ______ during a match.",
+      "correct_word": "impartial",
+      "hint_words": "impartial, biased, partial, fair",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "impose",
+      "hindi": "थोपना / लागू करना",
+      "meaning_en": "To force something unwelcome on someone",
+      "example_sentence": "The government imposed new taxes on imported goods.",
+      "synonyms": [
+        "enforce",
+        "inflict",
+        "thrust",
+        "press"
+      ],
+      "antonyms": [
+        "lift",
+        "remove",
+        "withdraw",
+        "abolish"
+      ],
+      "fill_blank": "The principal decided to ______ stricter rules.",
+      "correct_word": "impose",
+      "hint_words": "impose, remove, lift, enforce",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "impulsive",
+      "hindi": "आवेगी / जल्दबाज़",
+      "meaning_en": "Acting or done without thinking first",
+      "example_sentence": "His impulsive decision to quit school hurt his future.",
+      "synonyms": [
+        "rash",
+        "hasty",
+        "spontaneous",
+        "reckless"
+      ],
+      "antonyms": [
+        "cautious",
+        "deliberate",
+        "careful",
+        "thoughtful"
+      ],
+      "fill_blank": "An ______ person often regrets their quick decisions.",
+      "correct_word": "impulsive",
+      "hint_words": "impulsive, cautious, careful, rash",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "incentive",
+      "hindi": "प्रोत्साहन / प्रेरणा",
+      "meaning_en": "Something that motivates or encourages action",
+      "example_sentence": "A scholarship is a great incentive for students to study hard.",
+      "synonyms": [
+        "motivation",
+        "encouragement",
+        "reward",
+        "stimulus"
+      ],
+      "antonyms": [
+        "deterrent",
+        "discouragement",
+        "punishment",
+        "obstacle"
+      ],
+      "fill_blank": "The bonus acted as an ______ for the sales team.",
+      "correct_word": "incentive",
+      "hint_words": "incentive, deterrent, punishment, motivation",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "indifferent",
+      "hindi": "उदासीन / बेपरवाह",
+      "meaning_en": "Having no particular interest or care; unconcerned",
+      "example_sentence": "She was indifferent to the outcome of the match.",
+      "synonyms": [
+        "unconcerned",
+        "apathetic",
+        "uninterested",
+        "detached"
+      ],
+      "antonyms": [
+        "concerned",
+        "interested",
+        "passionate",
+        "committed"
+      ],
+      "fill_blank": "He seemed ______ to the suffering around him.",
+      "correct_word": "indifferent",
+      "hint_words": "indifferent, concerned, passionate, unconcerned",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "influence",
+      "hindi": "प्रभाव / असर",
+      "meaning_en": "The capacity to have an effect on the character or behavior of someone",
+      "example_sentence": "Good teachers have a lasting influence on their students.",
+      "synonyms": [
+        "impact",
+        "effect",
+        "power",
+        "authority"
+      ],
+      "antonyms": [
+        "weakness",
+        "impotence",
+        "ineffectiveness",
+        "insignificance"
+      ],
+      "fill_blank": "Your friends can ______ your choices greatly.",
+      "correct_word": "influence",
+      "hint_words": "influence, ignore, forget, impact",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "inspire",
+      "hindi": "प्रेरित करना / उत्साह जगाना",
+      "meaning_en": "To fill someone with the urge to do something creative or great",
+      "example_sentence": "The coach's speech inspired the team to win.",
+      "synonyms": [
+        "motivate",
+        "encourage",
+        "stimulate",
+        "influence"
+      ],
+      "antonyms": [
+        "discourage",
+        "dampen",
+        "demotivate",
+        "dishearten"
+      ],
+      "fill_blank": "Great leaders ______ others through their actions.",
+      "correct_word": "inspire",
+      "hint_words": "inspire, discourage, dampen, motivate",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "integrity",
+      "hindi": "ईमानदारी / नैतिकता",
+      "meaning_en": "The quality of being honest and having strong moral principles",
+      "example_sentence": "A judge must have unquestionable integrity.",
+      "synonyms": [
+        "honesty",
+        "morality",
+        "virtue",
+        "uprightness"
+      ],
+      "antonyms": [
+        "dishonesty",
+        "corruption",
+        "deceit",
+        "immorality"
+      ],
+      "fill_blank": "People trust leaders who act with ______.",
+      "correct_word": "integrity",
+      "hint_words": "integrity, corruption, deceit, honesty",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "intervene",
+      "hindi": "हस्तक्षेप करना / बीच में आना",
+      "meaning_en": "To become involved in a situation to alter or prevent events",
+      "example_sentence": "The teacher had to intervene when the boys began to fight.",
+      "synonyms": [
+        "interfere",
+        "mediate",
+        "step in",
+        "intercede"
+      ],
+      "antonyms": [
+        "ignore",
+        "withdraw",
+        "avoid",
+        "neglect"
+      ],
+      "fill_blank": "The police decided to ______ before the riot spread.",
+      "correct_word": "intervene",
+      "hint_words": "intervene, ignore, avoid, mediate",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "intricate",
+      "hindi": "जटिल / पेचीदा",
+      "meaning_en": "Very complicated or detailed",
+      "example_sentence": "The embroidery had an intricate pattern of flowers.",
+      "synonyms": [
+        "complex",
+        "elaborate",
+        "detailed",
+        "complicated"
+      ],
+      "antonyms": [
+        "simple",
+        "straightforward",
+        "plain",
+        "easy"
+      ],
+      "fill_blank": "The spider's web had an ______ design.",
+      "correct_word": "intricate",
+      "hint_words": "intricate, simple, plain, complex",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "irresponsible",
+      "hindi": "गैरज़िम्मेदार / लापरवाह",
+      "meaning_en": "Not showing a proper sense of responsibility",
+      "example_sentence": "It was irresponsible to leave the lab unlocked.",
+      "synonyms": [
+        "reckless",
+        "careless",
+        "negligent",
+        "thoughtless"
+      ],
+      "antonyms": [
+        "responsible",
+        "careful",
+        "reliable",
+        "mature"
+      ],
+      "fill_blank": "Throwing garbage on the road is ______ behaviour.",
+      "correct_word": "irresponsible",
+      "hint_words": "irresponsible, responsible, careful, reckless",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "isolated",
+      "hindi": "अकेला / एकांत में",
+      "meaning_en": "Far away from other places or people; alone",
+      "example_sentence": "The isolated village had no mobile network.",
+      "synonyms": [
+        "secluded",
+        "remote",
+        "alone",
+        "detached"
+      ],
+      "antonyms": [
+        "connected",
+        "central",
+        "sociable",
+        "accessible"
+      ],
+      "fill_blank": "He felt ______ after moving to a new city.",
+      "correct_word": "isolated",
+      "hint_words": "isolated, connected, sociable, remote",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "justify",
+      "hindi": "उचित ठहराना / सिद्ध करना",
+      "meaning_en": "To show or prove to be right or reasonable",
+      "example_sentence": "Can you justify your absence from the exam?",
+      "synonyms": [
+        "explain",
+        "defend",
+        "vindicate",
+        "support"
+      ],
+      "antonyms": [
+        "condemn",
+        "blame",
+        "accuse",
+        "disprove"
+      ],
+      "fill_blank": "No reason can ______ cheating in an examination.",
+      "correct_word": "justify",
+      "hint_words": "justify, condemn, blame, defend",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "lenient",
+      "hindi": "उदार / नरम",
+      "meaning_en": "Mild and not strict in applying punishment or rules",
+      "example_sentence": "The lenient teacher gave extra time to struggling students.",
+      "synonyms": [
+        "mild",
+        "tolerant",
+        "gentle",
+        "merciful"
+      ],
+      "antonyms": [
+        "strict",
+        "harsh",
+        "severe",
+        "stern"
+      ],
+      "fill_blank": "The judge was ______ since it was the man's first offence.",
+      "correct_word": "lenient",
+      "hint_words": "lenient, strict, harsh, gentle",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "logical",
+      "hindi": "तार्किक / विवेकपूर्ण",
+      "meaning_en": "Based on clear and sound reasoning",
+      "example_sentence": "He gave a logical explanation for the experiment results.",
+      "synonyms": [
+        "rational",
+        "reasoned",
+        "sensible",
+        "coherent"
+      ],
+      "antonyms": [
+        "illogical",
+        "irrational",
+        "absurd",
+        "confused"
+      ],
+      "fill_blank": "A ______ argument is more convincing than an emotional one.",
+      "correct_word": "logical",
+      "hint_words": "logical, illogical, absurd, rational",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "loyal",
+      "hindi": "वफ़ादार / निष्ठावान",
+      "meaning_en": "Giving constant support to a person or institution",
+      "example_sentence": "A loyal friend stands by you in difficult times.",
+      "synonyms": [
+        "faithful",
+        "devoted",
+        "committed",
+        "trustworthy"
+      ],
+      "antonyms": [
+        "disloyal",
+        "treacherous",
+        "unfaithful",
+        "traitorous"
+      ],
+      "fill_blank": "She was a ______ member of the team even in tough times.",
+      "correct_word": "loyal",
+      "hint_words": "loyal, disloyal, treacherous, faithful",
+      "difficulty": "medium",
+      "category": "general"
+    }
+  ]
+}

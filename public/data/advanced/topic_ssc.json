@@ -1,0 +1,1346 @@
+{
+  "words": [
+    {
+      "word": "ameliorate",
+      "hindi": "सुधारना / बेहतर बनाना",
+      "meaning_en": "To make something bad or unsatisfactory better",
+      "example_sentence": "The government took steps to ameliorate the living conditions of slum dwellers.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To make something better or improve a bad situation",
+        "answer": "ameliorate"
+      },
+      "analogy": {
+        "pair": "worsen : deteriorate",
+        "question": "improve : ______",
+        "answer": "ameliorate"
+      },
+      "hint_words": "worsen, ameliorate, ignore, tolerate",
+      "correct_word": "ameliorate",
+      "sentence": "New policies were introduced to ______ the suffering of flood victims.",
+      "meaning_hi": "सुधारना",
+      "example_sentence_hi": "सरकार ने झुग्गी वासियों की स्थिति सुधारने के लिए कदम उठाए।"
+    },
+    {
+      "word": "cacophony",
+      "hindi": "कर्कश शोर / बेसुरापन",
+      "meaning_en": "A harsh, discordant mixture of sounds",
+      "example_sentence": "The cacophony of traffic horns made it impossible to think.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A harsh and unpleasant mixture of loud sounds",
+        "answer": "cacophony"
+      },
+      "analogy": {
+        "pair": "melody : harmony",
+        "question": "noise : ______",
+        "answer": "cacophony"
+      },
+      "hint_words": "melody, silence, cacophony, rhythm",
+      "correct_word": "cacophony",
+      "sentence": "The street market was filled with the ______ of vendors calling out loudly.",
+      "meaning_hi": "कर्कश शोर",
+      "example_sentence_hi": "यातायात के हॉर्न की कर्कश ध्वनि ने सोचना असंभव बना दिया।"
+    },
+    {
+      "word": "harbinger",
+      "hindi": "अग्रदूत / पूर्व संकेत",
+      "meaning_en": "A person or thing that announces or signals the approach of another",
+      "example_sentence": "Dark clouds are often a harbinger of rain.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that indicates the approach of a future event",
+        "answer": "harbinger"
+      },
+      "analogy": {
+        "pair": "result : consequence",
+        "question": "sign : ______",
+        "answer": "harbinger"
+      },
+      "hint_words": "result, barrier, harbinger, obstacle",
+      "correct_word": "harbinger",
+      "sentence": "The cuckoo's call is considered a ______ of spring.",
+      "meaning_hi": "अग्रदूत",
+      "example_sentence_hi": "काले बादल अक्सर बारिश के अग्रदूत होते हैं।"
+    },
+    {
+      "word": "laconic",
+      "hindi": "संक्षिप्त / कम बोलने वाला",
+      "meaning_en": "Using very few words; brief and concise",
+      "example_sentence": "His laconic reply — just 'No' — surprised everyone.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who uses very few words to express themselves",
+        "answer": "laconic"
+      },
+      "analogy": {
+        "pair": "verbose : wordy",
+        "question": "brief : ______",
+        "answer": "laconic"
+      },
+      "hint_words": "verbose, laconic, talkative, elaborate",
+      "correct_word": "laconic",
+      "sentence": "The general was known for his ______ orders that left no room for confusion.",
+      "meaning_hi": "संक्षिप्त",
+      "example_sentence_hi": "उनका संक्षिप्त उत्तर — केवल 'नहीं' — ने सभी को चौंका दिया।"
+    },
+    {
+      "word": "nefarious",
+      "hindi": "दुष्ट / घृणित",
+      "meaning_en": "Wicked, criminal, or extremely immoral",
+      "example_sentence": "The nefarious scheme was uncovered by the investigators.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An extremely wicked or criminal act or plan",
+        "answer": "nefarious"
+      },
+      "analogy": {
+        "pair": "virtuous : noble",
+        "question": "wicked : ______",
+        "answer": "nefarious"
+      },
+      "hint_words": "virtuous, nefarious, noble, decent",
+      "correct_word": "nefarious",
+      "sentence": "The gang was involved in ______ activities that harmed the community.",
+      "meaning_hi": "दुष्ट",
+      "example_sentence_hi": "जाँचकर्ताओं ने उस दुष्टतापूर्ण योजना को उजागर किया।"
+    },
+    {
+      "word": "recalcitrant",
+      "hindi": "अड़ियल / अवज्ञाकारी",
+      "meaning_en": "Having an obstinately uncooperative attitude",
+      "example_sentence": "The recalcitrant employee refused to follow the new policy.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who stubbornly refuses to obey rules or authority",
+        "answer": "recalcitrant"
+      },
+      "analogy": {
+        "pair": "obedient : compliant",
+        "question": "stubborn : ______",
+        "answer": "recalcitrant"
+      },
+      "hint_words": "obedient, recalcitrant, compliant, cooperative",
+      "correct_word": "recalcitrant",
+      "sentence": "The ______ student was sent to the principal's office for the third time.",
+      "meaning_hi": "अड़ियल",
+      "example_sentence_hi": "अड़ियल कर्मचारी ने नई नीति का पालन करने से इनकार कर दिया।"
+    },
+    {
+      "word": "wanton",
+      "hindi": "निरंकुश / लापरवाह",
+      "meaning_en": "Deliberate and unprovoked; showing reckless disregard",
+      "example_sentence": "The wanton destruction of public property is a criminal offence.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An act of deliberate cruelty or destruction without reason",
+        "answer": "wanton"
+      },
+      "analogy": {
+        "pair": "careful : deliberate",
+        "question": "reckless : ______",
+        "answer": "wanton"
+      },
+      "hint_words": "careful, wanton, intentional, deliberate",
+      "correct_word": "wanton",
+      "sentence": "The ______ cruelty shown to animals shocked the entire neighbourhood.",
+      "meaning_hi": "निरंकुश",
+      "example_sentence_hi": "सार्वजनिक संपत्ति का जानबूझकर नुकसान एक आपराधिक अपराध है।"
+    },
+    {
+      "word": "abscond",
+      "hindi": "भाग जाना / फरार होना",
+      "meaning_en": "To leave hurriedly and secretly to escape from legal consequences",
+      "example_sentence": "The cashier absconded with the company's funds.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To leave a place secretly to escape from the law",
+        "answer": "abscond"
+      },
+      "analogy": {
+        "pair": "surrender : yield",
+        "question": "flee secretly : ______",
+        "answer": "abscond"
+      },
+      "hint_words": "abscond, surrender, confront, escape",
+      "correct_word": "abscond",
+      "sentence": "The suspect managed to ______ before the police arrived.",
+      "meaning_hi": "फरार होना",
+      "example_sentence_hi": "कैशियर कंपनी का पैसा लेकर फरार हो गया।"
+    },
+    {
+      "word": "anomaly",
+      "hindi": "अपवाद / असामान्यता",
+      "meaning_en": "Something that deviates from what is standard or expected",
+      "example_sentence": "The scientist found an anomaly in the data that suggested an error.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that deviates from the normal or expected rule",
+        "answer": "anomaly"
+      },
+      "analogy": {
+        "pair": "pattern : regularity",
+        "question": "irregularity : ______",
+        "answer": "anomaly"
+      },
+      "hint_words": "anomaly, pattern, norm, regularity",
+      "correct_word": "anomaly",
+      "sentence": "The sudden drop in temperature was an ______ for the month of June.",
+      "meaning_hi": "अपवाद",
+      "example_sentence_hi": "वैज्ञानिक को डेटा में एक अपवाद मिला जो त्रुटि का संकेत देता था।"
+    },
+    {
+      "word": "avarice",
+      "hindi": "लोभ / लालच",
+      "meaning_en": "Extreme greed for wealth or material gain",
+      "example_sentence": "His avarice led him to betray his closest friends.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Excessive greed for wealth or material possessions",
+        "answer": "avarice"
+      },
+      "analogy": {
+        "pair": "generosity : giving",
+        "question": "greed : ______",
+        "answer": "avarice"
+      },
+      "hint_words": "avarice, generosity, charity, contentment",
+      "correct_word": "avarice",
+      "sentence": "His ______ blinded him to the suffering he caused.",
+      "meaning_hi": "लोभ",
+      "example_sentence_hi": "उसके लोभ ने उसे अपने निकटतम मित्रों को धोखा देने पर मजबूर किया।"
+    },
+    {
+      "word": "cajole",
+      "hindi": "चापलूसी से मनाना / खुशामद करना",
+      "meaning_en": "To persuade someone to do something by flattery or gentle argument",
+      "example_sentence": "He tried to cajole his teacher into extending the deadline.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To persuade someone through flattery or gentle pleading",
+        "answer": "cajole"
+      },
+      "analogy": {
+        "pair": "force : coerce",
+        "question": "flatter into agreeing : ______",
+        "answer": "cajole"
+      },
+      "hint_words": "cajole, coerce, threaten, command",
+      "correct_word": "cajole",
+      "sentence": "She managed to ______ the committee into approving her proposal.",
+      "meaning_hi": "चापलूसी से मनाना",
+      "example_sentence_hi": "उसने अपने शिक्षक को समयसीमा बढ़ाने के लिए मनाने की कोशिश की।"
+    },
+    {
+      "word": "coerce",
+      "hindi": "बाध्य करना / जबरदस्ती करना",
+      "meaning_en": "To persuade someone using force, threats, or pressure",
+      "example_sentence": "The suspect claimed he was coerced into signing the confession.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To force someone to do something against their will",
+        "answer": "coerce"
+      },
+      "analogy": {
+        "pair": "persuade : convince",
+        "question": "force : ______",
+        "answer": "coerce"
+      },
+      "hint_words": "coerce, persuade, encourage, motivate",
+      "correct_word": "coerce",
+      "sentence": "Workers should never be ______ into accepting unfair terms.",
+      "meaning_hi": "बाध्य करना",
+      "example_sentence_hi": "आरोपी ने दावा किया कि उसे बयान पर हस्ताक्षर करने के लिए मजबूर किया गया।"
+    },
+    {
+      "word": "credulous",
+      "hindi": "भोला / आसानी से विश्वास करने वाला",
+      "meaning_en": "Having too much readiness to believe; gullible",
+      "example_sentence": "A credulous person is easily deceived by false advertisements.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is too ready to believe things without evidence",
+        "answer": "credulous"
+      },
+      "analogy": {
+        "pair": "sceptical : doubting",
+        "question": "gullible : ______",
+        "answer": "credulous"
+      },
+      "hint_words": "credulous, sceptical, doubting, suspicious",
+      "correct_word": "credulous",
+      "sentence": "Con artists often target ______ elderly people.",
+      "meaning_hi": "भोला",
+      "example_sentence_hi": "एक भोला व्यक्ति झूठे विज्ञापनों से आसानी से धोखा खाता है।"
+    },
+    {
+      "word": "dearth",
+      "hindi": "कमी / अभाव",
+      "meaning_en": "A scarcity or lack of something",
+      "example_sentence": "There is a dearth of trained doctors in rural areas.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A condition of scarcity or insufficient supply",
+        "answer": "dearth"
+      },
+      "analogy": {
+        "pair": "abundance : excess",
+        "question": "scarcity : ______",
+        "answer": "dearth"
+      },
+      "hint_words": "dearth, abundance, excess, surplus",
+      "correct_word": "dearth",
+      "sentence": "The report highlighted a ______ of investment in public health.",
+      "meaning_hi": "कमी",
+      "example_sentence_hi": "ग्रामीण क्षेत्रों में प्रशिक्षित डॉक्टरों की कमी है।"
+    },
+    {
+      "word": "dissonance",
+      "hindi": "असामंजस्य / विसंगति",
+      "meaning_en": "A lack of harmony; a clash between opposing ideas or sounds",
+      "example_sentence": "There was a cognitive dissonance between his words and actions.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A tension arising from two opposing or inconsistent ideas existing simultaneously",
+        "answer": "dissonance"
+      },
+      "analogy": {
+        "pair": "harmony : concord",
+        "question": "clash of ideas : ______",
+        "answer": "dissonance"
+      },
+      "hint_words": "dissonance, harmony, concord, agreement",
+      "correct_word": "dissonance",
+      "sentence": "The ______ between government policy and ground reality was striking.",
+      "meaning_hi": "असामंजस्य",
+      "example_sentence_hi": "उसके शब्दों और कार्यों के बीच एक संज्ञानात्मक विसंगति थी।"
+    },
+    {
+      "word": "enervate",
+      "hindi": "कमज़ोर करना / शक्तिहीन बनाना",
+      "meaning_en": "To cause someone to feel drained of energy or vitality",
+      "example_sentence": "The long march enervated the soldiers.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To weaken or drain the energy and strength of a person",
+        "answer": "enervate"
+      },
+      "analogy": {
+        "pair": "strengthen : invigorate",
+        "question": "weaken : ______",
+        "answer": "enervate"
+      },
+      "hint_words": "enervate, invigorate, strengthen, energise",
+      "correct_word": "enervate",
+      "sentence": "The tropical heat began to ______ the rescue workers.",
+      "meaning_hi": "कमज़ोर करना",
+      "example_sentence_hi": "लंबे मार्च ने सैनिकों को कमज़ोर कर दिया।"
+    },
+    {
+      "word": "exacerbate",
+      "hindi": "बिगाड़ना / और खराब करना",
+      "meaning_en": "To make a problem, situation, or bad feeling worse",
+      "example_sentence": "The drought exacerbated the already severe food crisis.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To make an already bad problem or situation worse",
+        "answer": "exacerbate"
+      },
+      "analogy": {
+        "pair": "improve : ameliorate",
+        "question": "worsen : ______",
+        "answer": "exacerbate"
+      },
+      "hint_words": "exacerbate, improve, alleviate, resolve",
+      "correct_word": "exacerbate",
+      "sentence": "Delay in relief ______ the suffering of the flood victims.",
+      "meaning_hi": "बिगाड़ना",
+      "example_sentence_hi": "सूखे ने पहले से गंभीर खाद्य संकट को और बिगाड़ दिया।"
+    },
+    {
+      "word": "expunge",
+      "hindi": "मिटाना / हटाना",
+      "meaning_en": "To remove completely; to wipe out or erase from a record",
+      "example_sentence": "He petitioned the court to expunge the crime from his record.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To completely remove or erase something from a record or memory",
+        "answer": "expunge"
+      },
+      "analogy": {
+        "pair": "record : document",
+        "question": "erase completely : ______",
+        "answer": "expunge"
+      },
+      "hint_words": "expunge, record, retain, preserve",
+      "correct_word": "expunge",
+      "sentence": "The convicted man's minor offence was ______ from the record after twenty years.",
+      "meaning_hi": "मिटाना",
+      "example_sentence_hi": "उसने अपने रिकॉर्ड से अपराध को मिटाने के लिए अदालत में याचिका दायर की।"
+    },
+    {
+      "word": "garrulous",
+      "hindi": "बहुत बोलने वाला / वाचाल",
+      "meaning_en": "Excessively talkative, especially on trivial matters",
+      "example_sentence": "The garrulous witness kept the court waiting with his long-winded answers.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who talks excessively, especially about trivial things",
+        "answer": "garrulous"
+      },
+      "analogy": {
+        "pair": "laconic : brief",
+        "question": "excessively talkative : ______",
+        "answer": "garrulous"
+      },
+      "hint_words": "garrulous, laconic, quiet, reserved",
+      "correct_word": "garrulous",
+      "sentence": "The ______ neighbour shared every detail of her day with anyone who would listen.",
+      "meaning_hi": "वाचाल",
+      "example_sentence_hi": "वाचाल गवाह ने अपने लंबे जवाबों से अदालत को इंतजार कराया।"
+    },
+    {
+      "word": "incorrigible",
+      "hindi": "असुधार्य / न सुधरने वाला",
+      "meaning_en": "Not able to be corrected, improved, or reformed",
+      "example_sentence": "The judge called him an incorrigible offender and gave a harsh sentence.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who repeatedly behaves badly and cannot be reformed",
+        "answer": "incorrigible"
+      },
+      "analogy": {
+        "pair": "flexible : changeable",
+        "question": "unable to be reformed : ______",
+        "answer": "incorrigible"
+      },
+      "hint_words": "incorrigible, flexible, reformable, changeable",
+      "correct_word": "incorrigible",
+      "sentence": "Despite many warnings, he remained an ______ troublemaker.",
+      "meaning_hi": "असुधार्य",
+      "example_sentence_hi": "न्यायाधीश ने उसे असुधार्य अपराधी कहकर कठोर सज़ा सुनाई।"
+    },
+    {
+      "word": "loquacious",
+      "hindi": "बातूनी / वाचाल",
+      "meaning_en": "Tending to talk a great deal; very talkative",
+      "example_sentence": "The loquacious presenter never let anyone else speak.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who talks excessively and at great length",
+        "answer": "loquacious"
+      },
+      "analogy": {
+        "pair": "taciturn : silent",
+        "question": "very talkative : ______",
+        "answer": "loquacious"
+      },
+      "hint_words": "loquacious, taciturn, silent, reserved",
+      "correct_word": "loquacious",
+      "sentence": "The ______ politician dominated the entire press conference.",
+      "meaning_hi": "बातूनी",
+      "example_sentence_hi": "बातूनी प्रस्तुतकर्ता ने कभी किसी को बोलने नहीं दिया।"
+    },
+    {
+      "word": "obsequious",
+      "hindi": "चापलूस / अत्यधिक विनम्र",
+      "meaning_en": "Excessively submissive or eager to please in a servile way",
+      "example_sentence": "His obsequious flattery was transparent to everyone in the office.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is excessively obedient and eager to please superiors",
+        "answer": "obsequious"
+      },
+      "analogy": {
+        "pair": "forthright : honest",
+        "question": "fawningly submissive : ______",
+        "answer": "obsequious"
+      },
+      "hint_words": "obsequious, forthright, honest, assertive",
+      "correct_word": "obsequious",
+      "sentence": "The ______ assistant agreed with everything the manager said.",
+      "meaning_hi": "चापलूस",
+      "example_sentence_hi": "उनकी अत्यधिक चापलूसी दफ्तर में सभी को दिखती थी।"
+    },
+    {
+      "word": "pariah",
+      "hindi": "बहिष्कृत / सामाजिक निंदित व्यक्ति",
+      "meaning_en": "A person who is rejected or excluded by society or a group",
+      "example_sentence": "After the scandal, he became a social pariah.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is universally rejected or excluded from a social group",
+        "answer": "pariah"
+      },
+      "analogy": {
+        "pair": "hero : celebrated",
+        "question": "outcast : ______",
+        "answer": "pariah"
+      },
+      "hint_words": "pariah, hero, leader, celebrity",
+      "correct_word": "pariah",
+      "sentence": "The country became an international ______ after the invasion.",
+      "meaning_hi": "बहिष्कृत",
+      "example_sentence_hi": "घोटाले के बाद, वह सामाजिक रूप से बहिष्कृत हो गया।"
+    },
+    {
+      "word": "prolix",
+      "hindi": "अत्यधिक विस्तृत / लंबे-चौड़े",
+      "meaning_en": "Using or containing too many words; long and tedious",
+      "example_sentence": "The prolix report could have been summarised in two pages.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A piece of writing or speech that is unnecessarily long and wordy",
+        "answer": "prolix"
+      },
+      "analogy": {
+        "pair": "concise : brief",
+        "question": "excessively long : ______",
+        "answer": "prolix"
+      },
+      "hint_words": "prolix, concise, brief, succinct",
+      "correct_word": "prolix",
+      "sentence": "The professor's ______ lecture ran for three hours without a break.",
+      "meaning_hi": "अत्यधिक विस्तृत",
+      "example_sentence_hi": "लंबी-चौड़ी रिपोर्ट को दो पृष्ठों में संक्षिप्त किया जा सकता था।"
+    },
+    {
+      "word": "taciturn",
+      "hindi": "अल्पभाषी / कम बोलने वाला",
+      "meaning_en": "Reserved or uncommunicative in speech; saying little",
+      "example_sentence": "The taciturn minister gave only a brief statement.",
+      "exam_category": "SSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who habitually says little and is uncommunicative",
+        "answer": "taciturn"
+      },
+      "analogy": {
+        "pair": "loquacious : talkative",
+        "question": "habitually silent : ______",
+        "answer": "taciturn"
+      },
+      "hint_words": "taciturn, loquacious, talkative, expressive",
+      "correct_word": "taciturn",
+      "sentence": "The ______ detective preferred listening over speaking.",
+      "meaning_hi": "अल्पभाषी",
+      "example_sentence_hi": "अल्पभाषी मंत्री ने केवल एक संक्षिप्त बयान दिया।"
+    },
+    {
+      "word": "accolade",
+      "hindi": "प्रशंसा / पुरस्कार",
+      "meaning_en": "An award or privilege granted as a special honour",
+      "example_sentence": "The scientist received the highest accolade for her groundbreaking research.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "An expression of praise or special recognition given to someone",
+        "answer": "accolade"
+      },
+      "analogy": {
+        "pair": "criticism : rebuke",
+        "question": "praise or award : ______",
+        "answer": "accolade"
+      },
+      "hint_words": "accolade, rebuke, censure, criticism",
+      "correct_word": "accolade",
+      "sentence": "Winning the national championship was the greatest ______ of her athletic career.",
+      "meaning_hi": "प्रशंसा",
+      "example_sentence_hi": "वैज्ञानिक को उनके अभूतपूर्व शोध के लिए सर्वोच्च प्रशंसा मिली।"
+    },
+    {
+      "word": "admonish",
+      "hindi": "चेतावनी देना / डाँटना",
+      "meaning_en": "Warn or reprimand someone firmly",
+      "example_sentence": "The judge admonished the lawyer for his unprofessional conduct.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To warn or scold someone firmly",
+        "answer": "admonish"
+      },
+      "analogy": {
+        "pair": "commend : praise",
+        "question": "warn firmly : ______",
+        "answer": "admonish"
+      },
+      "hint_words": "admonish, commend, praise, applaud",
+      "correct_word": "admonish",
+      "sentence": "The teacher ______ the student for repeatedly disrupting the class.",
+      "meaning_hi": "चेतावनी देना",
+      "example_sentence_hi": "न्यायाधीश ने वकील को उसके अव्यावसायिक आचरण के लिए चेतावनी दी।"
+    },
+    {
+      "word": "appease",
+      "hindi": "शांत करना / खुश करना",
+      "meaning_en": "Pacify or placate someone by acceding to their demands",
+      "example_sentence": "The government tried to appease the protesters by announcing relief measures.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To calm or pacify someone by giving in to their demands",
+        "answer": "appease"
+      },
+      "analogy": {
+        "pair": "provoke : anger",
+        "question": "to calm down : ______",
+        "answer": "appease"
+      },
+      "hint_words": "appease, provoke, anger, agitate",
+      "correct_word": "appease",
+      "sentence": "The manager tried to ______ the unhappy customers with a refund.",
+      "meaning_hi": "शांत करना",
+      "example_sentence_hi": "सरकार ने राहत उपायों की घोषणा करके प्रदर्शनकारियों को शांत करने की कोशिश की।"
+    },
+    {
+      "word": "arduous",
+      "hindi": "कठिन / श्रमसाध्य",
+      "meaning_en": "Involving great effort or difficulty",
+      "example_sentence": "Climbing Everest is an arduous task that requires months of preparation.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A task that requires great effort and is extremely difficult",
+        "answer": "arduous"
+      },
+      "analogy": {
+        "pair": "effortless : easy",
+        "question": "requiring great effort : ______",
+        "answer": "arduous"
+      },
+      "hint_words": "arduous, effortless, easy, simple",
+      "correct_word": "arduous",
+      "sentence": "The ______ journey through the mountains tested the limits of the expedition team.",
+      "meaning_hi": "कठिन",
+      "example_sentence_hi": "एवरेस्ट पर चढ़ना एक कठिन कार्य है जिसके लिए महीनों की तैयारी चाहिए।"
+    },
+    {
+      "word": "benevolent",
+      "hindi": "परोपकारी / दयालु",
+      "meaning_en": "Well-meaning and kindly; charitable",
+      "example_sentence": "The benevolent donor funded scholarships for hundreds of underprivileged students.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is kind and wishes good to others",
+        "answer": "benevolent"
+      },
+      "analogy": {
+        "pair": "malevolent : wishing harm",
+        "question": "wishing well to others : ______",
+        "answer": "benevolent"
+      },
+      "hint_words": "benevolent, malevolent, cruel, selfish",
+      "correct_word": "benevolent",
+      "sentence": "The ______ king was loved by all for his care and generosity.",
+      "meaning_hi": "परोपकारी",
+      "example_sentence_hi": "परोपकारी दानकर्ता ने सैकड़ों वंचित छात्रों के लिए छात्रवृत्ति दी।"
+    },
+    {
+      "word": "blatant",
+      "hindi": "स्पष्ट / ढीठ",
+      "meaning_en": "Done openly and unashamedly; conspicuously obvious",
+      "example_sentence": "It was a blatant lie that everyone could see through.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something done openly without any attempt to hide it",
+        "answer": "blatant"
+      },
+      "analogy": {
+        "pair": "subtle : hidden",
+        "question": "done openly and shamelessly : ______",
+        "answer": "blatant"
+      },
+      "hint_words": "blatant, subtle, hidden, covert",
+      "correct_word": "blatant",
+      "sentence": "The politician's ______ disregard for the law shocked the public.",
+      "meaning_hi": "स्पष्ट",
+      "example_sentence_hi": "यह एक स्पष्ट झूठ था जिसे हर कोई देख सकता था।"
+    },
+    {
+      "word": "circumspect",
+      "hindi": "सावधान / सतर्क",
+      "meaning_en": "Wary and unwilling to take risks; cautious",
+      "example_sentence": "A good lawyer must be circumspect before making any public statement.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is cautious and considers all consequences before acting",
+        "answer": "circumspect"
+      },
+      "analogy": {
+        "pair": "reckless : careless",
+        "question": "extremely cautious and wary : ______",
+        "answer": "circumspect"
+      },
+      "hint_words": "circumspect, reckless, careless, impulsive",
+      "correct_word": "circumspect",
+      "sentence": "The diplomat was always ______ in her remarks to avoid diplomatic incidents.",
+      "meaning_hi": "सावधान",
+      "example_sentence_hi": "एक अच्छे वकील को कोई भी सार्वजनिक बयान देने से पहले सावधान रहना चाहिए।"
+    },
+    {
+      "word": "clandestine",
+      "hindi": "गुप्त / छुपकर किया गया",
+      "meaning_en": "Kept secret or done secretively, especially for illicit reasons",
+      "example_sentence": "The spies held a clandestine meeting to exchange intelligence.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "An activity carried out secretly, especially for illegal purposes",
+        "answer": "clandestine"
+      },
+      "analogy": {
+        "pair": "overt : open",
+        "question": "done in secret : ______",
+        "answer": "clandestine"
+      },
+      "hint_words": "clandestine, overt, open, public",
+      "correct_word": "clandestine",
+      "sentence": "The ______ operation was conducted without the knowledge of the public.",
+      "meaning_hi": "गुप्त",
+      "example_sentence_hi": "जासूसों ने खुफिया जानकारी का आदान-प्रदान करने के लिए गुप्त बैठक की।"
+    },
+    {
+      "word": "corroborate",
+      "hindi": "पुष्टि करना / समर्थन देना",
+      "meaning_en": "Confirm or support a statement or theory with evidence",
+      "example_sentence": "Several witnesses came forward to corroborate her account of events.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To confirm or support an argument or statement with evidence",
+        "answer": "corroborate"
+      },
+      "analogy": {
+        "pair": "refute : disprove",
+        "question": "to confirm with evidence : ______",
+        "answer": "corroborate"
+      },
+      "hint_words": "corroborate, refute, disprove, contradict",
+      "correct_word": "corroborate",
+      "sentence": "The scientific data ______ the hypothesis proposed by the research team.",
+      "meaning_hi": "पुष्टि करना",
+      "example_sentence_hi": "कई गवाह उसकी घटना की जानकारी की पुष्टि करने के लिए सामने आए।"
+    },
+    {
+      "word": "cynical",
+      "hindi": "संशयवादी / निंदक",
+      "meaning_en": "Distrustful of human sincerity or integrity; believing people are motivated by self-interest",
+      "example_sentence": "Years of broken promises made him cynical about political change.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who believes people are always motivated by selfish reasons",
+        "answer": "cynical"
+      },
+      "analogy": {
+        "pair": "idealistic : hopeful",
+        "question": "distrustful of human goodness : ______",
+        "answer": "cynical"
+      },
+      "hint_words": "cynical, idealistic, hopeful, trusting",
+      "correct_word": "cynical",
+      "sentence": "The ______ journalist exposed the corruption that others had chosen to ignore.",
+      "meaning_hi": "निंदक",
+      "example_sentence_hi": "टूटे हुए वादों ने उसे राजनीतिक बदलाव के प्रति संशयवादी बना दिया।"
+    },
+    {
+      "word": "dauntless",
+      "hindi": "निडर / साहसी",
+      "meaning_en": "Showing fearlessness and determination",
+      "example_sentence": "The dauntless soldier continued fighting despite being outnumbered.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who shows courage without fear",
+        "answer": "dauntless"
+      },
+      "analogy": {
+        "pair": "timid : fearful",
+        "question": "fearless and determined : ______",
+        "answer": "dauntless"
+      },
+      "hint_words": "dauntless, timid, fearful, cowardly",
+      "correct_word": "dauntless",
+      "sentence": "Her ______ spirit inspired the entire team to push through adversity.",
+      "meaning_hi": "निडर",
+      "example_sentence_hi": "निडर सैनिक संख्या में कम होने के बावजूद लड़ता रहा।"
+    },
+    {
+      "word": "discern",
+      "hindi": "समझना / पहचानना",
+      "meaning_en": "Perceive or recognize something",
+      "example_sentence": "It takes wisdom to discern truth from propaganda.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To perceive or recognize something that is not obvious",
+        "answer": "discern"
+      },
+      "analogy": {
+        "pair": "ignore : overlook",
+        "question": "to perceive or identify clearly : ______",
+        "answer": "discern"
+      },
+      "hint_words": "discern, ignore, overlook, miss",
+      "correct_word": "discern",
+      "sentence": "A good judge can ______ between genuine distress and false claims.",
+      "meaning_hi": "पहचानना",
+      "example_sentence_hi": "सच्चाई को प्रचार से पहचानने के लिए बुद्धि की आवश्यकता होती है।"
+    },
+    {
+      "word": "eminent",
+      "hindi": "प्रतिष्ठित / विख्यात",
+      "meaning_en": "Famous and respected within a particular sphere",
+      "example_sentence": "An eminent jurist was appointed to head the inquiry commission.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is famous and respected in their field",
+        "answer": "eminent"
+      },
+      "analogy": {
+        "pair": "obscure : unknown",
+        "question": "famous and respected : ______",
+        "answer": "eminent"
+      },
+      "hint_words": "eminent, obscure, unknown, insignificant",
+      "correct_word": "eminent",
+      "sentence": "The award was presented by an ______ scientist who had contributed to space research.",
+      "meaning_hi": "प्रतिष्ठित",
+      "example_sentence_hi": "जाँच आयोग का नेतृत्व करने के लिए एक प्रतिष्ठित न्यायविद नियुक्त किया गया।"
+    },
+    {
+      "word": "evasive",
+      "hindi": "टालमटोल करने वाला / भ्रामक",
+      "meaning_en": "Tending to avoid commitment or direct answers",
+      "example_sentence": "The witness gave evasive answers that frustrated the prosecutor.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who avoids giving direct and clear answers",
+        "answer": "evasive"
+      },
+      "analogy": {
+        "pair": "forthright : direct",
+        "question": "avoiding direct answers : ______",
+        "answer": "evasive"
+      },
+      "hint_words": "evasive, forthright, direct, candid",
+      "correct_word": "evasive",
+      "sentence": "The minister's ______ response to the journalist's question raised more suspicions.",
+      "meaning_hi": "टालमटोल करने वाला",
+      "example_sentence_hi": "गवाह के टालमटोल भरे जवाबों ने अभियोजक को निराश किया।"
+    },
+    {
+      "word": "fervent",
+      "hindi": "उत्साही / जोशीला",
+      "meaning_en": "Having or displaying a passionate intensity",
+      "example_sentence": "She was a fervent supporter of environmental conservation.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is extremely passionate and enthusiastic about something",
+        "answer": "fervent"
+      },
+      "analogy": {
+        "pair": "indifferent : uncaring",
+        "question": "extremely passionate and enthusiastic : ______",
+        "answer": "fervent"
+      },
+      "hint_words": "fervent, indifferent, uncaring, apathetic",
+      "correct_word": "fervent",
+      "sentence": "The ______ speech of the activist inspired hundreds to join the movement.",
+      "meaning_hi": "उत्साही",
+      "example_sentence_hi": "वह पर्यावरण संरक्षण की उत्साही समर्थक थी।"
+    },
+    {
+      "word": "gregarious",
+      "hindi": "मिलनसार / सामाजिक",
+      "meaning_en": "Fond of company; sociable",
+      "example_sentence": "The gregarious student quickly made friends in the new school.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who enjoys the company of others and is very sociable",
+        "answer": "gregarious"
+      },
+      "analogy": {
+        "pair": "solitary : withdrawn",
+        "question": "sociable and fond of company : ______",
+        "answer": "gregarious"
+      },
+      "hint_words": "gregarious, solitary, withdrawn, reclusive",
+      "correct_word": "gregarious",
+      "sentence": "Her ______ personality made her a natural choice for the team leader role.",
+      "meaning_hi": "मिलनसार",
+      "example_sentence_hi": "मिलनसार छात्र ने नए स्कूल में जल्दी दोस्त बना लिए।"
+    },
+    {
+      "word": "hypocrite",
+      "hindi": "पाखंडी / दोगला",
+      "meaning_en": "A person who claims to have virtues they do not actually possess",
+      "example_sentence": "He was exposed as a hypocrite who preached honesty but cheated on his taxes.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who pretends to be virtuous but acts against those virtues",
+        "answer": "hypocrite"
+      },
+      "analogy": {
+        "pair": "sincere : genuine",
+        "question": "a person who pretends virtue : ______",
+        "answer": "hypocrite"
+      },
+      "hint_words": "hypocrite, sincere, genuine, honest",
+      "correct_word": "hypocrite",
+      "sentence": "The self-proclaimed reformer was branded a ______ when his corrupt dealings were exposed.",
+      "meaning_hi": "पाखंडी",
+      "example_sentence_hi": "वह एक पाखंडी के रूप में उजागर हुआ जो ईमानदारी का उपदेश देता था लेकिन करों में धोखा देता था।"
+    },
+    {
+      "word": "indolent",
+      "hindi": "आलसी / सुस्त",
+      "meaning_en": "Wanting to avoid activity or exertion; lazy",
+      "example_sentence": "An indolent student will struggle to keep up with the competitive exam syllabus.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is habitually lazy and avoids work",
+        "answer": "indolent"
+      },
+      "analogy": {
+        "pair": "diligent : hardworking",
+        "question": "habitually lazy : ______",
+        "answer": "indolent"
+      },
+      "hint_words": "indolent, diligent, hardworking, assiduous",
+      "correct_word": "indolent",
+      "sentence": "The ______ employee was asked to leave after missing several deadlines.",
+      "meaning_hi": "आलसी",
+      "example_sentence_hi": "एक आलसी छात्र प्रतियोगी परीक्षा के पाठ्यक्रम के साथ तालमेल बनाए रखने में संघर्ष करेगा।"
+    },
+    {
+      "word": "ingenious",
+      "hindi": "चतुर / कुशाग्र",
+      "meaning_en": "Clever, original, and inventive",
+      "example_sentence": "The engineer came up with an ingenious solution to reduce water wastage.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is very clever and creative in finding solutions",
+        "answer": "ingenious"
+      },
+      "analogy": {
+        "pair": "dull : uninventive",
+        "question": "clever and inventive : ______",
+        "answer": "ingenious"
+      },
+      "hint_words": "ingenious, dull, uninventive, slow",
+      "correct_word": "ingenious",
+      "sentence": "The startup developed an ______ app that solved a long-standing civic problem.",
+      "meaning_hi": "चतुर",
+      "example_sentence_hi": "इंजीनियर ने पानी की बर्बादी कम करने के लिए एक चतुर समाधान निकाला।"
+    },
+    {
+      "word": "intrepid",
+      "hindi": "निडर / साहसी",
+      "meaning_en": "Fearless and adventurous",
+      "example_sentence": "The intrepid journalist traveled to war zones to report the truth.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is fearless and willing to face danger",
+        "answer": "intrepid"
+      },
+      "analogy": {
+        "pair": "cowardly : fearful",
+        "question": "fearless and adventurous : ______",
+        "answer": "intrepid"
+      },
+      "hint_words": "intrepid, cowardly, fearful, timid",
+      "correct_word": "intrepid",
+      "sentence": "The ______ explorer mapped uncharted territories in the Amazon jungle.",
+      "meaning_hi": "निडर",
+      "example_sentence_hi": "निडर पत्रकार सच्चाई की रिपोर्ट करने के लिए युद्ध क्षेत्रों में गया।"
+    },
+    {
+      "word": "languid",
+      "hindi": "सुस्त / निढाल",
+      "meaning_en": "Displaying or having a disinclination for physical exertion or effort",
+      "example_sentence": "He lay in a languid pose in the summer afternoon heat.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person or manner showing a lack of energy or enthusiasm",
+        "answer": "languid"
+      },
+      "analogy": {
+        "pair": "energetic : lively",
+        "question": "lacking energy and slow : ______",
+        "answer": "languid"
+      },
+      "hint_words": "languid, energetic, lively, dynamic",
+      "correct_word": "languid",
+      "sentence": "The ______ pace of recovery frustrated the doctors.",
+      "meaning_hi": "सुस्त",
+      "example_sentence_hi": "वह गर्मी की दोपहर में सुस्त मुद्रा में लेटा था।"
+    },
+    {
+      "word": "laudable",
+      "hindi": "प्रशंसनीय / सराहनीय",
+      "meaning_en": "Deserving praise and commendation",
+      "example_sentence": "Her laudable efforts to educate girls in rural areas won her a national award.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "Something that deserves to be praised or commended",
+        "answer": "laudable"
+      },
+      "analogy": {
+        "pair": "deplorable : condemnable",
+        "question": "deserving of praise : ______",
+        "answer": "laudable"
+      },
+      "hint_words": "laudable, deplorable, condemnable, shameful",
+      "correct_word": "laudable",
+      "sentence": "The volunteers' ______ work during the disaster relief operation saved many lives.",
+      "meaning_hi": "प्रशंसनीय",
+      "example_sentence_hi": "ग्रामीण क्षेत्रों में लड़कियों को शिक्षित करने के उसके प्रशंसनीय प्रयासों ने उसे राष्ट्रीय पुरस्कार दिलाया।"
+    },
+    {
+      "word": "lucid",
+      "hindi": "स्पष्ट / सुबोध",
+      "meaning_en": "Expressed clearly and easy to understand",
+      "example_sentence": "The professor gave a lucid explanation of quantum mechanics.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "Something expressed in a clear and easily understood manner",
+        "answer": "lucid"
+      },
+      "analogy": {
+        "pair": "abstruse : confusing",
+        "question": "clear and easy to understand : ______",
+        "answer": "lucid"
+      },
+      "hint_words": "lucid, abstruse, confusing, obscure",
+      "correct_word": "lucid",
+      "sentence": "The doctor gave a ______ account of the procedure which put the patient at ease.",
+      "meaning_hi": "स्पष्ट",
+      "example_sentence_hi": "प्रोफेसर ने क्वांटम यांत्रिकी की एक स्पष्ट व्याख्या दी।"
+    },
+    {
+      "word": "malevolent",
+      "hindi": "द्वेषपूर्ण / दुर्भावनापूर्ण",
+      "meaning_en": "Having or showing a wish to do evil to others",
+      "example_sentence": "The malevolent ruler enjoyed watching his subjects suffer.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who wishes harm and evil upon others",
+        "answer": "malevolent"
+      },
+      "analogy": {
+        "pair": "benevolent : kind",
+        "question": "wishing harm to others : ______",
+        "answer": "malevolent"
+      },
+      "hint_words": "malevolent, benevolent, kind, charitable",
+      "correct_word": "malevolent",
+      "sentence": "The ______ conspiracy was designed to destabilise the newly elected government.",
+      "meaning_hi": "द्वेषपूर्ण",
+      "example_sentence_hi": "द्वेषपूर्ण शासक अपनी प्रजा को पीड़ित देखकर प्रसन्न होता था।"
+    },
+    {
+      "word": "meticulous",
+      "hindi": "सावधानीपूर्वक / बारीकी से",
+      "meaning_en": "Showing great attention to detail or being very careful and precise",
+      "example_sentence": "The forensic team conducted a meticulous examination of the crime scene.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is extremely careful and precise in their work",
+        "answer": "meticulous"
+      },
+      "analogy": {
+        "pair": "careless : sloppy",
+        "question": "extremely careful and precise : ______",
+        "answer": "meticulous"
+      },
+      "hint_words": "meticulous, careless, sloppy, hasty",
+      "correct_word": "meticulous",
+      "sentence": "Her ______ preparation for the IAS interview left nothing to chance.",
+      "meaning_hi": "सावधानीपूर्वक",
+      "example_sentence_hi": "फोरेंसिक टीम ने अपराध स्थल की सावधानीपूर्वक जाँच की।"
+    },
+    {
+      "word": "mitigate",
+      "hindi": "कम करना / शमन करना",
+      "meaning_en": "Make less severe, serious, or painful",
+      "example_sentence": "Tree plantation drives can help mitigate the effects of climate change.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "To lessen the severity or seriousness of something",
+        "answer": "mitigate"
+      },
+      "analogy": {
+        "pair": "exacerbate : worsen",
+        "question": "to make less severe : ______",
+        "answer": "mitigate"
+      },
+      "hint_words": "mitigate, exacerbate, worsen, intensify",
+      "correct_word": "mitigate",
+      "sentence": "The new dam was built to ______ the impact of annual floods on the region.",
+      "meaning_hi": "कम करना",
+      "example_sentence_hi": "वृक्षारोपण अभियान जलवायु परिवर्तन के प्रभावों को कम करने में मदद कर सकते हैं।"
+    },
+    {
+      "word": "morose",
+      "hindi": "उदास / चिड़चिड़ा",
+      "meaning_en": "Sullen and ill-tempered",
+      "example_sentence": "He sat in morose silence after hearing the bad news.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is gloomy and sullen in temperament",
+        "answer": "morose"
+      },
+      "analogy": {
+        "pair": "cheerful : happy",
+        "question": "gloomy and sullen : ______",
+        "answer": "morose"
+      },
+      "hint_words": "morose, cheerful, happy, jovial",
+      "correct_word": "morose",
+      "sentence": "The ______ teenager refused to talk to anyone after the argument.",
+      "meaning_hi": "उदास",
+      "example_sentence_hi": "वह बुरी खबर सुनकर उदास चुप्पी में बैठ गया।"
+    },
+    {
+      "word": "obtuse",
+      "hindi": "मंद-बुद्धि / मोटी समझ वाला",
+      "meaning_en": "Annoyingly insensitive or slow to understand",
+      "example_sentence": "His obtuse response to the criticism showed he had missed the point entirely.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is slow to understand or deliberately dense",
+        "answer": "obtuse"
+      },
+      "analogy": {
+        "pair": "astute : perceptive",
+        "question": "slow to understand : ______",
+        "answer": "obtuse"
+      },
+      "hint_words": "obtuse, astute, perceptive, sharp",
+      "correct_word": "obtuse",
+      "sentence": "The ______ bureaucrat failed to understand the urgency of the situation.",
+      "meaning_hi": "मंद-बुद्धि",
+      "example_sentence_hi": "आलोचना के प्रति उसकी मंद प्रतिक्रिया से पता चला कि वह बात पूरी तरह से चूक गया था।"
+    },
+    {
+      "word": "ostracise",
+      "hindi": "बहिष्कृत करना / समाज से निकालना",
+      "meaning_en": "Exclude someone from a society or group",
+      "example_sentence": "The whistleblower was ostracised by his colleagues after exposing the scam.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To exclude someone from a group or social circle",
+        "answer": "ostracise"
+      },
+      "analogy": {
+        "pair": "include : welcome",
+        "question": "to exclude from a group : ______",
+        "answer": "ostracise"
+      },
+      "hint_words": "ostracise, include, welcome, accept",
+      "correct_word": "ostracise",
+      "sentence": "Society tends to ______ those who challenge its deeply held beliefs.",
+      "meaning_hi": "बहिष्कृत करना",
+      "example_sentence_hi": "घोटाला उजागर करने के बाद व्हिसलब्लोअर को उसके सहयोगियों ने बहिष्कृत कर दिया।"
+    },
+    {
+      "word": "platitude",
+      "hindi": "घिसी-पिटी बात / नीरस कथन",
+      "meaning_en": "A remark or statement that is used too often to be interesting or thoughtful",
+      "example_sentence": "His speech was full of platitudes and offered no real solutions.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A statement that is so common and obvious it has lost its meaning",
+        "answer": "platitude"
+      },
+      "analogy": {
+        "pair": "insight : original thought",
+        "question": "overused meaningless statement : ______",
+        "answer": "platitude"
+      },
+      "hint_words": "platitude, insight, original, profound",
+      "correct_word": "platitude",
+      "sentence": "The politician's address was dismissed as a collection of ______s.",
+      "meaning_hi": "घिसी-पिटी बात",
+      "example_sentence_hi": "उसका भाषण घिसी-पिटी बातों से भरा था और कोई वास्तविक समाधान नहीं दिया।"
+    },
+    {
+      "word": "precarious",
+      "hindi": "अनिश्चित / खतरनाक",
+      "meaning_en": "Not securely held; dependent on chance; dangerously uncertain",
+      "example_sentence": "Millions of workers are in precarious employment with no job security.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A situation that is uncertain and potentially dangerous",
+        "answer": "precarious"
+      },
+      "analogy": {
+        "pair": "stable : secure",
+        "question": "uncertain and dangerously unsteady : ______",
+        "answer": "precarious"
+      },
+      "hint_words": "precarious, stable, secure, firm",
+      "correct_word": "precarious",
+      "sentence": "The mountaineer found herself in a ______ position on the icy cliff.",
+      "meaning_hi": "अनिश्चित",
+      "example_sentence_hi": "लाखों कामगार बिना नौकरी की सुरक्षा के अनिश्चित रोजगार में हैं।"
+    },
+    {
+      "word": "prodigal",
+      "hindi": "फिजूलखर्च / उड़ाऊ",
+      "meaning_en": "Spending money or resources freely and recklessly; wasteful",
+      "example_sentence": "His prodigal habits depleted his inheritance within two years.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who wastefully spends money or resources",
+        "answer": "prodigal"
+      },
+      "analogy": {
+        "pair": "frugal : economical",
+        "question": "wastefully extravagant : ______",
+        "answer": "prodigal"
+      },
+      "hint_words": "prodigal, frugal, economical, thrifty",
+      "correct_word": "prodigal",
+      "sentence": "The ______ prince spent the entire treasury on personal luxuries.",
+      "meaning_hi": "फिजूलखर्च",
+      "example_sentence_hi": "उसकी फिजूलखर्ची की आदतों ने दो साल में उसकी विरासत को समाप्त कर दिया।"
+    },
+    {
+      "word": "reticent",
+      "hindi": "कम बोलने वाला / संकोची",
+      "meaning_en": "Not revealing one's thoughts or feelings readily",
+      "example_sentence": "The reticent witness had to be coaxed into giving his account of events.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who does not readily share thoughts or feelings",
+        "answer": "reticent"
+      },
+      "analogy": {
+        "pair": "forthcoming : communicative",
+        "question": "reluctant to speak or reveal feelings : ______",
+        "answer": "reticent"
+      },
+      "hint_words": "reticent, forthcoming, communicative, open",
+      "correct_word": "reticent",
+      "sentence": "The CEO remained ______ about the company's merger plans during the press conference.",
+      "meaning_hi": "संकोची",
+      "example_sentence_hi": "संकोची गवाह को अपनी घटना की जानकारी देने के लिए मनाना पड़ा।"
+    },
+    {
+      "word": "sycophant",
+      "hindi": "चापलूस / खुशामदी",
+      "meaning_en": "A person who acts obsequiously towards someone important in order to gain advantage",
+      "example_sentence": "The CEO was surrounded by sycophants who never pointed out his mistakes.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who flatters important people to gain personal advantage",
+        "answer": "sycophant"
+      },
+      "analogy": {
+        "pair": "critic : one who finds fault",
+        "question": "one who flatters to gain favour : ______",
+        "answer": "sycophant"
+      },
+      "hint_words": "sycophant, critic, adversary, opponent",
+      "correct_word": "sycophant",
+      "sentence": "True advisors give honest feedback; ______s only tell you what you want to hear.",
+      "meaning_hi": "चापलूस",
+      "example_sentence_hi": "सीईओ के आसपास चापलूस थे जो उसकी गलतियाँ कभी नहीं बताते थे।"
+    },
+    {
+      "word": "turbulent",
+      "hindi": "अशांत / उथल-पुथल भरा",
+      "meaning_en": "Characterized by conflict, disorder, or confusion; not calm",
+      "example_sentence": "India went through a turbulent phase during the partition of 1947.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A period or situation full of conflict and disorder",
+        "answer": "turbulent"
+      },
+      "analogy": {
+        "pair": "peaceful : calm",
+        "question": "full of conflict and disorder : ______",
+        "answer": "turbulent"
+      },
+      "hint_words": "turbulent, peaceful, calm, stable",
+      "correct_word": "turbulent",
+      "sentence": "The stock market went through a ______ week after the global economic crisis.",
+      "meaning_hi": "अशांत",
+      "example_sentence_hi": "1947 के विभाजन के दौरान भारत एक अशांत दौर से गुजरा।"
+    },
+    {
+      "word": "venerate",
+      "hindi": "श्रद्धा करना / आदर करना",
+      "meaning_en": "Regard with great respect and reverence",
+      "example_sentence": "In Indian culture, elders are venerated as sources of wisdom.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To regard someone or something with deep respect and reverence",
+        "answer": "venerate"
+      },
+      "analogy": {
+        "pair": "despise : disrespect",
+        "question": "to regard with deep reverence : ______",
+        "answer": "venerate"
+      },
+      "hint_words": "venerate, despise, disrespect, mock",
+      "correct_word": "venerate",
+      "sentence": "The memorial was built to ______ those who gave their lives for the nation.",
+      "meaning_hi": "श्रद्धा करना",
+      "example_sentence_hi": "भारतीय संस्कृति में बुजुर्गों को ज्ञान के स्रोत के रूप में श्रद्धा दी जाती है।"
+    }
+  ]
+}

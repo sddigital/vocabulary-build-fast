@@ -1,0 +1,904 @@
+{
+  "words": [
+    {
+      "word": "apple",
+      "hindi": "सेब",
+      "meaning_en": "A round fruit with red, green, or yellow skin",
+      "example_sentence": "She ate an apple every morning.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "apple.jpg"
+    },
+    {
+      "word": "bridge",
+      "hindi": "पुल",
+      "meaning_en": "A structure built over a river or road to allow people to cross",
+      "example_sentence": "We walked across the old stone bridge.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "bridge.jpg"
+    },
+    {
+      "word": "candle",
+      "hindi": "मोमबत्ती",
+      "meaning_en": "A stick of wax with a wick that gives light when burned",
+      "example_sentence": "She lit a candle during the power cut.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "candle.jpg"
+    },
+    {
+      "word": "doctor",
+      "hindi": "डॉक्टर",
+      "meaning_en": "A person who treats sick people",
+      "example_sentence": "The doctor gave him medicine for fever.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "doctor.jpg"
+    },
+    {
+      "word": "envelope",
+      "hindi": "लिफाफा",
+      "meaning_en": "A flat paper container used to send letters",
+      "example_sentence": "He put the letter inside the envelope.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "envelope.jpg"
+    },
+    {
+      "word": "fountain",
+      "hindi": "फव्वारा",
+      "meaning_en": "A structure that shoots water into the air",
+      "example_sentence": "Children played near the fountain in the park.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "fountain.jpg"
+    },
+    {
+      "word": "garden",
+      "hindi": "बगीचा",
+      "meaning_en": "A piece of land where flowers, vegetables, or trees are grown",
+      "example_sentence": "Grandma waters her garden every evening.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "garden.jpg"
+    },
+    {
+      "word": "helmet",
+      "hindi": "हेलमेट",
+      "meaning_en": "A hard hat worn to protect the head",
+      "example_sentence": "Always wear a helmet while riding a bicycle.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "helmet.jpg"
+    },
+    {
+      "word": "invoice",
+      "hindi": "बिल / चालान",
+      "meaning_en": "A written list of goods sent or work done with prices",
+      "example_sentence": "The shopkeeper gave us an invoice for the purchase.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "invoice.jpg"
+    },
+    {
+      "word": "journal",
+      "hindi": "डायरी / पत्रिका",
+      "meaning_en": "A personal diary or a magazine published regularly",
+      "example_sentence": "She wrote her feelings in her journal every night.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "journal.jpg"
+    },
+    {
+      "word": "kettle",
+      "hindi": "केतली",
+      "meaning_en": "A container used to boil water",
+      "example_sentence": "Put the kettle on to make some tea.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "kettle.jpg"
+    },
+    {
+      "word": "ladder",
+      "hindi": "सीढ़ी",
+      "meaning_en": "A set of steps used to climb up or down",
+      "example_sentence": "The painter climbed the ladder to reach the ceiling.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "ladder.jpg"
+    },
+    {
+      "word": "market",
+      "hindi": "बाज़ार",
+      "meaning_en": "A place where things are bought and sold",
+      "example_sentence": "Mother goes to the market every Saturday.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "market.jpg"
+    },
+    {
+      "word": "notebook",
+      "hindi": "कॉपी / नोटबुक",
+      "meaning_en": "A book with blank pages used for writing notes",
+      "example_sentence": "He wrote today's lesson in his notebook.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "notebook.jpg"
+    },
+    {
+      "word": "orchestra",
+      "hindi": "वाद्य वृंद",
+      "meaning_en": "A large group of musicians who play together",
+      "example_sentence": "The orchestra played beautiful classical music.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "orchestra.jpg"
+    },
+    {
+      "word": "patient",
+      "hindi": "मरीज़ / धैर्यवान",
+      "meaning_en": "A person receiving medical treatment; also meaning calm and not hasty",
+      "example_sentence": "The patient waited quietly in the hospital.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "patient.jpg"
+    },
+    {
+      "word": "queue",
+      "hindi": "कतार / लाइन",
+      "meaning_en": "A line of people waiting for something",
+      "example_sentence": "We stood in a queue to buy movie tickets.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "queue.jpg"
+    },
+    {
+      "word": "receipt",
+      "hindi": "रसीद",
+      "meaning_en": "A written proof that money or goods have been received",
+      "example_sentence": "Always keep the receipt after shopping.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "receipt.jpg"
+    },
+    {
+      "word": "schedule",
+      "hindi": "समय-सारणी",
+      "meaning_en": "A plan showing times for activities or events",
+      "example_sentence": "The teacher wrote the exam schedule on the board.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "schedule.jpg"
+    },
+    {
+      "word": "telescope",
+      "hindi": "दूरबीन",
+      "meaning_en": "An instrument used to see objects far away, especially stars",
+      "example_sentence": "He saw the moon clearly through the telescope.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "telescope.jpg"
+    },
+    {
+      "word": "banana",
+      "hindi": "केला",
+      "meaning_en": "A long yellow fruit",
+      "example_sentence": "He peeled the banana and ate it.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "banana.jpg"
+    },
+    {
+      "word": "mango",
+      "hindi": "आम",
+      "meaning_en": "A sweet tropical fruit with yellow flesh",
+      "example_sentence": "Mango is the national fruit of India.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "mango.jpg"
+    },
+    {
+      "word": "onion",
+      "hindi": "प्याज",
+      "meaning_en": "A round vegetable with a strong smell used in cooking",
+      "example_sentence": "Cutting onions makes your eyes water.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "onion.jpg"
+    },
+    {
+      "word": "potato",
+      "hindi": "आलू",
+      "meaning_en": "A starchy vegetable grown underground",
+      "example_sentence": "We had potato curry for lunch.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "potato.jpg"
+    },
+    {
+      "word": "tomato",
+      "hindi": "टमाटर",
+      "meaning_en": "A red fruit used as a vegetable in cooking",
+      "example_sentence": "She added tomatoes to the salad.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "tomato.jpg"
+    },
+    {
+      "word": "bread",
+      "hindi": "रोटी / ब्रेड",
+      "meaning_en": "A baked food made from flour and water",
+      "example_sentence": "We eat bread and butter for breakfast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "bread.jpg"
+    },
+    {
+      "word": "rice",
+      "hindi": "चावल",
+      "meaning_en": "White grains cooked and eaten as a staple food",
+      "example_sentence": "Rice and dal is a common Indian meal.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "rice.jpg"
+    },
+    {
+      "word": "milk",
+      "hindi": "दूध",
+      "meaning_en": "A white liquid produced by cows and drunk by people",
+      "example_sentence": "Children should drink milk every day.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "milk.jpg"
+    },
+    {
+      "word": "sugar",
+      "hindi": "चीनी",
+      "meaning_en": "A sweet white substance used in food and drinks",
+      "example_sentence": "She put two spoons of sugar in her tea.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "sugar.jpg"
+    },
+    {
+      "word": "salt",
+      "hindi": "नमक",
+      "meaning_en": "A white mineral used to season food",
+      "example_sentence": "Add a pinch of salt to the dish.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "salt.jpg"
+    },
+    {
+      "word": "egg",
+      "hindi": "अंडा",
+      "meaning_en": "An oval object laid by birds, often eaten as food",
+      "example_sentence": "He had a boiled egg for breakfast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "egg.jpg"
+    },
+    {
+      "word": "butter",
+      "hindi": "मक्खन",
+      "meaning_en": "A yellow fat made from milk, spread on bread",
+      "example_sentence": "She spread butter on the toast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "butter.jpg"
+    },
+    {
+      "word": "biscuit",
+      "hindi": "बिस्कुट",
+      "meaning_en": "A small flat baked snack, often sweet or salty",
+      "example_sentence": "He dipped the biscuit into his tea.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "biscuit.jpg"
+    },
+    {
+      "word": "lemon",
+      "hindi": "नींबू",
+      "meaning_en": "A sour yellow citrus fruit",
+      "example_sentence": "She squeezed lemon juice on the salad.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "lemon.jpg"
+    },
+    {
+      "word": "grapes",
+      "hindi": "अंगूर",
+      "meaning_en": "Small sweet fruits that grow in clusters",
+      "example_sentence": "She bought a bunch of grapes from the market.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "grapes.jpg"
+    },
+    {
+      "word": "dog",
+      "hindi": "कुत्ता",
+      "meaning_en": "A common pet animal that barks",
+      "example_sentence": "The dog wagged its tail happily.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "dog.jpg"
+    },
+    {
+      "word": "cat",
+      "hindi": "बिल्ली",
+      "meaning_en": "A small furry animal kept as a pet",
+      "example_sentence": "The cat sat on the mat.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "cat.jpg"
+    },
+    {
+      "word": "cow",
+      "hindi": "गाय",
+      "meaning_en": "A large farm animal that gives milk",
+      "example_sentence": "The cow grazed in the field.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "cow.jpg"
+    },
+    {
+      "word": "elephant",
+      "hindi": "हाथी",
+      "meaning_en": "The largest land animal with a long trunk",
+      "example_sentence": "We saw an elephant at the zoo.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "elephant.jpg"
+    },
+    {
+      "word": "tiger",
+      "hindi": "बाघ",
+      "meaning_en": "A large wild cat with stripes",
+      "example_sentence": "The tiger is the national animal of India.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "tiger.jpg"
+    },
+    {
+      "word": "parrot",
+      "hindi": "तोता",
+      "meaning_en": "A colorful bird that can mimic human speech",
+      "example_sentence": "The parrot repeated every word we said.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "parrot.jpg"
+    },
+    {
+      "word": "rabbit",
+      "hindi": "खरगोश",
+      "meaning_en": "A small furry animal with long ears",
+      "example_sentence": "The rabbit hopped across the garden.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "rabbit.jpg"
+    },
+    {
+      "word": "fish",
+      "hindi": "मछली",
+      "meaning_en": "An animal that lives in water and breathes through gills",
+      "example_sentence": "He kept goldfish in a bowl.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "fish.jpg"
+    },
+    {
+      "word": "horse",
+      "hindi": "घोड़ा",
+      "meaning_en": "A large animal used for riding or pulling loads",
+      "example_sentence": "The horse ran across the field.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "horse.jpg"
+    },
+    {
+      "word": "butterfly",
+      "hindi": "तितली",
+      "meaning_en": "An insect with large colorful wings",
+      "example_sentence": "A butterfly landed on the flower.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "butterfly.jpg"
+    },
+    {
+      "word": "sparrow",
+      "hindi": "गौरैया",
+      "meaning_en": "A small common brown bird",
+      "example_sentence": "A sparrow built its nest on our windowsill.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "sparrow.jpg"
+    },
+    {
+      "word": "snake",
+      "hindi": "साँप",
+      "meaning_en": "A long legless reptile that slithers",
+      "example_sentence": "A snake was found in the garden.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "snake.jpg"
+    },
+    {
+      "word": "lion",
+      "hindi": "शेर / सिंह",
+      "meaning_en": "A large wild cat known as the king of the jungle",
+      "example_sentence": "The lion roared loudly in the forest.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "lion.jpg"
+    },
+    {
+      "word": "rain",
+      "hindi": "बारिश",
+      "meaning_en": "Water that falls from clouds in drops",
+      "example_sentence": "Children played in the rain.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "rain.jpg"
+    },
+    {
+      "word": "cloud",
+      "hindi": "बादल",
+      "meaning_en": "A mass of water vapor floating in the sky",
+      "example_sentence": "Dark clouds appeared before the storm.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "cloud.jpg"
+    },
+    {
+      "word": "wind",
+      "hindi": "हवा / पवन",
+      "meaning_en": "Moving air, especially outdoors",
+      "example_sentence": "The wind blew away my kite.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "wind.jpg"
+    },
+    {
+      "word": "storm",
+      "hindi": "तूफान",
+      "meaning_en": "Very bad weather with strong wind and rain",
+      "example_sentence": "The storm uprooted many trees.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "storm.jpg"
+    },
+    {
+      "word": "rainbow",
+      "hindi": "इंद्रधनुष",
+      "meaning_en": "An arc of colors visible in the sky after rain",
+      "example_sentence": "We saw a beautiful rainbow after the shower.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "rainbow.jpg"
+    },
+    {
+      "word": "fog",
+      "hindi": "कोहरा",
+      "meaning_en": "Thick cloud close to the ground that is hard to see through",
+      "example_sentence": "The fog was so thick that we could not see the road.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "fog.jpg"
+    },
+    {
+      "word": "snow",
+      "hindi": "बर्फ (हिमपात)",
+      "meaning_en": "White frozen water that falls from the sky in cold weather",
+      "example_sentence": "The children built a snowman in the park.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "snow.jpg"
+    },
+    {
+      "word": "sun",
+      "hindi": "सूरज",
+      "meaning_en": "The star at the center of our solar system that gives light and heat",
+      "example_sentence": "The sun rises in the east.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "sun.jpg"
+    },
+    {
+      "word": "river",
+      "hindi": "नदी",
+      "meaning_en": "A large natural stream of water flowing to the sea",
+      "example_sentence": "Children swam in the river.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "river.jpg"
+    },
+    {
+      "word": "mountain",
+      "hindi": "पहाड़",
+      "meaning_en": "A very high area of land with steep sides",
+      "example_sentence": "We could see snow on the mountain top.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "mountain.jpg"
+    },
+    {
+      "word": "forest",
+      "hindi": "जंगल",
+      "meaning_en": "A large area covered with trees",
+      "example_sentence": "The deer ran into the forest.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "forest.jpg"
+    },
+    {
+      "word": "flower",
+      "hindi": "फूल",
+      "meaning_en": "The colorful part of a plant that blooms",
+      "example_sentence": "She picked a flower from the garden.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "flower.jpg"
+    },
+    {
+      "word": "tree",
+      "hindi": "पेड़",
+      "meaning_en": "A tall plant with a trunk, branches, and leaves",
+      "example_sentence": "The bird sat on the top branch of the tree.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "tree.jpg"
+    },
+    {
+      "word": "leaf",
+      "hindi": "पत्ता",
+      "meaning_en": "A flat green part of a plant that grows from a branch",
+      "example_sentence": "A dry leaf fell from the tree.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "leaf.jpg"
+    },
+    {
+      "word": "seed",
+      "hindi": "बीज",
+      "meaning_en": "A small part of a plant that can grow into a new plant",
+      "example_sentence": "She planted a seed in the pot.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "seed.jpg"
+    },
+    {
+      "word": "soil",
+      "hindi": "मिट्टी",
+      "meaning_en": "The top layer of earth in which plants grow",
+      "example_sentence": "The farmer dug the soil before planting.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "soil.jpg"
+    },
+    {
+      "word": "lake",
+      "hindi": "झील",
+      "meaning_en": "A large area of water surrounded by land",
+      "example_sentence": "Ducks swam on the lake.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "lake.jpg"
+    },
+    {
+      "word": "beach",
+      "hindi": "समुद्र तट",
+      "meaning_en": "An area of sand or stones next to the sea",
+      "example_sentence": "We collected shells on the beach.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "beach.jpg"
+    },
+    {
+      "word": "father",
+      "hindi": "पिता",
+      "meaning_en": "A male parent",
+      "example_sentence": "My father goes to office every day.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "father.jpg"
+    },
+    {
+      "word": "mother",
+      "hindi": "माँ",
+      "meaning_en": "A female parent",
+      "example_sentence": "My mother cooks delicious food.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "mother.jpg"
+    },
+    {
+      "word": "brother",
+      "hindi": "भाई",
+      "meaning_en": "A male sibling",
+      "example_sentence": "My brother and I play cricket together.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "brother.jpg"
+    },
+    {
+      "word": "sister",
+      "hindi": "बहन",
+      "meaning_en": "A female sibling",
+      "example_sentence": "My sister helps me with homework.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "sister.jpg"
+    },
+    {
+      "word": "grandfather",
+      "hindi": "दादा / नाना",
+      "meaning_en": "The father of one's parent",
+      "example_sentence": "My grandfather tells us stories at night.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "grandfather.jpg"
+    },
+    {
+      "word": "grandmother",
+      "hindi": "दादी / नानी",
+      "meaning_en": "The mother of one's parent",
+      "example_sentence": "My grandmother knits sweaters for us.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "grandmother.jpg"
+    },
+    {
+      "word": "uncle",
+      "hindi": "चाचा / मामा",
+      "meaning_en": "The brother of one's parent",
+      "example_sentence": "My uncle lives in Mumbai.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "uncle.jpg"
+    },
+    {
+      "word": "aunt",
+      "hindi": "चाची / मामी / बुआ",
+      "meaning_en": "The sister of one's parent",
+      "example_sentence": "My aunt brought sweets from the bakery.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "aunt.jpg"
+    },
+    {
+      "word": "cousin",
+      "hindi": "चचेरा भाई / बहन",
+      "meaning_en": "A child of one's uncle or aunt",
+      "example_sentence": "My cousin came to visit us during Diwali.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "cousin.jpg"
+    },
+    {
+      "word": "bus",
+      "hindi": "बस",
+      "meaning_en": "A large road vehicle that carries many passengers",
+      "example_sentence": "We take the school bus every morning.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "bus.jpg"
+    },
+    {
+      "word": "train",
+      "hindi": "ट्रेन / रेलगाड़ी",
+      "meaning_en": "A vehicle that travels on railway tracks",
+      "example_sentence": "The train arrived at the station on time.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "train.jpg"
+    },
+    {
+      "word": "bicycle",
+      "hindi": "साइकिल",
+      "meaning_en": "A two-wheeled vehicle pedalled by the rider",
+      "example_sentence": "He rides his bicycle to school.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "bicycle.jpg"
+    },
+    {
+      "word": "car",
+      "hindi": "कार",
+      "meaning_en": "A four-wheeled motor vehicle",
+      "example_sentence": "Dad drove us to the market in his car.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "car.jpg"
+    },
+    {
+      "word": "aeroplane",
+      "hindi": "हवाई जहाज",
+      "meaning_en": "A vehicle with wings that flies through the air",
+      "example_sentence": "We traveled by aeroplane to Delhi.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "aeroplane.jpg"
+    },
+    {
+      "word": "boat",
+      "hindi": "नाव",
+      "meaning_en": "A small vehicle used for traveling on water",
+      "example_sentence": "The fisherman rowed his boat across the river.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "boat.jpg"
+    },
+    {
+      "word": "auto-rickshaw",
+      "hindi": "ऑटो-रिक्शा",
+      "meaning_en": "A three-wheeled motorized vehicle used as a taxi in India",
+      "example_sentence": "We took an auto-rickshaw to the hospital.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "autorickshaw.jpg"
+    },
+    {
+      "word": "shirt",
+      "hindi": "कमीज़",
+      "meaning_en": "A piece of clothing worn on the upper body",
+      "example_sentence": "He wore a white shirt to school.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "shirt.jpg"
+    },
+    {
+      "word": "trousers",
+      "hindi": "पतलून",
+      "meaning_en": "A piece of clothing covering both legs from waist to ankles",
+      "example_sentence": "He ironed his trousers before the interview.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "trousers.jpg"
+    },
+    {
+      "word": "dress",
+      "hindi": "फ्रॉक / पोशाक",
+      "meaning_en": "A piece of clothing worn by girls or women",
+      "example_sentence": "She wore a pink dress to the party.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "dress.jpg"
+    },
+    {
+      "word": "shoes",
+      "hindi": "जूते",
+      "meaning_en": "Footwear that covers and protects the foot",
+      "example_sentence": "He polished his shoes before the match.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "shoes.jpg"
+    },
+    {
+      "word": "cap",
+      "hindi": "टोपी",
+      "meaning_en": "A soft flat hat without a brim",
+      "example_sentence": "He wore a cap to protect himself from the sun.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "cap.jpg"
+    },
+    {
+      "word": "umbrella",
+      "hindi": "छाता",
+      "meaning_en": "A folding device used for protection from rain or sun",
+      "example_sentence": "She opened her umbrella when it started to rain.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "umbrella.jpg"
+    },
+    {
+      "word": "sweater",
+      "hindi": "स्वेटर",
+      "meaning_en": "A warm knitted garment worn on the upper body",
+      "example_sentence": "Grandma knitted a sweater for winter.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "sweater.jpg"
+    },
+    {
+      "word": "uniform",
+      "hindi": "वर्दी / यूनिफॉर्म",
+      "meaning_en": "A set of standard clothes worn at school or work",
+      "example_sentence": "All students must wear their school uniform.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "uniform.jpg"
+    },
+    {
+      "word": "happy",
+      "hindi": "खुश / प्रसन्न",
+      "meaning_en": "Feeling joy or pleasure",
+      "example_sentence": "She was happy to receive a gift.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "happy.jpg"
+    },
+    {
+      "word": "sad",
+      "hindi": "दुखी / उदास",
+      "meaning_en": "Feeling unhappy or sorrowful",
+      "example_sentence": "He felt sad when his pet dog died.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "sad.jpg"
+    },
+    {
+      "word": "angry",
+      "hindi": "गुस्से में",
+      "meaning_en": "Feeling strong displeasure or rage",
+      "example_sentence": "She was angry when someone broke her pencil.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "angry.jpg"
+    },
+    {
+      "word": "afraid",
+      "hindi": "डरा हुआ",
+      "meaning_en": "Feeling fear or worry",
+      "example_sentence": "He was afraid of the dark.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "afraid.jpg"
+    },
+    {
+      "word": "excited",
+      "hindi": "उत्साहित",
+      "meaning_en": "Feeling very enthusiastic and eager",
+      "example_sentence": "The children were excited about the field trip.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "excited.jpg"
+    },
+    {
+      "word": "surprised",
+      "hindi": "चौंका हुआ",
+      "meaning_en": "Feeling sudden shock or wonder",
+      "example_sentence": "She was surprised by the birthday party.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "surprised.jpg"
+    },
+    {
+      "word": "tired",
+      "hindi": "थका हुआ",
+      "meaning_en": "Feeling a need to rest or sleep after effort",
+      "example_sentence": "He was tired after the long walk.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "tired.jpg"
+    },
+    {
+      "word": "bored",
+      "hindi": "बोर / ऊबा हुआ",
+      "meaning_en": "Feeling uninterested and restless",
+      "example_sentence": "She was bored during the long train journey.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "bored.jpg"
+    },
+    {
+      "word": "hand",
+      "hindi": "हाथ",
+      "meaning_en": "The part of the body at the end of the arm",
+      "example_sentence": "She raised her hand to answer the question.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "hand.jpg"
+    },
+    {
+      "word": "eye",
+      "hindi": "आँख",
+      "meaning_en": "The organ used for seeing",
+      "example_sentence": "She closed her eyes and fell asleep.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "eye.jpg"
+    }
+  ]
+}

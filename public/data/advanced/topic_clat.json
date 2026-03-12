@@ -1,0 +1,862 @@
+{
+  "words": [
+    {
+      "word": "ephemeral",
+      "hindi": "क्षणभंगुर / अल्पकालिक",
+      "meaning_en": "Lasting for a very short time",
+      "example_sentence": "Fame can be ephemeral—here today, gone tomorrow.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that lasts for only a very short period",
+        "answer": "ephemeral"
+      },
+      "analogy": {
+        "pair": "permanent : eternal",
+        "question": "temporary : ______",
+        "answer": "ephemeral"
+      },
+      "hint_words": "eternal, permanent, ephemeral, enduring",
+      "correct_word": "ephemeral",
+      "sentence": "The joy of victory was ______, fading within hours of the match.",
+      "meaning_hi": "क्षणभंगुर",
+      "example_sentence_hi": "प्रसिद्धि क्षणभंगुर हो सकती है—आज है, कल नहीं।"
+    },
+    {
+      "word": "magnanimous",
+      "hindi": "उदार / महानदिल",
+      "meaning_en": "Very generous or forgiving, especially towards a rival or someone less powerful",
+      "example_sentence": "The magnanimous winner congratulated his opponent warmly.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is very generous and forgiving, especially to rivals",
+        "answer": "magnanimous"
+      },
+      "analogy": {
+        "pair": "petty : mean",
+        "question": "noble : ______",
+        "answer": "magnanimous"
+      },
+      "hint_words": "petty, magnanimous, selfish, proud",
+      "correct_word": "magnanimous",
+      "sentence": "It was ______ of him to forgive those who had wronged him.",
+      "meaning_hi": "उदार",
+      "example_sentence_hi": "उदार विजेता ने अपने प्रतिद्वंद्वी को गर्मजोशी से बधाई दी।"
+    },
+    {
+      "word": "vacillate",
+      "hindi": "डगमगाना / अनिश्चय में रहना",
+      "meaning_en": "To waver between different opinions or actions; to be indecisive",
+      "example_sentence": "She vacillated between accepting the job offer and staying in her hometown.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To keep changing one's mind or opinion; to be unable to decide",
+        "answer": "vacillate"
+      },
+      "analogy": {
+        "pair": "decide : resolve",
+        "question": "hesitate : ______",
+        "answer": "vacillate"
+      },
+      "hint_words": "decide, vacillate, commit, choose",
+      "correct_word": "vacillate",
+      "sentence": "Leaders who ______ in times of crisis lose the confidence of their followers.",
+      "meaning_hi": "डगमगाना",
+      "example_sentence_hi": "वह नौकरी का प्रस्ताव स्वीकार करने और अपने गृहनगर में रहने के बीच डगमगाती रही।"
+    },
+    {
+      "word": "zeitgeist",
+      "hindi": "युग-भावना / समय की प्रवृत्ति",
+      "meaning_en": "The defining spirit or mood of a particular period of history",
+      "example_sentence": "Social media perfectly captures the zeitgeist of the 21st century.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "The general mood or spirit that characterises a particular historical period",
+        "answer": "zeitgeist"
+      },
+      "analogy": {
+        "pair": "individual : personality",
+        "question": "era : ______",
+        "answer": "zeitgeist"
+      },
+      "hint_words": "tradition, heritage, zeitgeist, nostalgia",
+      "correct_word": "zeitgeist",
+      "sentence": "The film captured the ______ of the 1990s with remarkable accuracy.",
+      "meaning_hi": "युग-भावना",
+      "example_sentence_hi": "सोशल मीडिया 21वीं सदी की युग-भावना को पूरी तरह दर्शाता है।"
+    },
+    {
+      "word": "chicanery",
+      "hindi": "धोखाधड़ी / चालाकी",
+      "meaning_en": "The use of tricks and deception to achieve one's aims",
+      "example_sentence": "The lawyer was accused of chicanery in presenting false evidence.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "The use of clever tricks and deception to achieve goals dishonestly",
+        "answer": "chicanery"
+      },
+      "analogy": {
+        "pair": "honesty : integrity",
+        "question": "trickery : ______",
+        "answer": "chicanery"
+      },
+      "hint_words": "chicanery, integrity, honesty, transparency",
+      "correct_word": "chicanery",
+      "sentence": "The election was won through ______ rather than genuine voter support.",
+      "meaning_hi": "धोखाधड़ी",
+      "example_sentence_hi": "वकील पर झूठे साक्ष्य प्रस्तुत करने में धोखाधड़ी का आरोप लगाया गया।"
+    },
+    {
+      "word": "cogent",
+      "hindi": "ठोस / प्रभावशाली तर्क वाला",
+      "meaning_en": "Clear, logical, and convincing in argument",
+      "example_sentence": "She presented a cogent argument in favour of the new policy.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An argument that is clear, logical, and highly convincing",
+        "answer": "cogent"
+      },
+      "analogy": {
+        "pair": "weak : feeble",
+        "question": "convincing : ______",
+        "answer": "cogent"
+      },
+      "hint_words": "cogent, weak, feeble, illogical",
+      "correct_word": "cogent",
+      "sentence": "The barrister made a ______ case that left no room for doubt.",
+      "meaning_hi": "ठोस",
+      "example_sentence_hi": "उसने नई नीति के पक्ष में एक ठोस तर्क प्रस्तुत किया।"
+    },
+    {
+      "word": "egregious",
+      "hindi": "घोर / अत्यंत बुरा",
+      "meaning_en": "Outstandingly bad; shockingly wrong",
+      "example_sentence": "The judge condemned the egregious human rights violations.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A mistake or wrong so obvious and shocking that it cannot be overlooked",
+        "answer": "egregious"
+      },
+      "analogy": {
+        "pair": "minor : trivial",
+        "question": "shockingly bad : ______",
+        "answer": "egregious"
+      },
+      "hint_words": "egregious, minor, trivial, acceptable",
+      "correct_word": "egregious",
+      "sentence": "The report detailed an ______ misuse of public funds.",
+      "meaning_hi": "घोर",
+      "example_sentence_hi": "न्यायाधीश ने मानवाधिकारों के घोर उल्लंघन की निंदा की।"
+    },
+    {
+      "word": "esoteric",
+      "hindi": "गूढ़ / रहस्यमय",
+      "meaning_en": "Intended for or understood by only a small number of people with specialised knowledge",
+      "example_sentence": "The manuscript was written in an esoteric code understood by few.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Knowledge or information understood by only a small, specialised group",
+        "answer": "esoteric"
+      },
+      "analogy": {
+        "pair": "common : widespread",
+        "question": "known to few : ______",
+        "answer": "esoteric"
+      },
+      "hint_words": "esoteric, common, widespread, popular",
+      "correct_word": "esoteric",
+      "sentence": "The text contained ______ references that only experts could understand.",
+      "meaning_hi": "गूढ़",
+      "example_sentence_hi": "पांडुलिपि एक गूढ़ कोड में लिखी थी जिसे कम लोग समझते थे।"
+    },
+    {
+      "word": "exculpate",
+      "hindi": "निर्दोष साबित करना / दोषमुक्त करना",
+      "meaning_en": "To show or declare that someone is not guilty",
+      "example_sentence": "New evidence emerged that exculpated the wrongly convicted man.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To formally clear someone from blame or criminal charges",
+        "answer": "exculpate"
+      },
+      "analogy": {
+        "pair": "condemn : convict",
+        "question": "clear of blame : ______",
+        "answer": "exculpate"
+      },
+      "hint_words": "exculpate, condemn, convict, punish",
+      "correct_word": "exculpate",
+      "sentence": "The surveillance footage helped ______ the prime suspect.",
+      "meaning_hi": "निर्दोष साबित करना",
+      "example_sentence_hi": "नए साक्ष्य सामने आए जिसने गलत तरीके से दोषसिद्ध व्यक्ति को निर्दोष साबित किया।"
+    },
+    {
+      "word": "impugn",
+      "hindi": "संदेह करना / आरोप लगाना",
+      "meaning_en": "To dispute the truth, validity, or honesty of something",
+      "example_sentence": "The defence lawyer tried to impugn the credibility of the witness.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To call into question the honesty or validity of someone or something",
+        "answer": "impugn"
+      },
+      "analogy": {
+        "pair": "vindicate : support",
+        "question": "challenge credibility : ______",
+        "answer": "impugn"
+      },
+      "hint_words": "impugn, vindicate, support, affirm",
+      "correct_word": "impugn",
+      "sentence": "To ______ someone's character without evidence is defamation.",
+      "meaning_hi": "आरोप लगाना",
+      "example_sentence_hi": "बचाव पक्ष के वकील ने गवाह की विश्वसनीयता पर संदेह करने की कोशिश की।"
+    },
+    {
+      "word": "mendacious",
+      "hindi": "झूठा / असत्यवादी",
+      "meaning_en": "Not telling the truth; lying",
+      "example_sentence": "The mendacious official gave false figures in his report.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who habitually tells lies or does not speak the truth",
+        "answer": "mendacious"
+      },
+      "analogy": {
+        "pair": "truthful : veracious",
+        "question": "lying : ______",
+        "answer": "mendacious"
+      },
+      "hint_words": "mendacious, truthful, veracious, honest",
+      "correct_word": "mendacious",
+      "sentence": "The ______ witness was later found to have fabricated his entire account.",
+      "meaning_hi": "झूठा",
+      "example_sentence_hi": "झूठे अधिकारी ने अपनी रिपोर्ट में गलत आंकड़े दिए।"
+    },
+    {
+      "word": "polemic",
+      "hindi": "विवादास्पद तर्क / खंडन",
+      "meaning_en": "A strong verbal or written attack on someone's opinions or beliefs",
+      "example_sentence": "The pamphlet was a polemic against the corrupt government.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A strong, written attack on another person's opinion or doctrine",
+        "answer": "polemic"
+      },
+      "analogy": {
+        "pair": "praise : commendation",
+        "question": "written attack on beliefs : ______",
+        "answer": "polemic"
+      },
+      "hint_words": "polemic, praise, commendation, endorsement",
+      "correct_word": "polemic",
+      "sentence": "His book was a fierce ______ against economic inequality.",
+      "meaning_hi": "विवादास्पद तर्क",
+      "example_sentence_hi": "पर्चा भ्रष्ट सरकार के विरुद्ध एक विवादास्पद लेख था।"
+    },
+    {
+      "word": "repudiate",
+      "hindi": "अस्वीकार करना / नकारना",
+      "meaning_en": "To refuse to accept or be associated with; to deny the truth of",
+      "example_sentence": "The government repudiated the treaty signed by the previous administration.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To reject and refuse to accept a claim, idea, or agreement",
+        "answer": "repudiate"
+      },
+      "analogy": {
+        "pair": "accept : ratify",
+        "question": "reject completely : ______",
+        "answer": "repudiate"
+      },
+      "hint_words": "repudiate, accept, ratify, endorse",
+      "correct_word": "repudiate",
+      "sentence": "The accused firmly ______ all charges against him.",
+      "meaning_hi": "अस्वीकार करना",
+      "example_sentence_hi": "सरकार ने पिछले प्रशासन द्वारा हस्ताक्षरित संधि को अस्वीकार कर दिया।"
+    },
+    {
+      "word": "audacious",
+      "hindi": "साहसी / निर्भीक",
+      "meaning_en": "Showing a willingness to take bold risks",
+      "example_sentence": "His audacious plan to reform the tax system won him both admirers and critics.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Extremely bold or daring in action or thought",
+        "answer": "audacious"
+      },
+      "analogy": {
+        "pair": "timid : cowardly",
+        "question": "extremely bold and daring : ______",
+        "answer": "audacious"
+      },
+      "hint_words": "audacious, timid, cowardly, fearful",
+      "correct_word": "audacious",
+      "sentence": "The ______ entrepreneur launched three startups simultaneously.",
+      "meaning_hi": "साहसी",
+      "example_sentence_hi": "कर प्रणाली में सुधार की उनकी साहसी योजना ने उन्हें प्रशंसक और आलोचक दोनों दिए।"
+    },
+    {
+      "word": "banal",
+      "hindi": "साधारण / घिसा-पिटा",
+      "meaning_en": "So lacking in originality as to be obvious and boring",
+      "example_sentence": "Critics dismissed the film's plot as banal and predictable.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something so common and unoriginal that it is boring",
+        "answer": "banal"
+      },
+      "analogy": {
+        "pair": "novel : original",
+        "question": "lacking originality and boring : ______",
+        "answer": "banal"
+      },
+      "hint_words": "banal, novel, original, unique",
+      "correct_word": "banal",
+      "sentence": "The speech was filled with ______ phrases that failed to inspire the audience.",
+      "meaning_hi": "साधारण",
+      "example_sentence_hi": "आलोचकों ने फिल्म की कहानी को साधारण और अनुमानित बताकर खारिज कर दिया।"
+    },
+    {
+      "word": "bequeath",
+      "hindi": "वसीयत में देना / छोड़ जाना",
+      "meaning_en": "Leave property or money to someone by will after death",
+      "example_sentence": "She bequeathed her entire estate to a children's hospital.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To leave property or legacy to someone after one's death",
+        "answer": "bequeath"
+      },
+      "analogy": {
+        "pair": "inherit : receive from ancestors",
+        "question": "to leave behind after death : ______",
+        "answer": "bequeath"
+      },
+      "hint_words": "bequeath, inherit, receive, take",
+      "correct_word": "bequeath",
+      "sentence": "The elderly man decided to ______ his ancestral home to a charitable trust.",
+      "meaning_hi": "वसीयत में देना",
+      "example_sentence_hi": "उसने अपनी पूरी संपत्ति एक बच्चों के अस्पताल को वसीयत में दे दी।"
+    },
+    {
+      "word": "chauvinism",
+      "hindi": "अंधराष्ट्रवाद / पक्षपाती श्रेष्ठता भाव",
+      "meaning_en": "Exaggerated or aggressive patriotism; bias in favour of one's own group",
+      "example_sentence": "Male chauvinism in the workplace prevented women from advancing in their careers.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Exaggerated belief in the superiority of one's own group",
+        "answer": "chauvinism"
+      },
+      "analogy": {
+        "pair": "equality : fairness",
+        "question": "aggressive bias towards one's group : ______",
+        "answer": "chauvinism"
+      },
+      "hint_words": "chauvinism, equality, fairness, impartiality",
+      "correct_word": "chauvinism",
+      "sentence": "The policy was criticized as an example of ______ that excluded minorities.",
+      "meaning_hi": "अंधराष्ट्रवाद",
+      "example_sentence_hi": "कार्यस्थल पर पुरुष-श्रेष्ठता भाव ने महिलाओं को करियर में आगे बढ़ने से रोका।"
+    },
+    {
+      "word": "condescending",
+      "hindi": "अहंकारपूर्ण / कृपालु ढंग से",
+      "meaning_en": "Having a superior attitude; talking down to others",
+      "example_sentence": "His condescending remarks made his colleagues feel inferior.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Behaving as if one is superior or better than others",
+        "answer": "condescending"
+      },
+      "analogy": {
+        "pair": "respectful : courteous",
+        "question": "treating others as inferior : ______",
+        "answer": "condescending"
+      },
+      "hint_words": "condescending, respectful, courteous, humble",
+      "correct_word": "condescending",
+      "sentence": "The senior officer's ______ tone alienated his subordinates.",
+      "meaning_hi": "अहंकारपूर्ण",
+      "example_sentence_hi": "उसकी अहंकारपूर्ण टिप्पणियों ने उसके सहयोगियों को हीन महसूस कराया।"
+    },
+    {
+      "word": "deference",
+      "hindi": "आदर / सम्मान",
+      "meaning_en": "Humble submission and respect towards another person",
+      "example_sentence": "He always spoke to elders with deference and respect.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Respectful submission to the judgement or wishes of another",
+        "answer": "deference"
+      },
+      "analogy": {
+        "pair": "defiance : resistance",
+        "question": "respectful submission : ______",
+        "answer": "deference"
+      },
+      "hint_words": "deference, defiance, resistance, rebellion",
+      "correct_word": "deference",
+      "sentence": "In ______ to the senior advocate, the junior lawyer remained silent during the hearing.",
+      "meaning_hi": "आदर",
+      "example_sentence_hi": "वह हमेशा बड़ों से आदर और सम्मान के साथ बात करता था।"
+    },
+    {
+      "word": "depravity",
+      "hindi": "दुराचार / भ्रष्टाचरण",
+      "meaning_en": "Moral corruption; wickedness",
+      "example_sentence": "The depravity of the regime shocked the international community.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A state of extreme moral corruption or wickedness",
+        "answer": "depravity"
+      },
+      "analogy": {
+        "pair": "virtue : goodness",
+        "question": "extreme moral corruption : ______",
+        "answer": "depravity"
+      },
+      "hint_words": "depravity, virtue, goodness, integrity",
+      "correct_word": "depravity",
+      "sentence": "The court heard shocking evidence of the accused's ______.",
+      "meaning_hi": "दुराचार",
+      "example_sentence_hi": "शासन की दुराचार ने अंतरराष्ट्रीय समुदाय को चौंका दिया।"
+    },
+    {
+      "word": "dilatory",
+      "hindi": "विलंब करने वाला / टालमटोल करने वाला",
+      "meaning_en": "Slow to act; causing delay",
+      "example_sentence": "The dilatory tactics of the opposition stalled the bill for months.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Deliberately causing delay or acting slowly",
+        "answer": "dilatory"
+      },
+      "analogy": {
+        "pair": "prompt : swift",
+        "question": "deliberately slow and delaying : ______",
+        "answer": "dilatory"
+      },
+      "hint_words": "dilatory, prompt, swift, efficient",
+      "correct_word": "dilatory",
+      "sentence": "The ______ bureaucracy frustrated citizens who needed urgent approvals.",
+      "meaning_hi": "विलंब करने वाला",
+      "example_sentence_hi": "विपक्ष की टालमटोल करने वाली रणनीति ने विधेयक को महीनों तक रोके रखा।"
+    },
+    {
+      "word": "duplicity",
+      "hindi": "धोखेबाजी / दोहरापन",
+      "meaning_en": "Deceitfulness; saying one thing and doing another",
+      "example_sentence": "His duplicity was exposed when the private messages were leaked.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "The practice of deceiving by acting differently than what one says",
+        "answer": "duplicity"
+      },
+      "analogy": {
+        "pair": "sincerity : honesty",
+        "question": "deceitfulness and double-dealing : ______",
+        "answer": "duplicity"
+      },
+      "hint_words": "duplicity, sincerity, honesty, transparency",
+      "correct_word": "duplicity",
+      "sentence": "The treaty collapsed due to the ______ of one of the negotiating parties.",
+      "meaning_hi": "धोखेबाजी",
+      "example_sentence_hi": "जब निजी संदेश लीक हुए तो उसकी धोखेबाजी उजागर हो गई।"
+    },
+    {
+      "word": "enigmatic",
+      "hindi": "रहस्यमय / पहेलीनुमा",
+      "meaning_en": "Difficult to interpret or understand; mysterious",
+      "example_sentence": "The Mona Lisa's enigmatic smile has fascinated viewers for centuries.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something or someone that is mysterious and difficult to understand",
+        "answer": "enigmatic"
+      },
+      "analogy": {
+        "pair": "transparent : clear",
+        "question": "mysterious and hard to interpret : ______",
+        "answer": "enigmatic"
+      },
+      "hint_words": "enigmatic, transparent, clear, obvious",
+      "correct_word": "enigmatic",
+      "sentence": "The ______ statement of the witness left the court puzzled.",
+      "meaning_hi": "रहस्यमय",
+      "example_sentence_hi": "मोना लिसा की रहस्यमय मुस्कान सदियों से दर्शकों को मोहित करती रही है।"
+    },
+    {
+      "word": "equitable",
+      "hindi": "न्यायसंगत / समान",
+      "meaning_en": "Fair and impartial; treating everyone equally",
+      "example_sentence": "An equitable distribution of resources is essential for social justice.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something that is fair and treats everyone equally",
+        "answer": "equitable"
+      },
+      "analogy": {
+        "pair": "biased : partial",
+        "question": "fair and impartial : ______",
+        "answer": "equitable"
+      },
+      "hint_words": "equitable, biased, partial, unfair",
+      "correct_word": "equitable",
+      "sentence": "The court's ruling ensured an ______ settlement between the two parties.",
+      "meaning_hi": "न्यायसंगत",
+      "example_sentence_hi": "सामाजिक न्याय के लिए संसाधनों का न्यायसंगत वितरण आवश्यक है।"
+    },
+    {
+      "word": "fallacious",
+      "hindi": "भ्रामक / गलत",
+      "meaning_en": "Based on a mistaken belief; misleading",
+      "example_sentence": "The lawyer exposed the fallacious reasoning in the opposing argument.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "An argument or belief that is based on false or mistaken reasoning",
+        "answer": "fallacious"
+      },
+      "analogy": {
+        "pair": "valid : sound",
+        "question": "based on false reasoning : ______",
+        "answer": "fallacious"
+      },
+      "hint_words": "fallacious, valid, sound, logical",
+      "correct_word": "fallacious",
+      "sentence": "The report was based on ______ data that had not been verified.",
+      "meaning_hi": "भ्रामक",
+      "example_sentence_hi": "वकील ने विरोधी तर्क में भ्रामक तर्क को उजागर किया।"
+    },
+    {
+      "word": "guile",
+      "hindi": "चालाकी / धूर्तता",
+      "meaning_en": "Sly or cunning intelligence",
+      "example_sentence": "She used guile rather than force to get what she wanted.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Clever but deceitful behaviour used to achieve a goal",
+        "answer": "guile"
+      },
+      "analogy": {
+        "pair": "candour : openness",
+        "question": "cunning and deceitful cleverness : ______",
+        "answer": "guile"
+      },
+      "hint_words": "guile, candour, openness, honesty",
+      "correct_word": "guile",
+      "sentence": "The diplomat used ______ to extract information without arousing suspicion.",
+      "meaning_hi": "चालाकी",
+      "example_sentence_hi": "उसने जो चाहा वह पाने के लिए शक्ति की बजाय चालाकी का इस्तेमाल किया।"
+    },
+    {
+      "word": "laconic",
+      "hindi": "संक्षिप्त / कम बोलने वाला",
+      "meaning_en": "Using very few words; brief and concise",
+      "example_sentence": "His laconic reply of 'no' ended the debate immediately.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who uses very few words to express themselves",
+        "answer": "laconic"
+      },
+      "analogy": {
+        "pair": "verbose : wordy",
+        "question": "using very few words : ______",
+        "answer": "laconic"
+      },
+      "hint_words": "laconic, verbose, wordy, garrulous",
+      "correct_word": "laconic",
+      "sentence": "The general's ______ orders were clear and left no room for misinterpretation.",
+      "meaning_hi": "संक्षिप्त",
+      "example_sentence_hi": "'नहीं' का उसका संक्षिप्त जवाब तुरंत बहस समाप्त कर गया।"
+    },
+    {
+      "word": "levity",
+      "hindi": "हल्कापन / अनुचित मज़ाक",
+      "meaning_en": "The treatment of a serious matter with humour or lack of respect",
+      "example_sentence": "The judge rebuked counsel for showing levity during a murder trial.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Treating a serious matter with undue humour or lightness",
+        "answer": "levity"
+      },
+      "analogy": {
+        "pair": "gravity : seriousness",
+        "question": "treating serious matters lightly : ______",
+        "answer": "levity"
+      },
+      "hint_words": "levity, gravity, seriousness, solemnity",
+      "correct_word": "levity",
+      "sentence": "There is no room for ______ when discussing matters of national security.",
+      "meaning_hi": "हल्कापन",
+      "example_sentence_hi": "न्यायाधीश ने वकील को हत्या के मुकदमे के दौरान हल्कापन दिखाने पर फटकार लगाई।"
+    },
+    {
+      "word": "maudlin",
+      "hindi": "भावुक / अश्रुपूर्ण",
+      "meaning_en": "Excessively sentimental, often through drink",
+      "example_sentence": "He became maudlin after a few drinks, tearfully recalling old memories.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Excessively sentimental or tearfully emotional",
+        "answer": "maudlin"
+      },
+      "analogy": {
+        "pair": "stoic : unemotional",
+        "question": "excessively and weakly emotional : ______",
+        "answer": "maudlin"
+      },
+      "hint_words": "maudlin, stoic, unemotional, composed",
+      "correct_word": "maudlin",
+      "sentence": "The ______ speech at the farewell party made everyone uncomfortable.",
+      "meaning_hi": "भावुक",
+      "example_sentence_hi": "कुछ पेय के बाद वह भावुक हो गया और पुरानी यादें याद करके रो पड़ा।"
+    },
+    {
+      "word": "mercenary",
+      "hindi": "स्वार्थी / भाड़े का",
+      "meaning_en": "Primarily concerned with making money at the expense of ethics",
+      "example_sentence": "The mercenary lawyer took cases only based on the fees involved.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person motivated purely by money or self-interest",
+        "answer": "mercenary"
+      },
+      "analogy": {
+        "pair": "altruistic : selfless",
+        "question": "motivated only by money : ______",
+        "answer": "mercenary"
+      },
+      "hint_words": "mercenary, altruistic, selfless, philanthropic",
+      "correct_word": "mercenary",
+      "sentence": "The company's ______ practices prioritised profit over employee welfare.",
+      "meaning_hi": "स्वार्थी",
+      "example_sentence_hi": "स्वार्थी वकील ने केवल फीस के आधार पर केस लिए।"
+    },
+    {
+      "word": "nefarious",
+      "hindi": "दुष्ट / अपराधी",
+      "meaning_en": "Wicked and criminal",
+      "example_sentence": "The gang was involved in nefarious activities across several states.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something wicked, criminal, or morally wrong",
+        "answer": "nefarious"
+      },
+      "analogy": {
+        "pair": "virtuous : righteous",
+        "question": "wicked and criminal : ______",
+        "answer": "nefarious"
+      },
+      "hint_words": "nefarious, virtuous, righteous, honest",
+      "correct_word": "nefarious",
+      "sentence": "The investigation uncovered a ______ network of money laundering.",
+      "meaning_hi": "दुष्ट",
+      "example_sentence_hi": "गिरोह कई राज्यों में दुष्ट गतिविधियों में शामिल था।"
+    },
+    {
+      "word": "onerous",
+      "hindi": "भारी / कठिन",
+      "meaning_en": "Involving an amount of effort and difficulty that is oppressively burdensome",
+      "example_sentence": "The onerous regulations made it difficult for small businesses to survive.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A task or duty that is extremely burdensome and difficult",
+        "answer": "onerous"
+      },
+      "analogy": {
+        "pair": "light : easy",
+        "question": "extremely burdensome and demanding : ______",
+        "answer": "onerous"
+      },
+      "hint_words": "onerous, light, easy, effortless",
+      "correct_word": "onerous",
+      "sentence": "The terms of the loan were so ______ that many borrowers defaulted.",
+      "meaning_hi": "भारी",
+      "example_sentence_hi": "भारी नियमों ने छोटे व्यवसायों के लिए जीवित रहना कठिन बना दिया।"
+    },
+    {
+      "word": "penitent",
+      "hindi": "पश्चातापी / अपराध-बोधग्रस्त",
+      "meaning_en": "Feeling or showing sorrow and regret for having done wrong",
+      "example_sentence": "The penitent criminal confessed and asked for forgiveness.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who feels genuine remorse for wrongdoing",
+        "answer": "penitent"
+      },
+      "analogy": {
+        "pair": "defiant : unapologetic",
+        "question": "feeling deep remorse for wrongs done : ______",
+        "answer": "penitent"
+      },
+      "hint_words": "penitent, defiant, unapologetic, brazen",
+      "correct_word": "penitent",
+      "sentence": "The ______ official surrendered to authorities and cooperated with the investigation.",
+      "meaning_hi": "पश्चातापी",
+      "example_sentence_hi": "पश्चातापी अपराधी ने कबूलनामा किया और माफी माँगी।"
+    },
+    {
+      "word": "pertinacious",
+      "hindi": "दृढ़ / हठी",
+      "meaning_en": "Holding firmly to an opinion or a course of action; persistent",
+      "example_sentence": "The pertinacious lawyer refused to drop the case despite repeated setbacks.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is stubbornly persistent in pursuit of a goal",
+        "answer": "pertinacious"
+      },
+      "analogy": {
+        "pair": "yielding : giving in",
+        "question": "stubbornly persistent : ______",
+        "answer": "pertinacious"
+      },
+      "hint_words": "pertinacious, yielding, giving in, flexible",
+      "correct_word": "pertinacious",
+      "sentence": "Her ______ pursuit of justice finally led to a conviction after five years.",
+      "meaning_hi": "दृढ़",
+      "example_sentence_hi": "दृढ़ वकील ने बार-बार असफलताओं के बावजूद मामला छोड़ने से इनकार कर दिया।"
+    },
+    {
+      "word": "prevaricate",
+      "hindi": "टाल-मटोल करना / बात घुमाना",
+      "meaning_en": "Speak or act in an evasive way; avoid stating the truth directly",
+      "example_sentence": "The minister prevaricated when asked directly about the missing funds.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To avoid telling the truth directly by speaking evasively",
+        "answer": "prevaricate"
+      },
+      "analogy": {
+        "pair": "forthright : direct",
+        "question": "to speak evasively and avoid truth : ______",
+        "answer": "prevaricate"
+      },
+      "hint_words": "prevaricate, forthright, direct, candid",
+      "correct_word": "prevaricate",
+      "sentence": "Stop trying to ______ — give the committee a straight answer.",
+      "meaning_hi": "टाल-मटोल करना",
+      "example_sentence_hi": "लापता धन के बारे में सीधे पूछे जाने पर मंत्री ने टाल-मटोल की।"
+    },
+    {
+      "word": "querulous",
+      "hindi": "शिकायती / चिड़चिड़ा",
+      "meaning_en": "Complaining in a petulant or whining manner",
+      "example_sentence": "The querulous patient complained about every aspect of her hospital stay.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who constantly complains in a whining or petty manner",
+        "answer": "querulous"
+      },
+      "analogy": {
+        "pair": "content : satisfied",
+        "question": "constantly complaining : ______",
+        "answer": "querulous"
+      },
+      "hint_words": "querulous, content, satisfied, cheerful",
+      "correct_word": "querulous",
+      "sentence": "The ______ employee was never satisfied regardless of how much the conditions improved.",
+      "meaning_hi": "शिकायती",
+      "example_sentence_hi": "शिकायती मरीज ने अपने अस्पताल प्रवास के हर पहलू के बारे में शिकायत की।"
+    },
+    {
+      "word": "temerity",
+      "hindi": "दुस्साहस / निर्लज्जता",
+      "meaning_en": "Excessive confidence or boldness; audacity",
+      "example_sentence": "He had the temerity to blame his mentor for his own failures.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Excessive boldness or rashness beyond what is appropriate",
+        "answer": "temerity"
+      },
+      "analogy": {
+        "pair": "timidity : excessive caution",
+        "question": "excessive reckless boldness : ______",
+        "answer": "temerity"
+      },
+      "hint_words": "temerity, timidity, caution, restraint",
+      "correct_word": "temerity",
+      "sentence": "The junior officer had the ______ to question the general's strategy in public.",
+      "meaning_hi": "दुस्साहस",
+      "example_sentence_hi": "उसने अपनी विफलताओं के लिए अपने गुरु को दोष देने का दुस्साहस किया।"
+    },
+    {
+      "word": "vacillate",
+      "hindi": "डगमगाना / अनिश्चित रहना",
+      "meaning_en": "Waver between different opinions or actions; be indecisive",
+      "example_sentence": "The committee vacillated on the issue for months without reaching a decision.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To keep changing one's mind or be unable to decide",
+        "answer": "vacillate"
+      },
+      "analogy": {
+        "pair": "resolute : firm",
+        "question": "to waver and be indecisive : ______",
+        "answer": "vacillate"
+      },
+      "hint_words": "vacillate, resolute, firm, determined",
+      "correct_word": "vacillate",
+      "sentence": "A good leader does not ______ when a quick, firm decision is needed.",
+      "meaning_hi": "डगमगाना",
+      "example_sentence_hi": "समिति महीनों तक इस मुद्दे पर निर्णय लिए बिना डगमगाती रही।"
+    },
+    {
+      "word": "vindictive",
+      "hindi": "प्रतिशोधी / बदलाखोर",
+      "meaning_en": "Having or showing a strong desire to harm someone who has harmed you",
+      "example_sentence": "The vindictive manager gave the whistleblower a poor performance review.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who seeks revenge and wants to harm those who wronged them",
+        "answer": "vindictive"
+      },
+      "analogy": {
+        "pair": "forgiving : magnanimous",
+        "question": "seeking revenge and causing harm : ______",
+        "answer": "vindictive"
+      },
+      "hint_words": "vindictive, forgiving, magnanimous, merciful",
+      "correct_word": "vindictive",
+      "sentence": "His ______ response to criticism destroyed his reputation among peers.",
+      "meaning_hi": "प्रतिशोधी",
+      "example_sentence_hi": "प्रतिशोधी प्रबंधक ने व्हिसलब्लोअर को खराब प्रदर्शन समीक्षा दी।"
+    }
+  ]
+}

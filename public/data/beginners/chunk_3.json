@@ -1,0 +1,904 @@
+{
+  "words": [
+    {
+      "word": "clinic",
+      "hindi": "क्लिनिक / चिकित्सालय",
+      "meaning_en": "A small medical place where a doctor sees patients",
+      "example_sentence": "She went to the clinic for a check-up.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "clinic.jpg"
+    },
+    {
+      "word": "diet",
+      "hindi": "आहार / खुराक",
+      "meaning_en": "The food and drink a person regularly consumes",
+      "example_sentence": "A balanced diet keeps you healthy.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "diet.jpg"
+    },
+    {
+      "word": "ferry",
+      "hindi": "नौका / फेरी",
+      "meaning_en": "A boat that regularly carries people across a river or sea",
+      "example_sentence": "We took a ferry to cross the river.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "ferry.jpg"
+    },
+    {
+      "word": "rickshaw",
+      "hindi": "रिक्शा",
+      "meaning_en": "A light vehicle pulled or pedalled by a person",
+      "example_sentence": "He cycled his rickshaw through the narrow lane.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "rickshaw.jpg"
+    },
+    {
+      "word": "spacecraft",
+      "hindi": "अंतरिक्ष यान",
+      "meaning_en": "A vehicle designed to travel in outer space",
+      "example_sentence": "India launched a spacecraft to the moon.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "spacecraft.jpg"
+    },
+    {
+      "word": "nervous",
+      "hindi": "घबराया हुआ",
+      "meaning_en": "Feeling worried or anxious about something",
+      "example_sentence": "She felt nervous before going on stage.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "nervous.jpg"
+    },
+    {
+      "word": "relieved",
+      "hindi": "राहत महसूस करना",
+      "meaning_en": "Feeling happy that a worry or danger has gone away",
+      "example_sentence": "He was relieved when he found his lost bag.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "relieved.jpg"
+    },
+    {
+      "word": "lonely",
+      "hindi": "अकेला / एकाकी",
+      "meaning_en": "Feeling sad because you have no company",
+      "example_sentence": "She felt lonely on her first day at the new school.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "lonely.jpg"
+    },
+    {
+      "word": "hockey",
+      "hindi": "हॉकी",
+      "meaning_en": "A sport played with a stick and a ball or puck",
+      "example_sentence": "Hockey is the national sport of India.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "hockey.jpg"
+    },
+    {
+      "word": "volleyball",
+      "hindi": "वॉलीबॉल",
+      "meaning_en": "A game in which players hit a ball over a high net",
+      "example_sentence": "Our school team won the volleyball match.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "volleyball.jpg"
+    },
+    {
+      "word": "wrestling",
+      "hindi": "कुश्ती",
+      "meaning_en": "A sport in which two people try to throw each other to the ground",
+      "example_sentence": "He became a champion in wrestling.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "wrestling.jpg"
+    },
+    {
+      "word": "shelf",
+      "hindi": "शेल्फ / ताक",
+      "meaning_en": "A flat board fixed to a wall or inside a cupboard to hold things",
+      "example_sentence": "She arranged her books on the shelf.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "shelf.jpg"
+    },
+    {
+      "word": "pillow",
+      "hindi": "तकिया",
+      "meaning_en": "A soft cushion used to rest the head while sleeping",
+      "example_sentence": "He placed his head on the pillow and fell asleep.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "pillow.jpg"
+    },
+    {
+      "word": "staircase",
+      "hindi": "सीढ़ियाँ",
+      "meaning_en": "A set of steps inside a building connecting floors",
+      "example_sentence": "She ran up the staircase to reach her class.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "staircase.jpg"
+    },
+    {
+      "word": "mattress",
+      "hindi": "गद्दा",
+      "meaning_en": "A thick soft pad placed on a bed to sleep on",
+      "example_sentence": "He spread the mattress on the floor.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "mattress.jpg"
+    },
+    {
+      "word": "habitat",
+      "hindi": "आवास / प्राकृतिक वास",
+      "meaning_en": "The natural place where an animal or plant lives",
+      "example_sentence": "The forest is the natural habitat of the tiger.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "habitat.jpg"
+    },
+    {
+      "word": "erosion",
+      "hindi": "मृदा अपरदन / कटाव",
+      "meaning_en": "The gradual wearing away of soil or rock by water or wind",
+      "example_sentence": "Heavy rain caused soil erosion on the hillside.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "erosion.jpg"
+    },
+    {
+      "word": "conservation",
+      "hindi": "संरक्षण",
+      "meaning_en": "The protection of nature, animals, and natural resources",
+      "example_sentence": "Water conservation is important in dry areas.",
+      "category": "environment",
+      "difficulty": "easy",
+      "image": "conservation.jpg"
+    },
+    {
+      "word": "breakfast",
+      "hindi": "नाश्ता",
+      "meaning_en": "The first meal of the day eaten in the morning",
+      "example_sentence": "She had toast and eggs for breakfast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "breakfast.jpg"
+    },
+    {
+      "word": "lunch",
+      "hindi": "दोपहर का खाना",
+      "meaning_en": "The meal eaten in the middle of the day",
+      "example_sentence": "We eat lunch at school at noon.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "lunch.jpg"
+    },
+    {
+      "word": "snack",
+      "hindi": "हल्का नाश्ता",
+      "meaning_en": "A small amount of food eaten between main meals",
+      "example_sentence": "He had biscuits as a snack after school.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "snack.jpg"
+    },
+    {
+      "word": "recipe",
+      "hindi": "विधि",
+      "meaning_en": "Instructions that tell you how to cook a dish",
+      "example_sentence": "My mother shared her recipe for dal.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "recipe.jpg"
+    },
+    {
+      "word": "hunger",
+      "hindi": "भूख",
+      "meaning_en": "The feeling of wanting or needing food",
+      "example_sentence": "She felt hunger after playing outside.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "hunger.jpg"
+    },
+    {
+      "word": "vegetable",
+      "hindi": "सब्जी",
+      "meaning_en": "A plant or part of a plant eaten as food",
+      "example_sentence": "Eat your vegetables to stay healthy.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "vegetable.jpg"
+    },
+    {
+      "word": "siblings",
+      "hindi": "भाई-बहन",
+      "meaning_en": "Brothers and sisters in a family",
+      "example_sentence": "He has two siblings, a brother and a sister.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "siblings.jpg"
+    },
+    {
+      "word": "kitchen",
+      "hindi": "रसोई",
+      "meaning_en": "The room where food is cooked",
+      "example_sentence": "Mum is in the kitchen making dinner.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "kitchen.jpg"
+    },
+    {
+      "word": "bedroom",
+      "hindi": "शयनकक्ष",
+      "meaning_en": "A room used for sleeping",
+      "example_sentence": "He tidied his bedroom before bed.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "bedroom.jpg"
+    },
+    {
+      "word": "sofa",
+      "hindi": "सोफा",
+      "meaning_en": "A long comfortable seat for more than one person",
+      "example_sentence": "The family sat on the sofa to watch TV.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "sofa.jpg"
+    },
+    {
+      "word": "bathroom",
+      "hindi": "बाथरूम",
+      "meaning_en": "A room with a bath, shower, and toilet",
+      "example_sentence": "She brushed her teeth in the bathroom.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "bathroom.jpg"
+    },
+    {
+      "word": "mop",
+      "hindi": "पोंछा",
+      "meaning_en": "A tool with a long handle used to clean floors",
+      "example_sentence": "He used a mop to clean the wet floor.",
+      "category": "home",
+      "difficulty": "easy",
+      "image": "mop.jpg"
+    },
+    {
+      "word": "classroom",
+      "hindi": "कक्षा",
+      "meaning_en": "A room in a school where students have lessons",
+      "example_sentence": "The students sat quietly in the classroom.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "classroom.jpg"
+    },
+    {
+      "word": "lesson",
+      "hindi": "पाठ",
+      "meaning_en": "A period of learning or teaching",
+      "example_sentence": "The math lesson lasted one hour.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "lesson.jpg"
+    },
+    {
+      "word": "headache",
+      "hindi": "सिरदर्द",
+      "meaning_en": "A pain felt inside the head",
+      "example_sentence": "She had a headache after reading for a long time.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "headache.jpg"
+    },
+    {
+      "word": "sneeze",
+      "hindi": "छींक",
+      "meaning_en": "A sudden burst of air forced out through the nose and mouth",
+      "example_sentence": "He sneezed because of the dust.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "sneeze.jpg"
+    },
+    {
+      "word": "nurse",
+      "hindi": "नर्स",
+      "meaning_en": "A person trained to care for sick people in a hospital",
+      "example_sentence": "The nurse gave the patient his medicine.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "nurse.jpg"
+    },
+    {
+      "word": "confused",
+      "hindi": "भ्रमित",
+      "meaning_en": "Unable to understand or think clearly",
+      "example_sentence": "She was confused by the difficult question.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "confused.jpg"
+    },
+    {
+      "word": "calm",
+      "hindi": "शांत",
+      "meaning_en": "Not excited or upset; peaceful and relaxed",
+      "example_sentence": "He stayed calm during the storm.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "calm.jpg"
+    },
+    {
+      "word": "greet",
+      "hindi": "अभिवादन करना",
+      "meaning_en": "To say hello or welcome someone",
+      "example_sentence": "She greeted her friend with a wave.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "greet.jpg"
+    },
+    {
+      "word": "gossip",
+      "hindi": "गपशप",
+      "meaning_en": "Talking casually about other people",
+      "example_sentence": "They sat gossiping about their neighbors.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "gossip.jpg"
+    },
+    {
+      "word": "companion",
+      "hindi": "साथी",
+      "meaning_en": "A person you spend time with or travel with",
+      "example_sentence": "The dog was his faithful companion.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "companion.jpg"
+    },
+    {
+      "word": "bargain",
+      "hindi": "सौदेबाजी",
+      "meaning_en": "To buy something at a lower price after negotiating",
+      "example_sentence": "She managed to bargain for a cheaper price.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "bargain.jpg"
+    },
+    {
+      "word": "cash",
+      "hindi": "नकद",
+      "meaning_en": "Money in the form of coins or notes",
+      "example_sentence": "He paid for the book in cash.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "cash.jpg"
+    },
+    {
+      "word": "wallet",
+      "hindi": "बटुआ",
+      "meaning_en": "A small flat case for carrying money and cards",
+      "example_sentence": "He lost his wallet at the bus stop.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "wallet.jpg"
+    },
+    {
+      "word": "grocery",
+      "hindi": "किराना",
+      "meaning_en": "Food and household items bought from a shop",
+      "example_sentence": "Mum went to buy grocery from the market.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "grocery.jpg"
+    },
+    {
+      "word": "jacket",
+      "hindi": "जैकेट",
+      "meaning_en": "A short coat with sleeves",
+      "example_sentence": "He wore a warm jacket in winter.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "jacket.jpg"
+    },
+    {
+      "word": "sandals",
+      "hindi": "चप्पल",
+      "meaning_en": "Open footwear held on the foot with straps",
+      "example_sentence": "She wore sandals to the beach.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "sandals.jpg"
+    },
+    {
+      "word": "button",
+      "hindi": "बटन",
+      "meaning_en": "A small disc sewn on clothing to fasten it",
+      "example_sentence": "One button on his shirt was missing.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "button.jpg"
+    },
+    {
+      "word": "scarf",
+      "hindi": "मफलर",
+      "meaning_en": "A strip of cloth worn around the neck or head",
+      "example_sentence": "She tied a scarf around her neck in the cold.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "scarf.jpg"
+    },
+    {
+      "word": "traffic",
+      "hindi": "यातायात",
+      "meaning_en": "Vehicles moving on roads",
+      "example_sentence": "We were late because of heavy traffic.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "traffic.jpg"
+    },
+    {
+      "word": "highway",
+      "hindi": "राजमार्ग",
+      "meaning_en": "A main road for fast travel between places",
+      "example_sentence": "The bus sped along the highway.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "highway.jpg"
+    },
+    {
+      "word": "passenger",
+      "hindi": "यात्री",
+      "meaning_en": "A person who travels in a vehicle but does not drive",
+      "example_sentence": "The train was full of passengers.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "passenger.jpg"
+    },
+    {
+      "word": "fare",
+      "hindi": "किराया",
+      "meaning_en": "The money paid to travel by bus, train, or taxi",
+      "example_sentence": "She paid the bus fare and sat down.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "fare.jpg"
+    },
+    {
+      "word": "foggy",
+      "hindi": "कोहरेदार",
+      "meaning_en": "Covered with thick mist that makes it hard to see",
+      "example_sentence": "It was foggy in the morning and he could not see the road.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "foggy.jpg"
+    },
+    {
+      "word": "breeze",
+      "hindi": "हल्की हवा",
+      "meaning_en": "A gentle, pleasant wind",
+      "example_sentence": "A cool breeze blew through the window.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "breeze.jpg"
+    },
+    {
+      "word": "cloudy",
+      "hindi": "बादलों से भरा",
+      "meaning_en": "When the sky is covered with clouds",
+      "example_sentence": "It was cloudy all day but did not rain.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "cloudy.jpg"
+    },
+    {
+      "word": "temperature",
+      "hindi": "तापमान",
+      "meaning_en": "How hot or cold something is, measured in degrees",
+      "example_sentence": "The temperature dropped at night.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "temperature.jpg"
+    },
+    {
+      "word": "sunny",
+      "hindi": "धूप वाला",
+      "meaning_en": "Bright with sunlight; not cloudy",
+      "example_sentence": "It was a sunny day perfect for a picnic.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "sunny.jpg"
+    },
+    {
+      "word": "sunrise",
+      "hindi": "सूर्योदय",
+      "meaning_en": "The time in the morning when the sun appears",
+      "example_sentence": "We woke early to watch the sunrise.",
+      "category": "nature",
+      "difficulty": "easy",
+      "image": "sunrise.jpg"
+    },
+    {
+      "word": "sheep",
+      "hindi": "भेड़",
+      "meaning_en": "A farm animal with thick woolly fleece",
+      "example_sentence": "The sheep grazed in the green meadow.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "sheep.jpg"
+    },
+    {
+      "word": "flock",
+      "hindi": "झुंड",
+      "meaning_en": "A group of birds or sheep together",
+      "example_sentence": "A flock of birds flew over the lake.",
+      "category": "animals",
+      "difficulty": "easy",
+      "image": "flock.jpg"
+    },
+    {
+      "word": "referee",
+      "hindi": "रेफरी",
+      "meaning_en": "A person who controls a sports game and ensures rules are followed",
+      "example_sentence": "The referee blew the whistle to stop the game.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "referee.jpg"
+    },
+    {
+      "word": "playground",
+      "hindi": "खेल का मैदान",
+      "meaning_en": "An outdoor area where children can play",
+      "example_sentence": "The children ran to the playground after school.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "playground.jpg"
+    },
+    {
+      "word": "coach",
+      "hindi": "प्रशिक्षक",
+      "meaning_en": "A person who trains a sports team or player",
+      "example_sentence": "The coach trained the team every morning.",
+      "category": "sports",
+      "difficulty": "easy",
+      "image": "coach.jpg"
+    },
+    {
+      "word": "guide",
+      "hindi": "मार्गदर्शक",
+      "meaning_en": "A person who shows tourists around a place",
+      "example_sentence": "The guide showed us around the old fort.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "guide.jpg"
+    },
+    {
+      "word": "meeting",
+      "hindi": "बैठक",
+      "meaning_en": "A gathering of people to discuss something",
+      "example_sentence": "Dad was in a meeting at the office.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "meeting.jpg"
+    },
+    {
+      "word": "report",
+      "hindi": "रिपोर्ट",
+      "meaning_en": "A written account giving information about something",
+      "example_sentence": "She wrote a report about her science project.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "report.jpg"
+    },
+    {
+      "word": "deadline",
+      "hindi": "अंतिम तिथि",
+      "meaning_en": "The latest time by which something must be completed",
+      "example_sentence": "She finished her homework before the deadline.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "deadline.jpg"
+    },
+    {
+      "word": "colleague",
+      "hindi": "सहकर्मी",
+      "meaning_en": "A person you work with",
+      "example_sentence": "His colleague helped him finish the project.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "colleague.jpg"
+    },
+    {
+      "word": "walk",
+      "hindi": "चलना",
+      "meaning_en": "To move on foot at a normal pace",
+      "example_sentence": "She walks to school every morning.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "walk.jpg"
+    },
+    {
+      "word": "run",
+      "hindi": "दौड़ना",
+      "meaning_en": "To move quickly on foot",
+      "example_sentence": "He runs in the park every evening.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "run.jpg"
+    },
+    {
+      "word": "jump",
+      "hindi": "कूदना",
+      "meaning_en": "To push yourself off the ground into the air",
+      "example_sentence": "The children jumped over the puddle.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "jump.jpg"
+    },
+    {
+      "word": "talk",
+      "hindi": "बात करना",
+      "meaning_en": "To say words; to speak with someone",
+      "example_sentence": "They talked about their school trip.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "talk.jpg"
+    },
+    {
+      "word": "listen",
+      "hindi": "सुनना",
+      "meaning_en": "To pay attention to a sound or what someone says",
+      "example_sentence": "Please listen carefully to the teacher.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "listen.jpg"
+    },
+    {
+      "word": "read",
+      "hindi": "पढ़ना",
+      "meaning_en": "To look at and understand written words",
+      "example_sentence": "She reads a book before sleeping every night.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "read.jpg"
+    },
+    {
+      "word": "write",
+      "hindi": "लिखना",
+      "meaning_en": "To make letters or words on paper",
+      "example_sentence": "He wrote a letter to his grandmother.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "write.jpg"
+    },
+    {
+      "word": "cook",
+      "hindi": "खाना बनाना",
+      "meaning_en": "To prepare food by heating it",
+      "example_sentence": "Mum cooks dinner for the family.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "cook.jpg"
+    },
+    {
+      "word": "clean",
+      "hindi": "साफ करना",
+      "meaning_en": "To remove dirt from something",
+      "example_sentence": "She cleaned her room on Sunday.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "clean.jpg"
+    },
+    {
+      "word": "wash",
+      "hindi": "धोना",
+      "meaning_en": "To clean something with water",
+      "example_sentence": "Wash your hands before eating.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "wash.jpg"
+    },
+    {
+      "word": "sleep",
+      "hindi": "सोना",
+      "meaning_en": "To rest with your eyes closed and mind at rest",
+      "example_sentence": "He sleeps for eight hours every night.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sleep.jpg"
+    },
+    {
+      "word": "wake",
+      "hindi": "जागना",
+      "meaning_en": "To stop sleeping and become alert",
+      "example_sentence": "She wakes up at six every morning.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "wake.jpg"
+    },
+    {
+      "word": "play",
+      "hindi": "खेलना",
+      "meaning_en": "To take part in a game or fun activity",
+      "example_sentence": "The children play cricket after school.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "play.jpg"
+    },
+    {
+      "word": "learn",
+      "hindi": "सीखना",
+      "meaning_en": "To gain knowledge or a new skill",
+      "example_sentence": "He is learning to ride a bicycle.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "learn.jpg"
+    },
+    {
+      "word": "teach",
+      "hindi": "पढ़ाना",
+      "meaning_en": "To give lessons or explain something to someone",
+      "example_sentence": "The teacher teaches English to the class.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "teach.jpg"
+    },
+    {
+      "word": "help",
+      "hindi": "मदद करना",
+      "meaning_en": "To make it easier for someone to do something",
+      "example_sentence": "She helped her mother carry the bags.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "help.jpg"
+    },
+    {
+      "word": "carry",
+      "hindi": "उठाना / ले जाना",
+      "meaning_en": "To hold something and take it from one place to another",
+      "example_sentence": "He carried the heavy box upstairs.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "carry.jpg"
+    },
+    {
+      "word": "open",
+      "hindi": "खोलना",
+      "meaning_en": "To move a door, lid, or cover so it is no longer closed",
+      "example_sentence": "She opened the window to let in fresh air.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "open.jpg"
+    },
+    {
+      "word": "close",
+      "hindi": "बंद करना",
+      "meaning_en": "To shut a door, window, or lid",
+      "example_sentence": "Please close the door when you leave.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "close.jpg"
+    },
+    {
+      "word": "push",
+      "hindi": "धकेलना",
+      "meaning_en": "To press against something to move it away",
+      "example_sentence": "He pushed the door open.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "push.jpg"
+    },
+    {
+      "word": "pull",
+      "hindi": "खींचना",
+      "meaning_en": "To hold and bring something toward you",
+      "example_sentence": "She pulled the rope to ring the bell.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "pull.jpg"
+    },
+    {
+      "word": "throw",
+      "hindi": "फेंकना",
+      "meaning_en": "To send something through the air by moving your arm",
+      "example_sentence": "He threw the ball to his friend.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "throw.jpg"
+    },
+    {
+      "word": "catch",
+      "hindi": "पकड़ना",
+      "meaning_en": "To take hold of something moving through the air",
+      "example_sentence": "She caught the ball with both hands.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "catch.jpg"
+    },
+    {
+      "word": "climb",
+      "hindi": "चढ़ना",
+      "meaning_en": "To go up something using hands and feet",
+      "example_sentence": "The boy climbed the tree quickly.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "climb.jpg"
+    },
+    {
+      "word": "swim",
+      "hindi": "तैरना",
+      "meaning_en": "To move through water using your arms and legs",
+      "example_sentence": "They swim in the pool every weekend.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "swim.jpg"
+    },
+    {
+      "word": "draw",
+      "hindi": "चित्र बनाना",
+      "meaning_en": "To make a picture using a pencil or pen",
+      "example_sentence": "She drew a picture of a house.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "draw.jpg"
+    },
+    {
+      "word": "sing",
+      "hindi": "गाना",
+      "meaning_en": "To make musical sounds with your voice",
+      "example_sentence": "He sang a song at the school function.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sing.jpg"
+    },
+    {
+      "word": "dance",
+      "hindi": "नाचना",
+      "meaning_en": "To move your body in rhythm to music",
+      "example_sentence": "The girls danced at the festival.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "dance.jpg"
+    },
+    {
+      "word": "laugh",
+      "hindi": "हंसना",
+      "meaning_en": "To make sounds showing you find something funny",
+      "example_sentence": "Everyone laughed at the funny joke.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "laugh.jpg"
+    },
+    {
+      "word": "cry",
+      "hindi": "रोना",
+      "meaning_en": "To shed tears because of pain or strong feelings",
+      "example_sentence": "The baby cried when it was hungry.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "cry.jpg"
+    },
+    {
+      "word": "sit",
+      "hindi": "बैठना",
+      "meaning_en": "To rest with your bottom on a surface",
+      "example_sentence": "Please sit down and wait your turn.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sit.jpg"
+    },
+    {
+      "word": "stand",
+      "hindi": "खड़े होना",
+      "meaning_en": "To be in an upright position on your feet",
+      "example_sentence": "Stand up when the teacher enters the room.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "stand.jpg"
+    }
+  ]
+}

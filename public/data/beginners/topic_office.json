@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word": "envelope",
+      "hindi": "लिफाफा",
+      "meaning_en": "A flat paper container used to send letters",
+      "example_sentence": "He put the letter inside the envelope.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "envelope.jpg"
+    },
+    {
+      "word": "computer",
+      "hindi": "कंप्यूटर",
+      "meaning_en": "An electronic device used for processing information",
+      "example_sentence": "She learned typing on the computer.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "computer.jpg"
+    },
+    {
+      "word": "telephone",
+      "hindi": "फोन / दूरभाष",
+      "meaning_en": "A device used for speaking to people in other places",
+      "example_sentence": "He called his mother on the telephone.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "telephone.jpg"
+    },
+    {
+      "word": "pen",
+      "hindi": "कलम",
+      "meaning_en": "An instrument used for writing with ink",
+      "example_sentence": "She wrote her name with a blue pen.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "pen.jpg"
+    },
+    {
+      "word": "stamp",
+      "hindi": "डाक टिकट",
+      "meaning_en": "A small piece of paper stuck on a letter to pay for posting",
+      "example_sentence": "He put a stamp on the envelope.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "stamp.jpg"
+    },
+    {
+      "word": "address",
+      "hindi": "पता",
+      "meaning_en": "The details of where a person lives or a place is located",
+      "example_sentence": "Write your address on the top of the letter.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "address.jpg"
+    },
+    {
+      "word": "printer",
+      "hindi": "प्रिंटर",
+      "meaning_en": "A machine connected to a computer that prints on paper",
+      "example_sentence": "She sent the document to the printer.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "printer.jpg"
+    },
+    {
+      "word": "stapler",
+      "hindi": "स्टेपलर",
+      "meaning_en": "A device used to join papers together with metal pins",
+      "example_sentence": "He used the stapler to bind the sheets.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "stapler.jpg"
+    },
+    {
+      "word": "calendar",
+      "hindi": "कैलेंडर",
+      "meaning_en": "A chart showing the days, weeks, and months of a year",
+      "example_sentence": "She marked the exam date on the calendar.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "calendar.jpg"
+    },
+    {
+      "word": "folder",
+      "hindi": "फाइल / फोल्डर",
+      "meaning_en": "A cardboard cover used to keep papers together",
+      "example_sentence": "He kept all his documents in a folder.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "folder.jpg"
+    },
+    {
+      "word": "meeting",
+      "hindi": "बैठक",
+      "meaning_en": "A gathering of people to discuss something",
+      "example_sentence": "Dad was in a meeting at the office.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "meeting.jpg"
+    },
+    {
+      "word": "report",
+      "hindi": "रिपोर्ट",
+      "meaning_en": "A written account giving information about something",
+      "example_sentence": "She wrote a report about her science project.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "report.jpg"
+    },
+    {
+      "word": "deadline",
+      "hindi": "अंतिम तिथि",
+      "meaning_en": "The latest time by which something must be completed",
+      "example_sentence": "She finished her homework before the deadline.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "deadline.jpg"
+    },
+    {
+      "word": "colleague",
+      "hindi": "सहकर्मी",
+      "meaning_en": "A person you work with",
+      "example_sentence": "His colleague helped him finish the project.",
+      "category": "office",
+      "difficulty": "easy",
+      "image": "colleague.jpg"
+    }
+  ]
+}

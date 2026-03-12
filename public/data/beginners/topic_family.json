@@ -1,0 +1,112 @@
+{
+  "words": [
+    {
+      "word": "father",
+      "hindi": "पिता",
+      "meaning_en": "A male parent",
+      "example_sentence": "My father goes to office every day.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "father.jpg"
+    },
+    {
+      "word": "mother",
+      "hindi": "माँ",
+      "meaning_en": "A female parent",
+      "example_sentence": "My mother cooks delicious food.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "mother.jpg"
+    },
+    {
+      "word": "brother",
+      "hindi": "भाई",
+      "meaning_en": "A male sibling",
+      "example_sentence": "My brother and I play cricket together.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "brother.jpg"
+    },
+    {
+      "word": "sister",
+      "hindi": "बहन",
+      "meaning_en": "A female sibling",
+      "example_sentence": "My sister helps me with homework.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "sister.jpg"
+    },
+    {
+      "word": "grandfather",
+      "hindi": "दादा / नाना",
+      "meaning_en": "The father of one's parent",
+      "example_sentence": "My grandfather tells us stories at night.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "grandfather.jpg"
+    },
+    {
+      "word": "grandmother",
+      "hindi": "दादी / नानी",
+      "meaning_en": "The mother of one's parent",
+      "example_sentence": "My grandmother knits sweaters for us.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "grandmother.jpg"
+    },
+    {
+      "word": "uncle",
+      "hindi": "चाचा / मामा",
+      "meaning_en": "The brother of one's parent",
+      "example_sentence": "My uncle lives in Mumbai.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "uncle.jpg"
+    },
+    {
+      "word": "aunt",
+      "hindi": "चाची / मामी / बुआ",
+      "meaning_en": "The sister of one's parent",
+      "example_sentence": "My aunt brought sweets from the bakery.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "aunt.jpg"
+    },
+    {
+      "word": "cousin",
+      "hindi": "चचेरा भाई / बहन",
+      "meaning_en": "A child of one's uncle or aunt",
+      "example_sentence": "My cousin came to visit us during Diwali.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "cousin.jpg"
+    },
+    {
+      "word": "nephew",
+      "hindi": "भतीजा / भांजा",
+      "meaning_en": "The son of your brother or sister",
+      "example_sentence": "My nephew is five years old and loves football.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "nephew.jpg"
+    },
+    {
+      "word": "niece",
+      "hindi": "भतीजी / भांजी",
+      "meaning_en": "The daughter of your brother or sister",
+      "example_sentence": "My niece is learning to ride a bicycle.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "niece.jpg"
+    },
+    {
+      "word": "siblings",
+      "hindi": "भाई-बहन",
+      "meaning_en": "Brothers and sisters in a family",
+      "example_sentence": "He has two siblings, a brother and a sister.",
+      "category": "family",
+      "difficulty": "easy",
+      "image": "siblings.jpg"
+    }
+  ]
+}

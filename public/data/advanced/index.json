@@ -1,0 +1,32 @@
+{
+  "level": "advanced",
+  "totalWords": 218,
+  "chunkSize": 100,
+  "chunks": [
+    "chunk_0.json",
+    "chunk_1.json",
+    "chunk_2.json"
+  ],
+  "topics": [
+    {
+      "id": "ssc",
+      "file": "topic_ssc.json",
+      "count": 61
+    },
+    {
+      "id": "upsc",
+      "file": "topic_upsc.json",
+      "count": 71
+    },
+    {
+      "id": "clat",
+      "file": "topic_clat.json",
+      "count": 39
+    },
+    {
+      "id": "banking",
+      "file": "topic_banking.json",
+      "count": 47
+    }
+  ]
+}

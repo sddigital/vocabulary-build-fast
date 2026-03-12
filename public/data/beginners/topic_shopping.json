@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word": "invoice",
+      "hindi": "बिल / चालान",
+      "meaning_en": "A written list of goods sent or work done with prices",
+      "example_sentence": "The shopkeeper gave us an invoice for the purchase.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "invoice.jpg"
+    },
+    {
+      "word": "market",
+      "hindi": "बाज़ार",
+      "meaning_en": "A place where things are bought and sold",
+      "example_sentence": "Mother goes to the market every Saturday.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "market.jpg"
+    },
+    {
+      "word": "queue",
+      "hindi": "कतार / लाइन",
+      "meaning_en": "A line of people waiting for something",
+      "example_sentence": "We stood in a queue to buy movie tickets.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "queue.jpg"
+    },
+    {
+      "word": "receipt",
+      "hindi": "रसीद",
+      "meaning_en": "A written proof that money or goods have been received",
+      "example_sentence": "Always keep the receipt after shopping.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "receipt.jpg"
+    },
+    {
+      "word": "shop",
+      "hindi": "दुकान",
+      "meaning_en": "A place where goods are sold",
+      "example_sentence": "She went to the sweet shop after school.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "shop.jpg"
+    },
+    {
+      "word": "price",
+      "hindi": "कीमत / दाम",
+      "meaning_en": "The amount of money asked for something",
+      "example_sentence": "The price of the book was fifty rupees.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "price.jpg"
+    },
+    {
+      "word": "discount",
+      "hindi": "छूट",
+      "meaning_en": "A reduction in the usual price",
+      "example_sentence": "The shopkeeper gave a discount on Diwali.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "discount.jpg"
+    },
+    {
+      "word": "bag",
+      "hindi": "थैला / बैग",
+      "meaning_en": "A container made of cloth or leather used to carry things",
+      "example_sentence": "She kept her books in her school bag.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "bag.jpg"
+    },
+    {
+      "word": "cashier",
+      "hindi": "कैशियर",
+      "meaning_en": "A person who handles payments at a shop or bank",
+      "example_sentence": "She paid the cashier at the checkout counter.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "cashier.jpg"
+    },
+    {
+      "word": "trolley",
+      "hindi": "ट्रॉली",
+      "meaning_en": "A small cart used in a supermarket to carry goods while shopping",
+      "example_sentence": "He pushed a trolley through the supermarket.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "trolley.jpg"
+    },
+    {
+      "word": "bargain",
+      "hindi": "सौदेबाजी",
+      "meaning_en": "To buy something at a lower price after negotiating",
+      "example_sentence": "She managed to bargain for a cheaper price.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "bargain.jpg"
+    },
+    {
+      "word": "cash",
+      "hindi": "नकद",
+      "meaning_en": "Money in the form of coins or notes",
+      "example_sentence": "He paid for the book in cash.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "cash.jpg"
+    },
+    {
+      "word": "wallet",
+      "hindi": "बटुआ",
+      "meaning_en": "A small flat case for carrying money and cards",
+      "example_sentence": "He lost his wallet at the bus stop.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "wallet.jpg"
+    },
+    {
+      "word": "grocery",
+      "hindi": "किराना",
+      "meaning_en": "Food and household items bought from a shop",
+      "example_sentence": "Mum went to buy grocery from the market.",
+      "category": "shopping",
+      "difficulty": "easy",
+      "image": "grocery.jpg"
+    }
+  ]
+}

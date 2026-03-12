@@ -1,0 +1,256 @@
+{
+  "words": [
+    {
+      "word": "journal",
+      "hindi": "डायरी / पत्रिका",
+      "meaning_en": "A personal diary or a magazine published regularly",
+      "example_sentence": "She wrote her feelings in her journal every night.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "journal.jpg"
+    },
+    {
+      "word": "notebook",
+      "hindi": "कॉपी / नोटबुक",
+      "meaning_en": "A book with blank pages used for writing notes",
+      "example_sentence": "He wrote today's lesson in his notebook.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "notebook.jpg"
+    },
+    {
+      "word": "schedule",
+      "hindi": "समय-सारणी",
+      "meaning_en": "A plan showing times for activities or events",
+      "example_sentence": "The teacher wrote the exam schedule on the board.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "schedule.jpg"
+    },
+    {
+      "word": "telescope",
+      "hindi": "दूरबीन",
+      "meaning_en": "An instrument used to see objects far away, especially stars",
+      "example_sentence": "He saw the moon clearly through the telescope.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "telescope.jpg"
+    },
+    {
+      "word": "teacher",
+      "hindi": "शिक्षक / शिक्षिका",
+      "meaning_en": "A person who teaches students",
+      "example_sentence": "Our teacher explained the lesson clearly.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "teacher.jpg"
+    },
+    {
+      "word": "blackboard",
+      "hindi": "श्यामपट्ट",
+      "meaning_en": "A dark board used by teachers to write with chalk",
+      "example_sentence": "The teacher wrote the sum on the blackboard.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "blackboard.jpg"
+    },
+    {
+      "word": "pencil",
+      "hindi": "पेंसिल",
+      "meaning_en": "A thin stick used for writing or drawing",
+      "example_sentence": "She drew a picture with her pencil.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "pencil.jpg"
+    },
+    {
+      "word": "eraser",
+      "hindi": "रबर",
+      "meaning_en": "A small object used to remove pencil marks",
+      "example_sentence": "He used the eraser to correct his mistake.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "eraser.jpg"
+    },
+    {
+      "word": "library",
+      "hindi": "पुस्तकालय",
+      "meaning_en": "A place where books are kept and can be borrowed",
+      "example_sentence": "She borrowed a storybook from the library.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "library.jpg"
+    },
+    {
+      "word": "homework",
+      "hindi": "गृहकार्य",
+      "meaning_en": "School work that a student does at home",
+      "example_sentence": "He finished his homework before dinner.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "homework.jpg"
+    },
+    {
+      "word": "examination",
+      "hindi": "परीक्षा",
+      "meaning_en": "A formal test of knowledge or ability",
+      "example_sentence": "She studied hard for the examination.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "examination.jpg"
+    },
+    {
+      "word": "principal",
+      "hindi": "प्रधानाचार्य",
+      "meaning_en": "The head teacher in charge of a school",
+      "example_sentence": "The principal gave a speech on Independence Day.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "principal.jpg"
+    },
+    {
+      "word": "absent",
+      "hindi": "अनुपस्थित",
+      "meaning_en": "Not present at a place when expected",
+      "example_sentence": "Three students were absent from class today.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "absent.jpg"
+    },
+    {
+      "word": "prize",
+      "hindi": "पुरस्कार / इनाम",
+      "meaning_en": "A reward given for winning or excelling",
+      "example_sentence": "She won first prize in the drawing competition.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "prize.jpg"
+    },
+    {
+      "word": "map",
+      "hindi": "नक्शा",
+      "meaning_en": "A drawing showing countries, roads, or places",
+      "example_sentence": "He drew a map of India in his project.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "map.jpg"
+    },
+    {
+      "word": "atlas",
+      "hindi": "एटलस / मानचित्र संग्रह",
+      "meaning_en": "A book of maps",
+      "example_sentence": "She used the atlas to find the capital of France.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "atlas.jpg"
+    },
+    {
+      "word": "canteen",
+      "hindi": "कैंटीन",
+      "meaning_en": "A place inside a school or office where food is sold",
+      "example_sentence": "We had samosas from the school canteen.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "canteen.jpg"
+    },
+    {
+      "word": "chalk",
+      "hindi": "चॉक",
+      "meaning_en": "A white stick used for writing on a blackboard",
+      "example_sentence": "The teacher wrote with a piece of chalk.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "chalk.jpg"
+    },
+    {
+      "word": "syllabus",
+      "hindi": "पाठ्यक्रम",
+      "meaning_en": "A list of topics to be covered in a school subject",
+      "example_sentence": "The teacher gave us the syllabus for the year.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "syllabus.jpg"
+    },
+    {
+      "word": "assignment",
+      "hindi": "असाइनमेंट / कार्य",
+      "meaning_en": "A task given to students to complete at home or in class",
+      "example_sentence": "She finished her science assignment on time.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "assignment.jpg"
+    },
+    {
+      "word": "diagram",
+      "hindi": "रेखाचित्र / आरेख",
+      "meaning_en": "A drawing that explains or shows how something works",
+      "example_sentence": "He drew a diagram of the water cycle.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "diagram.jpg"
+    },
+    {
+      "word": "chapter",
+      "hindi": "अध्याय",
+      "meaning_en": "A section of a book or textbook",
+      "example_sentence": "We studied the second chapter of our history book.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "chapter.jpg"
+    },
+    {
+      "word": "debate",
+      "hindi": "वाद-विवाद",
+      "meaning_en": "A formal discussion where two sides argue different views",
+      "example_sentence": "Our class held a debate on saving water.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "debate.jpg"
+    },
+    {
+      "word": "project",
+      "hindi": "परियोजना / प्रोजेक्ट",
+      "meaning_en": "A planned piece of work with a set goal, done in school",
+      "example_sentence": "She made a project on the solar system.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "project.jpg"
+    },
+    {
+      "word": "attendance",
+      "hindi": "उपस्थिति",
+      "meaning_en": "The act of being present at school or an event",
+      "example_sentence": "The teacher marked the attendance every morning.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "attendance.jpg"
+    },
+    {
+      "word": "scholarship",
+      "hindi": "छात्रवृत्ति",
+      "meaning_en": "Money given to a student to help pay for education",
+      "example_sentence": "She won a scholarship for scoring top marks.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "scholarship.jpg"
+    },
+    {
+      "word": "classroom",
+      "hindi": "कक्षा",
+      "meaning_en": "A room in a school where students have lessons",
+      "example_sentence": "The students sat quietly in the classroom.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "classroom.jpg"
+    },
+    {
+      "word": "lesson",
+      "hindi": "पाठ",
+      "meaning_en": "A period of learning or teaching",
+      "example_sentence": "The math lesson lasted one hour.",
+      "category": "school",
+      "difficulty": "easy",
+      "image": "lesson.jpg"
+    }
+  ]
+}

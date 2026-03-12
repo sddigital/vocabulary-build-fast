@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word": "hand",
+      "hindi": "हाथ",
+      "meaning_en": "The part of the body at the end of the arm",
+      "example_sentence": "She raised her hand to answer the question.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "hand.jpg"
+    },
+    {
+      "word": "eye",
+      "hindi": "आँख",
+      "meaning_en": "The organ used for seeing",
+      "example_sentence": "She closed her eyes and fell asleep.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "eye.jpg"
+    },
+    {
+      "word": "ear",
+      "hindi": "कान",
+      "meaning_en": "The organ used for hearing",
+      "example_sentence": "He put his ear to the wall to listen.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "ear.jpg"
+    },
+    {
+      "word": "nose",
+      "hindi": "नाक",
+      "meaning_en": "The part of the face used for smelling and breathing",
+      "example_sentence": "She held her nose because of the bad smell.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "nose.jpg"
+    },
+    {
+      "word": "mouth",
+      "hindi": "मुँह",
+      "meaning_en": "The opening in the face used for eating and speaking",
+      "example_sentence": "He covered his mouth while coughing.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "mouth.jpg"
+    },
+    {
+      "word": "teeth",
+      "hindi": "दाँत",
+      "meaning_en": "The hard white structures in the mouth used for biting",
+      "example_sentence": "Brush your teeth twice a day.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "teeth.jpg"
+    },
+    {
+      "word": "hair",
+      "hindi": "बाल",
+      "meaning_en": "The strands that grow on a person's head",
+      "example_sentence": "She combed her hair before school.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "hair.jpg"
+    },
+    {
+      "word": "foot",
+      "hindi": "पैर / पाँव",
+      "meaning_en": "The part of the body at the bottom of the leg",
+      "example_sentence": "He hurt his foot while playing.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "foot.jpg"
+    },
+    {
+      "word": "shoulder",
+      "hindi": "कंधा",
+      "meaning_en": "The joint between the arm and the body",
+      "example_sentence": "He carried the bag on his shoulder.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "shoulder.jpg"
+    },
+    {
+      "word": "thumb",
+      "hindi": "अंगूठा",
+      "meaning_en": "The short thick finger at the side of your hand",
+      "example_sentence": "He gave a thumbs-up to show he was happy.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "thumb.jpg"
+    },
+    {
+      "word": "ankle",
+      "hindi": "टखना",
+      "meaning_en": "The joint connecting the foot and the leg",
+      "example_sentence": "She twisted her ankle while playing.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "ankle.jpg"
+    },
+    {
+      "word": "wrist",
+      "hindi": "कलाई",
+      "meaning_en": "The joint between the hand and the arm",
+      "example_sentence": "He wore a watch on his wrist.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "wrist.jpg"
+    },
+    {
+      "word": "elbow",
+      "hindi": "कोहनी",
+      "meaning_en": "The joint in the middle of the arm where it bends",
+      "example_sentence": "He rested his elbow on the table.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "elbow.jpg"
+    },
+    {
+      "word": "knee",
+      "hindi": "घुटना",
+      "meaning_en": "The joint in the middle of the leg where it bends",
+      "example_sentence": "She hurt her knee during the race.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "knee.jpg"
+    },
+    {
+      "word": "forehead",
+      "hindi": "माथा",
+      "meaning_en": "The part of the face above the eyes and below the hair",
+      "example_sentence": "Mother put a tilak on his forehead.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "forehead.jpg"
+    },
+    {
+      "word": "headache",
+      "hindi": "सिरदर्द",
+      "meaning_en": "A pain felt inside the head",
+      "example_sentence": "She had a headache after reading for a long time.",
+      "category": "body",
+      "difficulty": "easy",
+      "image": "headache.jpg"
+    }
+  ]
+}

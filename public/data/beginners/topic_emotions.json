@@ -1,0 +1,238 @@
+{
+  "words": [
+    {
+      "word": "happy",
+      "hindi": "खुश / प्रसन्न",
+      "meaning_en": "Feeling joy or pleasure",
+      "example_sentence": "She was happy to receive a gift.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "happy.jpg"
+    },
+    {
+      "word": "sad",
+      "hindi": "दुखी / उदास",
+      "meaning_en": "Feeling unhappy or sorrowful",
+      "example_sentence": "He felt sad when his pet dog died.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "sad.jpg"
+    },
+    {
+      "word": "angry",
+      "hindi": "गुस्से में",
+      "meaning_en": "Feeling strong displeasure or rage",
+      "example_sentence": "She was angry when someone broke her pencil.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "angry.jpg"
+    },
+    {
+      "word": "afraid",
+      "hindi": "डरा हुआ",
+      "meaning_en": "Feeling fear or worry",
+      "example_sentence": "He was afraid of the dark.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "afraid.jpg"
+    },
+    {
+      "word": "excited",
+      "hindi": "उत्साहित",
+      "meaning_en": "Feeling very enthusiastic and eager",
+      "example_sentence": "The children were excited about the field trip.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "excited.jpg"
+    },
+    {
+      "word": "surprised",
+      "hindi": "चौंका हुआ",
+      "meaning_en": "Feeling sudden shock or wonder",
+      "example_sentence": "She was surprised by the birthday party.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "surprised.jpg"
+    },
+    {
+      "word": "tired",
+      "hindi": "थका हुआ",
+      "meaning_en": "Feeling a need to rest or sleep after effort",
+      "example_sentence": "He was tired after the long walk.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "tired.jpg"
+    },
+    {
+      "word": "bored",
+      "hindi": "बोर / ऊबा हुआ",
+      "meaning_en": "Feeling uninterested and restless",
+      "example_sentence": "She was bored during the long train journey.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "bored.jpg"
+    },
+    {
+      "word": "curious",
+      "hindi": "जिज्ञासु",
+      "meaning_en": "Eager to know or learn something",
+      "example_sentence": "She was curious about how aeroplanes fly.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "curious.jpg"
+    },
+    {
+      "word": "confident",
+      "hindi": "आत्मविश्वासी",
+      "meaning_en": "Feeling sure about your own abilities",
+      "example_sentence": "He was confident before his speech.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "confident.jpg"
+    },
+    {
+      "word": "shy",
+      "hindi": "शर्मीला",
+      "meaning_en": "Nervous or uncomfortable with others",
+      "example_sentence": "The shy girl sat quietly in the corner.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "shy.jpg"
+    },
+    {
+      "word": "brave",
+      "hindi": "साहसी",
+      "meaning_en": "Ready to face danger without fear",
+      "example_sentence": "The brave boy saved the cat from drowning.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "brave.jpg"
+    },
+    {
+      "word": "generous",
+      "hindi": "उदार / दानी",
+      "meaning_en": "Willing to give more than expected",
+      "example_sentence": "She was generous and shared her lunch.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "generous.jpg"
+    },
+    {
+      "word": "honest",
+      "hindi": "ईमानदार",
+      "meaning_en": "Truthful and not likely to cheat or lie",
+      "example_sentence": "An honest student returned the lost wallet.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "honest.jpg"
+    },
+    {
+      "word": "polite",
+      "hindi": "विनम्र",
+      "meaning_en": "Behaving in a respectful and kind way",
+      "example_sentence": "Always be polite to your elders.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "polite.jpg"
+    },
+    {
+      "word": "lazy",
+      "hindi": "आलसी",
+      "meaning_en": "Unwilling to work or make an effort",
+      "example_sentence": "The lazy student did not finish his homework.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "lazy.jpg"
+    },
+    {
+      "word": "honest",
+      "hindi": "ईमानदार",
+      "meaning_en": "Truthful and not likely to cheat",
+      "example_sentence": "The honest boy returned the purse he found.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "honest2.jpg"
+    },
+    {
+      "word": "jealous",
+      "hindi": "ईर्ष्यालु / जलन",
+      "meaning_en": "Feeling unhappy because someone else has what you want",
+      "example_sentence": "He felt jealous when his friend won the prize.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "jealous.jpg"
+    },
+    {
+      "word": "grateful",
+      "hindi": "कृतज्ञ / आभारी",
+      "meaning_en": "Feeling thankful for something kind that someone did",
+      "example_sentence": "She was grateful for her teacher's help.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "grateful.jpg"
+    },
+    {
+      "word": "proud",
+      "hindi": "गर्वित",
+      "meaning_en": "Feeling pleased and satisfied about something you or others have done",
+      "example_sentence": "His parents were proud of his achievements.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "proud.jpg"
+    },
+    {
+      "word": "embarrassed",
+      "hindi": "शर्मिंदा",
+      "meaning_en": "Feeling shy or ashamed in front of others",
+      "example_sentence": "She felt embarrassed when she forgot her lines.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "embarrassed.jpg"
+    },
+    {
+      "word": "nervous",
+      "hindi": "घबराया हुआ",
+      "meaning_en": "Feeling worried or anxious about something",
+      "example_sentence": "She felt nervous before going on stage.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "nervous.jpg"
+    },
+    {
+      "word": "relieved",
+      "hindi": "राहत महसूस करना",
+      "meaning_en": "Feeling happy that a worry or danger has gone away",
+      "example_sentence": "He was relieved when he found his lost bag.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "relieved.jpg"
+    },
+    {
+      "word": "lonely",
+      "hindi": "अकेला / एकाकी",
+      "meaning_en": "Feeling sad because you have no company",
+      "example_sentence": "She felt lonely on her first day at the new school.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "lonely.jpg"
+    },
+    {
+      "word": "confused",
+      "hindi": "भ्रमित",
+      "meaning_en": "Unable to understand or think clearly",
+      "example_sentence": "She was confused by the difficult question.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "confused.jpg"
+    },
+    {
+      "word": "calm",
+      "hindi": "शांत",
+      "meaning_en": "Not excited or upset; peaceful and relaxed",
+      "example_sentence": "He stayed calm during the storm.",
+      "category": "emotions",
+      "difficulty": "easy",
+      "image": "calm.jpg"
+    }
+  ]
+}

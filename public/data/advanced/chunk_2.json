@@ -1,0 +1,400 @@
+{
+  "words": [
+    {
+      "word": "querulous",
+      "hindi": "शिकायती / चिड़चिड़ा",
+      "meaning_en": "Complaining in a petulant or whining manner",
+      "example_sentence": "The querulous patient complained about every aspect of her hospital stay.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who constantly complains in a whining or petty manner",
+        "answer": "querulous"
+      },
+      "analogy": {
+        "pair": "content : satisfied",
+        "question": "constantly complaining : ______",
+        "answer": "querulous"
+      },
+      "hint_words": "querulous, content, satisfied, cheerful",
+      "correct_word": "querulous",
+      "sentence": "The ______ employee was never satisfied regardless of how much the conditions improved.",
+      "meaning_hi": "शिकायती",
+      "example_sentence_hi": "शिकायती मरीज ने अपने अस्पताल प्रवास के हर पहलू के बारे में शिकायत की।"
+    },
+    {
+      "word": "rancour",
+      "hindi": "द्वेष / कड़वाहट",
+      "meaning_en": "Bitterness or resentfulness, especially when long-standing",
+      "example_sentence": "Years of rancour between the two families made reconciliation impossible.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Deep-seated bitterness and resentment towards someone",
+        "answer": "rancour"
+      },
+      "analogy": {
+        "pair": "goodwill : friendly",
+        "question": "deep bitterness and resentment : ______",
+        "answer": "rancour"
+      },
+      "hint_words": "rancour, goodwill, friendly, amicable",
+      "correct_word": "rancour",
+      "sentence": "The political debate was marred by personal ______ rather than policy discussion.",
+      "meaning_hi": "द्वेष",
+      "example_sentence_hi": "दोनों परिवारों के बीच वर्षों के द्वेष ने सुलह असंभव बना दी।"
+    },
+    {
+      "word": "reticent",
+      "hindi": "कम बोलने वाला / संकोची",
+      "meaning_en": "Not revealing one's thoughts or feelings readily",
+      "example_sentence": "The reticent witness had to be coaxed into giving his account of events.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who does not readily share thoughts or feelings",
+        "answer": "reticent"
+      },
+      "analogy": {
+        "pair": "forthcoming : communicative",
+        "question": "reluctant to speak or reveal feelings : ______",
+        "answer": "reticent"
+      },
+      "hint_words": "reticent, forthcoming, communicative, open",
+      "correct_word": "reticent",
+      "sentence": "The CEO remained ______ about the company's merger plans during the press conference.",
+      "meaning_hi": "संकोची",
+      "example_sentence_hi": "संकोची गवाह को अपनी घटना की जानकारी देने के लिए मनाना पड़ा।"
+    },
+    {
+      "word": "sagacious",
+      "hindi": "बुद्धिमान / दूरदर्शी",
+      "meaning_en": "Having or showing keen mental discernment and good judgement",
+      "example_sentence": "The sagacious diplomat resolved the crisis without any bloodshed.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is wise and has great ability to make good decisions",
+        "answer": "sagacious"
+      },
+      "analogy": {
+        "pair": "foolish : unwise",
+        "question": "wise and far-sighted : ______",
+        "answer": "sagacious"
+      },
+      "hint_words": "sagacious, foolish, unwise, shortsighted",
+      "correct_word": "sagacious",
+      "sentence": "The ______ king was known for settling disputes with fairness and wisdom.",
+      "meaning_hi": "बुद्धिमान",
+      "example_sentence_hi": "बुद्धिमान राजनयिक ने बिना रक्तपात के संकट को सुलझाया।"
+    },
+    {
+      "word": "sanguine",
+      "hindi": "आशावादी / उत्साहित",
+      "meaning_en": "Optimistic, especially in a difficult situation",
+      "example_sentence": "Despite the setback, she remained sanguine about the project's chances.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is optimistic even in difficult circumstances",
+        "answer": "sanguine"
+      },
+      "analogy": {
+        "pair": "pessimistic : hopeless",
+        "question": "optimistic despite difficulties : ______",
+        "answer": "sanguine"
+      },
+      "hint_words": "sanguine, pessimistic, hopeless, despondent",
+      "correct_word": "sanguine",
+      "sentence": "The finance minister was ______ about achieving the growth target despite global headwinds.",
+      "meaning_hi": "आशावादी",
+      "example_sentence_hi": "असफलता के बावजूद वह परियोजना की संभावनाओं के बारे में आशावादी रही।"
+    },
+    {
+      "word": "sycophant",
+      "hindi": "चापलूस / खुशामदी",
+      "meaning_en": "A person who acts obsequiously towards someone important in order to gain advantage",
+      "example_sentence": "The CEO was surrounded by sycophants who never pointed out his mistakes.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who flatters important people to gain personal advantage",
+        "answer": "sycophant"
+      },
+      "analogy": {
+        "pair": "critic : one who finds fault",
+        "question": "one who flatters to gain favour : ______",
+        "answer": "sycophant"
+      },
+      "hint_words": "sycophant, critic, adversary, opponent",
+      "correct_word": "sycophant",
+      "sentence": "True advisors give honest feedback; ______s only tell you what you want to hear.",
+      "meaning_hi": "चापलूस",
+      "example_sentence_hi": "सीईओ के आसपास चापलूस थे जो उसकी गलतियाँ कभी नहीं बताते थे।"
+    },
+    {
+      "word": "temerity",
+      "hindi": "दुस्साहस / निर्लज्जता",
+      "meaning_en": "Excessive confidence or boldness; audacity",
+      "example_sentence": "He had the temerity to blame his mentor for his own failures.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Excessive boldness or rashness beyond what is appropriate",
+        "answer": "temerity"
+      },
+      "analogy": {
+        "pair": "timidity : excessive caution",
+        "question": "excessive reckless boldness : ______",
+        "answer": "temerity"
+      },
+      "hint_words": "temerity, timidity, caution, restraint",
+      "correct_word": "temerity",
+      "sentence": "The junior officer had the ______ to question the general's strategy in public.",
+      "meaning_hi": "दुस्साहस",
+      "example_sentence_hi": "उसने अपनी विफलताओं के लिए अपने गुरु को दोष देने का दुस्साहस किया।"
+    },
+    {
+      "word": "transient",
+      "hindi": "क्षणिक / अस्थायी",
+      "meaning_en": "Lasting only for a short time; impermanent",
+      "example_sentence": "Happiness based on material wealth is often transient.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "Something that lasts for a very short time before passing",
+        "answer": "transient"
+      },
+      "analogy": {
+        "pair": "permanent : lasting",
+        "question": "lasting only briefly : ______",
+        "answer": "transient"
+      },
+      "hint_words": "transient, permanent, lasting, enduring",
+      "correct_word": "transient",
+      "sentence": "The pain was ______ and disappeared after two days of rest.",
+      "meaning_hi": "क्षणिक",
+      "example_sentence_hi": "भौतिक संपदा पर आधारित खुशी अक्सर क्षणिक होती है।"
+    },
+    {
+      "word": "truculent",
+      "hindi": "झगड़ालू / आक्रामक",
+      "meaning_en": "Eager or quick to argue or fight; aggressively defiant",
+      "example_sentence": "The truculent defendant constantly interrupted the judge during proceedings.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is eager to fight or argue aggressively",
+        "answer": "truculent"
+      },
+      "analogy": {
+        "pair": "docile : submissive",
+        "question": "aggressively defiant and eager to fight : ______",
+        "answer": "truculent"
+      },
+      "hint_words": "truculent, docile, submissive, peaceful",
+      "correct_word": "truculent",
+      "sentence": "The ______ negotiator's attitude derailed the peace talks.",
+      "meaning_hi": "झगड़ालू",
+      "example_sentence_hi": "झगड़ालू प्रतिवादी ने सुनवाई के दौरान बार-बार न्यायाधीश को बाधित किया।"
+    },
+    {
+      "word": "turbulent",
+      "hindi": "अशांत / उथल-पुथल भरा",
+      "meaning_en": "Characterized by conflict, disorder, or confusion; not calm",
+      "example_sentence": "India went through a turbulent phase during the partition of 1947.",
+      "exam_category": "SSC",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A period or situation full of conflict and disorder",
+        "answer": "turbulent"
+      },
+      "analogy": {
+        "pair": "peaceful : calm",
+        "question": "full of conflict and disorder : ______",
+        "answer": "turbulent"
+      },
+      "hint_words": "turbulent, peaceful, calm, stable",
+      "correct_word": "turbulent",
+      "sentence": "The stock market went through a ______ week after the global economic crisis.",
+      "meaning_hi": "अशांत",
+      "example_sentence_hi": "1947 के विभाजन के दौरान भारत एक अशांत दौर से गुजरा।"
+    },
+    {
+      "word": "ubiquitous",
+      "hindi": "सर्वव्यापी / हर जगह मौजूद",
+      "meaning_en": "Present, appearing, or found everywhere",
+      "example_sentence": "Smartphones have become ubiquitous in both urban and rural India.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something found or seeming to be everywhere at the same time",
+        "answer": "ubiquitous"
+      },
+      "analogy": {
+        "pair": "rare : scarce",
+        "question": "present everywhere : ______",
+        "answer": "ubiquitous"
+      },
+      "hint_words": "ubiquitous, rare, scarce, uncommon",
+      "correct_word": "ubiquitous",
+      "sentence": "The ______ presence of plastic pollution has become a global environmental crisis.",
+      "meaning_hi": "सर्वव्यापी",
+      "example_sentence_hi": "शहरी और ग्रामीण दोनों भारत में स्मार्टफोन सर्वव्यापी हो गए हैं।"
+    },
+    {
+      "word": "vacillate",
+      "hindi": "डगमगाना / अनिश्चित रहना",
+      "meaning_en": "Waver between different opinions or actions; be indecisive",
+      "example_sentence": "The committee vacillated on the issue for months without reaching a decision.",
+      "exam_category": "CLAT",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To keep changing one's mind or be unable to decide",
+        "answer": "vacillate"
+      },
+      "analogy": {
+        "pair": "resolute : firm",
+        "question": "to waver and be indecisive : ______",
+        "answer": "vacillate"
+      },
+      "hint_words": "vacillate, resolute, firm, determined",
+      "correct_word": "vacillate",
+      "sentence": "A good leader does not ______ when a quick, firm decision is needed.",
+      "meaning_hi": "डगमगाना",
+      "example_sentence_hi": "समिति महीनों तक इस मुद्दे पर निर्णय लिए बिना डगमगाती रही।"
+    },
+    {
+      "word": "vapid",
+      "hindi": "नीरस / बेजान",
+      "meaning_en": "Offering nothing that is stimulating or challenging; bland",
+      "example_sentence": "The film's vapid plot disappointed critics who expected depth.",
+      "exam_category": "UPSC",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that is dull and lacking in ideas or intelligence",
+        "answer": "vapid"
+      },
+      "analogy": {
+        "pair": "stimulating : engaging",
+        "question": "dull and lacking substance : ______",
+        "answer": "vapid"
+      },
+      "hint_words": "vapid, stimulating, engaging, thought-provoking",
+      "correct_word": "vapid",
+      "sentence": "The celebrity's ______ remarks added nothing to the debate on climate change.",
+      "meaning_hi": "नीरस",
+      "example_sentence_hi": "फिल्म की नीरस कहानी ने उन आलोचकों को निराश किया जो गहराई की उम्मीद कर रहे थे।"
+    },
+    {
+      "word": "venerate",
+      "hindi": "श्रद्धा करना / आदर करना",
+      "meaning_en": "Regard with great respect and reverence",
+      "example_sentence": "In Indian culture, elders are venerated as sources of wisdom.",
+      "exam_category": "SSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To regard someone or something with deep respect and reverence",
+        "answer": "venerate"
+      },
+      "analogy": {
+        "pair": "despise : disrespect",
+        "question": "to regard with deep reverence : ______",
+        "answer": "venerate"
+      },
+      "hint_words": "venerate, despise, disrespect, mock",
+      "correct_word": "venerate",
+      "sentence": "The memorial was built to ______ those who gave their lives for the nation.",
+      "meaning_hi": "श्रद्धा करना",
+      "example_sentence_hi": "भारतीय संस्कृति में बुजुर्गों को ज्ञान के स्रोत के रूप में श्रद्धा दी जाती है।"
+    },
+    {
+      "word": "verbose",
+      "hindi": "शब्दाडंबरी / बहुत ज़्यादा बोलने वाला",
+      "meaning_en": "Using or expressed in more words than are needed",
+      "example_sentence": "His verbose writing style made the report unnecessarily long.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A style of speaking or writing that uses too many words",
+        "answer": "verbose"
+      },
+      "analogy": {
+        "pair": "concise : brief",
+        "question": "using more words than necessary : ______",
+        "answer": "verbose"
+      },
+      "hint_words": "verbose, concise, brief, terse",
+      "correct_word": "verbose",
+      "sentence": "The ______ instructions confused more than they helped.",
+      "meaning_hi": "शब्दाडंबरी",
+      "example_sentence_hi": "उसकी शब्दाडंबरी लेखन शैली ने रिपोर्ट को अनावश्यक रूप से लंबा बना दिया।"
+    },
+    {
+      "word": "vindictive",
+      "hindi": "प्रतिशोधी / बदलाखोर",
+      "meaning_en": "Having or showing a strong desire to harm someone who has harmed you",
+      "example_sentence": "The vindictive manager gave the whistleblower a poor performance review.",
+      "exam_category": "CLAT",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who seeks revenge and wants to harm those who wronged them",
+        "answer": "vindictive"
+      },
+      "analogy": {
+        "pair": "forgiving : magnanimous",
+        "question": "seeking revenge and causing harm : ______",
+        "answer": "vindictive"
+      },
+      "hint_words": "vindictive, forgiving, magnanimous, merciful",
+      "correct_word": "vindictive",
+      "sentence": "His ______ response to criticism destroyed his reputation among peers.",
+      "meaning_hi": "प्रतिशोधी",
+      "example_sentence_hi": "प्रतिशोधी प्रबंधक ने व्हिसलब्लोअर को खराब प्रदर्शन समीक्षा दी।"
+    },
+    {
+      "word": "wary",
+      "hindi": "सतर्क / चौकन्ना",
+      "meaning_en": "Feeling or showing caution about possible dangers or problems",
+      "example_sentence": "Investors remain wary of the volatile cryptocurrency market.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is cautious and watchful for possible danger",
+        "answer": "wary"
+      },
+      "analogy": {
+        "pair": "reckless : heedless",
+        "question": "cautious and watchful : ______",
+        "answer": "wary"
+      },
+      "hint_words": "wary, reckless, heedless, naive",
+      "correct_word": "wary",
+      "sentence": "Be ______ of investment schemes that promise unrealistic returns.",
+      "meaning_hi": "सतर्क",
+      "example_sentence_hi": "निवेशक अस्थिर क्रिप्टोकरेंसी बाजार के प्रति सतर्क बने हुए हैं।"
+    },
+    {
+      "word": "zealot",
+      "hindi": "कट्टरपंथी / अंधभक्त",
+      "meaning_en": "A person who is fanatical and uncompromising in pursuit of their beliefs",
+      "example_sentence": "The religious zealot refused to engage in any rational debate.",
+      "exam_category": "UPSC",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person fanatically devoted to a cause and unwilling to compromise",
+        "answer": "zealot"
+      },
+      "analogy": {
+        "pair": "moderate : balanced",
+        "question": "fanatical and uncompromising believer : ______",
+        "answer": "zealot"
+      },
+      "hint_words": "zealot, moderate, balanced, open-minded",
+      "correct_word": "zealot",
+      "sentence": "A ______ cannot be reasoned with because they refuse to consider opposing views.",
+      "meaning_hi": "कट्टरपंथी",
+      "example_sentence_hi": "धार्मिक कट्टरपंथी ने किसी तर्कसंगत बहस में भाग लेने से इनकार कर दिया।"
+    }
+  ]
+}

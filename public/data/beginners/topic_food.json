@@ -1,0 +1,337 @@
+{
+  "words": [
+    {
+      "word": "apple",
+      "hindi": "सेब",
+      "meaning_en": "A round fruit with red, green, or yellow skin",
+      "example_sentence": "She ate an apple every morning.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "apple.jpg"
+    },
+    {
+      "word": "banana",
+      "hindi": "केला",
+      "meaning_en": "A long yellow fruit",
+      "example_sentence": "He peeled the banana and ate it.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "banana.jpg"
+    },
+    {
+      "word": "mango",
+      "hindi": "आम",
+      "meaning_en": "A sweet tropical fruit with yellow flesh",
+      "example_sentence": "Mango is the national fruit of India.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "mango.jpg"
+    },
+    {
+      "word": "onion",
+      "hindi": "प्याज",
+      "meaning_en": "A round vegetable with a strong smell used in cooking",
+      "example_sentence": "Cutting onions makes your eyes water.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "onion.jpg"
+    },
+    {
+      "word": "potato",
+      "hindi": "आलू",
+      "meaning_en": "A starchy vegetable grown underground",
+      "example_sentence": "We had potato curry for lunch.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "potato.jpg"
+    },
+    {
+      "word": "tomato",
+      "hindi": "टमाटर",
+      "meaning_en": "A red fruit used as a vegetable in cooking",
+      "example_sentence": "She added tomatoes to the salad.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "tomato.jpg"
+    },
+    {
+      "word": "bread",
+      "hindi": "रोटी / ब्रेड",
+      "meaning_en": "A baked food made from flour and water",
+      "example_sentence": "We eat bread and butter for breakfast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "bread.jpg"
+    },
+    {
+      "word": "rice",
+      "hindi": "चावल",
+      "meaning_en": "White grains cooked and eaten as a staple food",
+      "example_sentence": "Rice and dal is a common Indian meal.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "rice.jpg"
+    },
+    {
+      "word": "milk",
+      "hindi": "दूध",
+      "meaning_en": "A white liquid produced by cows and drunk by people",
+      "example_sentence": "Children should drink milk every day.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "milk.jpg"
+    },
+    {
+      "word": "sugar",
+      "hindi": "चीनी",
+      "meaning_en": "A sweet white substance used in food and drinks",
+      "example_sentence": "She put two spoons of sugar in her tea.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "sugar.jpg"
+    },
+    {
+      "word": "salt",
+      "hindi": "नमक",
+      "meaning_en": "A white mineral used to season food",
+      "example_sentence": "Add a pinch of salt to the dish.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "salt.jpg"
+    },
+    {
+      "word": "egg",
+      "hindi": "अंडा",
+      "meaning_en": "An oval object laid by birds, often eaten as food",
+      "example_sentence": "He had a boiled egg for breakfast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "egg.jpg"
+    },
+    {
+      "word": "butter",
+      "hindi": "मक्खन",
+      "meaning_en": "A yellow fat made from milk, spread on bread",
+      "example_sentence": "She spread butter on the toast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "butter.jpg"
+    },
+    {
+      "word": "biscuit",
+      "hindi": "बिस्कुट",
+      "meaning_en": "A small flat baked snack, often sweet or salty",
+      "example_sentence": "He dipped the biscuit into his tea.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "biscuit.jpg"
+    },
+    {
+      "word": "lemon",
+      "hindi": "नींबू",
+      "meaning_en": "A sour yellow citrus fruit",
+      "example_sentence": "She squeezed lemon juice on the salad.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "lemon.jpg"
+    },
+    {
+      "word": "grapes",
+      "hindi": "अंगूर",
+      "meaning_en": "Small sweet fruits that grow in clusters",
+      "example_sentence": "She bought a bunch of grapes from the market.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "grapes.jpg"
+    },
+    {
+      "word": "pineapple",
+      "hindi": "अनानास",
+      "meaning_en": "A large tropical fruit with spiky skin and sweet yellow flesh",
+      "example_sentence": "He drank a glass of pineapple juice.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "pineapple.jpg"
+    },
+    {
+      "word": "carrot",
+      "hindi": "गाजर",
+      "meaning_en": "A long orange vegetable eaten raw or cooked",
+      "example_sentence": "Rabbits love to eat carrots.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "carrot.jpg"
+    },
+    {
+      "word": "spinach",
+      "hindi": "पालक",
+      "meaning_en": "A green leafy vegetable rich in iron",
+      "example_sentence": "The doctor asked him to eat more spinach.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "spinach.jpg"
+    },
+    {
+      "word": "coconut",
+      "hindi": "नारियल",
+      "meaning_en": "A large brown fruit with white flesh and coconut water inside",
+      "example_sentence": "He drank coconut water on the beach.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "coconut.jpg"
+    },
+    {
+      "word": "honey",
+      "hindi": "शहद",
+      "meaning_en": "A sweet thick liquid made by bees",
+      "example_sentence": "She added honey to her warm milk.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "honey.jpg"
+    },
+    {
+      "word": "papaya",
+      "hindi": "पपीता",
+      "meaning_en": "A soft orange tropical fruit with black seeds",
+      "example_sentence": "Ripe papaya is sweet and good for digestion.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "papaya.jpg"
+    },
+    {
+      "word": "cucumber",
+      "hindi": "खीरा",
+      "meaning_en": "A long green vegetable eaten raw in salads",
+      "example_sentence": "She added cucumber slices to the salad.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "cucumber.jpg"
+    },
+    {
+      "word": "pumpkin",
+      "hindi": "कद्दू",
+      "meaning_en": "A large round orange vegetable grown on vines",
+      "example_sentence": "Mother made pumpkin curry for dinner.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "pumpkin.jpg"
+    },
+    {
+      "word": "mustard",
+      "hindi": "सरसों",
+      "meaning_en": "A yellow plant whose seeds are used as a spice",
+      "example_sentence": "Mustard flowers turn fields yellow in winter.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "mustard.jpg"
+    },
+    {
+      "word": "cardamom",
+      "hindi": "इलायची",
+      "meaning_en": "A sweet-smelling spice used in tea and sweets",
+      "example_sentence": "She added cardamom to the kheer.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "cardamom.jpg"
+    },
+    {
+      "word": "guava",
+      "hindi": "अमरूद",
+      "meaning_en": "A round green or yellow tropical fruit with pink flesh",
+      "example_sentence": "She ate a guava after school.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "guava.jpg"
+    },
+    {
+      "word": "watermelon",
+      "hindi": "तरबूज",
+      "meaning_en": "A large fruit with green skin and sweet red flesh",
+      "example_sentence": "Watermelon is a refreshing fruit in summer.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "watermelon.jpg"
+    },
+    {
+      "word": "radish",
+      "hindi": "मूली",
+      "meaning_en": "A small white or red vegetable with a sharp taste",
+      "example_sentence": "Mother put sliced radish in the salad.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "radish.jpg"
+    },
+    {
+      "word": "beans",
+      "hindi": "फलियाँ / सेम",
+      "meaning_en": "Long green pods or seeds eaten as a vegetable",
+      "example_sentence": "She cooked green beans with garlic.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "beans.jpg"
+    },
+    {
+      "word": "corn",
+      "hindi": "मक्का",
+      "meaning_en": "A tall crop plant with yellow grains on a cob",
+      "example_sentence": "He ate roasted corn on the roadside.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "corn.jpg"
+    },
+    {
+      "word": "breakfast",
+      "hindi": "नाश्ता",
+      "meaning_en": "The first meal of the day eaten in the morning",
+      "example_sentence": "She had toast and eggs for breakfast.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "breakfast.jpg"
+    },
+    {
+      "word": "lunch",
+      "hindi": "दोपहर का खाना",
+      "meaning_en": "The meal eaten in the middle of the day",
+      "example_sentence": "We eat lunch at school at noon.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "lunch.jpg"
+    },
+    {
+      "word": "snack",
+      "hindi": "हल्का नाश्ता",
+      "meaning_en": "A small amount of food eaten between main meals",
+      "example_sentence": "He had biscuits as a snack after school.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "snack.jpg"
+    },
+    {
+      "word": "recipe",
+      "hindi": "विधि",
+      "meaning_en": "Instructions that tell you how to cook a dish",
+      "example_sentence": "My mother shared her recipe for dal.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "recipe.jpg"
+    },
+    {
+      "word": "hunger",
+      "hindi": "भूख",
+      "meaning_en": "The feeling of wanting or needing food",
+      "example_sentence": "She felt hunger after playing outside.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "hunger.jpg"
+    },
+    {
+      "word": "vegetable",
+      "hindi": "सब्जी",
+      "meaning_en": "A plant or part of a plant eaten as food",
+      "example_sentence": "Eat your vegetables to stay healthy.",
+      "category": "food",
+      "difficulty": "easy",
+      "image": "vegetable.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+{
+  "words": [
+    {
+      "word": "gregarious",
+      "hindi": "मिलनसार / सामाजिक",
+      "meaning_en": "Fond of company; sociable",
+      "example_sentence": "A gregarious person makes friends wherever they go.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who enjoys the company of others and is very sociable",
+        "answer": "gregarious"
+      },
+      "analogy": {
+        "pair": "introvert : reclusive",
+        "question": "extrovert : ______",
+        "answer": "gregarious"
+      },
+      "hint_words": "reclusive, introverted, gregarious, shy",
+      "correct_word": "gregarious",
+      "sentence": "Her ______ nature made her a natural leader in group activities.",
+      "meaning_hi": "मिलनसार",
+      "example_sentence_hi": "एक मिलनसार व्यक्ति जहाँ भी जाता है दोस्त बना लेता है।"
+    },
+    {
+      "word": "jettison",
+      "hindi": "फेंक देना / त्यागना",
+      "meaning_en": "To throw or drop from an aircraft or ship; to abandon or discard",
+      "example_sentence": "The company decided to jettison its failing division.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To throw away or get rid of something no longer needed",
+        "answer": "jettison"
+      },
+      "analogy": {
+        "pair": "acquire : obtain",
+        "question": "discard : ______",
+        "answer": "jettison"
+      },
+      "hint_words": "retain, jettison, acquire, preserve",
+      "correct_word": "jettison",
+      "sentence": "The pilot had to ______ excess fuel before making an emergency landing.",
+      "meaning_hi": "फेंक देना",
+      "example_sentence_hi": "कंपनी ने अपने असफल प्रभाग को त्यागने का फैसला किया।"
+    },
+    {
+      "word": "querulous",
+      "hindi": "शिकायती / चिड़चिड़ा",
+      "meaning_en": "Complaining in a petulant or whining manner",
+      "example_sentence": "The querulous customer complained about every minor issue.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who constantly complains or whines about minor things",
+        "answer": "querulous"
+      },
+      "analogy": {
+        "pair": "content : satisfied",
+        "question": "complaining : ______",
+        "answer": "querulous"
+      },
+      "hint_words": "content, cheerful, querulous, patient",
+      "correct_word": "querulous",
+      "sentence": "His ______ tone made it difficult to have a productive conversation.",
+      "meaning_hi": "शिकायती",
+      "example_sentence_hi": "शिकायती ग्राहक ने हर छोटी बात पर शिकायत की।"
+    },
+    {
+      "word": "truculent",
+      "hindi": "उग्र / लड़ाकू",
+      "meaning_en": "Eager or quick to argue or fight; aggressively defiant",
+      "example_sentence": "His truculent behaviour made negotiation impossible.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is aggressively defiant and eager to fight or argue",
+        "answer": "truculent"
+      },
+      "analogy": {
+        "pair": "gentle : meek",
+        "question": "aggressive : ______",
+        "answer": "truculent"
+      },
+      "hint_words": "gentle, truculent, meek, peaceful",
+      "correct_word": "truculent",
+      "sentence": "The ______ prisoner refused to cooperate with the prison authorities.",
+      "meaning_hi": "उग्र",
+      "example_sentence_hi": "उसके उग्र व्यवहार ने बातचीत को असंभव बना दिया।"
+    },
+    {
+      "word": "alacrity",
+      "hindi": "तत्परता / उत्साहपूर्ण तत्परता",
+      "meaning_en": "Brisk and cheerful readiness to do something",
+      "example_sentence": "She accepted the challenge with great alacrity.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Eager and brisk readiness and enthusiasm to do something",
+        "answer": "alacrity"
+      },
+      "analogy": {
+        "pair": "laziness : reluctance",
+        "question": "eagerness : ______",
+        "answer": "alacrity"
+      },
+      "hint_words": "alacrity, reluctance, laziness, hesitation",
+      "correct_word": "alacrity",
+      "sentence": "The soldiers responded to the command with great ______.",
+      "meaning_hi": "तत्परता",
+      "example_sentence_hi": "उसने बड़ी तत्परता के साथ चुनौती स्वीकार की।"
+    },
+    {
+      "word": "bombastic",
+      "hindi": "आडंबरपूर्ण / बड़बोला",
+      "meaning_en": "High-sounding but with little meaning; inflated or pompous",
+      "example_sentence": "His bombastic speech impressed no one in the audience.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Language that sounds impressive but lacks real substance",
+        "answer": "bombastic"
+      },
+      "analogy": {
+        "pair": "humble : modest",
+        "question": "pompous : ______",
+        "answer": "bombastic"
+      },
+      "hint_words": "bombastic, humble, concise, modest",
+      "correct_word": "bombastic",
+      "sentence": "The leader's ______ claims were not backed by any evidence.",
+      "meaning_hi": "आडंबरपूर्ण",
+      "example_sentence_hi": "उनके आडंबरपूर्ण भाषण ने दर्शकों में किसी को प्रभावित नहीं किया।"
+    },
+    {
+      "word": "callous",
+      "hindi": "कठोर / निर्दयी",
+      "meaning_en": "Showing no concern for other people's feelings; insensitive",
+      "example_sentence": "His callous remarks about the victims showed a lack of empathy.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is unfeeling and indifferent to the suffering of others",
+        "answer": "callous"
+      },
+      "analogy": {
+        "pair": "sensitive : empathetic",
+        "question": "unfeeling : ______",
+        "answer": "callous"
+      },
+      "hint_words": "callous, sensitive, empathetic, kind",
+      "correct_word": "callous",
+      "sentence": "The ______ attitude of the officials delayed relief to flood victims.",
+      "meaning_hi": "कठोर",
+      "example_sentence_hi": "पीड़ितों के बारे में उनकी कठोर टिप्पणियों ने सहानुभूति की कमी दर्शाई।"
+    },
+    {
+      "word": "contrite",
+      "hindi": "पश्चातापी / दुखी",
+      "meaning_en": "Feeling or expressing remorse at having done something wrong",
+      "example_sentence": "The accused appeared contrite before the court.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who feels deep regret and remorse for wrongdoing",
+        "answer": "contrite"
+      },
+      "analogy": {
+        "pair": "proud : arrogant",
+        "question": "regretful : ______",
+        "answer": "contrite"
+      },
+      "hint_words": "contrite, proud, arrogant, defiant",
+      "correct_word": "contrite",
+      "sentence": "A ______ apology is more meaningful than a reluctant one.",
+      "meaning_hi": "पश्चातापी",
+      "example_sentence_hi": "आरोपी अदालत के सामने पश्चातापी दिखा।"
+    },
+    {
+      "word": "derision",
+      "hindi": "उपहास / ठट्ठा",
+      "meaning_en": "Contemptuous ridicule or mockery",
+      "example_sentence": "His unusual idea was met with derision by his colleagues.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "The act of mocking or ridiculing someone contemptuously",
+        "answer": "derision"
+      },
+      "analogy": {
+        "pair": "praise : admiration",
+        "question": "mockery : ______",
+        "answer": "derision"
+      },
+      "hint_words": "derision, praise, admiration, respect",
+      "correct_word": "derision",
+      "sentence": "The proposal was greeted with ______ by the senior officials.",
+      "meaning_hi": "उपहास",
+      "example_sentence_hi": "उनके असामान्य विचार का सहकर्मियों ने उपहास किया।"
+    },
+    {
+      "word": "diffident",
+      "hindi": "संकोची / आत्म-विश्वास से रहित",
+      "meaning_en": "Modest or shy due to lack of self-confidence",
+      "example_sentence": "Despite her talent, she was too diffident to apply for the post.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is overly modest and lacks confidence in their abilities",
+        "answer": "diffident"
+      },
+      "analogy": {
+        "pair": "confident : assertive",
+        "question": "lacking confidence : ______",
+        "answer": "diffident"
+      },
+      "hint_words": "diffident, confident, assertive, bold",
+      "correct_word": "diffident",
+      "sentence": "The ______ student rarely spoke up in class despite knowing the answers.",
+      "meaning_hi": "संकोची",
+      "example_sentence_hi": "अपनी प्रतिभा के बावजूद, वह पद के लिए आवेदन करने में बहुत संकोची थी।"
+    },
+    {
+      "word": "ebullient",
+      "hindi": "उत्साही / जोशीला",
+      "meaning_en": "Cheerful and full of energy and enthusiasm",
+      "example_sentence": "Her ebullient personality lit up every room she entered.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is cheerful and overflowing with enthusiasm and energy",
+        "answer": "ebullient"
+      },
+      "analogy": {
+        "pair": "gloomy : despondent",
+        "question": "enthusiastic : ______",
+        "answer": "ebullient"
+      },
+      "hint_words": "ebullient, gloomy, despondent, reserved",
+      "correct_word": "ebullient",
+      "sentence": "The crowd was ______ after the team's unexpected victory.",
+      "meaning_hi": "उत्साही",
+      "example_sentence_hi": "उसके उत्साही व्यक्तित्व ने जिस भी कमरे में वह प्रवेश करती, उसे रोशन कर देती।"
+    },
+    {
+      "word": "equivocal",
+      "hindi": "संदिग्ध / दो अर्थ वाला",
+      "meaning_en": "Open to more than one interpretation; ambiguous; uncertain",
+      "example_sentence": "The politician gave an equivocal answer to avoid commitment.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A statement that is deliberately vague and open to more than one meaning",
+        "answer": "equivocal"
+      },
+      "analogy": {
+        "pair": "clear : unambiguous",
+        "question": "ambiguous : ______",
+        "answer": "equivocal"
+      },
+      "hint_words": "equivocal, clear, direct, unambiguous",
+      "correct_word": "equivocal",
+      "sentence": "His ______ response left voters confused about his real stance.",
+      "meaning_hi": "दो अर्थ वाला",
+      "example_sentence_hi": "राजनेता ने प्रतिबद्धता से बचने के लिए दो अर्थ वाला उत्तर दिया।"
+    },
+    {
+      "word": "fatuous",
+      "hindi": "मूर्खतापूर्ण / बेवकूफी",
+      "meaning_en": "Silly and pointless; showing a lack of intelligence",
+      "example_sentence": "His fatuous remarks during the serious discussion annoyed everyone.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Something that is complacently foolish and lacks sense",
+        "answer": "fatuous"
+      },
+      "analogy": {
+        "pair": "sensible : wise",
+        "question": "foolish : ______",
+        "answer": "fatuous"
+      },
+      "hint_words": "fatuous, sensible, wise, thoughtful",
+      "correct_word": "fatuous",
+      "sentence": "The proposal was dismissed as ______ by the expert panel.",
+      "meaning_hi": "मूर्खतापूर्ण",
+      "example_sentence_hi": "गंभीर चर्चा के दौरान उनकी मूर्खतापूर्ण टिप्पणियों ने सभी को नाराज़ किया।"
+    },
+    {
+      "word": "impecunious",
+      "hindi": "कंगाल / धनहीन",
+      "meaning_en": "Having little or no money; very poor",
+      "example_sentence": "The impecunious artist sold his paintings for barely anything.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who has very little or no money",
+        "answer": "impecunious"
+      },
+      "analogy": {
+        "pair": "wealthy : affluent",
+        "question": "very poor : ______",
+        "answer": "impecunious"
+      },
+      "hint_words": "impecunious, wealthy, affluent, prosperous",
+      "correct_word": "impecunious",
+      "sentence": "The ______ student worked two jobs to pay his fees.",
+      "meaning_hi": "कंगाल",
+      "example_sentence_hi": "कंगाल कलाकार ने अपनी पेंटिंग मुश्किल से कुछ पैसों में बेची।"
+    },
+    {
+      "word": "inveterate",
+      "hindi": "पक्का / जड़ जमाया हुआ",
+      "meaning_en": "Having a habit or interest that is firmly established and unlikely to change",
+      "example_sentence": "He is an inveterate gambler who cannot resist the urge to bet.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who has a long-standing and deep-rooted habit",
+        "answer": "inveterate"
+      },
+      "analogy": {
+        "pair": "occasional : sporadic",
+        "question": "deeply habitual : ______",
+        "answer": "inveterate"
+      },
+      "hint_words": "inveterate, occasional, sporadic, temporary",
+      "correct_word": "inveterate",
+      "sentence": "She is an ______ traveller who has visited over fifty countries.",
+      "meaning_hi": "पक्का",
+      "example_sentence_hi": "वह एक पक्का जुआरी है जो दाँव लगाने के आग्रह को रोक नहीं सकता।"
+    },
+    {
+      "word": "mercurial",
+      "hindi": "चंचल / अस्थिर",
+      "meaning_en": "Subject to sudden or unpredictable changes of mood or mind",
+      "example_sentence": "His mercurial temperament made him difficult to work with.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person whose moods and behaviour change suddenly and unpredictably",
+        "answer": "mercurial"
+      },
+      "analogy": {
+        "pair": "stable : steady",
+        "question": "unpredictably changing : ______",
+        "answer": "mercurial"
+      },
+      "hint_words": "mercurial, stable, steady, predictable",
+      "correct_word": "mercurial",
+      "sentence": "The team struggled to follow the ______ instructions of their coach.",
+      "meaning_hi": "चंचल",
+      "example_sentence_hi": "उसके चंचल स्वभाव ने उसके साथ काम करना मुश्किल बना दिया।"
+    },
+    {
+      "word": "placate",
+      "hindi": "शांत करना / मनाना",
+      "meaning_en": "To make someone less angry or upset by concessions or kind actions",
+      "example_sentence": "The manager tried to placate the angry customers with a refund.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "To calm someone who is angry or upset by making concessions",
+        "answer": "placate"
+      },
+      "analogy": {
+        "pair": "provoke : anger",
+        "question": "calm down : ______",
+        "answer": "placate"
+      },
+      "hint_words": "placate, provoke, anger, agitate",
+      "correct_word": "placate",
+      "sentence": "Nothing could ______ the protesters who demanded justice.",
+      "meaning_hi": "शांत करना",
+      "example_sentence_hi": "प्रबंधक ने नाराज़ ग्राहकों को रिफंड देकर शांत करने की कोशिश की।"
+    },
+    {
+      "word": "propitious",
+      "hindi": "शुभ / अनुकूल",
+      "meaning_en": "Giving or indicating a good chance of success; favourable",
+      "example_sentence": "The weather was propitious for the outdoor ceremony.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "Circumstances or signs that are favourable and suggest future success",
+        "answer": "propitious"
+      },
+      "analogy": {
+        "pair": "unfavourable : ominous",
+        "question": "favourable : ______",
+        "answer": "propitious"
+      },
+      "hint_words": "propitious, ominous, unfavourable, inauspicious",
+      "correct_word": "propitious",
+      "sentence": "The time seemed ______ for launching a new business.",
+      "meaning_hi": "शुभ",
+      "example_sentence_hi": "बाहरी समारोह के लिए मौसम अनुकूल था।"
+    },
+    {
+      "word": "tenacious",
+      "hindi": "दृढ़निश्चयी / जिद्दी",
+      "meaning_en": "Holding firmly to something; very determined and persistent",
+      "example_sentence": "Her tenacious pursuit of justice finally led to the conviction.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who is persistent and determined and does not give up easily",
+        "answer": "tenacious"
+      },
+      "analogy": {
+        "pair": "feeble : yielding",
+        "question": "persistent and strong-willed : ______",
+        "answer": "tenacious"
+      },
+      "hint_words": "tenacious, feeble, yielding, timid",
+      "correct_word": "tenacious",
+      "sentence": "Only a ______ effort over many years brought the reform.",
+      "meaning_hi": "दृढ़निश्चयी",
+      "example_sentence_hi": "न्याय की उसकी दृढ़निश्चयी खोज ने अंततः दोषसिद्धि कराई।"
+    },
+    {
+      "word": "voluble",
+      "hindi": "फर्राटेदार / बातूनी",
+      "meaning_en": "Speaking or spoken fluently and at length",
+      "example_sentence": "The voluble salesman talked non-stop for twenty minutes.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who speaks fluently and rapidly without pause",
+        "answer": "voluble"
+      },
+      "analogy": {
+        "pair": "taciturn : silent",
+        "question": "fluently talkative : ______",
+        "answer": "voluble"
+      },
+      "hint_words": "voluble, taciturn, silent, reserved",
+      "correct_word": "voluble",
+      "sentence": "The ______ host kept all the guests entertained throughout the evening.",
+      "meaning_hi": "फर्राटेदार",
+      "example_sentence_hi": "फर्राटेदार सेल्समैन बीस मिनट तक लगातार बोलता रहा।"
+    },
+    {
+      "word": "alleviate",
+      "hindi": "कम करना / राहत देना",
+      "meaning_en": "Make suffering, deficiency, or a problem less severe",
+      "example_sentence": "The medicine helped alleviate the pain within hours.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To reduce the severity of pain or a problem",
+        "answer": "alleviate"
+      },
+      "analogy": {
+        "pair": "aggravate : worsen",
+        "question": "to reduce or lessen : ______",
+        "answer": "alleviate"
+      },
+      "hint_words": "alleviate, aggravate, worsen, intensify",
+      "correct_word": "alleviate",
+      "sentence": "The government took steps to ______ the suffering caused by the drought.",
+      "meaning_hi": "कम करना",
+      "example_sentence_hi": "दवाई ने कुछ घंटों में दर्द को कम करने में मदद की।"
+    },
+    {
+      "word": "capricious",
+      "hindi": "मनमौजी / अस्थिर",
+      "meaning_en": "Given to sudden and unaccountable changes of mood or behaviour",
+      "example_sentence": "Her capricious decisions made it hard for the team to plan ahead.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who changes mood or decisions unpredictably",
+        "answer": "capricious"
+      },
+      "analogy": {
+        "pair": "consistent : steady",
+        "question": "unpredictable and impulsive : ______",
+        "answer": "capricious"
+      },
+      "hint_words": "capricious, consistent, steady, reliable",
+      "correct_word": "capricious",
+      "sentence": "The ______ weather of the hills made it difficult to plan outdoor activities.",
+      "meaning_hi": "मनमौजी",
+      "example_sentence_hi": "उसके मनमौजी फैसलों से टीम के लिए आगे की योजना बनाना कठिन हो गया।"
+    },
+    {
+      "word": "complacent",
+      "hindi": "आत्मसंतुष्ट / लापरवाह",
+      "meaning_en": "Showing smug or uncritical satisfaction with oneself or one's achievements",
+      "example_sentence": "The team became complacent after winning three matches in a row.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is overly satisfied and unaware of possible dangers",
+        "answer": "complacent"
+      },
+      "analogy": {
+        "pair": "vigilant : alert",
+        "question": "smugly self-satisfied and unaware : ______",
+        "answer": "complacent"
+      },
+      "hint_words": "complacent, vigilant, alert, cautious",
+      "correct_word": "complacent",
+      "sentence": "You must not become ______ in your preparation just because you passed the prelims.",
+      "meaning_hi": "आत्मसंतुष्ट",
+      "example_sentence_hi": "लगातार तीन मैच जीतने के बाद टीम आत्मसंतुष्ट हो गई।"
+    },
+    {
+      "word": "cursory",
+      "hindi": "ऊपरी / सरसरी",
+      "meaning_en": "Hasty and therefore not thorough or detailed",
+      "example_sentence": "A cursory glance at the report revealed several glaring errors.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Done quickly and without attention to detail",
+        "answer": "cursory"
+      },
+      "analogy": {
+        "pair": "thorough : detailed",
+        "question": "hasty and superficial : ______",
+        "answer": "cursory"
+      },
+      "hint_words": "cursory, thorough, detailed, meticulous",
+      "correct_word": "cursory",
+      "sentence": "The inspector gave the site only a ______ examination before issuing the clearance.",
+      "meaning_hi": "सरसरी",
+      "example_sentence_hi": "रिपोर्ट पर सरसरी निगाह डालने पर कई स्पष्ट गलतियाँ सामने आईं।"
+    },
+    {
+      "word": "despondent",
+      "hindi": "निराश / हताश",
+      "meaning_en": "In low spirits from loss of hope or courage",
+      "example_sentence": "She became despondent after failing the exam for the third time.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who has lost all hope and is in low spirits",
+        "answer": "despondent"
+      },
+      "analogy": {
+        "pair": "elated : joyful",
+        "question": "deeply sad and hopeless : ______",
+        "answer": "despondent"
+      },
+      "hint_words": "despondent, elated, joyful, hopeful",
+      "correct_word": "despondent",
+      "sentence": "The farmer was ______ after the crop failed due to unseasonal rains.",
+      "meaning_hi": "निराश",
+      "example_sentence_hi": "तीसरी बार परीक्षा में असफल होने के बाद वह निराश हो गई।"
+    },
+    {
+      "word": "discreet",
+      "hindi": "विवेकशील / सतर्क",
+      "meaning_en": "Careful and circumspect in one's speech or actions",
+      "example_sentence": "A good secretary must be discreet about confidential matters.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is careful not to cause offence or reveal secrets",
+        "answer": "discreet"
+      },
+      "analogy": {
+        "pair": "indiscreet : revealing",
+        "question": "careful and tactful : ______",
+        "answer": "discreet"
+      },
+      "hint_words": "discreet, indiscreet, revealing, careless",
+      "correct_word": "discreet",
+      "sentence": "The doctor was ______ in discussing the patient's medical history.",
+      "meaning_hi": "विवेकशील",
+      "example_sentence_hi": "एक अच्छे सचिव को गोपनीय मामलों में विवेकशील होना चाहिए।"
+    },
+    {
+      "word": "empathy",
+      "hindi": "सहानुभूति / दूसरे की भावना समझना",
+      "meaning_en": "The ability to understand and share the feelings of another",
+      "example_sentence": "A good counsellor must have empathy for their clients' struggles.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "The ability to understand and share the feelings of others",
+        "answer": "empathy"
+      },
+      "analogy": {
+        "pair": "apathy : indifference",
+        "question": "understanding others' feelings : ______",
+        "answer": "empathy"
+      },
+      "hint_words": "empathy, apathy, indifference, coldness",
+      "correct_word": "empathy",
+      "sentence": "The leader's ______ towards the flood victims was evident in his immediate response.",
+      "meaning_hi": "सहानुभूति",
+      "example_sentence_hi": "एक अच्छे परामर्शदाता को अपने ग्राहकों के संघर्षों के प्रति सहानुभूति होनी चाहिए।"
+    },
+    {
+      "word": "exorbitant",
+      "hindi": "अत्यधिक / बहुत ज़्यादा",
+      "meaning_en": "Unreasonably high in price or amount",
+      "example_sentence": "The exorbitant fees charged by private hospitals are unaffordable for most families.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Prices or demands that are unreasonably high",
+        "answer": "exorbitant"
+      },
+      "analogy": {
+        "pair": "reasonable : fair",
+        "question": "unreasonably high or excessive : ______",
+        "answer": "exorbitant"
+      },
+      "hint_words": "exorbitant, reasonable, fair, moderate",
+      "correct_word": "exorbitant",
+      "sentence": "The landlord demanded an ______ rent that the tenants could not afford.",
+      "meaning_hi": "अत्यधिक",
+      "example_sentence_hi": "निजी अस्पतालों द्वारा वसूला जाने वाला अत्यधिक शुल्क अधिकांश परिवारों के लिए वहन करना मुश्किल है।"
+    },
+    {
+      "word": "frugal",
+      "hindi": "मितव्ययी / किफायती",
+      "meaning_en": "Sparing or economical with money or resources",
+      "example_sentence": "Despite being wealthy, he lived a frugal lifestyle.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is economical and avoids wasteful spending",
+        "answer": "frugal"
+      },
+      "analogy": {
+        "pair": "extravagant : wasteful",
+        "question": "economical and avoiding waste : ______",
+        "answer": "frugal"
+      },
+      "hint_words": "frugal, extravagant, wasteful, lavish",
+      "correct_word": "frugal",
+      "sentence": "Her ______ habits allowed her to save enough for a house in five years.",
+      "meaning_hi": "मितव्ययी",
+      "example_sentence_hi": "धनी होने के बावजूद वह मितव्ययी जीवनशैली जीता था।"
+    },
+    {
+      "word": "hamper",
+      "hindi": "बाधा डालना / रोकना",
+      "meaning_en": "Hinder or impede the movement or progress of",
+      "example_sentence": "The heavy rains hampered the rescue operations in the flood-affected areas.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "To obstruct or make progress difficult",
+        "answer": "hamper"
+      },
+      "analogy": {
+        "pair": "facilitate : help",
+        "question": "to obstruct progress : ______",
+        "answer": "hamper"
+      },
+      "hint_words": "hamper, facilitate, help, assist",
+      "correct_word": "hamper",
+      "sentence": "Lack of funds continues to ______ the government's rural development plans.",
+      "meaning_hi": "बाधा डालना",
+      "example_sentence_hi": "भारी बारिश ने बाढ़ प्रभावित क्षेत्रों में बचाव कार्य में बाधा डाली।"
+    },
+    {
+      "word": "impetuous",
+      "hindi": "आवेगशील / जल्दबाज़",
+      "meaning_en": "Acting or done quickly and without thought or care",
+      "example_sentence": "His impetuous decision to resign cost him his career.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who acts hastily and without careful thought",
+        "answer": "impetuous"
+      },
+      "analogy": {
+        "pair": "deliberate : careful",
+        "question": "acting without thinking : ______",
+        "answer": "impetuous"
+      },
+      "hint_words": "impetuous, deliberate, careful, cautious",
+      "correct_word": "impetuous",
+      "sentence": "An ______ leader often makes decisions that cause long-term problems.",
+      "meaning_hi": "आवेगशील",
+      "example_sentence_hi": "इस्तीफे के उसके जल्दबाज़ फैसले ने उसका करियर बर्बाद कर दिया।"
+    },
+    {
+      "word": "infallible",
+      "hindi": "अचूक / अभ्रांत",
+      "meaning_en": "Incapable of making mistakes or being wrong",
+      "example_sentence": "No system is infallible; every machine can fail under certain conditions.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something that is incapable of being wrong or making errors",
+        "answer": "infallible"
+      },
+      "analogy": {
+        "pair": "fallible : prone to error",
+        "question": "incapable of error : ______",
+        "answer": "infallible"
+      },
+      "hint_words": "infallible, fallible, erratic, unreliable",
+      "correct_word": "infallible",
+      "sentence": "The scientist warned that no algorithm is ______ when dealing with incomplete data.",
+      "meaning_hi": "अचूक",
+      "example_sentence_hi": "कोई भी प्रणाली अचूक नहीं है; हर मशीन कुछ परिस्थितियों में विफल हो सकती है।"
+    },
+    {
+      "word": "irascible",
+      "hindi": "चिड़चिड़ा / क्रोधी",
+      "meaning_en": "Having or showing a tendency to be easily angered",
+      "example_sentence": "The irascible coach shouted at the players after every minor mistake.",
+      "exam_category": "Banking",
+      "difficulty": "hard",
+      "one_word_sub": {
+        "question": "A person who gets angry very easily",
+        "answer": "irascible"
+      },
+      "analogy": {
+        "pair": "patient : calm",
+        "question": "easily provoked to anger : ______",
+        "answer": "irascible"
+      },
+      "hint_words": "irascible, patient, calm, placid",
+      "correct_word": "irascible",
+      "sentence": "The ______ officer was known for his short temper and strict discipline.",
+      "meaning_hi": "चिड़चिड़ा",
+      "example_sentence_hi": "चिड़चिड़े कोच ने हर छोटी गलती के बाद खिलाड़ियों पर चिल्लाया।"
+    },
+    {
+      "word": "lethargy",
+      "hindi": "सुस्ती / आलस्य",
+      "meaning_en": "A lack of energy and enthusiasm; sluggishness",
+      "example_sentence": "Post-lunch lethargy often affects productivity in offices.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A state of physical or mental sluggishness and lack of energy",
+        "answer": "lethargy"
+      },
+      "analogy": {
+        "pair": "vigour : energy",
+        "question": "lack of energy and sluggishness : ______",
+        "answer": "lethargy"
+      },
+      "hint_words": "lethargy, vigour, energy, enthusiasm",
+      "correct_word": "lethargy",
+      "sentence": "The country's economic ______ was attributed to years of mismanagement.",
+      "meaning_hi": "सुस्ती",
+      "example_sentence_hi": "दोपहर के भोजन के बाद की सुस्ती अक्सर कार्यालयों में उत्पादकता को प्रभावित करती है।"
+    },
+    {
+      "word": "loquacious",
+      "hindi": "बातूनी / वाचाल",
+      "meaning_en": "Tending to talk a great deal; garrulous",
+      "example_sentence": "The loquacious spokesperson went on for two hours without a break.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who talks excessively",
+        "answer": "loquacious"
+      },
+      "analogy": {
+        "pair": "taciturn : quiet",
+        "question": "tending to talk too much : ______",
+        "answer": "loquacious"
+      },
+      "hint_words": "loquacious, taciturn, quiet, reserved",
+      "correct_word": "loquacious",
+      "sentence": "The ______ candidate gave lengthy answers even to simple questions.",
+      "meaning_hi": "बातूनी",
+      "example_sentence_hi": "बातूनी प्रवक्ता बिना रुके दो घंटे बोलता रहा।"
+    },
+    {
+      "word": "mollify",
+      "hindi": "शांत करना / मनाना",
+      "meaning_en": "Appease the anger or anxiety of someone; soothe",
+      "example_sentence": "The manager tried to mollify the angry customer with a full refund.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "To calm an angry or upset person",
+        "answer": "mollify"
+      },
+      "analogy": {
+        "pair": "provoke : agitate",
+        "question": "to soothe or calm someone : ______",
+        "answer": "mollify"
+      },
+      "hint_words": "mollify, provoke, agitate, irritate",
+      "correct_word": "mollify",
+      "sentence": "The authorities promised additional benefits to ______ the striking workers.",
+      "meaning_hi": "शांत करना",
+      "example_sentence_hi": "प्रबंधक ने पूर्ण धनवापसी के साथ नाराज ग्राहक को शांत करने की कोशिश की।"
+    },
+    {
+      "word": "mundane",
+      "hindi": "सांसारिक / साधारण",
+      "meaning_en": "Lacking interest or excitement; dull and ordinary",
+      "example_sentence": "He yearned for adventure after years of mundane office work.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "Something that is ordinary, routine, and lacking excitement",
+        "answer": "mundane"
+      },
+      "analogy": {
+        "pair": "extraordinary : remarkable",
+        "question": "ordinary and lacking excitement : ______",
+        "answer": "mundane"
+      },
+      "hint_words": "mundane, extraordinary, remarkable, exceptional",
+      "correct_word": "mundane",
+      "sentence": "The diplomat had to attend several ______ meetings before the major summit.",
+      "meaning_hi": "साधारण",
+      "example_sentence_hi": "कई वर्षों के साधारण कार्यालय कार्य के बाद उसे साहसिक कार्यों की चाहत थी।"
+    },
+    {
+      "word": "negligible",
+      "hindi": "नगण्य / बहुत कम",
+      "meaning_en": "So small or unimportant as to be not worth considering",
+      "example_sentence": "The side effects of the vaccine were negligible compared to its benefits.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "Something so small it is not worth taking into account",
+        "answer": "negligible"
+      },
+      "analogy": {
+        "pair": "significant : important",
+        "question": "so small as to be unimportant : ______",
+        "answer": "negligible"
+      },
+      "hint_words": "negligible, significant, important, substantial",
+      "correct_word": "negligible",
+      "sentence": "The margin of victory was ______, with only ten votes separating the candidates.",
+      "meaning_hi": "नगण्य",
+      "example_sentence_hi": "टीके के दुष्प्रभाव इसके लाभों की तुलना में नगण्य थे।"
+    },
+    {
+      "word": "paucity",
+      "hindi": "कमी / अल्पता",
+      "meaning_en": "The presence of something in only small or insufficient quantities",
+      "example_sentence": "A paucity of evidence made it difficult to prosecute the accused.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A very small or insufficient amount of something",
+        "answer": "paucity"
+      },
+      "analogy": {
+        "pair": "abundance : plenty",
+        "question": "small insufficient quantity : ______",
+        "answer": "paucity"
+      },
+      "hint_words": "paucity, abundance, plenty, surplus",
+      "correct_word": "paucity",
+      "sentence": "The NGO highlighted the ______ of clean drinking water in tribal areas.",
+      "meaning_hi": "कमी",
+      "example_sentence_hi": "साक्ष्य की कमी ने आरोपी पर मुकदमा चलाना कठिन बना दिया।"
+    },
+    {
+      "word": "pragmatic",
+      "hindi": "व्यावहारिक / यथार्थवादी",
+      "meaning_en": "Dealing with things sensibly and realistically",
+      "example_sentence": "The pragmatic leader chose compromise over confrontation.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who deals with problems in a practical and realistic way",
+        "answer": "pragmatic"
+      },
+      "analogy": {
+        "pair": "idealistic : impractical",
+        "question": "practical and realistic : ______",
+        "answer": "pragmatic"
+      },
+      "hint_words": "pragmatic, idealistic, impractical, visionary",
+      "correct_word": "pragmatic",
+      "sentence": "A ______ approach to policy-making requires evidence-based decisions.",
+      "meaning_hi": "व्यावहारिक",
+      "example_sentence_hi": "व्यावहारिक नेता ने टकराव की जगह समझौते को चुना।"
+    },
+    {
+      "word": "propitious",
+      "hindi": "शुभ / अनुकूल",
+      "meaning_en": "Giving or indicating a good chance of success; favourable",
+      "example_sentence": "The clear skies were a propitious sign for the launch of the satellite.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Conditions that are favourable and indicate a good chance of success",
+        "answer": "propitious"
+      },
+      "analogy": {
+        "pair": "ominous : unfavourable",
+        "question": "favourable and indicating success : ______",
+        "answer": "propitious"
+      },
+      "hint_words": "propitious, ominous, unfavourable, inauspicious",
+      "correct_word": "propitious",
+      "sentence": "This is a ______ moment to launch the new product with the market at peak demand.",
+      "meaning_hi": "शुभ",
+      "example_sentence_hi": "आसमान में साफ मौसम उपग्रह के प्रक्षेपण के लिए एक शुभ संकेत था।"
+    },
+    {
+      "word": "prudent",
+      "hindi": "सावधान / विवेकी",
+      "meaning_en": "Acting with or showing care and thought for the future",
+      "example_sentence": "It is prudent to save at least 20% of your income every month.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who exercises caution and good judgement in planning ahead",
+        "answer": "prudent"
+      },
+      "analogy": {
+        "pair": "reckless : careless",
+        "question": "careful and showing foresight : ______",
+        "answer": "prudent"
+      },
+      "hint_words": "prudent, reckless, careless, impulsive",
+      "correct_word": "prudent",
+      "sentence": "A ______ investor diversifies their portfolio to reduce risk.",
+      "meaning_hi": "सावधान",
+      "example_sentence_hi": "हर महीने अपनी आय का कम से कम 20% बचाना विवेकपूर्ण है।"
+    },
+    {
+      "word": "sanguine",
+      "hindi": "आशावादी / उत्साहित",
+      "meaning_en": "Optimistic, especially in a difficult situation",
+      "example_sentence": "Despite the setback, she remained sanguine about the project's chances.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A person who is optimistic even in difficult circumstances",
+        "answer": "sanguine"
+      },
+      "analogy": {
+        "pair": "pessimistic : hopeless",
+        "question": "optimistic despite difficulties : ______",
+        "answer": "sanguine"
+      },
+      "hint_words": "sanguine, pessimistic, hopeless, despondent",
+      "correct_word": "sanguine",
+      "sentence": "The finance minister was ______ about achieving the growth target despite global headwinds.",
+      "meaning_hi": "आशावादी",
+      "example_sentence_hi": "असफलता के बावजूद वह परियोजना की संभावनाओं के बारे में आशावादी रही।"
+    },
+    {
+      "word": "transient",
+      "hindi": "क्षणिक / अस्थायी",
+      "meaning_en": "Lasting only for a short time; impermanent",
+      "example_sentence": "Happiness based on material wealth is often transient.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "Something that lasts for a very short time before passing",
+        "answer": "transient"
+      },
+      "analogy": {
+        "pair": "permanent : lasting",
+        "question": "lasting only briefly : ______",
+        "answer": "transient"
+      },
+      "hint_words": "transient, permanent, lasting, enduring",
+      "correct_word": "transient",
+      "sentence": "The pain was ______ and disappeared after two days of rest.",
+      "meaning_hi": "क्षणिक",
+      "example_sentence_hi": "भौतिक संपदा पर आधारित खुशी अक्सर क्षणिक होती है।"
+    },
+    {
+      "word": "ubiquitous",
+      "hindi": "सर्वव्यापी / हर जगह मौजूद",
+      "meaning_en": "Present, appearing, or found everywhere",
+      "example_sentence": "Smartphones have become ubiquitous in both urban and rural India.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "Something found or seeming to be everywhere at the same time",
+        "answer": "ubiquitous"
+      },
+      "analogy": {
+        "pair": "rare : scarce",
+        "question": "present everywhere : ______",
+        "answer": "ubiquitous"
+      },
+      "hint_words": "ubiquitous, rare, scarce, uncommon",
+      "correct_word": "ubiquitous",
+      "sentence": "The ______ presence of plastic pollution has become a global environmental crisis.",
+      "meaning_hi": "सर्वव्यापी",
+      "example_sentence_hi": "शहरी और ग्रामीण दोनों भारत में स्मार्टफोन सर्वव्यापी हो गए हैं।"
+    },
+    {
+      "word": "verbose",
+      "hindi": "शब्दाडंबरी / बहुत ज़्यादा बोलने वाला",
+      "meaning_en": "Using or expressed in more words than are needed",
+      "example_sentence": "His verbose writing style made the report unnecessarily long.",
+      "exam_category": "Banking",
+      "difficulty": "medium",
+      "one_word_sub": {
+        "question": "A style of speaking or writing that uses too many words",
+        "answer": "verbose"
+      },
+      "analogy": {
+        "pair": "concise : brief",
+        "question": "using more words than necessary : ______",
+        "answer": "verbose"
+      },
+      "hint_words": "verbose, concise, brief, terse",
+      "correct_word": "verbose",
+      "sentence": "The ______ instructions confused more than they helped.",
+      "meaning_hi": "शब्दाडंबरी",
+      "example_sentence_hi": "उसकी शब्दाडंबरी लेखन शैली ने रिपोर्ट को अनावश्यक रूप से लंबा बना दिया।"
+    },
+    {
+      "word": "wary",
+      "hindi": "सतर्क / चौकन्ना",
+      "meaning_en": "Feeling or showing caution about possible dangers or problems",
+      "example_sentence": "Investors remain wary of the volatile cryptocurrency market.",
+      "exam_category": "Banking",
+      "difficulty": "easy",
+      "one_word_sub": {
+        "question": "A person who is cautious and watchful for possible danger",
+        "answer": "wary"
+      },
+      "analogy": {
+        "pair": "reckless : heedless",
+        "question": "cautious and watchful : ______",
+        "answer": "wary"
+      },
+      "hint_words": "wary, reckless, heedless, naive",
+      "correct_word": "wary",
+      "sentence": "Be ______ of investment schemes that promise unrealistic returns.",
+      "meaning_hi": "सतर्क",
+      "example_sentence_hi": "निवेशक अस्थिर क्रिप्टोकरेंसी बाजार के प्रति सतर्क बने हुए हैं।"
+    }
+  ]
+}

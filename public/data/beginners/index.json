@@ -1,0 +1,109 @@
+{
+  "level": "beginners",
+  "totalWords": 416,
+  "chunkSize": 100,
+  "chunks": [
+    "chunk_0.json",
+    "chunk_1.json",
+    "chunk_2.json",
+    "chunk_3.json",
+    "chunk_4.json"
+  ],
+  "topics": [
+    {
+      "id": "food",
+      "file": "topic_food.json",
+      "count": 37
+    },
+    {
+      "id": "travel",
+      "file": "topic_travel.json",
+      "count": 12
+    },
+    {
+      "id": "home",
+      "file": "topic_home.json",
+      "count": 33
+    },
+    {
+      "id": "health",
+      "file": "topic_health.json",
+      "count": 21
+    },
+    {
+      "id": "office",
+      "file": "topic_office.json",
+      "count": 14
+    },
+    {
+      "id": "shopping",
+      "file": "topic_shopping.json",
+      "count": 14
+    },
+    {
+      "id": "school",
+      "file": "topic_school.json",
+      "count": 28
+    },
+    {
+      "id": "friends",
+      "file": "topic_friends.json",
+      "count": 13
+    },
+    {
+      "id": "animals",
+      "file": "topic_animals.json",
+      "count": 30
+    },
+    {
+      "id": "weather",
+      "file": "topic_weather.json",
+      "count": 15
+    },
+    {
+      "id": "nature",
+      "file": "topic_nature.json",
+      "count": 28
+    },
+    {
+      "id": "family",
+      "file": "topic_family.json",
+      "count": 12
+    },
+    {
+      "id": "transport",
+      "file": "topic_transport.json",
+      "count": 21
+    },
+    {
+      "id": "clothes",
+      "file": "topic_clothes.json",
+      "count": 15
+    },
+    {
+      "id": "emotions",
+      "file": "topic_emotions.json",
+      "count": 26
+    },
+    {
+      "id": "body",
+      "file": "topic_body.json",
+      "count": 16
+    },
+    {
+      "id": "sports",
+      "file": "topic_sports.json",
+      "count": 19
+    },
+    {
+      "id": "environment",
+      "file": "topic_environment.json",
+      "count": 14
+    },
+    {
+      "id": "actions",
+      "file": "topic_actions.json",
+      "count": 48
+    }
+  ]
+}

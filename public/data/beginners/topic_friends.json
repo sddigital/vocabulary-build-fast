@@ -1,0 +1,121 @@
+{
+  "words": [
+    {
+      "word": "orchestra",
+      "hindi": "वाद्य वृंद",
+      "meaning_en": "A large group of musicians who play together",
+      "example_sentence": "The orchestra played beautiful classical music.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "orchestra.jpg"
+    },
+    {
+      "word": "friend",
+      "hindi": "दोस्त / मित्र",
+      "meaning_en": "A person you like and enjoy spending time with",
+      "example_sentence": "My best friend and I sit together in class.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "friend.jpg"
+    },
+    {
+      "word": "neighbour",
+      "hindi": "पड़ोसी",
+      "meaning_en": "A person who lives next to or near you",
+      "example_sentence": "Our neighbour helped us during the flood.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "neighbour.jpg"
+    },
+    {
+      "word": "gift",
+      "hindi": "उपहार / तोहफा",
+      "meaning_en": "Something given to someone as a present",
+      "example_sentence": "She received a gift on her birthday.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "gift.jpg"
+    },
+    {
+      "word": "invitation",
+      "hindi": "निमंत्रण",
+      "meaning_en": "A written or spoken request to attend an event",
+      "example_sentence": "He sent an invitation to all his friends.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "invitation.jpg"
+    },
+    {
+      "word": "festival",
+      "hindi": "त्योहार / उत्सव",
+      "meaning_en": "A celebration or holiday observed by a community",
+      "example_sentence": "Diwali is a popular festival of lights.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "festival.jpg"
+    },
+    {
+      "word": "trust",
+      "hindi": "विश्वास",
+      "meaning_en": "A strong belief in someone's honesty and reliability",
+      "example_sentence": "Good friendships are built on trust.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "trust.jpg"
+    },
+    {
+      "word": "quarrel",
+      "hindi": "झगड़ा",
+      "meaning_en": "An angry argument or disagreement between people",
+      "example_sentence": "The two boys had a quarrel over the ball.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "quarrel.jpg"
+    },
+    {
+      "word": "share",
+      "hindi": "बाँटना / साझा करना",
+      "meaning_en": "To give part of something to others",
+      "example_sentence": "Good friends always share their things.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "share.jpg"
+    },
+    {
+      "word": "celebrate",
+      "hindi": "उत्सव मनाना",
+      "meaning_en": "To do something special to mark a happy occasion",
+      "example_sentence": "We celebrate birthdays with cake and songs.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "celebrate.jpg"
+    },
+    {
+      "word": "greet",
+      "hindi": "अभिवादन करना",
+      "meaning_en": "To say hello or welcome someone",
+      "example_sentence": "She greeted her friend with a wave.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "greet.jpg"
+    },
+    {
+      "word": "gossip",
+      "hindi": "गपशप",
+      "meaning_en": "Talking casually about other people",
+      "example_sentence": "They sat gossiping about their neighbors.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "gossip.jpg"
+    },
+    {
+      "word": "companion",
+      "hindi": "साथी",
+      "meaning_en": "A person you spend time with or travel with",
+      "example_sentence": "The dog was his faithful companion.",
+      "category": "friends",
+      "difficulty": "easy",
+      "image": "companion.jpg"
+    }
+  ]
+}

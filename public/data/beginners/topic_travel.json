@@ -1,0 +1,112 @@
+{
+  "words": [
+    {
+      "word": "bridge",
+      "hindi": "पुल",
+      "meaning_en": "A structure built over a river or road to allow people to cross",
+      "example_sentence": "We walked across the old stone bridge.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "bridge.jpg"
+    },
+    {
+      "word": "fountain",
+      "hindi": "फव्वारा",
+      "meaning_en": "A structure that shoots water into the air",
+      "example_sentence": "Children played near the fountain in the park.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "fountain.jpg"
+    },
+    {
+      "word": "park",
+      "hindi": "पार्क / उद्यान",
+      "meaning_en": "A public area with grass and trees where people relax",
+      "example_sentence": "Children played on the swings in the park.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "park.jpg"
+    },
+    {
+      "word": "station",
+      "hindi": "स्टेशन",
+      "meaning_en": "A place where trains or buses stop for passengers",
+      "example_sentence": "We reached the station just in time.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "station.jpg"
+    },
+    {
+      "word": "airport",
+      "hindi": "हवाई अड्डा",
+      "meaning_en": "A place where aeroplanes land and take off",
+      "example_sentence": "The airport was very busy during the holidays.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "airport.jpg"
+    },
+    {
+      "word": "ticket",
+      "hindi": "टिकट",
+      "meaning_en": "A piece of paper that allows you to travel or enter a place",
+      "example_sentence": "He bought a ticket at the railway counter.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "ticket.jpg"
+    },
+    {
+      "word": "hotel",
+      "hindi": "होटल",
+      "meaning_en": "A building where people pay to stay overnight",
+      "example_sentence": "We stayed in a hotel near the beach.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "hotel.jpg"
+    },
+    {
+      "word": "luggage",
+      "hindi": "सामान",
+      "meaning_en": "Bags and suitcases taken when traveling",
+      "example_sentence": "She packed her luggage the night before the trip.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "luggage.jpg"
+    },
+    {
+      "word": "journey",
+      "hindi": "यात्रा",
+      "meaning_en": "An act of traveling from one place to another",
+      "example_sentence": "The journey to Shimla took eight hours.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "journey.jpg"
+    },
+    {
+      "word": "passport",
+      "hindi": "पासपोर्ट",
+      "meaning_en": "An official document needed for traveling to other countries",
+      "example_sentence": "You need a passport to travel abroad.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "passport.jpg"
+    },
+    {
+      "word": "map",
+      "hindi": "नक्शा",
+      "meaning_en": "A drawing showing countries, roads, or places",
+      "example_sentence": "They used a map to find their way.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "map2.jpg"
+    },
+    {
+      "word": "guide",
+      "hindi": "मार्गदर्शक",
+      "meaning_en": "A person who shows tourists around a place",
+      "example_sentence": "The guide showed us around the old fort.",
+      "category": "travel",
+      "difficulty": "easy",
+      "image": "guide.jpg"
+    }
+  ]
+}

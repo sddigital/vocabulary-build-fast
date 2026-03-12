@@ -1,0 +1,139 @@
+{
+  "words": [
+    {
+      "word": "rain",
+      "hindi": "बारिश",
+      "meaning_en": "Water that falls from clouds in drops",
+      "example_sentence": "Children played in the rain.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "rain.jpg"
+    },
+    {
+      "word": "cloud",
+      "hindi": "बादल",
+      "meaning_en": "A mass of water vapor floating in the sky",
+      "example_sentence": "Dark clouds appeared before the storm.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "cloud.jpg"
+    },
+    {
+      "word": "wind",
+      "hindi": "हवा / पवन",
+      "meaning_en": "Moving air, especially outdoors",
+      "example_sentence": "The wind blew away my kite.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "wind.jpg"
+    },
+    {
+      "word": "storm",
+      "hindi": "तूफान",
+      "meaning_en": "Very bad weather with strong wind and rain",
+      "example_sentence": "The storm uprooted many trees.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "storm.jpg"
+    },
+    {
+      "word": "rainbow",
+      "hindi": "इंद्रधनुष",
+      "meaning_en": "An arc of colors visible in the sky after rain",
+      "example_sentence": "We saw a beautiful rainbow after the shower.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "rainbow.jpg"
+    },
+    {
+      "word": "fog",
+      "hindi": "कोहरा",
+      "meaning_en": "Thick cloud close to the ground that is hard to see through",
+      "example_sentence": "The fog was so thick that we could not see the road.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "fog.jpg"
+    },
+    {
+      "word": "snow",
+      "hindi": "बर्फ (हिमपात)",
+      "meaning_en": "White frozen water that falls from the sky in cold weather",
+      "example_sentence": "The children built a snowman in the park.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "snow.jpg"
+    },
+    {
+      "word": "sun",
+      "hindi": "सूरज",
+      "meaning_en": "The star at the center of our solar system that gives light and heat",
+      "example_sentence": "The sun rises in the east.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "sun.jpg"
+    },
+    {
+      "word": "hailstorm",
+      "hindi": "ओलावृष्टि",
+      "meaning_en": "A storm in which small balls of ice fall like rain",
+      "example_sentence": "The hailstorm damaged the crops in the field.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "hailstorm.jpg"
+    },
+    {
+      "word": "thunder",
+      "hindi": "गड़गड़ाहट",
+      "meaning_en": "The loud rumbling sound heard during a storm",
+      "example_sentence": "The thunder was so loud it woke everyone up.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "thunder.jpg"
+    },
+    {
+      "word": "foggy",
+      "hindi": "कोहरेदार",
+      "meaning_en": "Covered with thick mist that makes it hard to see",
+      "example_sentence": "It was foggy in the morning and he could not see the road.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "foggy.jpg"
+    },
+    {
+      "word": "breeze",
+      "hindi": "हल्की हवा",
+      "meaning_en": "A gentle, pleasant wind",
+      "example_sentence": "A cool breeze blew through the window.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "breeze.jpg"
+    },
+    {
+      "word": "cloudy",
+      "hindi": "बादलों से भरा",
+      "meaning_en": "When the sky is covered with clouds",
+      "example_sentence": "It was cloudy all day but did not rain.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "cloudy.jpg"
+    },
+    {
+      "word": "temperature",
+      "hindi": "तापमान",
+      "meaning_en": "How hot or cold something is, measured in degrees",
+      "example_sentence": "The temperature dropped at night.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "temperature.jpg"
+    },
+    {
+      "word": "sunny",
+      "hindi": "धूप वाला",
+      "meaning_en": "Bright with sunlight; not cloudy",
+      "example_sentence": "It was a sunny day perfect for a picnic.",
+      "category": "weather",
+      "difficulty": "easy",
+      "image": "sunny.jpg"
+    }
+  ]
+}

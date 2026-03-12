@@ -1,0 +1,11 @@
+{
+  "level": "intermediate",
+  "totalWords": 300,
+  "chunkSize": 100,
+  "chunks": [
+    "chunk_0.json",
+    "chunk_1.json",
+    "chunk_2.json"
+  ],
+  "topics": []
+}

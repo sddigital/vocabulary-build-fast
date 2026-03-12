@@ -1,0 +1,2304 @@
+{
+  "words": [
+    {
+      "word": "bond",
+      "hindi": "बंधन / रिश्ता",
+      "meaning_en": "A close connection or relationship between people",
+      "example_sentence": "Years of shared experiences created a strong bond between them.",
+      "synonyms": [
+        "connection",
+        "tie",
+        "link",
+        "attachment"
+      ],
+      "antonyms": [
+        "separation",
+        "estrangement",
+        "division",
+        "distance"
+      ],
+      "fill_blank": "A true friendship creates a ______ that lasts a lifetime.",
+      "correct_word": "bond",
+      "hint_words": "bond, separation, tie, conflict",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reconcile",
+      "hindi": "सुलह करना / मेल-मिलाप",
+      "meaning_en": "To restore friendly relations after a disagreement",
+      "example_sentence": "After the argument, the two friends decided to reconcile.",
+      "synonyms": [
+        "reunite",
+        "settle",
+        "make up",
+        "patch up"
+      ],
+      "antonyms": [
+        "quarrel",
+        "estrange",
+        "alienate",
+        "separate"
+      ],
+      "fill_blank": "It takes courage to ______ after a serious fight.",
+      "correct_word": "reconcile",
+      "hint_words": "reconcile, quarrel, alienate, reunite",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "betrayal",
+      "hindi": "विश्वासघात / धोखा",
+      "meaning_en": "The act of breaking trust or faith with someone",
+      "example_sentence": "She felt deep hurt at her best friend's betrayal.",
+      "synonyms": [
+        "treachery",
+        "disloyalty",
+        "deception",
+        "dishonesty"
+      ],
+      "antonyms": [
+        "loyalty",
+        "faithfulness",
+        "devotion",
+        "trust"
+      ],
+      "fill_blank": "Nothing wounds more deeply than a close friend's ______.",
+      "correct_word": "betrayal",
+      "hint_words": "betrayal, loyalty, devotion, treachery",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "companion",
+      "hindi": "साथी / सखा",
+      "meaning_en": "A person who spends time with or travels with another",
+      "example_sentence": "His dog was his constant companion on long walks.",
+      "synonyms": [
+        "friend",
+        "partner",
+        "associate",
+        "comrade"
+      ],
+      "antonyms": [
+        "stranger",
+        "enemy",
+        "rival",
+        "opponent"
+      ],
+      "fill_blank": "She was a loyal ______ throughout the difficult journey.",
+      "correct_word": "companion",
+      "hint_words": "companion, stranger, enemy, partner",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "trustworthy",
+      "hindi": "विश्वसनीय / भरोसेमंद",
+      "meaning_en": "Able to be relied on as honest and faithful",
+      "example_sentence": "A trustworthy friend keeps your secrets safe.",
+      "synonyms": [
+        "reliable",
+        "dependable",
+        "honest",
+        "faithful"
+      ],
+      "antonyms": [
+        "unreliable",
+        "dishonest",
+        "deceitful",
+        "untrustworthy"
+      ],
+      "fill_blank": "Choose ______ people to share your personal problems with.",
+      "correct_word": "trustworthy",
+      "hint_words": "trustworthy, unreliable, dishonest, faithful",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "cordial",
+      "hindi": "सौहार्दपूर्ण / मिलनसार",
+      "meaning_en": "Warm and friendly in manner",
+      "example_sentence": "Despite their past rivalry, the two teams had a cordial meeting.",
+      "synonyms": [
+        "warm",
+        "friendly",
+        "pleasant",
+        "genial"
+      ],
+      "antonyms": [
+        "cold",
+        "hostile",
+        "unfriendly",
+        "distant"
+      ],
+      "fill_blank": "They maintained a ______ relationship even after the argument.",
+      "correct_word": "cordial",
+      "hint_words": "cordial, hostile, cold, friendly",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "acquaintance",
+      "hindi": "जान-पहचान / परिचित व्यक्ति",
+      "meaning_en": "A person one knows slightly but not closely",
+      "example_sentence": "He is an acquaintance, not a close friend.",
+      "synonyms": [
+        "contact",
+        "associate",
+        "familiar",
+        "connection"
+      ],
+      "antonyms": [
+        "stranger",
+        "close friend",
+        "intimate",
+        "unknown"
+      ],
+      "fill_blank": "She had many ______ at work but few real friends.",
+      "correct_word": "acquaintance",
+      "hint_words": "acquaintance, stranger, intimate, contact",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "rivalry",
+      "hindi": "प्रतिस्पर्धा / दुश्मनी",
+      "meaning_en": "Competition or opposition between people for the same goal",
+      "example_sentence": "The friendly rivalry between the two students pushed both to excel.",
+      "synonyms": [
+        "competition",
+        "contest",
+        "conflict",
+        "opposition"
+      ],
+      "antonyms": [
+        "cooperation",
+        "friendship",
+        "alliance",
+        "partnership"
+      ],
+      "fill_blank": "A healthy ______ encourages both sides to improve.",
+      "correct_word": "rivalry",
+      "hint_words": "rivalry, friendship, alliance, competition",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "sincere",
+      "hindi": "सच्चा / ईमानदार",
+      "meaning_en": "Genuinely meaning what one says or does; not pretending",
+      "example_sentence": "A sincere friend always tells you the truth.",
+      "synonyms": [
+        "genuine",
+        "honest",
+        "earnest",
+        "heartfelt"
+      ],
+      "antonyms": [
+        "insincere",
+        "fake",
+        "deceptive",
+        "hollow"
+      ],
+      "fill_blank": "Her ______ apology moved him to forgive her.",
+      "correct_word": "sincere",
+      "hint_words": "sincere, fake, insincere, genuine",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "empathize",
+      "hindi": "दूसरे की भावना समझना",
+      "meaning_en": "To understand and share the feelings of another person",
+      "example_sentence": "A good friend can empathize with your pain.",
+      "synonyms": [
+        "understand",
+        "relate",
+        "sympathize",
+        "connect"
+      ],
+      "antonyms": [
+        "ignore",
+        "disregard",
+        "misunderstand",
+        "alienate"
+      ],
+      "fill_blank": "It is important to ______ with friends during hard times.",
+      "correct_word": "empathize",
+      "hint_words": "empathize, ignore, disregard, sympathize",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "consolation",
+      "hindi": "सांत्वना / दिलासा",
+      "meaning_en": "Comfort received by someone after a loss or disappointment",
+      "example_sentence": "Her words of consolation helped him feel better.",
+      "synonyms": [
+        "comfort",
+        "solace",
+        "support",
+        "sympathy"
+      ],
+      "antonyms": [
+        "distress",
+        "agitation",
+        "cruelty",
+        "indifference"
+      ],
+      "fill_blank": "Friends offer ______ when life is difficult.",
+      "correct_word": "consolation",
+      "hint_words": "consolation, distress, cruelty, comfort",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "rapport",
+      "hindi": "अच्छा संबंध / तालमेल",
+      "meaning_en": "A close and harmonious relationship where people understand each other",
+      "example_sentence": "The teacher quickly built a good rapport with the students.",
+      "synonyms": [
+        "understanding",
+        "harmony",
+        "affinity",
+        "connection"
+      ],
+      "antonyms": [
+        "hostility",
+        "distance",
+        "conflict",
+        "estrangement"
+      ],
+      "fill_blank": "Building ______ takes time, honesty, and effort.",
+      "correct_word": "rapport",
+      "hint_words": "rapport, hostility, conflict, harmony",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "misunderstanding",
+      "hindi": "गलतफहमी",
+      "meaning_en": "A failure to understand something correctly; a disagreement",
+      "example_sentence": "Many friendships break because of a small misunderstanding.",
+      "synonyms": [
+        "confusion",
+        "miscommunication",
+        "disagreement",
+        "error"
+      ],
+      "antonyms": [
+        "understanding",
+        "clarity",
+        "agreement",
+        "accord"
+      ],
+      "fill_blank": "A simple conversation could have cleared the ______.",
+      "correct_word": "misunderstanding",
+      "hint_words": "misunderstanding, clarity, agreement, confusion",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "solidarity",
+      "hindi": "एकजुटता / सहयोग",
+      "meaning_en": "Unity and support among a group with a common interest",
+      "example_sentence": "The students showed solidarity by supporting the expelled classmate.",
+      "synonyms": [
+        "unity",
+        "support",
+        "togetherness",
+        "fellowship"
+      ],
+      "antonyms": [
+        "division",
+        "selfishness",
+        "indifference",
+        "isolation"
+      ],
+      "fill_blank": "Standing in ______ with a friend shows real loyalty.",
+      "correct_word": "solidarity",
+      "hint_words": "solidarity, division, indifference, unity",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "congenial",
+      "hindi": "समान स्वभाव का / मिलनसार",
+      "meaning_en": "Pleasant and likeable; suited to one's nature",
+      "example_sentence": "He found a congenial group of friends who shared his interests.",
+      "synonyms": [
+        "pleasant",
+        "compatible",
+        "agreeable",
+        "friendly"
+      ],
+      "antonyms": [
+        "disagreeable",
+        "incompatible",
+        "hostile",
+        "unpleasant"
+      ],
+      "fill_blank": "She felt at ease in the ______ company of her classmates.",
+      "correct_word": "congenial",
+      "hint_words": "congenial, hostile, incompatible, pleasant",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "gossip",
+      "hindi": "गप-शप / चुगली",
+      "meaning_en": "Casual conversation about others, often involving rumours",
+      "example_sentence": "Spreading gossip can damage friendships permanently.",
+      "synonyms": [
+        "rumour",
+        "chatter",
+        "hearsay",
+        "tittle-tattle"
+      ],
+      "antonyms": [
+        "silence",
+        "privacy",
+        "respect",
+        "discretion"
+      ],
+      "fill_blank": "Never ______ about a friend behind their back.",
+      "correct_word": "gossip",
+      "hint_words": "gossip, respect, discretion, rumour",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "forgiveness",
+      "hindi": "क्षमा / माफी",
+      "meaning_en": "The act of forgiving someone for their wrongdoing",
+      "example_sentence": "His genuine apology earned him her forgiveness.",
+      "synonyms": [
+        "pardon",
+        "mercy",
+        "clemency",
+        "absolution"
+      ],
+      "antonyms": [
+        "grudge",
+        "resentment",
+        "revenge",
+        "bitterness"
+      ],
+      "fill_blank": "A lasting friendship requires ______ and understanding.",
+      "correct_word": "forgiveness",
+      "hint_words": "forgiveness, grudge, revenge, pardon",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "inseparable",
+      "hindi": "अविभाज्य / हमेशा साथ रहने वाले",
+      "meaning_en": "So close that they are always together; impossible to separate",
+      "example_sentence": "The two sisters were inseparable since childhood.",
+      "synonyms": [
+        "devoted",
+        "close",
+        "attached",
+        "bonded"
+      ],
+      "antonyms": [
+        "distant",
+        "detached",
+        "divided",
+        "estranged"
+      ],
+      "fill_blank": "The best friends were ______ throughout their school years.",
+      "correct_word": "inseparable",
+      "hint_words": "inseparable, distant, estranged, close",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "amicable",
+      "hindi": "मित्रतापूर्ण / सौहार्दपूर्ण",
+      "meaning_en": "Done in a friendly spirit; without hostility",
+      "example_sentence": "The two rivals reached an amicable settlement.",
+      "synonyms": [
+        "friendly",
+        "peaceful",
+        "harmonious",
+        "cordial"
+      ],
+      "antonyms": [
+        "hostile",
+        "aggressive",
+        "bitter",
+        "unfriendly"
+      ],
+      "fill_blank": "Their differences were resolved in an ______ manner.",
+      "correct_word": "amicable",
+      "hint_words": "amicable, hostile, bitter, friendly",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "camaraderie",
+      "hindi": "मित्रता / भाईचारा",
+      "meaning_en": "Mutual trust and friendship among a group of people",
+      "example_sentence": "The cricket team's camaraderie was obvious on and off the field.",
+      "synonyms": [
+        "fellowship",
+        "friendship",
+        "bonding",
+        "brotherhood"
+      ],
+      "antonyms": [
+        "hostility",
+        "rivalry",
+        "conflict",
+        "distrust"
+      ],
+      "fill_blank": "Years of working together built a strong sense of ______.",
+      "correct_word": "camaraderie",
+      "hint_words": "camaraderie, hostility, rivalry, fellowship",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "gregarious",
+      "hindi": "मिलनसार / सामाजिक",
+      "meaning_en": "Enjoying the company of other people; sociable",
+      "example_sentence": "His gregarious personality made him popular with everyone.",
+      "synonyms": [
+        "sociable",
+        "outgoing",
+        "friendly",
+        "social"
+      ],
+      "antonyms": [
+        "shy",
+        "reserved",
+        "introverted",
+        "withdrawn"
+      ],
+      "fill_blank": "A ______ person finds it easy to make new friends.",
+      "correct_word": "gregarious",
+      "hint_words": "gregarious, shy, reserved, sociable",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "mutual",
+      "hindi": "परस्पर / आपसी",
+      "meaning_en": "Experienced or done by each of two or more parties",
+      "example_sentence": "Their friendship was based on mutual respect and honesty.",
+      "synonyms": [
+        "shared",
+        "reciprocal",
+        "common",
+        "joint"
+      ],
+      "antonyms": [
+        "one-sided",
+        "unilateral",
+        "unequal",
+        "selfish"
+      ],
+      "fill_blank": "Strong friendships are built on ______ trust.",
+      "correct_word": "mutual",
+      "hint_words": "mutual, one-sided, selfish, shared",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "estrangement",
+      "hindi": "अलगाव / दूरी",
+      "meaning_en": "The state of being no longer close or friendly",
+      "example_sentence": "Years of estrangement made it hard for them to reconnect.",
+      "synonyms": [
+        "alienation",
+        "separation",
+        "distance",
+        "rift"
+      ],
+      "antonyms": [
+        "closeness",
+        "reconciliation",
+        "bonding",
+        "unity"
+      ],
+      "fill_blank": "A small argument led to a long ______ between the two families.",
+      "correct_word": "estrangement",
+      "hint_words": "estrangement, closeness, reconciliation, separation",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "confide",
+      "hindi": "विश्वास में बात बताना / राज़ बताना",
+      "meaning_en": "To tell someone a secret or private matter in trust",
+      "example_sentence": "She confided in her best friend about her family problems.",
+      "synonyms": [
+        "trust",
+        "share",
+        "disclose",
+        "reveal"
+      ],
+      "antonyms": [
+        "conceal",
+        "hide",
+        "withhold",
+        "keep secret"
+      ],
+      "fill_blank": "He chose to ______ in her because she was trustworthy.",
+      "correct_word": "confide",
+      "hint_words": "confide, conceal, hide, trust",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "generosity",
+      "hindi": "उदारता / दानशीलता",
+      "meaning_en": "The quality of being kind and giving freely to others",
+      "example_sentence": "His generosity towards his friends was well known.",
+      "synonyms": [
+        "kindness",
+        "giving",
+        "largesse",
+        "benevolence"
+      ],
+      "antonyms": [
+        "selfishness",
+        "greed",
+        "meanness",
+        "miserliness"
+      ],
+      "fill_blank": "Acts of ______ strengthen the bonds of friendship.",
+      "correct_word": "generosity",
+      "hint_words": "generosity, selfishness, greed, kindness",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "affinity",
+      "hindi": "लगाव / समानता",
+      "meaning_en": "A natural liking or sympathy for someone; a close connection",
+      "example_sentence": "She felt an immediate affinity with her new classmate.",
+      "synonyms": [
+        "attraction",
+        "closeness",
+        "connection",
+        "liking"
+      ],
+      "antonyms": [
+        "repulsion",
+        "distance",
+        "dislike",
+        "aversion"
+      ],
+      "fill_blank": "Their shared love of music created a strong ______.",
+      "correct_word": "affinity",
+      "hint_words": "affinity, repulsion, dislike, connection",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "rift",
+      "hindi": "दरार / मतभेद",
+      "meaning_en": "A serious break in friendly relations",
+      "example_sentence": "A misunderstanding caused a rift between the two childhood friends.",
+      "synonyms": [
+        "break",
+        "split",
+        "conflict",
+        "disagreement"
+      ],
+      "antonyms": [
+        "unity",
+        "harmony",
+        "reconciliation",
+        "bond"
+      ],
+      "fill_blank": "Jealousy created a ______ in their ten-year friendship.",
+      "correct_word": "rift",
+      "hint_words": "rift, unity, harmony, split",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "dependable",
+      "hindi": "भरोसेमंद / विश्वसनीय",
+      "meaning_en": "Trustworthy and reliable in fulfilling promises",
+      "example_sentence": "You need a dependable friend when life gets tough.",
+      "synonyms": [
+        "reliable",
+        "trustworthy",
+        "steadfast",
+        "loyal"
+      ],
+      "antonyms": [
+        "unreliable",
+        "fickle",
+        "undependable",
+        "inconsistent"
+      ],
+      "fill_blank": "A ______ friend never lets you down when it matters most.",
+      "correct_word": "dependable",
+      "hint_words": "dependable, unreliable, fickle, trustworthy",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "nostalgia",
+      "hindi": "पुरानी यादों की चाहत",
+      "meaning_en": "A sentimental longing for the past, especially happy memories",
+      "example_sentence": "The reunion filled her with nostalgia for school days.",
+      "synonyms": [
+        "longing",
+        "yearning",
+        "wistfulness",
+        "reminiscence"
+      ],
+      "antonyms": [
+        "indifference",
+        "contentment",
+        "forgetfulness",
+        "detachment"
+      ],
+      "fill_blank": "Looking at old photographs always brings on a sense of ______.",
+      "correct_word": "nostalgia",
+      "hint_words": "nostalgia, indifference, contentment, longing",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "welcoming",
+      "hindi": "स्वागत करने वाला / खुशदिल",
+      "meaning_en": "Behaving in a friendly way that makes someone feel at home",
+      "example_sentence": "Her welcoming nature made every newcomer feel comfortable.",
+      "synonyms": [
+        "hospitable",
+        "friendly",
+        "warm",
+        "open"
+      ],
+      "antonyms": [
+        "cold",
+        "unfriendly",
+        "hostile",
+        "unwelcoming"
+      ],
+      "fill_blank": "The ______ attitude of the group helped new members settle in.",
+      "correct_word": "welcoming",
+      "hint_words": "welcoming, cold, hostile, hospitable",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "enmity",
+      "hindi": "शत्रुता / दुश्मनी",
+      "meaning_en": "A state of active hostility and opposition between people",
+      "example_sentence": "Old enmity between the two families divided the village.",
+      "synonyms": [
+        "hostility",
+        "hatred",
+        "animosity",
+        "bitterness"
+      ],
+      "antonyms": [
+        "friendship",
+        "goodwill",
+        "harmony",
+        "affection"
+      ],
+      "fill_blank": "Years of ______ between the rivals came to an end.",
+      "correct_word": "enmity",
+      "hint_words": "enmity, friendship, goodwill, hostility",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "sentimental",
+      "hindi": "भावुक / संवेदनशील",
+      "meaning_en": "Strongly influenced by emotions; overly nostalgic or romantic",
+      "example_sentence": "She kept all the letters from her childhood friend for sentimental reasons.",
+      "synonyms": [
+        "emotional",
+        "nostalgic",
+        "tender",
+        "soft-hearted"
+      ],
+      "antonyms": [
+        "cold",
+        "indifferent",
+        "detached",
+        "unsentimental"
+      ],
+      "fill_blank": "He was too ______ to throw away the old greeting cards.",
+      "correct_word": "sentimental",
+      "hint_words": "sentimental, cold, indifferent, emotional",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "admire",
+      "hindi": "प्रशंसा करना / आदर करना",
+      "meaning_en": "To regard with respect, pleasure, or approval",
+      "example_sentence": "She admired her friend's patience and dedication.",
+      "synonyms": [
+        "respect",
+        "appreciate",
+        "esteem",
+        "applaud"
+      ],
+      "antonyms": [
+        "disrespect",
+        "criticize",
+        "condemn",
+        "despise"
+      ],
+      "fill_blank": "True friends ______ each other's strengths.",
+      "correct_word": "admire",
+      "hint_words": "admire, disrespect, criticize, respect",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "supportive",
+      "hindi": "सहयोगी / मददगार",
+      "meaning_en": "Providing encouragement or emotional help",
+      "example_sentence": "His supportive friends helped him through the difficult period.",
+      "synonyms": [
+        "encouraging",
+        "helpful",
+        "caring",
+        "reassuring"
+      ],
+      "antonyms": [
+        "discouraging",
+        "critical",
+        "unhelpful",
+        "unsupportive"
+      ],
+      "fill_blank": "A ______ friend believes in you even when you doubt yourself.",
+      "correct_word": "supportive",
+      "hint_words": "supportive, discouraging, critical, encouraging",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "tactful",
+      "hindi": "सुविचारित / व्यवहार-कुशल",
+      "meaning_en": "Having the ability to say difficult things without causing offence",
+      "example_sentence": "A tactful friend points out your mistakes with kindness.",
+      "synonyms": [
+        "diplomatic",
+        "considerate",
+        "sensitive",
+        "discreet"
+      ],
+      "antonyms": [
+        "blunt",
+        "thoughtless",
+        "insensitive",
+        "rude"
+      ],
+      "fill_blank": "Be ______ when sharing honest feedback with a friend.",
+      "correct_word": "tactful",
+      "hint_words": "tactful, blunt, rude, diplomatic",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reunion",
+      "hindi": "पुनर्मिलन / फिर से मिलना",
+      "meaning_en": "A gathering of people who have been apart for some time",
+      "example_sentence": "The school reunion brought old friends together after ten years.",
+      "synonyms": [
+        "gathering",
+        "meeting",
+        "get-together",
+        "reconnection"
+      ],
+      "antonyms": [
+        "separation",
+        "parting",
+        "farewell",
+        "departure"
+      ],
+      "fill_blank": "Everyone looked forward to the annual class ______.",
+      "correct_word": "reunion",
+      "hint_words": "reunion, separation, farewell, gathering",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "devoted",
+      "hindi": "समर्पित / निष्ठावान",
+      "meaning_en": "Very loving and loyal; giving all of one's attention to someone",
+      "example_sentence": "She was a devoted friend who always prioritised others.",
+      "synonyms": [
+        "loyal",
+        "dedicated",
+        "faithful",
+        "committed"
+      ],
+      "antonyms": [
+        "disloyal",
+        "unfaithful",
+        "uncaring",
+        "selfish"
+      ],
+      "fill_blank": "A ______ friend sacrifices their comfort for yours.",
+      "correct_word": "devoted",
+      "hint_words": "devoted, disloyal, selfish, faithful",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "confront",
+      "hindi": "सामना करना / मुकाबला करना",
+      "meaning_en": "To face or deal with a problem or difficult person directly",
+      "example_sentence": "It is better to confront a misunderstanding than let it fester.",
+      "synonyms": [
+        "face",
+        "challenge",
+        "address",
+        "tackle"
+      ],
+      "antonyms": [
+        "avoid",
+        "ignore",
+        "evade",
+        "sidestep"
+      ],
+      "fill_blank": "She decided to ______ her friend about the hurtful comment.",
+      "correct_word": "confront",
+      "hint_words": "confront, avoid, ignore, face",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "allegiance",
+      "hindi": "निष्ठा / वफ़ादारी",
+      "meaning_en": "Loyalty and commitment to a person or group",
+      "example_sentence": "His allegiance to his childhood friends never wavered.",
+      "synonyms": [
+        "loyalty",
+        "devotion",
+        "faithfulness",
+        "commitment"
+      ],
+      "antonyms": [
+        "disloyalty",
+        "betrayal",
+        "treachery",
+        "desertion"
+      ],
+      "fill_blank": "True friendship is built on mutual ______.",
+      "correct_word": "allegiance",
+      "hint_words": "allegiance, betrayal, treachery, loyalty",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "condolence",
+      "hindi": "शोक संवेदना / सहानुभूति",
+      "meaning_en": "An expression of sympathy for someone experiencing grief",
+      "example_sentence": "He sent his condolences to the family of his friend who passed away.",
+      "synonyms": [
+        "sympathy",
+        "consolation",
+        "comfort",
+        "compassion"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "celebration",
+        "coldness"
+      ],
+      "fill_blank": "Friends offer ______ when someone loses a loved one.",
+      "correct_word": "condolence",
+      "hint_words": "condolence, indifference, cruelty, sympathy",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "benign",
+      "hindi": "सौम्य / हानिरहित",
+      "meaning_en": "Gentle and kind; not harmful",
+      "example_sentence": "Her benign teasing showed she meant no harm.",
+      "synonyms": [
+        "gentle",
+        "harmless",
+        "kind",
+        "friendly"
+      ],
+      "antonyms": [
+        "harsh",
+        "malicious",
+        "cruel",
+        "harmful"
+      ],
+      "fill_blank": "His ______ humour kept the group cheerful.",
+      "correct_word": "benign",
+      "hint_words": "benign, harsh, malicious, gentle",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "reciprocate",
+      "hindi": "बदले में करना / प्रतिदान देना",
+      "meaning_en": "To respond to a gesture or feeling in kind",
+      "example_sentence": "When she helped him, he was happy to reciprocate.",
+      "synonyms": [
+        "return",
+        "repay",
+        "match",
+        "respond"
+      ],
+      "antonyms": [
+        "ignore",
+        "withhold",
+        "reject",
+        "refuse"
+      ],
+      "fill_blank": "A good friend is always ready to ______ kindness.",
+      "correct_word": "reciprocate",
+      "hint_words": "reciprocate, ignore, reject, return",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "courteous",
+      "hindi": "शिष्ट / सभ्य",
+      "meaning_en": "Polite and respectful in manner",
+      "example_sentence": "He was always courteous to both friends and strangers.",
+      "synonyms": [
+        "polite",
+        "respectful",
+        "civil",
+        "gracious"
+      ],
+      "antonyms": [
+        "rude",
+        "impolite",
+        "disrespectful",
+        "discourteous"
+      ],
+      "fill_blank": "A ______ friend makes others feel valued and respected.",
+      "correct_word": "courteous",
+      "hint_words": "courteous, rude, impolite, polite",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "commiserate",
+      "hindi": "दुख में शामिल होना / सहानुभूति देना",
+      "meaning_en": "To express or feel sympathy with someone in their misfortune",
+      "example_sentence": "They sat together to commiserate after losing the match.",
+      "synonyms": [
+        "sympathize",
+        "console",
+        "comfort",
+        "empathize"
+      ],
+      "antonyms": [
+        "rejoice",
+        "mock",
+        "ignore",
+        "celebrate"
+      ],
+      "fill_blank": "True friends ______ with you in failure and celebrate with you in success.",
+      "correct_word": "commiserate",
+      "hint_words": "commiserate, mock, rejoice, sympathize",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "candour",
+      "hindi": "स्पष्टवादिता / खुलापन",
+      "meaning_en": "The quality of being open and honest in speech",
+      "example_sentence": "She appreciated her friend's candour even when it was hard to hear.",
+      "synonyms": [
+        "honesty",
+        "frankness",
+        "openness",
+        "sincerity"
+      ],
+      "antonyms": [
+        "deception",
+        "dishonesty",
+        "pretence",
+        "evasiveness"
+      ],
+      "fill_blank": "Friends who speak with ______ strengthen the relationship.",
+      "correct_word": "candour",
+      "hint_words": "candour, deception, dishonesty, frankness",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "cherished",
+      "hindi": "अत्यंत प्रिय / बहुमूल्य",
+      "meaning_en": "Held dear and valued greatly",
+      "example_sentence": "Old friendships are among the most cherished parts of life.",
+      "synonyms": [
+        "beloved",
+        "treasured",
+        "valued",
+        "precious"
+      ],
+      "antonyms": [
+        "neglected",
+        "forgotten",
+        "despised",
+        "abandoned"
+      ],
+      "fill_blank": "That letter remains one of her most ______ possessions.",
+      "correct_word": "cherished",
+      "hint_words": "cherished, neglected, forgotten, treasured",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "inclusive",
+      "hindi": "समावेशी / सबको साथ लेने वाला",
+      "meaning_en": "Not excluding any member of a group; welcoming to all",
+      "example_sentence": "An inclusive friend never makes others feel left out.",
+      "synonyms": [
+        "welcoming",
+        "open",
+        "broad",
+        "accepting"
+      ],
+      "antonyms": [
+        "exclusive",
+        "narrow",
+        "biased",
+        "excluding"
+      ],
+      "fill_blank": "The group was ______ and welcomed students from all backgrounds.",
+      "correct_word": "inclusive",
+      "hint_words": "inclusive, exclusive, biased, welcoming",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "unconditional",
+      "hindi": "निस्वार्थ / बिना शर्त का",
+      "meaning_en": "Not subject to any conditions; absolute and total",
+      "example_sentence": "A mother's love and a true friend's support are unconditional.",
+      "synonyms": [
+        "absolute",
+        "complete",
+        "wholehearted",
+        "unreserved"
+      ],
+      "antonyms": [
+        "conditional",
+        "limited",
+        "partial",
+        "reserved"
+      ],
+      "fill_blank": "The best friendships are built on ______ trust.",
+      "correct_word": "unconditional",
+      "hint_words": "unconditional, conditional, limited, absolute",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "platonic",
+      "hindi": "मित्रतापूर्ण / शारीरिक नहीं",
+      "meaning_en": "A close friendship without romantic involvement",
+      "example_sentence": "Their platonic friendship lasted for over twenty years.",
+      "synonyms": [
+        "non-romantic",
+        "pure",
+        "spiritual",
+        "friendly"
+      ],
+      "antonyms": [
+        "romantic",
+        "passionate",
+        "physical",
+        "amorous"
+      ],
+      "fill_blank": "They shared a deep ______ bond with no romantic feelings.",
+      "correct_word": "platonic",
+      "hint_words": "platonic, romantic, passionate, friendly",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "fidelity",
+      "hindi": "निष्ठा / वफ़ादारी",
+      "meaning_en": "Faithfulness and loyalty to a person, cause, or belief",
+      "example_sentence": "Her fidelity to her friends was never in question.",
+      "synonyms": [
+        "loyalty",
+        "faithfulness",
+        "devotion",
+        "allegiance"
+      ],
+      "antonyms": [
+        "disloyalty",
+        "betrayal",
+        "infidelity",
+        "treachery"
+      ],
+      "fill_blank": "______ and honesty are the pillars of any deep friendship.",
+      "correct_word": "fidelity",
+      "hint_words": "fidelity, betrayal, disloyalty, loyalty",
+      "difficulty": "medium",
+      "category": "friends"
+    },
+    {
+      "word": "photosynthesis",
+      "hindi": "प्रकाश संश्लेषण",
+      "meaning_en": "The process by which plants make food using sunlight, water, and carbon dioxide",
+      "example_sentence": "Without photosynthesis, plants would not be able to produce food.",
+      "synonyms": [
+        "carbon fixation",
+        "food synthesis",
+        "light reaction",
+        "chlorophyll process"
+      ],
+      "antonyms": [
+        "respiration",
+        "decomposition",
+        "combustion",
+        "oxidation"
+      ],
+      "fill_blank": "Plants use ______ to convert sunlight into food.",
+      "correct_word": "photosynthesis",
+      "hint_words": "photosynthesis, respiration, decomposition, synthesis",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "osmosis",
+      "hindi": "परासरण",
+      "meaning_en": "The movement of water through a semi-permeable membrane from a dilute to a concentrated solution",
+      "example_sentence": "Water enters plant roots by the process of osmosis.",
+      "synonyms": [
+        "diffusion",
+        "absorption",
+        "permeation",
+        "filtration"
+      ],
+      "antonyms": [
+        "evaporation",
+        "dehydration",
+        "expulsion",
+        "concentration"
+      ],
+      "fill_blank": "Salt draws water out of cells through the process of ______.",
+      "correct_word": "osmosis",
+      "hint_words": "osmosis, diffusion, evaporation, filtration",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "refraction",
+      "hindi": "अपवर्तन",
+      "meaning_en": "The bending of light as it passes from one medium into another",
+      "example_sentence": "A straw in a glass of water appears bent due to refraction.",
+      "synonyms": [
+        "bending",
+        "deflection",
+        "diversion",
+        "dispersion"
+      ],
+      "antonyms": [
+        "reflection",
+        "absorption",
+        "transmission",
+        "straightening"
+      ],
+      "fill_blank": "The ______ of light through a prism creates a rainbow of colours.",
+      "correct_word": "refraction",
+      "hint_words": "refraction, reflection, absorption, diffusion",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "velocity",
+      "hindi": "वेग",
+      "meaning_en": "The speed of an object in a given direction",
+      "example_sentence": "The velocity of the car increased as it went downhill.",
+      "synonyms": [
+        "speed",
+        "pace",
+        "rate",
+        "momentum"
+      ],
+      "antonyms": [
+        "stillness",
+        "rest",
+        "immobility",
+        "slowness"
+      ],
+      "fill_blank": "The ______ of sound is approximately 343 metres per second in air.",
+      "correct_word": "velocity",
+      "hint_words": "velocity, speed, distance, stillness",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "chromosome",
+      "hindi": "गुणसूत्र",
+      "meaning_en": "A thread-like structure inside a cell nucleus that carries genetic information",
+      "example_sentence": "Humans have 46 chromosomes arranged in 23 pairs.",
+      "synonyms": [
+        "gene carrier",
+        "DNA strand",
+        "genetic unit",
+        "hereditary thread"
+      ],
+      "antonyms": [
+        "non-genetic material",
+        "cytoplasm",
+        "protein",
+        "cell wall"
+      ],
+      "fill_blank": "The sex of a child is determined by the ______ inherited from the father.",
+      "correct_word": "chromosome",
+      "hint_words": "chromosome, gene, nucleus, protein",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "combustion",
+      "hindi": "दहन",
+      "meaning_en": "The chemical process of burning in which a substance reacts with oxygen to produce heat and light",
+      "example_sentence": "The combustion of coal in power plants produces carbon dioxide.",
+      "synonyms": [
+        "burning",
+        "oxidation",
+        "ignition",
+        "incineration"
+      ],
+      "antonyms": [
+        "extinguishing",
+        "quenching",
+        "cooling",
+        "freezing"
+      ],
+      "fill_blank": "The ______ of fossil fuels releases carbon dioxide into the atmosphere.",
+      "correct_word": "combustion",
+      "hint_words": "combustion, photosynthesis, cooling, burning",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "inertia",
+      "hindi": "जड़त्व",
+      "meaning_en": "The tendency of an object to remain at rest or in motion unless acted on by an external force",
+      "example_sentence": "Due to inertia, passengers jerk forward when a bus brakes suddenly.",
+      "synonyms": [
+        "resistance",
+        "sluggishness",
+        "immobility",
+        "passivity"
+      ],
+      "antonyms": [
+        "momentum",
+        "motion",
+        "energy",
+        "activity"
+      ],
+      "fill_blank": "Newton's first law of motion is also called the law of ______.",
+      "correct_word": "inertia",
+      "hint_words": "inertia, gravity, momentum, friction",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "heredity",
+      "hindi": "आनुवंशिकता",
+      "meaning_en": "The passing of physical and mental traits from parents to offspring through genes",
+      "example_sentence": "The colour of a child's eyes is largely determined by heredity.",
+      "synonyms": [
+        "genetics",
+        "inheritance",
+        "transmission",
+        "lineage"
+      ],
+      "antonyms": [
+        "mutation",
+        "variation",
+        "acquired trait",
+        "environment"
+      ],
+      "fill_blank": "Gregor Mendel is known as the father of ______.",
+      "correct_word": "heredity",
+      "hint_words": "heredity, environment, mutation, genetics",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "immunity",
+      "hindi": "प्रतिरक्षा",
+      "meaning_en": "The body's ability to resist or fight off infection and disease",
+      "example_sentence": "Vaccines strengthen the body's immunity against dangerous diseases.",
+      "synonyms": [
+        "resistance",
+        "protection",
+        "defence",
+        "invulnerability"
+      ],
+      "antonyms": [
+        "vulnerability",
+        "susceptibility",
+        "weakness",
+        "exposure"
+      ],
+      "fill_blank": "A healthy diet and exercise help build natural ______ against illness.",
+      "correct_word": "immunity",
+      "hint_words": "immunity, vulnerability, resistance, infection",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "pathogen",
+      "hindi": "रोगाणु",
+      "meaning_en": "A bacterium, virus, or other microorganism that causes disease",
+      "example_sentence": "A pathogen enters the body and triggers an immune response.",
+      "synonyms": [
+        "germ",
+        "microbe",
+        "bacterium",
+        "virus"
+      ],
+      "antonyms": [
+        "vaccine",
+        "antibiotic",
+        "antidote",
+        "remedy"
+      ],
+      "fill_blank": "Malaria is caused by a ______ transmitted through the bite of an infected mosquito.",
+      "correct_word": "pathogen",
+      "hint_words": "pathogen, vaccine, remedy, germ",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "diagnosis",
+      "hindi": "निदान",
+      "meaning_en": "The identification of an illness or condition through examination and tests",
+      "example_sentence": "An early diagnosis of cancer greatly improves the chances of recovery.",
+      "synonyms": [
+        "identification",
+        "detection",
+        "assessment",
+        "evaluation"
+      ],
+      "antonyms": [
+        "misdiagnosis",
+        "ignorance",
+        "neglect",
+        "oversight"
+      ],
+      "fill_blank": "The doctor made a ______ of pneumonia after examining the patient.",
+      "correct_word": "diagnosis",
+      "hint_words": "diagnosis, treatment, misdiagnosis, remedy",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "contagious",
+      "hindi": "संक्रामक",
+      "meaning_en": "A disease that can spread easily from one person to another by contact",
+      "example_sentence": "Influenza is contagious and can spread through coughing and sneezing.",
+      "synonyms": [
+        "infectious",
+        "transmissible",
+        "communicable",
+        "spreading"
+      ],
+      "antonyms": [
+        "non-infectious",
+        "contained",
+        "isolated",
+        "non-communicable"
+      ],
+      "fill_blank": "Chickenpox is a ______ disease that spreads rapidly among children.",
+      "correct_word": "contagious",
+      "hint_words": "contagious, chronic, infectious, contained",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "colonialism",
+      "hindi": "उपनिवेशवाद",
+      "meaning_en": "The practice of one country taking political and economic control over another",
+      "example_sentence": "India suffered under British colonialism for nearly two centuries.",
+      "synonyms": [
+        "imperialism",
+        "domination",
+        "subjugation",
+        "occupation"
+      ],
+      "antonyms": [
+        "independence",
+        "sovereignty",
+        "liberation",
+        "self-rule"
+      ],
+      "fill_blank": "The freedom movement was a direct response to the ______ of the British Empire.",
+      "correct_word": "colonialism",
+      "hint_words": "colonialism, democracy, liberation, sovereignty",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "imperialism",
+      "hindi": "साम्राज्यवाद",
+      "meaning_en": "A policy of extending a country's power and influence through military force or diplomacy",
+      "example_sentence": "European imperialism led to the colonisation of Asia and Africa.",
+      "synonyms": [
+        "expansionism",
+        "colonialism",
+        "domination",
+        "conquest"
+      ],
+      "antonyms": [
+        "nationalism",
+        "independence",
+        "liberation",
+        "self-determination"
+      ],
+      "fill_blank": "The scramble for Africa was driven by European ______.",
+      "correct_word": "imperialism",
+      "hint_words": "imperialism, nationalism, liberalism, pacifism",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "nationalism",
+      "hindi": "राष्ट्रवाद",
+      "meaning_en": "A strong feeling of pride and loyalty towards one's country, often driving movements for independence",
+      "example_sentence": "The spirit of nationalism united Indians against British rule.",
+      "synonyms": [
+        "patriotism",
+        "self-determination",
+        "independence movement",
+        "sovereignty"
+      ],
+      "antonyms": [
+        "imperialism",
+        "colonialism",
+        "subjugation",
+        "internationalism"
+      ],
+      "fill_blank": "The rise of ______ in the 19th century led to the unification of Germany and Italy.",
+      "correct_word": "nationalism",
+      "hint_words": "nationalism, colonialism, imperialism, globalism",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "revolution",
+      "hindi": "क्रांति",
+      "meaning_en": "A fundamental and rapid change in a society or government, often achieved through force",
+      "example_sentence": "The French Revolution changed the political landscape of Europe.",
+      "synonyms": [
+        "uprising",
+        "transformation",
+        "overthrow",
+        "rebellion"
+      ],
+      "antonyms": [
+        "stability",
+        "continuity",
+        "submission",
+        "peace"
+      ],
+      "fill_blank": "The Industrial ______ transformed manufacturing and changed people's way of life.",
+      "correct_word": "revolution",
+      "hint_words": "revolution, rebellion, stability, governance",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "constitution",
+      "hindi": "संविधान",
+      "meaning_en": "A set of fundamental laws that establishes the principles of a government and the rights of citizens",
+      "example_sentence": "India adopted its Constitution on January 26, 1950.",
+      "synonyms": [
+        "charter",
+        "framework",
+        "statute",
+        "law"
+      ],
+      "antonyms": [
+        "anarchy",
+        "disorder",
+        "lawlessness",
+        "tyranny"
+      ],
+      "fill_blank": "Dr B.R. Ambedkar was the principal architect of the Indian ______.",
+      "correct_word": "constitution",
+      "hint_words": "constitution, statute, anarchy, law",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "parliament",
+      "hindi": "संसद",
+      "meaning_en": "The highest legislative body of a country that debates and passes laws",
+      "example_sentence": "A bill must be passed in Parliament before it becomes a law.",
+      "synonyms": [
+        "legislature",
+        "assembly",
+        "congress",
+        "senate"
+      ],
+      "antonyms": [
+        "monarchy",
+        "dictatorship",
+        "autocracy",
+        "tyranny"
+      ],
+      "fill_blank": "The Indian ______ consists of the Lok Sabha and the Rajya Sabha.",
+      "correct_word": "parliament",
+      "hint_words": "parliament, monarchy, judiciary, assembly",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "feudalism",
+      "hindi": "सामंतवाद",
+      "meaning_en": "A medieval social system where lords owned land and peasants worked it in exchange for protection",
+      "example_sentence": "Under feudalism, peasants had very few rights and freedoms.",
+      "synonyms": [
+        "serfdom",
+        "manorialism",
+        "aristocracy",
+        "vassalage"
+      ],
+      "antonyms": [
+        "democracy",
+        "equality",
+        "freedom",
+        "liberalism"
+      ],
+      "fill_blank": "The decline of ______ in Europe gave rise to new social and economic classes.",
+      "correct_word": "feudalism",
+      "hint_words": "feudalism, democracy, socialism, monarchy",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "sovereignty",
+      "hindi": "संप्रभुता",
+      "meaning_en": "The full right and supreme power of a state to govern itself without outside interference",
+      "example_sentence": "After independence, India regained full sovereignty over its land.",
+      "synonyms": [
+        "authority",
+        "independence",
+        "supremacy",
+        "autonomy"
+      ],
+      "antonyms": [
+        "subjugation",
+        "dependence",
+        "colonialism",
+        "submission"
+      ],
+      "fill_blank": "A nation's ______ means it has the right to make its own laws and policies.",
+      "correct_word": "sovereignty",
+      "hint_words": "sovereignty, colonialism, dependence, autonomy",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "alliance",
+      "hindi": "गठबंधन",
+      "meaning_en": "A union or formal agreement between countries or groups for mutual benefit",
+      "example_sentence": "The two nations formed an alliance to fight against a common enemy.",
+      "synonyms": [
+        "partnership",
+        "coalition",
+        "union",
+        "pact"
+      ],
+      "antonyms": [
+        "rivalry",
+        "conflict",
+        "hostility",
+        "enmity"
+      ],
+      "fill_blank": "The Allied Powers formed an ______ to oppose Nazi Germany in World War II.",
+      "correct_word": "alliance",
+      "hint_words": "alliance, rivalry, conflict, partnership",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "word": "delta",
+      "hindi": "डेल्टा",
+      "meaning_en": "A triangular landform created by sediment deposited where a river meets the sea",
+      "example_sentence": "The Sundarbans is the world's largest river delta.",
+      "synonyms": [
+        "estuary",
+        "alluvial plain",
+        "river mouth",
+        "sediment plain"
+      ],
+      "antonyms": [
+        "source",
+        "headwater",
+        "spring",
+        "origin"
+      ],
+      "fill_blank": "The Ganga-Brahmaputra ______ is one of the most fertile regions in the world.",
+      "correct_word": "delta",
+      "hint_words": "delta, tributary, source, estuary",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "peninsula",
+      "hindi": "प्रायद्वीप",
+      "meaning_en": "A piece of land almost entirely surrounded by water but connected to a larger landmass",
+      "example_sentence": "India is a peninsula as it is surrounded by sea on three sides.",
+      "synonyms": [
+        "cape",
+        "headland",
+        "promontory",
+        "land projection"
+      ],
+      "antonyms": [
+        "island",
+        "archipelago",
+        "landlocked region",
+        "interior"
+      ],
+      "fill_blank": "The Deccan Plateau forms much of the Indian ______.",
+      "correct_word": "peninsula",
+      "hint_words": "peninsula, island, continent, estuary",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "latitude",
+      "hindi": "अक्षांश",
+      "meaning_en": "The angular distance of a place north or south of the Earth's equator, measured in degrees",
+      "example_sentence": "New Delhi is located at approximately 28° north latitude.",
+      "synonyms": [
+        "parallel",
+        "horizontal coordinate",
+        "grid line",
+        "degree"
+      ],
+      "antonyms": [
+        "longitude",
+        "meridian",
+        "vertical line",
+        "prime meridian"
+      ],
+      "fill_blank": "The Tropic of Cancer lies at 23.5° north ______.",
+      "correct_word": "latitude",
+      "hint_words": "latitude, longitude, altitude, meridian",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "estuary",
+      "hindi": "ज्वारनदमुख",
+      "meaning_en": "A partially enclosed coastal area where a river meets the sea and freshwater mixes with saltwater",
+      "example_sentence": "Many migratory birds nest in the estuary during winter months.",
+      "synonyms": [
+        "inlet",
+        "bay",
+        "creek",
+        "tidal mouth"
+      ],
+      "antonyms": [
+        "source",
+        "origin",
+        "headwater",
+        "spring"
+      ],
+      "fill_blank": "The ______ is an important habitat for fish and water birds.",
+      "correct_word": "estuary",
+      "hint_words": "estuary, delta, source, tributary",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "monsoon",
+      "hindi": "मानसून",
+      "meaning_en": "The seasonal reversal of wind direction that brings heavy rainfall to South Asia",
+      "example_sentence": "Farmers in India depend on the monsoon for irrigating their crops.",
+      "synonyms": [
+        "rainy season",
+        "wet season",
+        "seasonal wind",
+        "rainfall"
+      ],
+      "antonyms": [
+        "drought",
+        "dry season",
+        "arid period",
+        "summer"
+      ],
+      "fill_blank": "The southwest ______ arrives in India around June every year.",
+      "correct_word": "monsoon",
+      "hint_words": "monsoon, drought, cyclone, rainfall",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "tributary",
+      "hindi": "सहायक नदी",
+      "meaning_en": "A river or stream that flows into and joins a larger river",
+      "example_sentence": "The Yamuna is a major tributary of the Ganga.",
+      "synonyms": [
+        "branch",
+        "feeder river",
+        "stream",
+        "affluent"
+      ],
+      "antonyms": [
+        "main river",
+        "delta",
+        "estuary",
+        "outlet"
+      ],
+      "fill_blank": "The Chambal is a ______ of the Yamuna river.",
+      "correct_word": "tributary",
+      "hint_words": "tributary, delta, estuary, reservoir",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "word": "inflation",
+      "hindi": "मुद्रास्फीति",
+      "meaning_en": "A general rise in prices over time that reduces the purchasing power of money",
+      "example_sentence": "High inflation means people can buy fewer goods with the same amount of money.",
+      "synonyms": [
+        "price rise",
+        "cost escalation",
+        "devaluation",
+        "price surge"
+      ],
+      "antonyms": [
+        "deflation",
+        "price drop",
+        "stability",
+        "recession"
+      ],
+      "fill_blank": "The government raises interest rates to control ______.",
+      "correct_word": "inflation",
+      "hint_words": "inflation, deflation, recession, taxation",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "revenue",
+      "hindi": "राजस्व",
+      "meaning_en": "The income received by a government from taxes or by a business from its activities",
+      "example_sentence": "The government uses tax revenue to build roads and schools.",
+      "synonyms": [
+        "income",
+        "earnings",
+        "proceeds",
+        "receipts"
+      ],
+      "antonyms": [
+        "expenditure",
+        "loss",
+        "debt",
+        "expense"
+      ],
+      "fill_blank": "The state earns ______ from taxes on goods and services.",
+      "correct_word": "revenue",
+      "hint_words": "revenue, expenditure, profit, taxation",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "demand",
+      "hindi": "माँग",
+      "meaning_en": "The desire and ability of consumers to purchase goods or services at a given price",
+      "example_sentence": "When the demand for a product rises, its price usually increases.",
+      "synonyms": [
+        "requirement",
+        "need",
+        "desire",
+        "request"
+      ],
+      "antonyms": [
+        "supply",
+        "provision",
+        "surplus",
+        "excess"
+      ],
+      "fill_blank": "The law of ______ states that as price rises, quantity demanded falls.",
+      "correct_word": "demand",
+      "hint_words": "demand, supply, production, inflation",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "taxation",
+      "hindi": "कराधान",
+      "meaning_en": "The system by which a government collects compulsory payments from citizens to fund public services",
+      "example_sentence": "Progressive taxation means richer citizens pay a higher percentage of their income.",
+      "synonyms": [
+        "levy",
+        "duty",
+        "assessment",
+        "tariff"
+      ],
+      "antonyms": [
+        "exemption",
+        "subsidy",
+        "rebate",
+        "relief"
+      ],
+      "fill_blank": "Direct ______ includes income tax paid directly to the government.",
+      "correct_word": "taxation",
+      "hint_words": "taxation, subsidy, exemption, revenue",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "barter",
+      "hindi": "वस्तु-विनिमय",
+      "meaning_en": "A system of exchange where goods or services are traded directly without the use of money",
+      "example_sentence": "Before money was invented, people used barter to trade goods.",
+      "synonyms": [
+        "trade",
+        "exchange",
+        "swap",
+        "transaction"
+      ],
+      "antonyms": [
+        "purchase",
+        "monetary payment",
+        "buying",
+        "sale"
+      ],
+      "fill_blank": "In the ______ system, a farmer might exchange grain for tools.",
+      "correct_word": "barter",
+      "hint_words": "barter, taxation, commerce, currency",
+      "difficulty": "medium",
+      "category": "economics"
+    },
+    {
+      "word": "metaphor",
+      "hindi": "रूपक",
+      "meaning_en": "A figure of speech in which one thing is described as being something else to suggest a resemblance",
+      "example_sentence": "The phrase 'life is a journey' is a metaphor comparing life to travel.",
+      "synonyms": [
+        "comparison",
+        "analogy",
+        "figure of speech",
+        "symbolism"
+      ],
+      "antonyms": [
+        "literal meaning",
+        "plain speech",
+        "fact",
+        "direct statement"
+      ],
+      "fill_blank": "The poet used a ______ to describe time as a thief.",
+      "correct_word": "metaphor",
+      "hint_words": "metaphor, simile, allegory, literal",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "allegory",
+      "hindi": "रूपकथा",
+      "meaning_en": "A story in which characters and events represent abstract ideas or moral lessons",
+      "example_sentence": "George Orwell's Animal Farm is an allegory of the Russian Revolution.",
+      "synonyms": [
+        "parable",
+        "fable",
+        "extended metaphor",
+        "symbol"
+      ],
+      "antonyms": [
+        "literal narrative",
+        "fact",
+        "biography",
+        "direct account"
+      ],
+      "fill_blank": "Plato's cave is a famous ______ about the nature of knowledge and reality.",
+      "correct_word": "allegory",
+      "hint_words": "allegory, biography, metaphor, parable",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "stanza",
+      "hindi": "छंद / पद",
+      "meaning_en": "A group of lines forming a unit in a poem, similar to a paragraph in prose",
+      "example_sentence": "The poem had five stanzas, each exploring a different emotion.",
+      "synonyms": [
+        "verse",
+        "couplet",
+        "strophe",
+        "quatrain"
+      ],
+      "antonyms": [
+        "paragraph",
+        "prose",
+        "chapter",
+        "sentence"
+      ],
+      "fill_blank": "Each ______ of the poem ended with a rhyming couplet.",
+      "correct_word": "stanza",
+      "hint_words": "stanza, paragraph, verse, chapter",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "narrative",
+      "hindi": "कथावाचन / आख्यान",
+      "meaning_en": "A spoken or written account of a series of connected events; a story",
+      "example_sentence": "The narrative of the novel was told from the child's perspective.",
+      "synonyms": [
+        "story",
+        "account",
+        "tale",
+        "chronicle"
+      ],
+      "antonyms": [
+        "abstract",
+        "summary",
+        "data",
+        "analysis"
+      ],
+      "fill_blank": "The first-person ______ makes the story feel personal and immediate.",
+      "correct_word": "narrative",
+      "hint_words": "narrative, summary, data, story",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "irony",
+      "hindi": "व्यंग्य / विडम्बना",
+      "meaning_en": "The use of words to convey the opposite of their literal meaning, or a situation opposite to what is expected",
+      "example_sentence": "It was an irony that the fire station caught fire.",
+      "synonyms": [
+        "sarcasm",
+        "paradox",
+        "satire",
+        "contradiction"
+      ],
+      "antonyms": [
+        "sincerity",
+        "directness",
+        "clarity",
+        "honesty"
+      ],
+      "fill_blank": "The ______ of the story was that the detective was himself the criminal.",
+      "correct_word": "irony",
+      "hint_words": "irony, metaphor, sarcasm, sincerity",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "protagonist",
+      "hindi": "नायक / मुख्य पात्र",
+      "meaning_en": "The main character in a story, novel, film, or play",
+      "example_sentence": "The protagonist of the novel faces great hardship before achieving his goal.",
+      "synonyms": [
+        "hero",
+        "lead character",
+        "main character",
+        "central figure"
+      ],
+      "antonyms": [
+        "antagonist",
+        "villain",
+        "minor character",
+        "supporting role"
+      ],
+      "fill_blank": "The ______ of the story overcomes many hardships to reach her goal.",
+      "correct_word": "protagonist",
+      "hint_words": "protagonist, antagonist, narrator, villain",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "symbolism",
+      "hindi": "प्रतीकवाद",
+      "meaning_en": "The use of symbols to represent ideas, qualities, or concepts beyond their literal meaning",
+      "example_sentence": "In the poem, the dove is used as symbolism for peace.",
+      "synonyms": [
+        "imagery",
+        "representation",
+        "allegory",
+        "allusion"
+      ],
+      "antonyms": [
+        "literalism",
+        "realism",
+        "directness",
+        "factuality"
+      ],
+      "fill_blank": "The green light in The Great Gatsby is considered ______ for the American Dream.",
+      "correct_word": "symbolism",
+      "hint_words": "symbolism, irony, metaphor, realism",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "biodiversity",
+      "hindi": "जैव विविधता",
+      "meaning_en": "The variety of plant and animal life in a particular habitat or on Earth as a whole",
+      "example_sentence": "Deforestation threatens the biodiversity of tropical rainforests.",
+      "synonyms": [
+        "ecological variety",
+        "species diversity",
+        "natural variety",
+        "wildlife richness"
+      ],
+      "antonyms": [
+        "monoculture",
+        "uniformity",
+        "extinction",
+        "depletion"
+      ],
+      "fill_blank": "Protecting ______ is essential to maintaining healthy ecosystems.",
+      "correct_word": "biodiversity",
+      "hint_words": "biodiversity, monoculture, pollution, extinction",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "renewable",
+      "hindi": "नवीकरणीय",
+      "meaning_en": "A resource that is naturally replenished and can be used repeatedly without being exhausted",
+      "example_sentence": "Solar and wind energy are renewable sources of power.",
+      "synonyms": [
+        "sustainable",
+        "replenishable",
+        "inexhaustible",
+        "recyclable"
+      ],
+      "antonyms": [
+        "non-renewable",
+        "finite",
+        "exhaustible",
+        "fossil-based"
+      ],
+      "fill_blank": "India is investing heavily in ______ energy to reduce dependence on coal.",
+      "correct_word": "renewable",
+      "hint_words": "renewable, non-renewable, fossil, finite",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "emission",
+      "hindi": "उत्सर्जन",
+      "meaning_en": "The production and discharge of something, especially greenhouse gases into the atmosphere",
+      "example_sentence": "Reducing carbon emissions is essential to slow global warming.",
+      "synonyms": [
+        "discharge",
+        "release",
+        "output",
+        "expulsion"
+      ],
+      "antonyms": [
+        "absorption",
+        "intake",
+        "containment",
+        "capture"
+      ],
+      "fill_blank": "Factories and vehicles are major sources of carbon ______.",
+      "correct_word": "emission",
+      "hint_words": "emission, absorption, radiation, pollution",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "depletion",
+      "hindi": "ह्रास / कमी",
+      "meaning_en": "A reduction in the quantity or richness of something valuable over time",
+      "example_sentence": "The depletion of the ozone layer has increased harmful UV radiation reaching Earth.",
+      "synonyms": [
+        "reduction",
+        "exhaustion",
+        "diminution",
+        "consumption"
+      ],
+      "antonyms": [
+        "replenishment",
+        "increase",
+        "restoration",
+        "renewal"
+      ],
+      "fill_blank": "Overuse of groundwater has led to the rapid ______ of water reserves.",
+      "correct_word": "depletion",
+      "hint_words": "depletion, replenishment, increase, emission",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "contamination",
+      "hindi": "प्रदूषण / संदूषण",
+      "meaning_en": "The process of making something impure or harmful by introducing a pollutant",
+      "example_sentence": "Industrial waste causes contamination of rivers and groundwater.",
+      "synonyms": [
+        "pollution",
+        "impurity",
+        "adulteration",
+        "infection"
+      ],
+      "antonyms": [
+        "purification",
+        "cleansing",
+        "filtration",
+        "decontamination"
+      ],
+      "fill_blank": "The ______ of the drinking water supply led to a disease outbreak.",
+      "correct_word": "contamination",
+      "hint_words": "contamination, purification, filtration, pollution",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "discrimination",
+      "hindi": "भेदभाव",
+      "meaning_en": "The unjust or prejudicial treatment of people based on race, gender, religion, or other characteristics",
+      "example_sentence": "The civil rights movement fought against racial discrimination in America.",
+      "synonyms": [
+        "bias",
+        "prejudice",
+        "inequality",
+        "injustice"
+      ],
+      "antonyms": [
+        "equality",
+        "fairness",
+        "impartiality",
+        "justice"
+      ],
+      "fill_blank": "Caste-based ______ is prohibited under the Indian Constitution.",
+      "correct_word": "discrimination",
+      "hint_words": "discrimination, equality, prejudice, justice",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "oppression",
+      "hindi": "दमन / उत्पीड़न",
+      "meaning_en": "Prolonged and cruel exercise of authority or power that keeps people in subjugation",
+      "example_sentence": "The workers rose against the oppression of the factory owners.",
+      "synonyms": [
+        "tyranny",
+        "subjugation",
+        "repression",
+        "persecution"
+      ],
+      "antonyms": [
+        "freedom",
+        "liberation",
+        "equality",
+        "justice"
+      ],
+      "fill_blank": "Gandhi used non-violent resistance to fight colonial ______.",
+      "correct_word": "oppression",
+      "hint_words": "oppression, liberation, equality, tyranny",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "empower",
+      "hindi": "सशक्त बनाना",
+      "meaning_en": "To give someone the authority, confidence, or means to act independently",
+      "example_sentence": "Education can empower women to make independent decisions.",
+      "synonyms": [
+        "enable",
+        "authorise",
+        "strengthen",
+        "uplift"
+      ],
+      "antonyms": [
+        "weaken",
+        "oppress",
+        "disable",
+        "suppress"
+      ],
+      "fill_blank": "Government schemes aim to ______ rural communities through skill development.",
+      "correct_word": "empower",
+      "hint_words": "empower, oppress, enable, suppress",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "reform",
+      "hindi": "सुधार",
+      "meaning_en": "A change or improvement made to a law, social system, or institution",
+      "example_sentence": "Land reform redistributed farmland to poor farmers across the country.",
+      "synonyms": [
+        "improvement",
+        "transformation",
+        "change",
+        "revision"
+      ],
+      "antonyms": [
+        "regression",
+        "deterioration",
+        "corruption",
+        "decline"
+      ],
+      "fill_blank": "The abolition of child marriage was a major social ______ in India.",
+      "correct_word": "reform",
+      "hint_words": "reform, regression, improvement, decline",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "suffrage",
+      "hindi": "मताधिकार",
+      "meaning_en": "The right to vote in public and political elections",
+      "example_sentence": "Women fought for suffrage to gain the right to vote in the early 20th century.",
+      "synonyms": [
+        "voting right",
+        "franchise",
+        "democratic right",
+        "enfranchisement"
+      ],
+      "antonyms": [
+        "disenfranchisement",
+        "exclusion",
+        "restriction",
+        "denial"
+      ],
+      "fill_blank": "Universal adult ______ means every citizen above 18 can vote.",
+      "correct_word": "suffrage",
+      "hint_words": "suffrage, censorship, franchise, disenfranchisement",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "literate",
+      "hindi": "साक्षर",
+      "meaning_en": "Having the ability to read and write; educated and knowledgeable",
+      "example_sentence": "A literate population is essential for the development of a democratic nation.",
+      "synonyms": [
+        "educated",
+        "learned",
+        "schooled",
+        "knowledgeable"
+      ],
+      "antonyms": [
+        "illiterate",
+        "uneducated",
+        "ignorant",
+        "unschooled"
+      ],
+      "fill_blank": "India's goal is to make every citizen ______ by improving access to education.",
+      "correct_word": "literate",
+      "hint_words": "literate, illiterate, educated, ignorant",
+      "difficulty": "medium",
+      "category": "social"
+    }
+  ]
+}

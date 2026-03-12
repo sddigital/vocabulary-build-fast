@@ -1,0 +1,2305 @@
+{
+  "words": [
+    {
+      "word": "manipulate",
+      "hindi": "चालाकी से नियंत्रित करना / हेरफेर करना",
+      "meaning_en": "To control or influence cleverly or unfairly",
+      "example_sentence": "He tried to manipulate others by telling half-truths.",
+      "synonyms": [
+        "control",
+        "influence",
+        "exploit",
+        "maneuver"
+      ],
+      "antonyms": [
+        "guide",
+        "assist",
+        "respect",
+        "support"
+      ],
+      "fill_blank": "A good leader does not ______ people for personal gain.",
+      "correct_word": "manipulate",
+      "hint_words": "manipulate, guide, respect, exploit",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "mediocre",
+      "hindi": "साधारण / औसत",
+      "meaning_en": "Of only average quality; not very good",
+      "example_sentence": "He was not satisfied with mediocre performance.",
+      "synonyms": [
+        "average",
+        "ordinary",
+        "moderate",
+        "inferior"
+      ],
+      "antonyms": [
+        "excellent",
+        "outstanding",
+        "superb",
+        "exceptional"
+      ],
+      "fill_blank": "Don't settle for ______ work when you can do better.",
+      "correct_word": "mediocre",
+      "hint_words": "mediocre, excellent, outstanding, average",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "migrate",
+      "hindi": "प्रवास करना / एक स्थान से दूसरे स्थान जाना",
+      "meaning_en": "To move from one region or country to another",
+      "example_sentence": "Many birds migrate to India during winter.",
+      "synonyms": [
+        "move",
+        "travel",
+        "relocate",
+        "wander"
+      ],
+      "antonyms": [
+        "stay",
+        "settle",
+        "remain",
+        "reside"
+      ],
+      "fill_blank": "Thousands of workers ______ to cities for employment.",
+      "correct_word": "migrate",
+      "hint_words": "migrate, stay, remain, relocate",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "miserable",
+      "hindi": "दयनीय / बहुत दुखी",
+      "meaning_en": "Very unhappy or uncomfortable",
+      "example_sentence": "The wet, cold day made everyone feel miserable.",
+      "synonyms": [
+        "wretched",
+        "unhappy",
+        "distressed",
+        "sorrowful"
+      ],
+      "antonyms": [
+        "happy",
+        "joyful",
+        "content",
+        "comfortable"
+      ],
+      "fill_blank": "He was ______ when his best friend moved away.",
+      "correct_word": "miserable",
+      "hint_words": "miserable, happy, content, wretched",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "modest",
+      "hindi": "विनम्र / सादा",
+      "meaning_en": "Unassuming in the estimation of one's own abilities",
+      "example_sentence": "Despite winning the championship, she remained modest.",
+      "synonyms": [
+        "humble",
+        "unpretentious",
+        "reserved",
+        "low-key"
+      ],
+      "antonyms": [
+        "boastful",
+        "arrogant",
+        "vain",
+        "proud"
+      ],
+      "fill_blank": "A ______ person never brags about success.",
+      "correct_word": "modest",
+      "hint_words": "modest, boastful, arrogant, humble",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "monotonous",
+      "hindi": "नीरस / एकरस",
+      "meaning_en": "Tedious because of lack of variety; dull and repetitive",
+      "example_sentence": "Factory work can be monotonous if done daily.",
+      "synonyms": [
+        "boring",
+        "dull",
+        "repetitive",
+        "tedious"
+      ],
+      "antonyms": [
+        "varied",
+        "interesting",
+        "exciting",
+        "stimulating"
+      ],
+      "fill_blank": "The ______ lecture made half the class fall asleep.",
+      "correct_word": "monotonous",
+      "hint_words": "monotonous, exciting, varied, boring",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "negligent",
+      "hindi": "लापरवाह / असावधान",
+      "meaning_en": "Failing to take proper care in doing something",
+      "example_sentence": "The negligent driver caused a serious accident.",
+      "synonyms": [
+        "careless",
+        "inattentive",
+        "irresponsible",
+        "reckless"
+      ],
+      "antonyms": [
+        "careful",
+        "attentive",
+        "diligent",
+        "responsible"
+      ],
+      "fill_blank": "A ______ doctor puts patients at risk.",
+      "correct_word": "negligent",
+      "hint_words": "negligent, careful, attentive, careless",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "neutral",
+      "hindi": "तटस्थ / निष्पक्ष",
+      "meaning_en": "Not supporting or helping either side in a conflict",
+      "example_sentence": "Switzerland remained neutral during both world wars.",
+      "synonyms": [
+        "impartial",
+        "unbiased",
+        "detached",
+        "objective"
+      ],
+      "antonyms": [
+        "biased",
+        "partial",
+        "sided",
+        "opinionated"
+      ],
+      "fill_blank": "The mediator remained ______ during the talks.",
+      "correct_word": "neutral",
+      "hint_words": "neutral, biased, partial, impartial",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "obedient",
+      "hindi": "आज्ञाकारी / अनुशासित",
+      "meaning_en": "Complying with an order or request; dutiful",
+      "example_sentence": "The obedient soldier followed every command.",
+      "synonyms": [
+        "compliant",
+        "dutiful",
+        "disciplined",
+        "submissive"
+      ],
+      "antonyms": [
+        "disobedient",
+        "rebellious",
+        "defiant",
+        "unruly"
+      ],
+      "fill_blank": "An ______ child earns the trust of parents and teachers.",
+      "correct_word": "obedient",
+      "hint_words": "obedient, rebellious, defiant, dutiful",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "optimistic",
+      "hindi": "आशावादी",
+      "meaning_en": "Hopeful and confident about the future",
+      "example_sentence": "She was optimistic about passing the board exams.",
+      "synonyms": [
+        "hopeful",
+        "positive",
+        "confident",
+        "cheerful"
+      ],
+      "antonyms": [
+        "pessimistic",
+        "negative",
+        "gloomy",
+        "hopeless"
+      ],
+      "fill_blank": "Stay ______ even when things are difficult.",
+      "correct_word": "optimistic",
+      "hint_words": "optimistic, pessimistic, hopeless, hopeful",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "patient",
+      "hindi": "धैर्यवान / सहनशील",
+      "meaning_en": "Able to wait for a long time or deal with difficulties calmly",
+      "example_sentence": "Learning a new language requires patient practice.",
+      "synonyms": [
+        "calm",
+        "tolerant",
+        "enduring",
+        "composed"
+      ],
+      "antonyms": [
+        "impatient",
+        "restless",
+        "anxious",
+        "irritable"
+      ],
+      "fill_blank": "Be ______ — good results take time.",
+      "correct_word": "patient",
+      "hint_words": "patient, impatient, restless, calm",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "pessimistic",
+      "hindi": "निराशावादी",
+      "meaning_en": "Tending to see the worst aspect of things",
+      "example_sentence": "A pessimistic attitude can prevent you from trying new things.",
+      "synonyms": [
+        "negative",
+        "gloomy",
+        "hopeless",
+        "despairing"
+      ],
+      "antonyms": [
+        "optimistic",
+        "hopeful",
+        "positive",
+        "confident"
+      ],
+      "fill_blank": "Don't be ______ — every problem has a solution.",
+      "correct_word": "pessimistic",
+      "hint_words": "pessimistic, optimistic, hopeful, gloomy",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "prejudice",
+      "hindi": "पूर्वाग्रह / भेदभाव",
+      "meaning_en": "A preconceived opinion not based on reason or experience",
+      "example_sentence": "Prejudice based on caste or religion divides society.",
+      "synonyms": [
+        "bias",
+        "discrimination",
+        "bigotry",
+        "partiality"
+      ],
+      "antonyms": [
+        "fairness",
+        "tolerance",
+        "equality",
+        "impartiality"
+      ],
+      "fill_blank": "Society suffers when ______ replaces reason.",
+      "correct_word": "prejudice",
+      "hint_words": "prejudice, fairness, tolerance, bias",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "preserve",
+      "hindi": "संरक्षित करना / बचाना",
+      "meaning_en": "To maintain in its original or existing state",
+      "example_sentence": "We must preserve our forests for future generations.",
+      "synonyms": [
+        "protect",
+        "conserve",
+        "maintain",
+        "safeguard"
+      ],
+      "antonyms": [
+        "destroy",
+        "damage",
+        "neglect",
+        "ruin"
+      ],
+      "fill_blank": "It is our duty to ______ cultural heritage.",
+      "correct_word": "preserve",
+      "hint_words": "preserve, destroy, damage, protect",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "prominent",
+      "hindi": "प्रमुख / उल्लेखनीय",
+      "meaning_en": "Important or well-known; noticeable",
+      "example_sentence": "She became a prominent writer by the age of thirty.",
+      "synonyms": [
+        "notable",
+        "distinguished",
+        "leading",
+        "renowned"
+      ],
+      "antonyms": [
+        "unknown",
+        "obscure",
+        "minor",
+        "insignificant"
+      ],
+      "fill_blank": "He plays a ______ role in the organization.",
+      "correct_word": "prominent",
+      "hint_words": "prominent, unknown, minor, notable",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "protest",
+      "hindi": "विरोध करना / प्रदर्शन करना",
+      "meaning_en": "A strong expression of objection or disapproval",
+      "example_sentence": "Students staged a protest against the fee hike.",
+      "synonyms": [
+        "objection",
+        "demonstration",
+        "dissent",
+        "opposition"
+      ],
+      "antonyms": [
+        "support",
+        "approval",
+        "agreement",
+        "acceptance"
+      ],
+      "fill_blank": "The workers organized a ______ in front of the factory.",
+      "correct_word": "protest",
+      "hint_words": "protest, support, approval, objection",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "provoke",
+      "hindi": "उकसाना / भड़काना",
+      "meaning_en": "To stimulate a reaction, especially an angry one",
+      "example_sentence": "His rude comments provoked an argument.",
+      "synonyms": [
+        "irritate",
+        "anger",
+        "incite",
+        "trigger"
+      ],
+      "antonyms": [
+        "calm",
+        "soothe",
+        "pacify",
+        "please"
+      ],
+      "fill_blank": "Don't ______ others by making fun of their weakness.",
+      "correct_word": "provoke",
+      "hint_words": "provoke, calm, soothe, irritate",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "rational",
+      "hindi": "तार्किक / विवेकसम्मत",
+      "meaning_en": "Based on or in accordance with reason and logic",
+      "example_sentence": "She made a rational decision after thinking it over.",
+      "synonyms": [
+        "logical",
+        "reasonable",
+        "sensible",
+        "sound"
+      ],
+      "antonyms": [
+        "irrational",
+        "illogical",
+        "unreasonable",
+        "absurd"
+      ],
+      "fill_blank": "A ______ person analyses facts before concluding.",
+      "correct_word": "rational",
+      "hint_words": "rational, irrational, illogical, logical",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "remedy",
+      "hindi": "उपाय / इलाज",
+      "meaning_en": "A solution to a problem; a treatment for a disease",
+      "example_sentence": "Ginger tea is a popular home remedy for a cold.",
+      "synonyms": [
+        "cure",
+        "solution",
+        "treatment",
+        "answer"
+      ],
+      "antonyms": [
+        "problem",
+        "ailment",
+        "disease",
+        "aggravation"
+      ],
+      "fill_blank": "The best ______ for stress is regular exercise.",
+      "correct_word": "remedy",
+      "hint_words": "remedy, problem, cure, disease",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "resilient",
+      "hindi": "दृढ़ / लचीला और टिकाऊ",
+      "meaning_en": "Able to recover quickly from difficulties",
+      "example_sentence": "The resilient flood victims rebuilt their homes within months.",
+      "synonyms": [
+        "tough",
+        "strong",
+        "adaptable",
+        "flexible"
+      ],
+      "antonyms": [
+        "weak",
+        "fragile",
+        "vulnerable",
+        "delicate"
+      ],
+      "fill_blank": "A ______ person bounces back after failure.",
+      "correct_word": "resilient",
+      "hint_words": "resilient, fragile, weak, tough",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "restore",
+      "hindi": "पुनर्स्थापित करना / ठीक करना",
+      "meaning_en": "To bring back to a former condition",
+      "example_sentence": "The government plans to restore the ancient temple.",
+      "synonyms": [
+        "repair",
+        "revive",
+        "rebuild",
+        "renew"
+      ],
+      "antonyms": [
+        "damage",
+        "ruin",
+        "destroy",
+        "neglect"
+      ],
+      "fill_blank": "We must ______ the natural balance of ecosystems.",
+      "correct_word": "restore",
+      "hint_words": "restore, damage, ruin, repair",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "rigid",
+      "hindi": "कठोर / अनम्य",
+      "meaning_en": "Unable to bend or be forced out of shape; inflexible",
+      "example_sentence": "His rigid attitude made team work difficult.",
+      "synonyms": [
+        "inflexible",
+        "stiff",
+        "strict",
+        "unyielding"
+      ],
+      "antonyms": [
+        "flexible",
+        "adaptable",
+        "open",
+        "pliable"
+      ],
+      "fill_blank": "A ______ rule that allows no exceptions can cause injustice.",
+      "correct_word": "rigid",
+      "hint_words": "rigid, flexible, open, strict",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "ruthless",
+      "hindi": "निर्दयी / क्रूर",
+      "meaning_en": "Having no compassion for others; merciless",
+      "example_sentence": "The ruthless dictator silenced all opposition.",
+      "synonyms": [
+        "merciless",
+        "cruel",
+        "heartless",
+        "brutal"
+      ],
+      "antonyms": [
+        "compassionate",
+        "merciful",
+        "kind",
+        "gentle"
+      ],
+      "fill_blank": "The ______ landlord evicted tenants in winter.",
+      "correct_word": "ruthless",
+      "hint_words": "ruthless, compassionate, gentle, merciless",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "sacrifice",
+      "hindi": "बलिदान / त्याग",
+      "meaning_en": "Giving up something valued for the sake of something more important",
+      "example_sentence": "Soldiers sacrifice their lives for the nation.",
+      "synonyms": [
+        "surrender",
+        "offering",
+        "giving up",
+        "selflessness"
+      ],
+      "antonyms": [
+        "selfishness",
+        "greed",
+        "gain",
+        "profit"
+      ],
+      "fill_blank": "Parents make many ______ for their children's future.",
+      "correct_word": "sacrifice",
+      "hint_words": "sacrifice, selfishness, gain, surrender",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "scarcity",
+      "hindi": "कमी / अभाव",
+      "meaning_en": "Insufficiency of supply; shortage",
+      "example_sentence": "Water scarcity is a growing problem in many cities.",
+      "synonyms": [
+        "shortage",
+        "deficiency",
+        "lack",
+        "dearth"
+      ],
+      "antonyms": [
+        "abundance",
+        "surplus",
+        "plenty",
+        "excess"
+      ],
+      "fill_blank": "The drought caused a ______ of food in the region.",
+      "correct_word": "scarcity",
+      "hint_words": "scarcity, abundance, surplus, shortage",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "significant",
+      "hindi": "महत्वपूर्ण / उल्लेखनीय",
+      "meaning_en": "Having great importance or meaning",
+      "example_sentence": "Clean water access is significant for good health.",
+      "synonyms": [
+        "important",
+        "meaningful",
+        "notable",
+        "major"
+      ],
+      "antonyms": [
+        "insignificant",
+        "unimportant",
+        "trivial",
+        "minor"
+      ],
+      "fill_blank": "The discovery of penicillin was a ______ event in medicine.",
+      "correct_word": "significant",
+      "hint_words": "significant, trivial, minor, important",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "sinister",
+      "hindi": "कुटिल / अशुभ",
+      "meaning_en": "Giving the impression of something harmful; threatening",
+      "example_sentence": "There was a sinister look in the stranger's eyes.",
+      "synonyms": [
+        "evil",
+        "menacing",
+        "threatening",
+        "ominous"
+      ],
+      "antonyms": [
+        "harmless",
+        "friendly",
+        "good",
+        "benign"
+      ],
+      "fill_blank": "The villain had a ______ plan to destroy the city.",
+      "correct_word": "sinister",
+      "hint_words": "sinister, friendly, harmless, evil",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "sophisticated",
+      "hindi": "परिष्कृत / आधुनिक",
+      "meaning_en": "Having a refined knowledge; complex and highly developed",
+      "example_sentence": "Smartphones are becoming more sophisticated every year.",
+      "synonyms": [
+        "refined",
+        "advanced",
+        "complex",
+        "cultured"
+      ],
+      "antonyms": [
+        "simple",
+        "crude",
+        "basic",
+        "unsophisticated"
+      ],
+      "fill_blank": "The laboratory used ______ equipment for research.",
+      "correct_word": "sophisticated",
+      "hint_words": "sophisticated, simple, crude, advanced",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "stagnant",
+      "hindi": "ठहरा हुआ / रुका हुआ",
+      "meaning_en": "Not flowing or moving; showing no activity or development",
+      "example_sentence": "Stagnant water is a breeding ground for mosquitoes.",
+      "synonyms": [
+        "still",
+        "static",
+        "motionless",
+        "idle"
+      ],
+      "antonyms": [
+        "flowing",
+        "active",
+        "dynamic",
+        "developing"
+      ],
+      "fill_blank": "A ______ economy fails to create jobs.",
+      "correct_word": "stagnant",
+      "hint_words": "stagnant, flowing, active, dynamic",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "stubborn",
+      "hindi": "ज़िद्दी / हठी",
+      "meaning_en": "Refusing to change one's attitude despite good reasons",
+      "example_sentence": "She was too stubborn to apologize even when wrong.",
+      "synonyms": [
+        "obstinate",
+        "headstrong",
+        "persistent",
+        "pig-headed"
+      ],
+      "antonyms": [
+        "flexible",
+        "open-minded",
+        "cooperative",
+        "yielding"
+      ],
+      "fill_blank": "His ______ refusal to change the plan caused delays.",
+      "correct_word": "stubborn",
+      "hint_words": "stubborn, flexible, open-minded, obstinate",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "subtle",
+      "hindi": "सूक्ष्म / बारीक",
+      "meaning_en": "So delicate or precise as to be difficult to see; not obvious",
+      "example_sentence": "There was a subtle difference between the two paintings.",
+      "synonyms": [
+        "delicate",
+        "fine",
+        "indirect",
+        "understated"
+      ],
+      "antonyms": [
+        "obvious",
+        "direct",
+        "blunt",
+        "clear"
+      ],
+      "fill_blank": "His ______ humor was not understood by everyone.",
+      "correct_word": "subtle",
+      "hint_words": "subtle, obvious, direct, delicate",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "suppress",
+      "hindi": "दबाना / रोकना",
+      "meaning_en": "To prevent from being expressed or known",
+      "example_sentence": "The government tried to suppress the news about the scandal.",
+      "synonyms": [
+        "silence",
+        "repress",
+        "hide",
+        "quash"
+      ],
+      "antonyms": [
+        "release",
+        "reveal",
+        "expose",
+        "express"
+      ],
+      "fill_blank": "She tried to ______ her laughter during the serious meeting.",
+      "correct_word": "suppress",
+      "hint_words": "suppress, reveal, expose, silence",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "sympathy",
+      "hindi": "सहानुभूति / दूसरों की पीड़ा महसूस करना",
+      "meaning_en": "Feelings of pity and sorrow for someone else's misfortune",
+      "example_sentence": "She expressed sympathy for the victims of the earthquake.",
+      "synonyms": [
+        "compassion",
+        "pity",
+        "concern",
+        "kindness"
+      ],
+      "antonyms": [
+        "indifference",
+        "cruelty",
+        "harshness",
+        "callousness"
+      ],
+      "fill_blank": "The nurse showed ______ towards the frightened child.",
+      "correct_word": "sympathy",
+      "hint_words": "sympathy, indifference, cruelty, compassion",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "tempt",
+      "hindi": "लालच देना / मोहित करना",
+      "meaning_en": "To attract someone towards something considered wrong or unwise",
+      "example_sentence": "Don't let short-term gains tempt you away from long-term goals.",
+      "synonyms": [
+        "entice",
+        "lure",
+        "attract",
+        "coax"
+      ],
+      "antonyms": [
+        "repel",
+        "warn",
+        "deter",
+        "discourage"
+      ],
+      "fill_blank": "The new phone in the shop window ______ him greatly.",
+      "correct_word": "tempt",
+      "hint_words": "tempt, repel, deter, attract",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "tolerance",
+      "hindi": "सहनशीलता / सहिष्णुता",
+      "meaning_en": "The ability to accept opinions, beliefs, or behaviors different from one's own",
+      "example_sentence": "Religious tolerance is essential for a peaceful society.",
+      "synonyms": [
+        "acceptance",
+        "patience",
+        "open-mindedness",
+        "forbearance"
+      ],
+      "antonyms": [
+        "intolerance",
+        "prejudice",
+        "bigotry",
+        "hatred"
+      ],
+      "fill_blank": "Our constitution promotes ______ and equality for all.",
+      "correct_word": "tolerance",
+      "hint_words": "tolerance, intolerance, hatred, acceptance",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "transparent",
+      "hindi": "पारदर्शी / साफ़",
+      "meaning_en": "Open, honest, and easy to understand; allowing light through",
+      "example_sentence": "The government promised to be transparent in its dealings.",
+      "synonyms": [
+        "clear",
+        "open",
+        "honest",
+        "candid"
+      ],
+      "antonyms": [
+        "opaque",
+        "secretive",
+        "deceptive",
+        "hidden"
+      ],
+      "fill_blank": "A ______ system builds public trust.",
+      "correct_word": "transparent",
+      "hint_words": "transparent, secretive, opaque, honest",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "unanimous",
+      "hindi": "सर्वसम्मत / एकमत",
+      "meaning_en": "In full agreement; without any disagreement",
+      "example_sentence": "The class made a unanimous decision to go on the trip.",
+      "synonyms": [
+        "agreed",
+        "united",
+        "concordant",
+        "harmonious"
+      ],
+      "antonyms": [
+        "divided",
+        "disputed",
+        "split",
+        "conflicting"
+      ],
+      "fill_blank": "The jury gave a ______ verdict of not guilty.",
+      "correct_word": "unanimous",
+      "hint_words": "unanimous, divided, split, agreed",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "undermine",
+      "hindi": "कमज़ोर करना / नुकसान पहुँचाना",
+      "meaning_en": "To damage or weaken something gradually",
+      "example_sentence": "Constant criticism can undermine a child's confidence.",
+      "synonyms": [
+        "weaken",
+        "sabotage",
+        "damage",
+        "erode"
+      ],
+      "antonyms": [
+        "strengthen",
+        "support",
+        "reinforce",
+        "encourage"
+      ],
+      "fill_blank": "Spreading rumours can ______ team spirit.",
+      "correct_word": "undermine",
+      "hint_words": "undermine, strengthen, support, weaken",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "unprecedented",
+      "hindi": "अभूतपूर्व / पहले कभी न हुआ",
+      "meaning_en": "Never done or known before",
+      "example_sentence": "The lockdown during 2020 was an unprecedented event worldwide.",
+      "synonyms": [
+        "unheard-of",
+        "unique",
+        "novel",
+        "exceptional"
+      ],
+      "antonyms": [
+        "common",
+        "ordinary",
+        "familiar",
+        "usual"
+      ],
+      "fill_blank": "The flood caused ______ destruction to the city.",
+      "correct_word": "unprecedented",
+      "hint_words": "unprecedented, common, ordinary, unique",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "urgent",
+      "hindi": "अत्यावश्यक / तुरंत ज़रूरी",
+      "meaning_en": "Requiring immediate action or attention",
+      "example_sentence": "The doctor received an urgent call from the hospital.",
+      "synonyms": [
+        "pressing",
+        "critical",
+        "immediate",
+        "crucial"
+      ],
+      "antonyms": [
+        "unimportant",
+        "trivial",
+        "minor",
+        "non-urgent"
+      ],
+      "fill_words": "pressing, critical, urgent, minor",
+      "fill_blank": "She sent an ______ message asking for help.",
+      "correct_word": "urgent",
+      "hint_words": "urgent, trivial, minor, pressing",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "vanish",
+      "hindi": "गायब होना / अदृश्य हो जाना",
+      "meaning_en": "To disappear suddenly and completely",
+      "example_sentence": "The magician made the coin vanish.",
+      "synonyms": [
+        "disappear",
+        "evaporate",
+        "fade",
+        "dissolve"
+      ],
+      "antonyms": [
+        "appear",
+        "emerge",
+        "materialize",
+        "arrive"
+      ],
+      "fill_blank": "Migratory birds ______ when the weather warms up.",
+      "correct_word": "vanish",
+      "hint_words": "vanish, appear, emerge, disappear",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "versatile",
+      "hindi": "बहुमुखी / अनेक कार्य में दक्ष",
+      "meaning_en": "Able to adapt or be adapted to many different functions",
+      "example_sentence": "A versatile player can perform in multiple positions.",
+      "synonyms": [
+        "adaptable",
+        "flexible",
+        "all-round",
+        "multitalented"
+      ],
+      "antonyms": [
+        "limited",
+        "one-sided",
+        "rigid",
+        "narrow"
+      ],
+      "fill_blank": "The ______ actor excelled in comedy as well as drama.",
+      "correct_word": "versatile",
+      "hint_words": "versatile, limited, rigid, adaptable",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "vigorous",
+      "hindi": "जोरदार / ऊर्जावान",
+      "meaning_en": "Strong, healthy, and full of energy",
+      "example_sentence": "A vigorous debate took place in the school parliament.",
+      "synonyms": [
+        "energetic",
+        "lively",
+        "forceful",
+        "active"
+      ],
+      "antonyms": [
+        "weak",
+        "lethargic",
+        "feeble",
+        "passive"
+      ],
+      "fill_blank": "Regular exercise keeps you ______ and healthy.",
+      "correct_word": "vigorous",
+      "hint_words": "vigorous, weak, lethargic, energetic",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "vivid",
+      "hindi": "स्पष्ट / जीवंत",
+      "meaning_en": "Producing powerful images in the mind; bright and strong",
+      "example_sentence": "She had a vivid memory of her first day at school.",
+      "synonyms": [
+        "clear",
+        "bright",
+        "striking",
+        "sharp"
+      ],
+      "antonyms": [
+        "dull",
+        "faded",
+        "vague",
+        "blurred"
+      ],
+      "fill_blank": "The poet used ______ imagery to describe the storm.",
+      "correct_word": "vivid",
+      "hint_words": "vivid, dull, vague, bright",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "vulnerable",
+      "hindi": "कमज़ोर / असुरक्षित",
+      "meaning_en": "Exposed to the possibility of being hurt or attacked",
+      "example_sentence": "Elderly people are vulnerable to serious illness.",
+      "synonyms": [
+        "exposed",
+        "weak",
+        "helpless",
+        "defenceless"
+      ],
+      "antonyms": [
+        "protected",
+        "strong",
+        "secure",
+        "safe"
+      ],
+      "fill_blank": "Children in conflict zones are especially ______.",
+      "correct_word": "vulnerable",
+      "hint_words": "vulnerable, protected, strong, helpless",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "wary",
+      "hindi": "सतर्क / सावधान",
+      "meaning_en": "Feeling cautious about possible dangers or problems",
+      "example_sentence": "Be wary of strangers who offer unknown help.",
+      "synonyms": [
+        "cautious",
+        "watchful",
+        "careful",
+        "suspicious"
+      ],
+      "antonyms": [
+        "careless",
+        "trusting",
+        "reckless",
+        "naive"
+      ],
+      "fill_blank": "She was ______ of investing money without research.",
+      "correct_word": "wary",
+      "hint_words": "wary, careless, trusting, cautious",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "withstand",
+      "hindi": "सहन करना / टिके रहना",
+      "meaning_en": "To remain undamaged by; to resist",
+      "example_sentence": "This bridge was built to withstand earthquakes.",
+      "synonyms": [
+        "endure",
+        "resist",
+        "survive",
+        "bear"
+      ],
+      "antonyms": [
+        "yield",
+        "collapse",
+        "surrender",
+        "fail"
+      ],
+      "fill_blank": "She had the strength to ______ all criticism.",
+      "correct_word": "withstand",
+      "hint_words": "withstand, collapse, yield, endure",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "zeal",
+      "hindi": "जोश / उत्साह",
+      "meaning_en": "Great energy and enthusiasm in pursuit of a cause",
+      "example_sentence": "She worked with great zeal to prepare for the competition.",
+      "synonyms": [
+        "enthusiasm",
+        "passion",
+        "dedication",
+        "eagerness"
+      ],
+      "antonyms": [
+        "apathy",
+        "indifference",
+        "laziness",
+        "disinterest"
+      ],
+      "fill_blank": "He approached his studies with great ______.",
+      "correct_word": "zeal",
+      "hint_words": "zeal, apathy, laziness, passion",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "absurd",
+      "hindi": "बेतुका / हास्यास्पद",
+      "meaning_en": "Wildly unreasonable or inappropriate; ridiculous",
+      "example_sentence": "It was absurd to blame the student for the teacher's mistake.",
+      "synonyms": [
+        "ridiculous",
+        "foolish",
+        "illogical",
+        "preposterous"
+      ],
+      "antonyms": [
+        "sensible",
+        "logical",
+        "reasonable",
+        "rational"
+      ],
+      "fill_blank": "The idea of banning books is ______.",
+      "correct_word": "absurd",
+      "hint_words": "absurd, sensible, logical, ridiculous",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "accumulate",
+      "hindi": "जमा करना / इकट्ठा होना",
+      "meaning_en": "To gather together and increase over time",
+      "example_sentence": "Dust accumulates on shelves if not cleaned regularly.",
+      "synonyms": [
+        "collect",
+        "gather",
+        "build up",
+        "amass"
+      ],
+      "antonyms": [
+        "scatter",
+        "distribute",
+        "spend",
+        "disperse"
+      ],
+      "fill_blank": "He managed to ______ enough savings to buy a house.",
+      "correct_word": "accumulate",
+      "hint_words": "accumulate, scatter, spend, gather",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "acute",
+      "hindi": "तीव्र / गंभीर",
+      "meaning_en": "Severe; of great importance; sharp in perception",
+      "example_sentence": "She had an acute pain in her knee after the fall.",
+      "synonyms": [
+        "severe",
+        "sharp",
+        "intense",
+        "critical"
+      ],
+      "antonyms": [
+        "mild",
+        "gentle",
+        "chronic",
+        "insignificant"
+      ],
+      "fill_blank": "The country faces an ______ shortage of doctors.",
+      "correct_word": "acute",
+      "hint_words": "acute, mild, gentle, severe",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "ally",
+      "hindi": "सहयोगी / मित्र राष्ट्र",
+      "meaning_en": "A person, country, or organization that cooperates with another",
+      "example_sentence": "France and Britain were allies during the Second World War.",
+      "synonyms": [
+        "partner",
+        "supporter",
+        "associate",
+        "confederate"
+      ],
+      "antonyms": [
+        "enemy",
+        "opponent",
+        "rival",
+        "adversary"
+      ],
+      "fill_blank": "India has a strong ______ in its diplomatic relations.",
+      "correct_word": "ally",
+      "hint_words": "ally, enemy, opponent, partner",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "anticipate",
+      "hindi": "अनुमान लगाना / पहले से सोचना",
+      "meaning_en": "To expect or predict something in advance",
+      "example_sentence": "She anticipated the question and prepared a good answer.",
+      "synonyms": [
+        "expect",
+        "predict",
+        "foresee",
+        "forecast"
+      ],
+      "antonyms": [
+        "overlook",
+        "ignore",
+        "miss",
+        "neglect"
+      ],
+      "fill_blank": "A good captain can ______ the opponent's next move.",
+      "correct_word": "anticipate",
+      "hint_words": "anticipate, overlook, ignore, predict",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "articulate",
+      "hindi": "स्पष्ट रूप से बोलना / प्रभावशाली",
+      "meaning_en": "Expressing ideas fluently and coherently",
+      "example_sentence": "She was articulate and confident during the interview.",
+      "synonyms": [
+        "eloquent",
+        "fluent",
+        "clear",
+        "well-spoken"
+      ],
+      "antonyms": [
+        "inarticulate",
+        "unclear",
+        "mumbling",
+        "tongue-tied"
+      ],
+      "fill_blank": "An ______ speaker can inspire large audiences.",
+      "correct_word": "articulate",
+      "hint_words": "articulate, inarticulate, mumbling, fluent",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "authentic",
+      "hindi": "प्रामाणिक / असली",
+      "meaning_en": "Real; genuine; not a copy or imitation",
+      "example_sentence": "Always verify that documents are authentic before submitting them.",
+      "synonyms": [
+        "genuine",
+        "original",
+        "true",
+        "real"
+      ],
+      "antonyms": [
+        "fake",
+        "forged",
+        "false",
+        "imitation"
+      ],
+      "fill_blank": "The museum displayed ______ artefacts from ancient India.",
+      "correct_word": "authentic",
+      "hint_words": "authentic, fake, forged, genuine",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "bizarre",
+      "hindi": "अजीब / विचित्र",
+      "meaning_en": "Very strange or unusual",
+      "example_sentence": "The artist was known for his bizarre paintings.",
+      "synonyms": [
+        "strange",
+        "odd",
+        "peculiar",
+        "eccentric"
+      ],
+      "antonyms": [
+        "normal",
+        "ordinary",
+        "common",
+        "typical"
+      ],
+      "fill_blank": "The scientist had a ______ theory that no one believed at first.",
+      "correct_word": "bizarre",
+      "hint_words": "bizarre, normal, ordinary, strange",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "broaden",
+      "hindi": "विस्तार करना / बढ़ाना",
+      "meaning_en": "To become or make wider or more extensive",
+      "example_sentence": "Travelling helps broaden your understanding of the world.",
+      "synonyms": [
+        "widen",
+        "expand",
+        "extend",
+        "increase"
+      ],
+      "antonyms": [
+        "narrow",
+        "limit",
+        "reduce",
+        "restrict"
+      ],
+      "fill_blank": "Reading books can ______ your vocabulary.",
+      "correct_word": "broaden",
+      "hint_words": "broaden, narrow, limit, expand",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "cease",
+      "hindi": "बंद होना / समाप्त होना",
+      "meaning_en": "To come to an end; to stop",
+      "example_sentence": "The noise ceased as soon as the teacher entered.",
+      "synonyms": [
+        "stop",
+        "end",
+        "halt",
+        "discontinue"
+      ],
+      "antonyms": [
+        "begin",
+        "continue",
+        "start",
+        "persist"
+      ],
+      "fill_blank": "All construction work will ______ during the festival.",
+      "correct_word": "cease",
+      "hint_words": "cease, begin, continue, stop",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "coherent",
+      "hindi": "सुसंगत / तार्किक क्रम में",
+      "meaning_en": "Logical and consistent; clearly expressed",
+      "example_sentence": "Her essay was well-structured and coherent.",
+      "synonyms": [
+        "logical",
+        "consistent",
+        "clear",
+        "organised"
+      ],
+      "antonyms": [
+        "incoherent",
+        "confusing",
+        "disorganised",
+        "unclear"
+      ],
+      "fill_blank": "Present your ideas in a ______ manner during the debate.",
+      "correct_word": "coherent",
+      "hint_words": "coherent, incoherent, confusing, logical",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "corrupt",
+      "hindi": "भ्रष्ट / बेईमान",
+      "meaning_en": "Willing to act dishonestly in return for money or personal gain",
+      "example_sentence": "The corrupt official was arrested for taking bribes.",
+      "synonyms": [
+        "dishonest",
+        "fraudulent",
+        "immoral",
+        "crooked"
+      ],
+      "antonyms": [
+        "honest",
+        "upright",
+        "ethical",
+        "incorruptible"
+      ],
+      "fill_blank": "A ______ system harms the poorest people in society.",
+      "correct_word": "corrupt",
+      "hint_words": "corrupt, honest, upright, dishonest",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "crucial",
+      "hindi": "महत्वपूर्ण / निर्णायक",
+      "meaning_en": "Decisive or critical at an important point",
+      "example_sentence": "It is crucial to revise thoroughly before the exam.",
+      "synonyms": [
+        "critical",
+        "vital",
+        "essential",
+        "key"
+      ],
+      "antonyms": [
+        "trivial",
+        "unimportant",
+        "minor",
+        "irrelevant"
+      ],
+      "fill_blank": "Water is ______ to all forms of life.",
+      "correct_word": "crucial",
+      "hint_words": "crucial, trivial, minor, essential",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "debate",
+      "hindi": "बहस / वाद-विवाद",
+      "meaning_en": "A formal discussion on a topic where opposing views are expressed",
+      "example_sentence": "The school held a debate on the use of social media.",
+      "synonyms": [
+        "argument",
+        "discussion",
+        "dispute",
+        "deliberation"
+      ],
+      "antonyms": [
+        "agreement",
+        "silence",
+        "acceptance",
+        "consensus"
+      ],
+      "fill_blank": "There was a heated ______ over the new school policy.",
+      "correct_word": "debate",
+      "hint_words": "debate, agreement, silence, discussion",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "deforestation",
+      "hindi": "वनों की कटाई",
+      "meaning_en": "The process of clearing forests on a large scale",
+      "example_sentence": "Deforestation is one of the leading causes of climate change.",
+      "synonyms": [
+        "forest clearing",
+        "logging",
+        "woodland destruction",
+        "tree felling"
+      ],
+      "antonyms": [
+        "reforestation",
+        "afforestation",
+        "conservation",
+        "replanting"
+      ],
+      "fill_blank": "______ destroys the homes of thousands of animals.",
+      "correct_word": "deforestation",
+      "hint_words": "deforestation, afforestation, reforestation, logging",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "deteriorate",
+      "hindi": "बिगड़ना / खराब होना",
+      "meaning_en": "To become progressively worse",
+      "example_sentence": "His health began to deteriorate after the accident.",
+      "synonyms": [
+        "worsen",
+        "decline",
+        "degrade",
+        "weaken"
+      ],
+      "antonyms": [
+        "improve",
+        "recover",
+        "strengthen",
+        "progress"
+      ],
+      "fill_blank": "Roads ______ quickly without regular maintenance.",
+      "correct_word": "deteriorate",
+      "hint_words": "deteriorate, improve, recover, worsen",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "discrepancy",
+      "hindi": "विसंगति / अंतर",
+      "meaning_en": "A lack of consistency between facts or figures",
+      "example_sentence": "There was a discrepancy in the accounts.",
+      "synonyms": [
+        "inconsistency",
+        "difference",
+        "mismatch",
+        "variation"
+      ],
+      "antonyms": [
+        "agreement",
+        "consistency",
+        "similarity",
+        "match"
+      ],
+      "fill_blank": "The inspector noticed a ______ in the official report.",
+      "correct_word": "discrepancy",
+      "hint_words": "discrepancy, consistency, agreement, mismatch",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "domestic",
+      "hindi": "घरेलू / देशीय",
+      "meaning_en": "Relating to the home, household, or one's own country",
+      "example_sentence": "The government launched a domestic policy to boost farming.",
+      "synonyms": [
+        "local",
+        "household",
+        "national",
+        "internal"
+      ],
+      "antonyms": [
+        "foreign",
+        "external",
+        "international",
+        "overseas"
+      ],
+      "fill_blank": "Both domestic and international trade contribute to the economy.",
+      "correct_word": "domestic",
+      "hint_words": "domestic, foreign, external, local",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "durable",
+      "hindi": "टिकाऊ / मज़बूत",
+      "meaning_en": "Able to withstand wear, pressure, or damage; long-lasting",
+      "example_sentence": "Buy durable furniture that lasts for many years.",
+      "synonyms": [
+        "sturdy",
+        "lasting",
+        "strong",
+        "long-wearing"
+      ],
+      "antonyms": [
+        "fragile",
+        "weak",
+        "flimsy",
+        "temporary"
+      ],
+      "fill_blank": "Good quality shoes are ______ and do not wear out quickly.",
+      "correct_word": "durable",
+      "hint_words": "durable, fragile, weak, lasting",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "elaborate",
+      "hindi": "विस्तृत / जटिल",
+      "meaning_en": "Involving many carefully arranged parts; detailed and complicated",
+      "example_sentence": "The students made an elaborate model of the solar system.",
+      "synonyms": [
+        "detailed",
+        "complex",
+        "intricate",
+        "thorough"
+      ],
+      "antonyms": [
+        "simple",
+        "basic",
+        "brief",
+        "plain"
+      ],
+      "fill_blank": "She gave an ______ explanation of the scientific process.",
+      "correct_word": "elaborate",
+      "hint_words": "elaborate, simple, basic, detailed",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "eliminate",
+      "hindi": "समाप्त करना / हटाना",
+      "meaning_en": "To completely remove or get rid of",
+      "example_sentence": "We must eliminate plastic waste from our oceans.",
+      "synonyms": [
+        "remove",
+        "eradicate",
+        "abolish",
+        "wipe out"
+      ],
+      "antonyms": [
+        "introduce",
+        "keep",
+        "add",
+        "preserve"
+      ],
+      "fill_blank": "The government aims to ______ poverty in rural areas.",
+      "correct_word": "eliminate",
+      "hint_words": "eliminate, introduce, keep, remove",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "enforce",
+      "hindi": "लागू करना / लागू करवाना",
+      "meaning_en": "To compel observance of a law or rule",
+      "example_sentence": "The police were deployed to enforce the curfew.",
+      "synonyms": [
+        "implement",
+        "apply",
+        "impose",
+        "uphold"
+      ],
+      "antonyms": [
+        "ignore",
+        "cancel",
+        "disobey",
+        "neglect"
+      ],
+      "fill_blank": "Traffic rules must be strictly ______.",
+      "correct_word": "enforce",
+      "hint_words": "enforce, ignore, cancel, implement",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "environmental",
+      "hindi": "पर्यावरण संबंधी",
+      "meaning_en": "Relating to the natural world and the impact of human activity on it",
+      "example_sentence": "Environmental pollution affects human health directly.",
+      "synonyms": [
+        "ecological",
+        "natural",
+        "green",
+        "nature-related"
+      ],
+      "antonyms": [
+        "industrial",
+        "artificial",
+        "man-made",
+        "unnatural"
+      ],
+      "fill_blank": "We need strong ______ policies to protect our forests.",
+      "correct_word": "environmental",
+      "hint_words": "environmental, industrial, artificial, ecological",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "epidemic",
+      "hindi": "महामारी / एक क्षेत्र में फैलने वाला रोग",
+      "meaning_en": "A widespread occurrence of an infectious disease in a community",
+      "example_sentence": "An epidemic of dengue broke out in the city last year.",
+      "synonyms": [
+        "outbreak",
+        "plague",
+        "spread",
+        "disease wave"
+      ],
+      "antonyms": [
+        "containment",
+        "cure",
+        "eradication",
+        "prevention"
+      ],
+      "fill_blank": "Health workers quickly responded to the cholera ______.",
+      "correct_word": "epidemic",
+      "hint_words": "epidemic, prevention, cure, outbreak",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "exploit",
+      "hindi": "शोषण करना / फायदा उठाना",
+      "meaning_en": "To make use of a situation unfairly for personal gain",
+      "example_sentence": "Child labour is an example of exploiting the vulnerable.",
+      "synonyms": [
+        "misuse",
+        "take advantage",
+        "abuse",
+        "manipulate"
+      ],
+      "antonyms": [
+        "protect",
+        "respect",
+        "support",
+        "defend"
+      ],
+      "fill_blank": "It is wrong to ______ workers by paying them unfair wages.",
+      "correct_word": "exploit",
+      "hint_words": "exploit, protect, respect, misuse",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "hypothesis",
+      "hindi": "परिकल्पना / अनुमान",
+      "meaning_en": "A proposed explanation for an observation that can be tested",
+      "example_sentence": "The scientist formed a hypothesis before conducting the experiment.",
+      "synonyms": [
+        "theory",
+        "assumption",
+        "proposition",
+        "supposition"
+      ],
+      "antonyms": [
+        "fact",
+        "proof",
+        "certainty",
+        "evidence"
+      ],
+      "fill_blank": "A good ______ leads to a well-designed experiment.",
+      "correct_word": "hypothesis",
+      "hint_words": "hypothesis, fact, proof, theory",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "innovation",
+      "hindi": "नवाचार / नई खोज",
+      "meaning_en": "A new method, idea, or product that brings about positive change",
+      "example_sentence": "India's space program is a great example of technological innovation.",
+      "synonyms": [
+        "invention",
+        "breakthrough",
+        "novelty",
+        "discovery"
+      ],
+      "antonyms": [
+        "tradition",
+        "stagnation",
+        "repetition",
+        "imitation"
+      ],
+      "fill_blank": "______ in agriculture has helped increase crop production.",
+      "correct_word": "innovation",
+      "hint_words": "innovation, tradition, repetition, invention",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "migrate",
+      "hindi": "प्रवास करना / स्थान बदलना",
+      "meaning_en": "To move from one region or habitat to another seasonally",
+      "example_sentence": "Migratory birds migrate to warmer areas in winter.",
+      "synonyms": [
+        "move",
+        "travel",
+        "relocate",
+        "journey"
+      ],
+      "antonyms": [
+        "stay",
+        "settle",
+        "remain",
+        "reside"
+      ],
+      "fill_blank": "Many workers ______ from villages to cities for employment.",
+      "correct_word": "migrate",
+      "hint_words": "migrate, stay, settle, relocate",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "observation",
+      "hindi": "अवलोकन / निरीक्षण",
+      "meaning_en": "The act of watching carefully; a remark based on what you notice",
+      "example_sentence": "Scientific progress depends on careful observation.",
+      "synonyms": [
+        "watching",
+        "monitoring",
+        "examination",
+        "remark"
+      ],
+      "antonyms": [
+        "inattention",
+        "neglect",
+        "ignorance",
+        "oversight"
+      ],
+      "fill_blank": "The teacher praised the student's sharp ______.",
+      "correct_word": "observation",
+      "hint_words": "observation, neglect, ignorance, monitoring",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "opposition",
+      "hindi": "विरोध / प्रतिपक्ष",
+      "meaning_en": "Resistance or conflict against something; the party opposing the government",
+      "example_sentence": "The opposition party raised serious questions in parliament.",
+      "synonyms": [
+        "resistance",
+        "conflict",
+        "objection",
+        "rivalry"
+      ],
+      "antonyms": [
+        "support",
+        "agreement",
+        "cooperation",
+        "alliance"
+      ],
+      "fill_blank": "There was strong ______ to the proposed law.",
+      "correct_word": "opposition",
+      "hint_words": "opposition, support, agreement, resistance",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "perception",
+      "hindi": "धारणा / अनुभव",
+      "meaning_en": "The way in which something is understood or interpreted",
+      "example_sentence": "People's perception of success differs widely.",
+      "synonyms": [
+        "understanding",
+        "view",
+        "awareness",
+        "impression"
+      ],
+      "antonyms": [
+        "ignorance",
+        "misunderstanding",
+        "blindness",
+        "confusion"
+      ],
+      "fill_blank": "His ______ of the problem was different from hers.",
+      "correct_word": "perception",
+      "hint_words": "perception, ignorance, misunderstanding, understanding",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "plagiarism",
+      "hindi": "साहित्यिक चोरी",
+      "meaning_en": "The practice of taking someone else's work and passing it off as one's own",
+      "example_sentence": "Copying from the internet without reference is plagiarism.",
+      "synonyms": [
+        "copying",
+        "theft",
+        "imitation",
+        "fraud"
+      ],
+      "antonyms": [
+        "originality",
+        "creativity",
+        "authenticity",
+        "invention"
+      ],
+      "fill_blank": "Students must avoid ______ in their projects.",
+      "correct_word": "plagiarism",
+      "hint_words": "plagiarism, originality, creativity, copying",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "pollution",
+      "hindi": "प्रदूषण",
+      "meaning_en": "The introduction of harmful substances into the environment",
+      "example_sentence": "Air pollution in cities has reached dangerous levels.",
+      "synonyms": [
+        "contamination",
+        "poisoning",
+        "impurity",
+        "degradation"
+      ],
+      "antonyms": [
+        "purification",
+        "cleanliness",
+        "conservation",
+        "protection"
+      ],
+      "fill_blank": "Industrial ______ poisons rivers and harms aquatic life.",
+      "correct_word": "pollution",
+      "hint_words": "pollution, purification, cleanliness, contamination",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "poverty",
+      "hindi": "गरीबी / निर्धनता",
+      "meaning_en": "The state of being extremely poor",
+      "example_sentence": "Education is one of the best ways to escape poverty.",
+      "synonyms": [
+        "destitution",
+        "deprivation",
+        "hardship",
+        "neediness"
+      ],
+      "antonyms": [
+        "wealth",
+        "prosperity",
+        "richness",
+        "abundance"
+      ],
+      "fill_blank": "The government launched schemes to reduce ______ in rural areas.",
+      "correct_word": "poverty",
+      "hint_words": "poverty, wealth, prosperity, hardship",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "refute",
+      "hindi": "खंडन करना / गलत साबित करना",
+      "meaning_en": "To prove a statement or person to be wrong",
+      "example_sentence": "She refuted the false claims with solid evidence.",
+      "synonyms": [
+        "disprove",
+        "counter",
+        "deny",
+        "contradict"
+      ],
+      "antonyms": [
+        "confirm",
+        "support",
+        "prove",
+        "validate"
+      ],
+      "fill_blank": "Good data can ______ misleading arguments.",
+      "correct_word": "refute",
+      "hint_words": "refute, confirm, support, disprove",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "relevant",
+      "hindi": "प्रासंगिक / संबंधित",
+      "meaning_en": "Closely connected or appropriate to the matter in hand",
+      "example_sentence": "Give only relevant information in your answer.",
+      "synonyms": [
+        "applicable",
+        "pertinent",
+        "related",
+        "appropriate"
+      ],
+      "antonyms": [
+        "irrelevant",
+        "unrelated",
+        "unimportant",
+        "inappropriate"
+      ],
+      "fill_blank": "Include only ______ points in your essay.",
+      "correct_word": "relevant",
+      "hint_words": "relevant, irrelevant, unrelated, pertinent",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "word": "sanitation",
+      "hindi": "स्वच्छता / सफाई व्यवस्था",
+      "meaning_en": "Conditions relating to public health, especially clean water and waste disposal",
+      "example_sentence": "Proper sanitation prevents the spread of disease.",
+      "synonyms": [
+        "hygiene",
+        "cleanliness",
+        "health",
+        "waste management"
+      ],
+      "antonyms": [
+        "filth",
+        "contamination",
+        "uncleanliness",
+        "pollution"
+      ],
+      "fill_blank": "The Swachh Bharat campaign focuses on ______.",
+      "correct_word": "sanitation",
+      "hint_words": "sanitation, filth, pollution, hygiene",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "word": "stereotype",
+      "hindi": "रूढ़िवादी धारणा / बंधी-बंधाई सोच",
+      "meaning_en": "A widely held but fixed and oversimplified image of a group",
+      "example_sentence": "It is wrong to stereotype people based on their religion.",
+      "synonyms": [
+        "prejudice",
+        "generalization",
+        "assumption",
+        "bias"
+      ],
+      "antonyms": [
+        "individuality",
+        "uniqueness",
+        "fairness",
+        "open-mindedness"
+      ],
+      "fill_blank": "We must challenge ______ and see people as individuals.",
+      "correct_word": "stereotype",
+      "hint_words": "stereotype, fairness, individuality, prejudice",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "stimulate",
+      "hindi": "उत्तेजित करना / प्रेरित करना",
+      "meaning_en": "To raise levels of physiological or nervous activity; to encourage",
+      "example_sentence": "Interesting lessons stimulate students to learn more.",
+      "synonyms": [
+        "encourage",
+        "motivate",
+        "excite",
+        "activate"
+      ],
+      "antonyms": [
+        "discourage",
+        "suppress",
+        "dampen",
+        "bore"
+      ],
+      "fill_blank": "Good feedback can ______ students to improve.",
+      "correct_word": "stimulate",
+      "hint_words": "stimulate, discourage, suppress, encourage",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "word": "sustainable",
+      "hindi": "टिकाऊ / दीर्घकालिक",
+      "meaning_en": "Able to be maintained at a certain rate without depleting resources",
+      "example_sentence": "Solar energy is a sustainable alternative to coal.",
+      "synonyms": [
+        "renewable",
+        "lasting",
+        "eco-friendly",
+        "long-term"
+      ],
+      "antonyms": [
+        "wasteful",
+        "destructive",
+        "short-term",
+        "non-renewable"
+      ],
+      "fill_blank": "Farmers are adopting ______ practices to protect the soil.",
+      "correct_word": "sustainable",
+      "hint_words": "sustainable, wasteful, destructive, eco-friendly",
+      "difficulty": "medium",
+      "category": "environment"
+    },
+    {
+      "word": "tactic",
+      "hindi": "रणनीति / युक्ति",
+      "meaning_en": "An action carefully planned to achieve a specific end",
+      "example_sentence": "The debate team used a clever tactic to win.",
+      "synonyms": [
+        "strategy",
+        "plan",
+        "method",
+        "approach"
+      ],
+      "antonyms": [
+        "blunder",
+        "aimlessness",
+        "disorder",
+        "improvisation"
+      ],
+      "fill_blank": "The coach explained his ______ before the final match.",
+      "correct_word": "tactic",
+      "hint_words": "tactic, blunder, strategy, method",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "tedious",
+      "hindi": "उबाऊ / थकाने वाला",
+      "meaning_en": "Too long, slow, or dull; tiresome or monotonous",
+      "example_sentence": "Copying the same notes repeatedly was tedious work.",
+      "synonyms": [
+        "boring",
+        "dull",
+        "monotonous",
+        "tiresome"
+      ],
+      "antonyms": [
+        "interesting",
+        "exciting",
+        "engaging",
+        "stimulating"
+      ],
+      "fill_blank": "The long speech was so ______ that people began to leave.",
+      "correct_word": "tedious",
+      "hint_words": "tedious, exciting, interesting, boring",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "testimony",
+      "hindi": "गवाही / साक्ष्य",
+      "meaning_en": "A formal statement given in a court; evidence",
+      "example_sentence": "The witness gave testimony that helped solve the case.",
+      "synonyms": [
+        "evidence",
+        "statement",
+        "witness account",
+        "declaration"
+      ],
+      "antonyms": [
+        "denial",
+        "silence",
+        "concealment",
+        "refusal"
+      ],
+      "fill_blank": "The judge asked the witness to give a clear ______.",
+      "correct_word": "testimony",
+      "hint_words": "testimony, denial, silence, evidence",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "thrive",
+      "hindi": "फलना-फूलना / समृद्ध होना",
+      "meaning_en": "To prosper; to grow strongly",
+      "example_sentence": "Plants thrive in well-lit and well-watered conditions.",
+      "synonyms": [
+        "flourish",
+        "prosper",
+        "grow",
+        "succeed"
+      ],
+      "antonyms": [
+        "fail",
+        "wither",
+        "decline",
+        "struggle"
+      ],
+      "fill_blank": "Children ______ when they feel safe and supported.",
+      "correct_word": "thrive",
+      "hint_words": "thrive, fail, wither, flourish",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "tranquil",
+      "hindi": "शांत / निश्चल",
+      "meaning_en": "Free from disturbance; calm and peaceful",
+      "example_sentence": "The hillside village was tranquil and beautiful.",
+      "synonyms": [
+        "peaceful",
+        "calm",
+        "serene",
+        "still"
+      ],
+      "antonyms": [
+        "noisy",
+        "chaotic",
+        "turbulent",
+        "restless"
+      ],
+      "fill_blank": "She found the forest walk ______ and refreshing.",
+      "correct_word": "tranquil",
+      "hint_words": "tranquil, noisy, chaotic, calm",
+      "difficulty": "medium",
+      "category": "emotions"
+    },
+    {
+      "word": "treacherous",
+      "hindi": "विश्वासघाती / खतरनाक",
+      "meaning_en": "Guilty of betrayal; having hidden dangers",
+      "example_sentence": "The mountain path was treacherous in the rain.",
+      "synonyms": [
+        "dangerous",
+        "disloyal",
+        "hazardous",
+        "deceitful"
+      ],
+      "antonyms": [
+        "loyal",
+        "safe",
+        "trustworthy",
+        "reliable"
+      ],
+      "fill_blank": "The spy was a ______ double agent.",
+      "correct_word": "treacherous",
+      "hint_words": "treacherous, loyal, safe, dangerous",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "ultimate",
+      "hindi": "अंतिम / सर्वोच्च",
+      "meaning_en": "Being the best or most extreme example of its kind; final",
+      "example_sentence": "Winning the World Cup was the ultimate achievement.",
+      "synonyms": [
+        "final",
+        "supreme",
+        "highest",
+        "greatest"
+      ],
+      "antonyms": [
+        "initial",
+        "first",
+        "basic",
+        "lowest"
+      ],
+      "fill_blank": "Her ______ goal was to become a surgeon.",
+      "correct_word": "ultimate",
+      "hint_words": "ultimate, initial, basic, supreme",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "unity",
+      "hindi": "एकता / मेलजोल",
+      "meaning_en": "The state of being united or joined as a whole",
+      "example_sentence": "India's strength lies in its unity in diversity.",
+      "synonyms": [
+        "solidarity",
+        "harmony",
+        "togetherness",
+        "union"
+      ],
+      "antonyms": [
+        "division",
+        "conflict",
+        "separation",
+        "discord"
+      ],
+      "fill_blank": "______ among team members is the key to victory.",
+      "correct_word": "unity",
+      "hint_words": "unity, division, conflict, solidarity",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "vague",
+      "hindi": "अस्पष्ट / धुंधला",
+      "meaning_en": "Not clearly expressed or understood; uncertain",
+      "example_sentence": "Her instructions were too vague to follow.",
+      "synonyms": [
+        "unclear",
+        "ambiguous",
+        "hazy",
+        "indefinite"
+      ],
+      "antonyms": [
+        "clear",
+        "specific",
+        "definite",
+        "precise"
+      ],
+      "fill_blank": "The plan was too ______ to be acted upon.",
+      "correct_word": "vague",
+      "hint_words": "vague, clear, specific, ambiguous",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "welfare",
+      "hindi": "कल्याण / भलाई",
+      "meaning_en": "The health, happiness, and well-being of a person or group",
+      "example_sentence": "The government is responsible for the welfare of its citizens.",
+      "synonyms": [
+        "well-being",
+        "benefit",
+        "prosperity",
+        "happiness"
+      ],
+      "antonyms": [
+        "harm",
+        "suffering",
+        "neglect",
+        "misery"
+      ],
+      "fill_blank": "Child ______ programs provide food and education to the poor.",
+      "correct_word": "welfare",
+      "hint_words": "welfare, harm, neglect, well-being",
+      "difficulty": "medium",
+      "category": "social"
+    },
+    {
+      "word": "yield",
+      "hindi": "उपज / झुकना",
+      "meaning_en": "To produce or provide; to give way under pressure",
+      "example_sentence": "This field yields a good crop every harvest.",
+      "synonyms": [
+        "produce",
+        "generate",
+        "give in",
+        "surrender"
+      ],
+      "antonyms": [
+        "withhold",
+        "resist",
+        "refuse",
+        "retain"
+      ],
+      "fill_blank": "Hard work will ______ good results over time.",
+      "correct_word": "yield",
+      "hint_words": "yield, withhold, resist, produce",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "word": "compassionate",
+      "hindi": "करुणामय / दयालु",
+      "meaning_en": "Feeling or showing sympathy and concern for others",
+      "example_sentence": "A compassionate teacher supports students through difficulties.",
+      "synonyms": [
+        "caring",
+        "sympathetic",
+        "kind",
+        "humane"
+      ],
+      "antonyms": [
+        "cruel",
+        "heartless",
+        "indifferent",
+        "cold"
+      ],
+      "fill_blank": "She was ______ towards the homeless children on the street.",
+      "correct_word": "compassionate",
+      "hint_words": "compassionate, cruel, indifferent, kind",
+      "difficulty": "medium",
+      "category": "emotions"
+    }
+  ]
+}

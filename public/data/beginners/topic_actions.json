@@ -1,0 +1,436 @@
+{
+  "words": [
+    {
+      "word": "walk",
+      "hindi": "चलना",
+      "meaning_en": "To move on foot at a normal pace",
+      "example_sentence": "She walks to school every morning.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "walk.jpg"
+    },
+    {
+      "word": "run",
+      "hindi": "दौड़ना",
+      "meaning_en": "To move quickly on foot",
+      "example_sentence": "He runs in the park every evening.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "run.jpg"
+    },
+    {
+      "word": "jump",
+      "hindi": "कूदना",
+      "meaning_en": "To push yourself off the ground into the air",
+      "example_sentence": "The children jumped over the puddle.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "jump.jpg"
+    },
+    {
+      "word": "talk",
+      "hindi": "बात करना",
+      "meaning_en": "To say words; to speak with someone",
+      "example_sentence": "They talked about their school trip.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "talk.jpg"
+    },
+    {
+      "word": "listen",
+      "hindi": "सुनना",
+      "meaning_en": "To pay attention to a sound or what someone says",
+      "example_sentence": "Please listen carefully to the teacher.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "listen.jpg"
+    },
+    {
+      "word": "read",
+      "hindi": "पढ़ना",
+      "meaning_en": "To look at and understand written words",
+      "example_sentence": "She reads a book before sleeping every night.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "read.jpg"
+    },
+    {
+      "word": "write",
+      "hindi": "लिखना",
+      "meaning_en": "To make letters or words on paper",
+      "example_sentence": "He wrote a letter to his grandmother.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "write.jpg"
+    },
+    {
+      "word": "cook",
+      "hindi": "खाना बनाना",
+      "meaning_en": "To prepare food by heating it",
+      "example_sentence": "Mum cooks dinner for the family.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "cook.jpg"
+    },
+    {
+      "word": "clean",
+      "hindi": "साफ करना",
+      "meaning_en": "To remove dirt from something",
+      "example_sentence": "She cleaned her room on Sunday.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "clean.jpg"
+    },
+    {
+      "word": "wash",
+      "hindi": "धोना",
+      "meaning_en": "To clean something with water",
+      "example_sentence": "Wash your hands before eating.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "wash.jpg"
+    },
+    {
+      "word": "sleep",
+      "hindi": "सोना",
+      "meaning_en": "To rest with your eyes closed and mind at rest",
+      "example_sentence": "He sleeps for eight hours every night.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sleep.jpg"
+    },
+    {
+      "word": "wake",
+      "hindi": "जागना",
+      "meaning_en": "To stop sleeping and become alert",
+      "example_sentence": "She wakes up at six every morning.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "wake.jpg"
+    },
+    {
+      "word": "play",
+      "hindi": "खेलना",
+      "meaning_en": "To take part in a game or fun activity",
+      "example_sentence": "The children play cricket after school.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "play.jpg"
+    },
+    {
+      "word": "learn",
+      "hindi": "सीखना",
+      "meaning_en": "To gain knowledge or a new skill",
+      "example_sentence": "He is learning to ride a bicycle.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "learn.jpg"
+    },
+    {
+      "word": "teach",
+      "hindi": "पढ़ाना",
+      "meaning_en": "To give lessons or explain something to someone",
+      "example_sentence": "The teacher teaches English to the class.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "teach.jpg"
+    },
+    {
+      "word": "help",
+      "hindi": "मदद करना",
+      "meaning_en": "To make it easier for someone to do something",
+      "example_sentence": "She helped her mother carry the bags.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "help.jpg"
+    },
+    {
+      "word": "carry",
+      "hindi": "उठाना / ले जाना",
+      "meaning_en": "To hold something and take it from one place to another",
+      "example_sentence": "He carried the heavy box upstairs.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "carry.jpg"
+    },
+    {
+      "word": "open",
+      "hindi": "खोलना",
+      "meaning_en": "To move a door, lid, or cover so it is no longer closed",
+      "example_sentence": "She opened the window to let in fresh air.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "open.jpg"
+    },
+    {
+      "word": "close",
+      "hindi": "बंद करना",
+      "meaning_en": "To shut a door, window, or lid",
+      "example_sentence": "Please close the door when you leave.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "close.jpg"
+    },
+    {
+      "word": "push",
+      "hindi": "धकेलना",
+      "meaning_en": "To press against something to move it away",
+      "example_sentence": "He pushed the door open.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "push.jpg"
+    },
+    {
+      "word": "pull",
+      "hindi": "खींचना",
+      "meaning_en": "To hold and bring something toward you",
+      "example_sentence": "She pulled the rope to ring the bell.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "pull.jpg"
+    },
+    {
+      "word": "throw",
+      "hindi": "फेंकना",
+      "meaning_en": "To send something through the air by moving your arm",
+      "example_sentence": "He threw the ball to his friend.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "throw.jpg"
+    },
+    {
+      "word": "catch",
+      "hindi": "पकड़ना",
+      "meaning_en": "To take hold of something moving through the air",
+      "example_sentence": "She caught the ball with both hands.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "catch.jpg"
+    },
+    {
+      "word": "climb",
+      "hindi": "चढ़ना",
+      "meaning_en": "To go up something using hands and feet",
+      "example_sentence": "The boy climbed the tree quickly.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "climb.jpg"
+    },
+    {
+      "word": "swim",
+      "hindi": "तैरना",
+      "meaning_en": "To move through water using your arms and legs",
+      "example_sentence": "They swim in the pool every weekend.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "swim.jpg"
+    },
+    {
+      "word": "draw",
+      "hindi": "चित्र बनाना",
+      "meaning_en": "To make a picture using a pencil or pen",
+      "example_sentence": "She drew a picture of a house.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "draw.jpg"
+    },
+    {
+      "word": "sing",
+      "hindi": "गाना",
+      "meaning_en": "To make musical sounds with your voice",
+      "example_sentence": "He sang a song at the school function.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sing.jpg"
+    },
+    {
+      "word": "dance",
+      "hindi": "नाचना",
+      "meaning_en": "To move your body in rhythm to music",
+      "example_sentence": "The girls danced at the festival.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "dance.jpg"
+    },
+    {
+      "word": "laugh",
+      "hindi": "हंसना",
+      "meaning_en": "To make sounds showing you find something funny",
+      "example_sentence": "Everyone laughed at the funny joke.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "laugh.jpg"
+    },
+    {
+      "word": "cry",
+      "hindi": "रोना",
+      "meaning_en": "To shed tears because of pain or strong feelings",
+      "example_sentence": "The baby cried when it was hungry.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "cry.jpg"
+    },
+    {
+      "word": "sit",
+      "hindi": "बैठना",
+      "meaning_en": "To rest with your bottom on a surface",
+      "example_sentence": "Please sit down and wait your turn.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sit.jpg"
+    },
+    {
+      "word": "stand",
+      "hindi": "खड़े होना",
+      "meaning_en": "To be in an upright position on your feet",
+      "example_sentence": "Stand up when the teacher enters the room.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "stand.jpg"
+    },
+    {
+      "word": "wait",
+      "hindi": "इंतजार करना",
+      "meaning_en": "To stay in one place until something happens",
+      "example_sentence": "We waited at the bus stop for ten minutes.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "wait.jpg"
+    },
+    {
+      "word": "watch",
+      "hindi": "देखना",
+      "meaning_en": "To look at something carefully over time",
+      "example_sentence": "They watched a movie together on Saturday.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "watch.jpg"
+    },
+    {
+      "word": "count",
+      "hindi": "गिनना",
+      "meaning_en": "To find out how many things there are",
+      "example_sentence": "She counted the apples in the basket.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "count.jpg"
+    },
+    {
+      "word": "point",
+      "hindi": "इशारा करना",
+      "meaning_en": "To direct attention using your finger",
+      "example_sentence": "He pointed at the board during the lesson.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "point.jpg"
+    },
+    {
+      "word": "knock",
+      "hindi": "दस्तक देना",
+      "meaning_en": "To hit a door with your knuckles to get attention",
+      "example_sentence": "She knocked on the door before entering.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "knock.jpg"
+    },
+    {
+      "word": "call",
+      "hindi": "बुलाना / फोन करना",
+      "meaning_en": "To shout to get attention or to phone someone",
+      "example_sentence": "He called his friend to come and play.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "call.jpg"
+    },
+    {
+      "word": "visit",
+      "hindi": "मिलने जाना",
+      "meaning_en": "To go to see a person or place",
+      "example_sentence": "We visited our grandparents during holidays.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "visit.jpg"
+    },
+    {
+      "word": "pack",
+      "hindi": "पैक करना",
+      "meaning_en": "To put things into a bag or box for travel",
+      "example_sentence": "She packed her bag the night before the trip.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "pack.jpg"
+    },
+    {
+      "word": "fetch",
+      "hindi": "लाना",
+      "meaning_en": "To go and get something and bring it back",
+      "example_sentence": "He fetched water from the well.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "fetch.jpg"
+    },
+    {
+      "word": "pour",
+      "hindi": "डालना",
+      "meaning_en": "To make liquid flow from a container",
+      "example_sentence": "She poured milk into the glass.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "pour.jpg"
+    },
+    {
+      "word": "chop",
+      "hindi": "काटना",
+      "meaning_en": "To cut something into pieces with a sharp tool",
+      "example_sentence": "Mum chopped the vegetables for the curry.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "chop.jpg"
+    },
+    {
+      "word": "sweep",
+      "hindi": "झाड़ू लगाना",
+      "meaning_en": "To clean a floor by pushing dirt with a broom",
+      "example_sentence": "She swept the floor every morning.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "sweep.jpg"
+    },
+    {
+      "word": "fold",
+      "hindi": "मोड़ना",
+      "meaning_en": "To bend something flat so one part lies over another",
+      "example_sentence": "He folded his clothes and kept them in the cupboard.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "fold.jpg"
+    },
+    {
+      "word": "hang",
+      "hindi": "टांगना",
+      "meaning_en": "To attach something at the top so it hangs down",
+      "example_sentence": "She hung her school bag on the hook.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "hang.jpg"
+    },
+    {
+      "word": "rush",
+      "hindi": "जल्दी करना",
+      "meaning_en": "To hurry and move quickly",
+      "example_sentence": "He rushed to school so he would not be late.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "rush.jpg"
+    },
+    {
+      "word": "chat",
+      "hindi": "गपशप करना",
+      "meaning_en": "To talk in a friendly and informal way",
+      "example_sentence": "The friends chatted on the way home.",
+      "category": "actions",
+      "difficulty": "easy",
+      "image": "chat.jpg"
+    }
+  ]
+}

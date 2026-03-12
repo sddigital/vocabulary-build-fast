@@ -1,0 +1,139 @@
+{
+  "words": [
+    {
+      "word": "shirt",
+      "hindi": "कमीज़",
+      "meaning_en": "A piece of clothing worn on the upper body",
+      "example_sentence": "He wore a white shirt to school.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "shirt.jpg"
+    },
+    {
+      "word": "trousers",
+      "hindi": "पतलून",
+      "meaning_en": "A piece of clothing covering both legs from waist to ankles",
+      "example_sentence": "He ironed his trousers before the interview.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "trousers.jpg"
+    },
+    {
+      "word": "dress",
+      "hindi": "फ्रॉक / पोशाक",
+      "meaning_en": "A piece of clothing worn by girls or women",
+      "example_sentence": "She wore a pink dress to the party.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "dress.jpg"
+    },
+    {
+      "word": "shoes",
+      "hindi": "जूते",
+      "meaning_en": "Footwear that covers and protects the foot",
+      "example_sentence": "He polished his shoes before the match.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "shoes.jpg"
+    },
+    {
+      "word": "cap",
+      "hindi": "टोपी",
+      "meaning_en": "A soft flat hat without a brim",
+      "example_sentence": "He wore a cap to protect himself from the sun.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "cap.jpg"
+    },
+    {
+      "word": "umbrella",
+      "hindi": "छाता",
+      "meaning_en": "A folding device used for protection from rain or sun",
+      "example_sentence": "She opened her umbrella when it started to rain.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "umbrella.jpg"
+    },
+    {
+      "word": "sweater",
+      "hindi": "स्वेटर",
+      "meaning_en": "A warm knitted garment worn on the upper body",
+      "example_sentence": "Grandma knitted a sweater for winter.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "sweater.jpg"
+    },
+    {
+      "word": "uniform",
+      "hindi": "वर्दी / यूनिफॉर्म",
+      "meaning_en": "A set of standard clothes worn at school or work",
+      "example_sentence": "All students must wear their school uniform.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "uniform.jpg"
+    },
+    {
+      "word": "saree",
+      "hindi": "साड़ी",
+      "meaning_en": "A long piece of cloth worn as traditional dress by Indian women",
+      "example_sentence": "My mother wore a silk saree to the wedding.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "saree.jpg"
+    },
+    {
+      "word": "turban",
+      "hindi": "पगड़ी",
+      "meaning_en": "A long cloth wound around the head as a traditional headwear",
+      "example_sentence": "He wore a colourful turban at the festival.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "turban.jpg"
+    },
+    {
+      "word": "shawl",
+      "hindi": "शॉल",
+      "meaning_en": "A large piece of cloth worn around the shoulders to keep warm",
+      "example_sentence": "Grandmother wrapped a shawl around herself in winter.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "shawl.jpg"
+    },
+    {
+      "word": "jacket",
+      "hindi": "जैकेट",
+      "meaning_en": "A short coat with sleeves",
+      "example_sentence": "He wore a warm jacket in winter.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "jacket.jpg"
+    },
+    {
+      "word": "sandals",
+      "hindi": "चप्पल",
+      "meaning_en": "Open footwear held on the foot with straps",
+      "example_sentence": "She wore sandals to the beach.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "sandals.jpg"
+    },
+    {
+      "word": "button",
+      "hindi": "बटन",
+      "meaning_en": "A small disc sewn on clothing to fasten it",
+      "example_sentence": "One button on his shirt was missing.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "button.jpg"
+    },
+    {
+      "word": "scarf",
+      "hindi": "मफलर",
+      "meaning_en": "A strip of cloth worn around the neck or head",
+      "example_sentence": "She tied a scarf around her neck in the cold.",
+      "category": "clothes",
+      "difficulty": "easy",
+      "image": "scarf.jpg"
+    }
+  ]
+}

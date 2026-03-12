@@ -1,0 +1,193 @@
+{
+  "words": [
+    {
+      "word": "doctor",
+      "hindi": "डॉक्टर",
+      "meaning_en": "A person who treats sick people",
+      "example_sentence": "The doctor gave him medicine for fever.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "doctor.jpg"
+    },
+    {
+      "word": "helmet",
+      "hindi": "हेलमेट",
+      "meaning_en": "A hard hat worn to protect the head",
+      "example_sentence": "Always wear a helmet while riding a bicycle.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "helmet.jpg"
+    },
+    {
+      "word": "patient",
+      "hindi": "मरीज़ / धैर्यवान",
+      "meaning_en": "A person receiving medical treatment; also meaning calm and not hasty",
+      "example_sentence": "The patient waited quietly in the hospital.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "patient.jpg"
+    },
+    {
+      "word": "hospital",
+      "hindi": "अस्पताल",
+      "meaning_en": "A building where sick people are treated",
+      "example_sentence": "He was taken to the hospital after the accident.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "hospital.jpg"
+    },
+    {
+      "word": "medicine",
+      "hindi": "दवाई",
+      "meaning_en": "A substance taken to treat an illness",
+      "example_sentence": "Take this medicine three times a day.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "medicine.jpg"
+    },
+    {
+      "word": "fever",
+      "hindi": "बुखार",
+      "meaning_en": "A condition in which the body temperature is higher than normal",
+      "example_sentence": "She stayed home because she had a fever.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "fever.jpg"
+    },
+    {
+      "word": "bandage",
+      "hindi": "पट्टी",
+      "meaning_en": "A strip of cloth used to cover a wound",
+      "example_sentence": "The nurse put a bandage on his injured hand.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "bandage.jpg"
+    },
+    {
+      "word": "exercise",
+      "hindi": "व्यायाम",
+      "meaning_en": "Physical activity done to keep the body fit",
+      "example_sentence": "Morning exercise keeps you healthy.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "exercise.jpg"
+    },
+    {
+      "word": "soap",
+      "hindi": "साबुन",
+      "meaning_en": "A substance used with water for washing",
+      "example_sentence": "Wash your hands with soap before eating.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "soap.jpg"
+    },
+    {
+      "word": "accident",
+      "hindi": "दुर्घटना",
+      "meaning_en": "An unexpected event that causes damage or injury",
+      "example_sentence": "A car accident blocked the road for an hour.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "accident.jpg"
+    },
+    {
+      "word": "ambulance",
+      "hindi": "एम्बुलेंस",
+      "meaning_en": "A vehicle used to take sick or injured people to hospital",
+      "example_sentence": "The ambulance arrived within minutes of the call.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "ambulance.jpg"
+    },
+    {
+      "word": "cough",
+      "hindi": "खाँसी",
+      "meaning_en": "A sudden noise made when air is forced out of the throat",
+      "example_sentence": "She had a bad cough due to the cold.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "cough.jpg"
+    },
+    {
+      "word": "nutrition",
+      "hindi": "पोषण",
+      "meaning_en": "The process of getting food needed for health and growth",
+      "example_sentence": "Good nutrition helps children grow strong.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "nutrition.jpg"
+    },
+    {
+      "word": "vaccine",
+      "hindi": "टीका / वैक्सीन",
+      "meaning_en": "A medicine injected to protect against disease",
+      "example_sentence": "Children are given a vaccine against polio.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "vaccine.jpg"
+    },
+    {
+      "word": "thermometer",
+      "hindi": "थर्मामीटर",
+      "meaning_en": "An instrument used to measure body temperature",
+      "example_sentence": "The nurse used a thermometer to check his fever.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "thermometer.jpg"
+    },
+    {
+      "word": "hygiene",
+      "hindi": "स्वच्छता",
+      "meaning_en": "Keeping yourself and your surroundings clean to stay healthy",
+      "example_sentence": "Good hygiene prevents the spread of germs.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "hygiene.jpg"
+    },
+    {
+      "word": "allergy",
+      "hindi": "एलर्जी",
+      "meaning_en": "A reaction the body has to certain foods or substances",
+      "example_sentence": "He has an allergy to pollen and dust.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "allergy.jpg"
+    },
+    {
+      "word": "clinic",
+      "hindi": "क्लिनिक / चिकित्सालय",
+      "meaning_en": "A small medical place where a doctor sees patients",
+      "example_sentence": "She went to the clinic for a check-up.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "clinic.jpg"
+    },
+    {
+      "word": "diet",
+      "hindi": "आहार / खुराक",
+      "meaning_en": "The food and drink a person regularly consumes",
+      "example_sentence": "A balanced diet keeps you healthy.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "diet.jpg"
+    },
+    {
+      "word": "sneeze",
+      "hindi": "छींक",
+      "meaning_en": "A sudden burst of air forced out through the nose and mouth",
+      "example_sentence": "He sneezed because of the dust.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "sneeze.jpg"
+    },
+    {
+      "word": "nurse",
+      "hindi": "नर्स",
+      "meaning_en": "A person trained to care for sick people in a hospital",
+      "example_sentence": "The nurse gave the patient his medicine.",
+      "category": "health",
+      "difficulty": "easy",
+      "image": "nurse.jpg"
+    }
+  ]
+}

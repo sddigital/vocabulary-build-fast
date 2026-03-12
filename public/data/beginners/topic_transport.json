@@ -1,0 +1,193 @@
+{
+  "words": [
+    {
+      "word": "bus",
+      "hindi": "बस",
+      "meaning_en": "A large road vehicle that carries many passengers",
+      "example_sentence": "We take the school bus every morning.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "bus.jpg"
+    },
+    {
+      "word": "train",
+      "hindi": "ट्रेन / रेलगाड़ी",
+      "meaning_en": "A vehicle that travels on railway tracks",
+      "example_sentence": "The train arrived at the station on time.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "train.jpg"
+    },
+    {
+      "word": "bicycle",
+      "hindi": "साइकिल",
+      "meaning_en": "A two-wheeled vehicle pedalled by the rider",
+      "example_sentence": "He rides his bicycle to school.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "bicycle.jpg"
+    },
+    {
+      "word": "car",
+      "hindi": "कार",
+      "meaning_en": "A four-wheeled motor vehicle",
+      "example_sentence": "Dad drove us to the market in his car.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "car.jpg"
+    },
+    {
+      "word": "aeroplane",
+      "hindi": "हवाई जहाज",
+      "meaning_en": "A vehicle with wings that flies through the air",
+      "example_sentence": "We traveled by aeroplane to Delhi.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "aeroplane.jpg"
+    },
+    {
+      "word": "boat",
+      "hindi": "नाव",
+      "meaning_en": "A small vehicle used for traveling on water",
+      "example_sentence": "The fisherman rowed his boat across the river.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "boat.jpg"
+    },
+    {
+      "word": "auto-rickshaw",
+      "hindi": "ऑटो-रिक्शा",
+      "meaning_en": "A three-wheeled motorized vehicle used as a taxi in India",
+      "example_sentence": "We took an auto-rickshaw to the hospital.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "autorickshaw.jpg"
+    },
+    {
+      "word": "helmet",
+      "hindi": "हेलमेट",
+      "meaning_en": "A hard hat worn to protect the head",
+      "example_sentence": "Always wear a helmet while riding.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "helmet2.jpg"
+    },
+    {
+      "word": "signal",
+      "hindi": "संकेत / ट्रैफिक लाइट",
+      "meaning_en": "A light or sign used to control traffic on roads",
+      "example_sentence": "Stop when the traffic signal turns red.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "signal.jpg"
+    },
+    {
+      "word": "lorry",
+      "hindi": "ट्रक / लॉरी",
+      "meaning_en": "A large vehicle used to transport heavy goods",
+      "example_sentence": "A lorry blocked the road near our school.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "lorry.jpg"
+    },
+    {
+      "word": "metro",
+      "hindi": "मेट्रो",
+      "meaning_en": "An underground or overground electric train in a city",
+      "example_sentence": "We took the metro to reach the mall quickly.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "metro.jpg"
+    },
+    {
+      "word": "submarine",
+      "hindi": "पनडुब्बी",
+      "meaning_en": "A ship that can travel underwater",
+      "example_sentence": "The submarine dived deep into the ocean.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "submarine.jpg"
+    },
+    {
+      "word": "helicopter",
+      "hindi": "हेलीकॉप्टर",
+      "meaning_en": "An aircraft with spinning blades that can hover in the air",
+      "example_sentence": "A helicopter rescued the flood victims.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "helicopter.jpg"
+    },
+    {
+      "word": "tractor",
+      "hindi": "ट्रैक्टर",
+      "meaning_en": "A powerful vehicle used by farmers to plough fields",
+      "example_sentence": "The farmer drove a tractor across the field.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "tractor.jpg"
+    },
+    {
+      "word": "ferry",
+      "hindi": "नौका / फेरी",
+      "meaning_en": "A boat that regularly carries people across a river or sea",
+      "example_sentence": "We took a ferry to cross the river.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "ferry.jpg"
+    },
+    {
+      "word": "rickshaw",
+      "hindi": "रिक्शा",
+      "meaning_en": "A light vehicle pulled or pedalled by a person",
+      "example_sentence": "He cycled his rickshaw through the narrow lane.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "rickshaw.jpg"
+    },
+    {
+      "word": "spacecraft",
+      "hindi": "अंतरिक्ष यान",
+      "meaning_en": "A vehicle designed to travel in outer space",
+      "example_sentence": "India launched a spacecraft to the moon.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "spacecraft.jpg"
+    },
+    {
+      "word": "traffic",
+      "hindi": "यातायात",
+      "meaning_en": "Vehicles moving on roads",
+      "example_sentence": "We were late because of heavy traffic.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "traffic.jpg"
+    },
+    {
+      "word": "highway",
+      "hindi": "राजमार्ग",
+      "meaning_en": "A main road for fast travel between places",
+      "example_sentence": "The bus sped along the highway.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "highway.jpg"
+    },
+    {
+      "word": "passenger",
+      "hindi": "यात्री",
+      "meaning_en": "A person who travels in a vehicle but does not drive",
+      "example_sentence": "The train was full of passengers.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "passenger.jpg"
+    },
+    {
+      "word": "fare",
+      "hindi": "किराया",
+      "meaning_en": "The money paid to travel by bus, train, or taxi",
+      "example_sentence": "She paid the bus fare and sat down.",
+      "category": "transport",
+      "difficulty": "easy",
+      "image": "fare.jpg"
+    }
+  ]
+}
