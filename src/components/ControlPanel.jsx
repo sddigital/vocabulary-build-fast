@@ -4,7 +4,7 @@ import { FORMAT_META, LEVEL_FORMATS } from './QuizEngine'
 import { useDailyTarget } from '../hooks/useDailyTarget'
 
 const CATEGORIES = {
-  beginners:    ['home', 'office', 'friends', 'travel', 'school', 'food', 'health', 'shopping', 'emotions', 'actions'],
+  beginners:    ['food', 'animals', 'home', 'school', 'family', 'friends', 'health', 'body', 'emotions', 'actions', 'sports', 'nature', 'environment', 'weather', 'travel', 'transport', 'clothes', 'shopping', 'office'],
   intermediate: ['friends', 'emotions', 'health', 'social', 'environment', 'literature', 'science', 'history', 'geography', 'economics'],
   advanced:     ['home', 'office', 'travel', 'school', 'food', 'health', 'shopping', 'emotions', 'actions', 'general'],
 }
