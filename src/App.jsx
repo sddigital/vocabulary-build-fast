@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, Component } from 'react'
 import LandingPage from './components/LandingPage'
 import LevelSelector from './components/LevelSelector'
 import ControlPanel from './components/ControlPanel'
@@ -8,6 +8,26 @@ import ConversationPractice from './components/ConversationPractice'
 import MockTest from './components/MockTest'
 import { useProgress } from './hooks/useProgress'
 import { useDailyTarget } from './hooks/useDailyTarget'
+
+class ErrorBoundary extends Component {
+  constructor(props) { super(props); this.state = { error: null } }
+  static getDerivedStateFromError(error) { return { error } }
+  render() {
+    if (this.state.error) {
+      return (
+        <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#08081a', color: 'white', flexDirection: 'column', gap: '16px', padding: '24px', textAlign: 'center' }}>
+          <div style={{ fontSize: '48px' }}>⚠️</div>
+          <div style={{ fontSize: '20px', fontWeight: 'bold' }}>Something went wrong</div>
+          <div style={{ color: 'rgba(255,255,255,0.5)', fontSize: '14px', maxWidth: '400px' }}>{this.state.error.message}</div>
+          <button onClick={() => window.location.reload()} style={{ marginTop: '8px', padding: '10px 24px', borderRadius: '12px', background: '#6366f1', color: 'white', border: 'none', cursor: 'pointer', fontSize: '14px', fontWeight: 'bold' }}>
+            Reload App
+          </button>
+        </div>
+      )
+    }
+    return this.props.children
+  }
+}
 
 // views: 'landing' | 'levels' | 'controls' | 'practice' | 'quiz' | 'conversation' | 'mocktest'
 
@@ -53,10 +73,11 @@ export default function App() {
 
   // Landing page is full-width, no container constraints
   if (view === 'landing') {
-    return <LandingPage onStart={handleStart} />
+    return <ErrorBoundary><LandingPage onStart={handleStart} /></ErrorBoundary>
   }
 
   return (
+    <ErrorBoundary>
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-sky-50 to-white">
       <div className="max-w-2xl mx-auto px-4 py-6">
         {view === 'levels' && (
@@ -111,5 +132,6 @@ export default function App() {
         )}
       </div>
     </div>
+    </ErrorBoundary>
   )
 }
