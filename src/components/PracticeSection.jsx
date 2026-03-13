@@ -158,7 +158,7 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
   const handleTimeout = useCallback(() => checkAnswer(true), []) // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
-    if (!timerOn || loading || done || feedback) return
+    if (!timerOn || poolLoading || done || feedback) return
     setTimeLeft(QUESTION_TIME)
     timerRef.current = setInterval(() => {
       setTimeLeft(t => {
@@ -171,12 +171,12 @@ export default function PracticeSection({ config, onBack, onSessionEnd }) {
       })
     }, 1000)
     return () => clearInterval(timerRef.current)
-  }, [index, loading, done, feedback, timerOn]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [index, poolLoading, done, feedback, timerOn]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // ── Focus input ──────────────────────────────────────────────
   useEffect(() => {
-    if (!loading && !done && !feedback) inputRef.current?.focus()
-  }, [index, loading, done, feedback])
+    if (!poolLoading && !done && !feedback) inputRef.current?.focus()
+  }, [index, poolLoading, done, feedback])
 
   // ── Answer check ─────────────────────────────────────────────
   function checkAnswer(isTimeout = false) {

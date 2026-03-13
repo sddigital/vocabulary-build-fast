@@ -10,22 +10,28 @@ import { useProgress } from './hooks/useProgress'
 import { useDailyTarget } from './hooks/useDailyTarget'
 
 export class ErrorBoundary extends Component {
-  constructor(props) { super(props); this.state = { error: null } }
+  constructor(props) { super(props); this.state = { error: null, stack: null } }
   static getDerivedStateFromError(error) { return { error } }
   componentDidCatch(error, info) {
     console.error('[VocabPro] Crash:', error?.message, info?.componentStack)
+    this.setState({ stack: info?.componentStack ?? null })
   }
   render() {
     if (this.state.error) {
       return (
-        <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#08081a', color: 'white', flexDirection: 'column', gap: '16px', padding: '24px', textAlign: 'center' }}>
-          <div style={{ fontSize: '48px' }}>🔄</div>
-          <div style={{ fontSize: '20px', fontWeight: 'bold' }}>Press the refresh button</div>
-          <div style={{ color: 'rgba(255,255,255,0.6)', fontSize: '15px', maxWidth: '360px', lineHeight: '1.6' }}>
-            In a moment, we will be back soon.
+        <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#08081a', color: 'white', flexDirection: 'column', gap: '20px', padding: '32px', textAlign: 'center' }}>
+          <div style={{ fontSize: '56px' }}>🌟</div>
+          <div style={{ fontSize: '22px', fontWeight: 'bold', letterSpacing: '-0.01em' }}>
+            Oops! Something went on a little break.
           </div>
-          <button onClick={() => window.location.reload()} style={{ marginTop: '8px', padding: '12px 32px', borderRadius: '14px', background: '#6366f1', color: 'white', border: 'none', cursor: 'pointer', fontSize: '15px', fontWeight: 'bold' }}>
-            Refresh Now
+          <div style={{ color: 'rgba(255,255,255,0.55)', fontSize: '15px', maxWidth: '340px', lineHeight: '1.7', fontFamily: 'sans-serif' }}>
+            Don&apos;t worry — just tap the button below and you&apos;ll be back to practising in seconds! 😊
+          </div>
+          <button
+            onClick={() => window.location.reload()}
+            style={{ marginTop: '4px', padding: '14px 40px', borderRadius: '16px', background: 'linear-gradient(135deg,#6366f1,#8b5cf6)', color: 'white', border: 'none', cursor: 'pointer', fontSize: '16px', fontWeight: 'bold', boxShadow: '0 0 32px rgba(99,102,241,0.4)' }}
+          >
+            ↺ Take me back!
           </button>
         </div>
       )
