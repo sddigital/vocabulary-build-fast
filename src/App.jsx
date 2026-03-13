@@ -9,18 +9,23 @@ import MockTest from './components/MockTest'
 import { useProgress } from './hooks/useProgress'
 import { useDailyTarget } from './hooks/useDailyTarget'
 
-class ErrorBoundary extends Component {
+export class ErrorBoundary extends Component {
   constructor(props) { super(props); this.state = { error: null } }
   static getDerivedStateFromError(error) { return { error } }
+  componentDidCatch(error, info) {
+    console.error('[VocabPro] Crash:', error?.message, info?.componentStack)
+  }
   render() {
     if (this.state.error) {
       return (
         <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#08081a', color: 'white', flexDirection: 'column', gap: '16px', padding: '24px', textAlign: 'center' }}>
-          <div style={{ fontSize: '48px' }}>⚠️</div>
-          <div style={{ fontSize: '20px', fontWeight: 'bold' }}>Something went wrong</div>
-          <div style={{ color: 'rgba(255,255,255,0.5)', fontSize: '14px', maxWidth: '400px' }}>{this.state.error.message}</div>
-          <button onClick={() => window.location.reload()} style={{ marginTop: '8px', padding: '10px 24px', borderRadius: '12px', background: '#6366f1', color: 'white', border: 'none', cursor: 'pointer', fontSize: '14px', fontWeight: 'bold' }}>
-            Reload App
+          <div style={{ fontSize: '48px' }}>🔄</div>
+          <div style={{ fontSize: '20px', fontWeight: 'bold' }}>Press the refresh button</div>
+          <div style={{ color: 'rgba(255,255,255,0.6)', fontSize: '15px', maxWidth: '360px', lineHeight: '1.6' }}>
+            In a moment, we will be back soon.
+          </div>
+          <button onClick={() => window.location.reload()} style={{ marginTop: '8px', padding: '12px 32px', borderRadius: '14px', background: '#6366f1', color: 'white', border: 'none', cursor: 'pointer', fontSize: '15px', fontWeight: 'bold' }}>
+            Refresh Now
           </button>
         </div>
       )
@@ -73,11 +78,10 @@ export default function App() {
 
   // Landing page is full-width, no container constraints
   if (view === 'landing') {
-    return <ErrorBoundary><LandingPage onStart={handleStart} /></ErrorBoundary>
+    return <LandingPage onStart={handleStart} />
   }
 
   return (
-    <ErrorBoundary>
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-sky-50 to-white">
       <div className="max-w-2xl mx-auto px-4 py-6">
         {view === 'levels' && (
@@ -132,6 +136,5 @@ export default function App() {
         )}
       </div>
     </div>
-    </ErrorBoundary>
   )
 }
